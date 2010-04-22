@@ -1,0 +1,1528 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ Emory/NNP University/NNP 's/POS Board/NNP ]
+of/IN 
+[ Trustees/NNP ]
+announced/VBD 
+[ Friday/NNP ]
+that/IN 
+[ it/PRP ]
+was/VBD prepared/VBN to/TO accept/VB 
+[ students/NNS ]
+of/IN 
+[ any/DT race/NN ]
+as/RB soon/RB as/IN 
+[ the/DT state/NN 's/POS tax/NN laws/NNS ]
+made/VBD 
+[ such/DT a/DT step/NN ]
+possible/JJ ./. 
+==================================
+``/`` 
+[ Emory/NNP University/NNP 's/POS charter/NN ]
+and/CC 
+[ by-laws/NNS ]
+have/VBP never/RB required/VBN 
+[ admission/NN ]
+or/CC 
+[ rejection/NN ]
+of/IN 
+[ students/NNS ]
+on/IN 
+[ the/DT basis/NN ]
+of/IN 
+[ race/NN ]
+''/'' ,/, 
+[ board/NN chairman/NN Henry/NNP L./NNP Bowden/NNP ]
+stated/VBD ./. 
+==================================
+But/CC 
+[ an/DT official/JJ statement/NN ]
+adopted/VBN by/IN 
+[ the/DT 33-man/JJ Emory/NNP board/NN ]
+at/IN 
+[ its/PRP$ annual/JJ meeting/NN Friday/NNP ]
+noted/VBD 
+[ that/DT state/NN ]
+taxing/NN 
+[ requirements/NNS ]
+at/IN 
+[ present/NN ]
+are/VBP 
+[ a/DT roadblock/NN ]
+to/TO 
+[ accepting/VBG Negroes/NNPS ]
+./. 
+==================================
+
+[ The/DT statement/NN ]
+explained/VBD that/IN under/IN 
+[ the/DT Georgia/NNP Constitution/NNP ]
+and/CC 
+[ state/NN law/NN ]
+,/, 
+[ tax-exempt/JJ status/NN ]
+is/VBZ granted/VBN to/TO 
+[ educational/JJ institutions/NNS ]
+only/RB if/IN 
+[ they/PRP ]
+are/VBP segregated/VBN ./. 
+==================================
+``/`` 
+[ Emory/NNP ]
+could/MD not/RB continue/VB to/TO operate/VB according/VBG to/TO 
+[ its/PRP$ present/JJ standards/NNS ]
+as/IN 
+[ an/DT institution/NN ]
+of/IN 
+[ higher/JJR ]
+learning/NN ,/, of/IN 
+[ true/JJ university/NN grade/NN ]
+,/, and/CC meet/VB 
+[ its/PRP$ financial/JJ obligations/NNS ]
+,/, without/IN 
+[ the/DT tax-exemption/NN privileges/NNS ]
+
+[ which/WDT ]
+are/VBP available/JJ to/TO 
+[ it/PRP ]
+only/RB so/RB long/RB as/IN 
+[ it/PRP ]
+conforms/VBZ to/TO 
+[ the/DT aforementioned/JJ constitutional/JJ ]
+and/CC 
+[ statutory/JJ provisions/NNS ]
+''/'' ,/, 
+[ the/DT statement/NN ]
+said/VBD ./. 
+==================================
+
+[ The/DT statement/NN ]
+did/VBD not/RB mention/VB 
+[ what/WP steps/NNS ]
+might/MD be/VB taken/VBN to/TO overcome/VB 
+[ the/DT legal/JJ obstacles/NNS ]
+to/TO 
+[ desegregation/NN ]
+./. 
+==================================
+
+[ An/DT Emory/NNP spokesman/NN ]
+indicated/VBD ,/, however/RB ,/, that/IN 
+[ the/DT university/NN ]
+
+[ itself/PRP ]
+did/VBD not/RB intend/VB to/TO make/VB 
+[ any/DT test/NN ]
+of/IN 
+[ the/DT laws/NNS ]
+./. 
+==================================
+
+[ The/DT Georgia/NNP Constitution/NNP ]
+gives/VBZ 
+[ the/DT Legislature/NN ]
+
+[ the/DT power/NN ]
+to/TO 
+[ exempt/VB colleges/NNS ]
+from/IN 
+[ property/NN taxation/NN ]
+if/IN ,/, among/IN 
+[ other/JJ criteria/NNS ]
+,/, ``/`` 
+[ all/DT endowments/NNS ]
+to/TO 
+[ institutions/NNS ]
+established/VBN for/IN 
+[ white/JJ people/NNS ]
+shall/MD be/VB limited/VBN to/TO 
+[ white/JJ people/NNS ]
+,/, and/CC 
+[ all/DT endowments/NNS ]
+to/TO 
+[ institutions/NNS ]
+established/VBN for/IN 
+[ colored/JJ people/NNS ]
+shall/MD be/VB limited/VBN to/TO 
+[ colored/JJ people/NNS ]
+''/'' ./. 
+==================================
+At/IN 
+[ least/JJS two/CD private/JJ colleges/NNS ]
+in/IN 
+[ the/DT Atlanta/NNP area/NN ]
+now/RB or/CC in/IN 
+[ the/DT past/NN ]
+have/VBP had/VBD integrated/VBN 
+[ student/NN bodies/NNS ]
+,/, but/CC 
+[ their/PRP$ tax-exempt/JJ status/NN ]
+never/RB has/VBZ been/VBN challenged/VBN by/IN 
+[ the/DT state/NN ]
+./. 
+==================================
+
+[ Emory/NNP ]
+is/VBZ affiliated/VBN with/IN 
+[ the/DT Methodist/NNP Church/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Some/DT church/NN leaders/NNS ]
+,/, 
+[ both/DT clerical/JJ ]
+and/CC lay/JJ ,/, have/VBP criticized/VBN 
+[ the/DT university/NN ]
+for/IN not/RB taking/VBG 
+[ the/DT lead/NN ]
+in/IN 
+[ desegregation/NN ]
+./. 
+==================================
+Urged/VBN in/IN 
+[ 1954/CD ]
+
+[ The/DT student/NN newspaper/NN ]
+,/, 
+[ The/DT Emory/NNP Wheel/NNP ]
+,/, as/RB early/RB as/IN 
+[ the/DT fall/NN ]
+of/IN 
+[ 1954/CD ]
+called/VBD for/IN 
+[ desegregation/NN ]
+./. 
+==================================
+``/`` From/IN 
+[ its/PRP$ beginning/NN ]
+''/'' ,/, 
+[ the/DT trustees/NNS '/POS statement/NN ]
+said/VBD 
+[ Friday/NNP ]
+,/, ``/`` 
+[ Emory/NNP University/NNP ]
+has/VBZ assumed/VBN as/IN 
+[ its/PRP$ primary/JJ commitment/NN ]
+
+[ a/DT dedication/NN ]
+to/TO 
+[ excellence/NN ]
+in/IN 
+[ Christian/NNP higher/JJR learning/NN ]
+./. 
+==================================
+
+[ Teaching/NN ]
+,/, 
+[ research/NN ]
+and/CC 
+[ study/NN ]
+,/, according/VBG to/TO 
+[ highest/JJS standards/NNS ]
+,/, under/IN 
+[ Christian/JJ influence/NN ]
+,/, are/VBP paramount/JJ in/IN 
+[ the/DT Emory/NNP University/NNP policy/NN ]
+./. 
+==================================
+``/`` As/IN 
+[ a/DT private/JJ institution/NN ]
+,/, supported/VBN by/IN 
+[ generous/JJ individuals/NNS ]
+,/, 
+[ Emory/NNP University/NNP ]
+will/MD recognize/VB 
+[ no/DT obligation/NN ]
+and/CC will/MD adopt/VB 
+[ no/DT policy/NN ]
+
+[ that/WDT ]
+would/MD conflict/VB with/IN 
+[ its/PRP$ purpose/NN ]
+to/TO promote/VB 
+[ excellence/NN ]
+in/IN 
+[ scholarship/NN ]
+and/CC 
+[ Christian/JJ education/NN ]
+./. 
+==================================
+``/`` 
+[ There/EX ]
+is/VBZ not/RB now/RB ,/, nor/CC has/VBZ 
+[ there/EX ]
+ever/RB been/VBN in/IN 
+[ Emory/NNP University/NNP 's/POS charter/NN ]
+or/CC 
+[ by-laws/NNS ]
+
+[ any/DT requirement/NN ]
+that/IN 
+[ students/NNS ]
+be/VB admitted/VBN or/CC rejected/VBN on/IN 
+[ the/DT basis/NN ]
+of/IN 
+[ race/NN ]
+,/, 
+[ color/NN ]
+or/CC 
+[ creed/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Insofar/RB as/IN 
+[ its/PRP$ own/JJ governing/NN documents/NNS ]
+are/VBP concerned/VBN ,/, 
+[ Emory/NNP University/NNP ]
+could/MD now/RB consider/VB 
+[ applications/NNS ]
+from/IN 
+[ prospective/JJ students/NNS ]
+,/, and/CC 
+[ others/NNS ]
+seeking/VBG 
+[ applications/NNS ]
+from/IN 
+[ prospective/JJ students/NNS ]
+,/, and/CC 
+[ others/NNS ]
+seeking/VBG 
+[ the/DT opportunity/NN ]
+to/TO study/VB or/CC work/VB at/IN 
+[ the/DT university/NN ]
+,/, irrespective/RB of/IN 
+[ race/NN ]
+,/, 
+[ color/NN ]
+or/CC 
+[ creed/NN ]
+./. 
+==================================
+
+[ Corporate/JJ existence/NN ]
+``/`` On/IN 
+[ the/DT other/JJ hand/NN ]
+,/, 
+[ Emory/NNP University/NNP ]
+derives/VBZ 
+[ its/PRP$ corporate/JJ existence/NN ]
+from/IN 
+[ the/DT State/NNP ]
+of/IN 
+[ Georgia/NNP ]
+./. 
+==================================
+``/`` When/WRB and/CC if/IN 
+[ it/PRP ]
+can/MD do/VB so/RB without/IN jeopardizing/VBG 
+[ constitutional/JJ ]
+and/CC 
+[ statutory/JJ tax-exemption/NN privileges/NNS ]
+essential/JJ to/TO 
+[ the/DT maintenance/NN ]
+of/IN 
+[ its/PRP$ educational/JJ program/NN ]
+and/CC 
+[ facilities/NNS ]
+,/, 
+[ Emory/NNP University/NNP ]
+will/MD consider/VB 
+[ applications/NNS ]
+of/IN 
+[ persons/NNS ]
+desiring/VBG to/TO study/VB or/CC work/VB at/IN 
+[ the/DT University/NN ]
+without/IN 
+[ regard/NN ]
+to/TO 
+[ race/NN ]
+,/, 
+[ color/NN ]
+or/CC 
+[ creed/NN ]
+,/, continuing/VBG 
+[ university/NN policy/NN ]
+that/IN 
+[ all/DT applications/NNS ]
+shall/MD be/VB considered/VBN on/IN 
+[ the/DT basis/NN ]
+of/IN 
+[ intellectual/JJ ]
+and/CC 
+[ moral/JJ standards/NNS ]
+and/CC 
+[ other/JJ criteria/NNS ]
+designed/VBN to/TO assure/VB 
+[ the/DT orderly/JJ ]
+and/CC 
+[ effective/JJ conduct/NN ]
+of/IN 
+[ the/DT university/NN ]
+and/CC 
+[ the/DT fulfillment/NN ]
+of/IN 
+[ its/PRP$ mission/NN ]
+as/IN 
+[ an/DT institution/NN ]
+of/IN 
+[ Christian/JJ higher/JJR education/NN ]
+''/'' ./. 
+==================================
+
+[ A/DT young/JJ man/NN ]
+was/VBD killed/VBN and/CC 
+[ two/CD others/NNS ]
+injured/VBN at/IN 
+[ midnight/NN Friday/NNP ]
+when/WRB 
+[ the/DT car/NN ]
+
+[ they/PRP ]
+were/VBD riding/VBG slid/VBD into/IN 
+[ a/DT utility/NN pole/NN ]
+on/IN 
+[ Lake/NNP Avenue/NNP ]
+near/IN 
+[ Waddell/NNP Street/NNP ]
+,/, 
+[ NE/NNP ]
+,/, 
+[ police/NNS ]
+said/VBD ./. 
+==================================
+
+[ The/DT dead/JJ youth/NN ]
+was/VBD identified/VBN as/IN 
+[ Robert/NNP E./NNP Sims/NNP ]
+,/, 
+[ 19/CD ]
+,/, of/IN 
+[ 1688/CD Oak/NNP Knoll/NNP Cir./NNP ]
+,/, 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+[ Patrolman/NNP G.E./NNP Hammons/NNP ]
+said/VBD 
+[ the/DT car/NN ]
+evidently/RB slid/VBD out/IN of/IN 
+[ control/NN ]
+on/IN 
+[ rain-slick/JJ streets/NNS ]
+and/CC slammed/VBD into/IN 
+[ the/DT pole/NN ]
+./. 
+==================================
+
+[ The/DT other/JJ occupants/NNS ]
+were/VBD 
+[ James/NNP Willard/NNP Olvey/NNP ]
+,/, 
+[ 18/CD ]
+,/, of/IN 
+[ 963/CD Ponce/NNP De/NNP Leon/NNP Ave./NNP ]
+,/, 
+[ NE/NNP ]
+,/, and/CC 
+[ Larry/NNP Coleman/NNP Barnett/NNP ]
+,/, 
+[ 19/CD ]
+,/, of/IN 
+[ 704/CD Hill/NNP St./NNP ]
+,/, 
+[ SE/NNP ]
+,/, 
+[ both/DT ]
+of/IN 
+[ whom/WP ]
+were/VBD treated/VBN at/IN 
+[ Grady/NNP Hospital/NNP ]
+for/IN 
+[ severe/JJ lacerations/NNS ]
+and/CC 
+[ bruises/NNS ]
+./. 
+==================================
+
+[ The/DT Atlanta/NNP Negro/NNP student/NN movement/NN ]
+renewed/VBD 
+[ its/PRP$ demands/NNS ]
+for/IN 
+[ movie/NN theater/NN integration/NN Friday/NNP ]
+and/CC threatened/VBD picketing/NN and/CC ``/`` 
+[ stand-ins/NNS ]
+''/'' if/IN 
+[ negotiations/NNS ]
+failed/VBD ./. 
+==================================
+
+[ The/DT demands/NNS ]
+were/VBD set/VBN forth/RB in/IN 
+[ letters/NNS ]
+to/TO 
+[ seven/CD owners/NNS ]
+of/IN 
+[ first-run/JJ theaters/NNS ]
+by/IN 
+[ the/DT Committee/NNP ]
+on/IN 
+[ Appeal/NNP ]
+for/IN 
+[ Human/NNP Rights/NNP ]
+./. 
+==================================
+'/'' intend/VB to/TO attend/VB '/'' ``/`` 
+[ We/PRP ]
+intend/VB to/TO attend/VB 
+[ the/DT downtown/NN theaters/NNS ]
+before/IN 
+[ the/DT first/JJ ]
+of/IN 
+[ the/DT year/NN ]
+''/'' ,/, 
+[ the/DT ]
+identically/RB worded/JJ 
+[ letters/NNS ]
+said/VBD ./. 
+==================================
+
+[ The/DT letters/NNS ]
+set/VBD 
+[ a/DT Nov./NNP 15/CD deadline/NN ]
+for/IN 
+[ the/DT start/NN ]
+of/IN 
+[ negotiations/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+indicated/VBD 
+[ that/DT stand-ins/NNS ]
+and/CC picketing/NN would/MD be/VB started/VBN if/IN 
+[ theater/NN owners/NNS ]
+failed/VBD to/TO cooperate/VB ./. 
+==================================
+
+[ Downtown/NN ]
+and/CC 
+[ art/NN theater/NN managers/NNS ]
+and/CC 
+[ owners/NNS ]
+,/, contacted/VBN 
+[ Friday/NNP night/NN ]
+for/IN 
+[ comment/NN ]
+on/IN 
+[ the/DT COAHR/NNP request/NN ]
+,/, said/VBD 
+[ they/PRP ]
+had/VBD 
+[ no/DT knowledge/NN ]
+of/IN 
+[ such/DT a/DT letter/NN ]
+,/, and/CC that/IN 
+[ it/PRP ]
+was/VBD not/RB in/IN 
+[ the/DT Friday/NNP mail/NN ]
+./. 
+==================================
+
+==================================
+==================================
+However/RB ,/, 
+[ three/CD ]
+of/IN 
+[ the/DT managers/NNS ]
+did/VBD say/VB that/IN 
+[ they/PRP ]
+would/MD agree/VB to/TO attend/VB 
+[ the/DT proposed/VBN meeting/NN ]
+if/IN 
+[ all/DT ]
+of/IN 
+[ the/DT other/JJ managers/NNS ]
+decided/VBD to/TO attend/VB ./. 
+==================================
+Gather/VB here/RB 
+[ The/DT COAHR/NNP letter/NN ]
+comes/VBZ on/IN 
+[ the/DT eve/NN ]
+of/IN 
+[ a/DT large/JJ gathering/NN ]
+of/IN 
+[ theater/NN managers/NNS ]
+and/CC 
+[ owners/NNS ]
+scheduled/VBN to/TO begin/VB here/RB 
+[ Sunday/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Several/JJ theater/NN operators/NNS ]
+said/VBD ,/, however/RB ,/, that/IN 
+[ there/EX ]
+is/VBZ 
+[ little/JJ likelihood/NN ]
+of/IN 
+[ the/DT subject/NN being/NN ]
+discussed/VBN during/IN 
+[ the/DT three-day/JJ affair/NN ]
+./. 
+==================================
+
+[ Student/NN leaders/NNS ]
+began/VBD 
+[ sporadic/JJ efforts/NNS ]
+to/TO negotiate/VB 
+[ theater/NN integration/NN several/JJ months/NNS ]
+ago/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ Charles/NNP A./NN Black/NNP ]
+,/, 
+[ COAHR/NNP chairman/NN ]
+,/, said/VBD 
+[ Friday/NNP ]
+that/IN 
+[ three/CD theater/NN representatives/NNS ]
+had/VBD agreed/VBN to/TO meet/VB with/IN 
+[ the/DT students/NNS ]
+on/IN 
+[ Oct./NN 31/CD ]
+but/CC had/VBD failed/VBN to/TO show/VB up/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+declined/VBD to/TO name/VB 
+[ the/DT three/CD ]
+./. 
+==================================
+
+[ Friday/NNP 's/POS letters/NNS ]
+asked/VBD for/IN 
+[ a/DT Nov./NNP 15/CD meeting/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Failure/NN ]
+to/TO attend/VB 
+[ the/DT meeting/NN ]
+or/CC explain/VB 
+[ inability/NN ]
+to/TO attend/VB ,/, 
+[ the/DT letters/NNS ]
+said/VBD ,/, would/MD be/VB considered/VBN 
+[ a/DT ]
+``/`` 
+[ sign/NN ]
+of/IN 
+[ indifference/NN ]
+''/'' ./. 
+==================================
+
+[ Black/NNP ]
+said/VBD 
+[ COAHR/NNP ]
+``/`` hoped/VBN to/TO be/VB able/JJ to/TO integrate/VB 
+[ the/DT theaters/VBD ]
+without/IN taking/VBG 
+[ direct/JJ action/NN ]
+,/, but/CC 
+[ we/PRP ]
+are/VBP pledged/VBN to/TO using/VBG 
+[ every/DT legal/JJ ]
+and/CC 
+[ nonviolent/JJ means/NNS ]
+at/IN 
+[ our/PRP$ disposal/NN ]
+''/'' 
+[ A/DT prepared/JJ statement/NN ]
+released/VBN by/IN 
+[ the/DT student/NN group/NN Friday/NNP ]
+stated/VBD that/IN ``/`` 
+[ extensive/JJ research/NN ]
+by/IN 
+[ COAHR/NNP ]
+into/IN 
+[ techniques/NNS ]
+and/CC 
+[ methods/NNS ]
+of/IN 
+[ theater/NN integration/NN ]
+in/IN 
+[ other/JJ cities/NNS ]
+indicated/VBD that/IN 
+[ the/DT presence/NN ]
+of/IN 
+[ picket/NN lines/NNS ]
+and/CC 
+[ stand-ins/NNS ]
+before/IN 
+[ segregated/JJ theaters/NNS ]
+causes/VBZ 
+[ a/DT drop/NN ]
+in/IN 
+[ profits/NNS ]
+''/'' Besides/IN 
+[ managers/NNS ]
+of/IN 
+[ downtown/NN theaters/NNS ]
+,/, 
+[ the/DT students/NNS ]
+sent/VBD 
+[ letters/NNS ]
+to/TO 
+[ owners/NNS ]
+of/IN 
+[ art/NN theaters/NNS ]
+in/IN 
+[ the/DT uptown/JJ area/NN ]
+and/CC 
+[ Buckhead/NNP ]
+./. 
+==================================
+
+[ R.E./NNP Killingsworth/NNP Raymond/NNP E./NNP Killingsworth/NNP ]
+,/, 
+[ 72/CD ]
+,/, died/VBD 
+[ Sunday/NNP ]
+at/IN 
+[ his/PRP$ home/NN ]
+at/IN 
+[ 357/CD Venable/NNP St./NNP ]
+,/, 
+[ Aj./NNP Mr./NNP Kililngsworth/NNP ]
+was/VBD 
+[ a/DT foreman/NN ]
+with/IN 
+[ S/NNP ]
+and/CC 
+[ W/NNP Cafeteria/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+was/VBD born/VBN in/IN 
+[ Pittsboro/NNP ]
+,/, 
+[ Miss./NNP ]
+,/, and/CC was/VBD 
+[ a/DT veteran/NN ]
+of/IN 
+[ World/NNP War/NNP 1/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+was/VBD 
+[ a/DT member/NN ]
+of/IN 
+[ the/DT Baptist/NNP church/NN ]
+./. 
+==================================
+
+[ Survivors/NNS ]
+include/VBP 
+[ two/CD brothers/NNS ]
+,/, 
+[ C.E./NNP Killingsworth/NNP ]
+,/, 
+[ Atlanta/NNP ]
+,/, and/CC 
+[ John/NNP Killingsworth/NNP ]
+,/, 
+[ Warren/NNP ]
+,/, 
+[ Ohio/NNP ]
+;/: ;/: and/CC 
+[ two/CD sisters/NNS ]
+,/, 
+[ Miss/NNP Minnie/NNP Kililngsworth/NNP ]
+and/CC 
+[ Mrs./NNP Bessie/NNP Bloom/NNP ]
+,/, 
+[ both/DT ]
+of/IN 
+[ Gettysburg/NNP ]
+,/, 
+[ Pa/NNP ]
+../. 
+[ John/NNP W./NNP Ball/NNP John/NNP William/NNP Ball/NNP ]
+,/, 
+[ 68/CD ]
+,/, of/IN 
+[ 133/CD Marietta/NNP St./NNP NW/NNP ]
+,/, 
+[ Apartment/NNP 101b/CD ]
+,/, died/VBD 
+[ Sunday/NNP ]
+at/IN 
+[ his/PRP$ home/NN ]
+./. 
+==================================
+
+[ Mr./NNP Ball/NNP ]
+was/VBD 
+[ a/DT house/NN painter/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+was/VBD 
+[ a/DT member/NN ]
+of/IN 
+[ the/DT Oakland/NNP City/NNP Methodist/NNP Church/NNP ]
+and/CC 
+[ a/DT native/NN ]
+of/IN 
+[ Atlanta/NNP ]
+./. 
+==================================
+
+[ Funeral/NN services/NNS ]
+will/MD be/VB at/IN 
+[ 2/CD p.m./RB Tuesday/NNP ]
+at/IN 
+[ Blanchard/NNP 's/POS Chapel/NNP ]
+with/IN 
+[ the/DT Rev./NNP J.H./NNP Hearn/NNP ]
+officiating/VBG ./. 
+==================================
+
+[ Survivors/NNS ]
+include/VBP 
+[ his/PRP$ sister/NN ]
+,/, 
+[ Mrs./NNP Emma/NNP B./NNP Odom/NNP ]
+of/IN 
+[ Atlanta/NNP ]
+./. 
+==================================
+
+[ Mrs./NNP Lola/NNP Harris/NNP Mrs./NNP Lola/NNP M./NNP Harris/NNP ]
+,/, 
+[ a/DT native/NN ]
+of/IN 
+[ Atlanta/NNP ]
+,/, died/VBD 
+[ Sunday/NNP ]
+at/IN 
+[ her/PRP$ home/NN ]
+in/IN 
+[ Garland/NNP ]
+,/, 
+[ Tex/NNP ]
+../. 
+[ Survivors/NNS ]
+include/VBP 
+[ a/DT son/NN ]
+,/, 
+[ Charles/NNP R./NNP Fergeson/NNP ]
+,/, 
+[ Memphis/NNP ]
+,/, 
+[ Tenn./NNP ]
+;/: ;/: 
+[ two/CD daughters/NNS ]
+,/, 
+[ Mrs./NNP Gene/NNP F./NNP Stoll/NNP ]
+and/CC 
+[ Miss/NNP Nancy/NNP Harris/NNP ]
+,/, 
+[ both/DT ]
+of/IN 
+[ Garland/NNP ]
+;/: ;/: 
+[ her/PRP ]
+
+[ father/NN ]
+,/, 
+[ H.T./NNP Simpson/NNP ]
+,/, 
+[ Greenville/NNP ]
+,/, 
+[ S.C./NNP ]
+,/, and/CC 
+[ three/CD sisters/NNS ]
+,/, 
+[ Mrs./NNP W.E./NNP Little/NNP ]
+and/CC 
+[ Mrs./NNP Hal/NNP B./NNP Wansley/NNP ]
+,/, 
+[ both/DT ]
+of/IN 
+[ Atlanta/NNP ]
+,/, and/CC 
+[ Mrs./NNP Bill/NNP Wallace/NNP ]
+,/, 
+[ Wilmington/NNP ]
+,/, 
+[ N.C/NNP ]
+../. 
+[ A/DT 24-year-old/JJ Atlanta/NNP man/NN ]
+was/VBD arrested/VBN 
+[ Sunday/NNP ]
+after/IN breaking/VBG into/IN 
+[ the/DT home/NN ]
+of/IN 
+[ relatives/NNS ]
+in/IN 
+[ search/NN ]
+of/IN 
+[ his/PRP$ wife/NN ]
+,/, hitting/VBG 
+[ his/PRP$ uncle/NN ]
+with/IN 
+[ a/DT rock/NN ]
+and/CC assaulting/VBG 
+[ two/CD police/NN officers/NNS ]
+
+[ who/WP ]
+tried/VBD to/TO subdue/VB 
+[ him/PRP ]
+,/, 
+[ police/NNS ]
+said/VBD ./. 
+==================================
+
+[ Patrolmen/NNP J.W./NNP Slate/NNP ]
+and/CC 
+[ A.L./NNP Crawford/NNP Jr./NNP ]
+said/VBD 
+[ they/PRP ]
+arrested/VBD 
+[ Ronald/NNP M./NNP Thomas/NNP ]
+,/, of/IN 
+[ 1671/CD Nakoma/NNP St./NNP ]
+,/, 
+[ NW/NNP ]
+,/, after/IN 
+[ he/PRP ]
+assaulted/VBD 
+[ the/DT officers/NNS ]
+./. 
+==================================
+
+[ Police/NNS ]
+account/NN 
+[ The/DT officers/NNS ]
+gave/VBD 
+[ this/DT account/NN ]
+:/: 
+[ Thomas/NNP early/JJ Sunday/NNP ]
+went/VBD to/TO 
+[ the/DT home/NN ]
+of/IN 
+[ his/PRP$ uncle/NN ]
+and/CC 
+[ aunt/NN ]
+,/, 
+[ Mr./NNP ]
+and/CC 
+[ Mrs./NNP R.C./NNP Thomas/NNP ]
+,/, 
+[ 511/CD Blanche/NNP St./NNP ]
+,/, 
+[ NW/NNP ]
+,/, looking/VBG for/IN 
+[ his/PRP$ wife/NN ]
+,/, 
+[ Margaret/NNP Lou/NNP Thomas/NNP ]
+,/, 
+[ 18/CD ]
+,/, and/CC 
+[ their/PRP$ 11-month-old/CD baby/NN ]
+./. 
+==================================
+
+[ The/DT younger/JJR Thomas/NNP ]
+ripped/VBD 
+[ a/DT screen/NN door/NN ]
+,/, breaking/VBG 
+[ the/DT latch/NN ]
+,/, and/CC after/IN 
+[ an/DT argument/NN ]
+struck/VBD 
+[ his/PRP$ uncle/NN ]
+with/IN 
+[ a/DT rock/NN ]
+,/, scratching/VBG 
+[ his/PRP$ face/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+also/RB struck/VBD 
+[ his/PRP$ aunt/NN ]
+and/CC 
+[ wife/NN ]
+,/, and/CC during/IN 
+[ the/DT melee/NN ]
+
+[ the/DT baby/NN ]
+also/RB suffered/VBD 
+[ scratches/NNS ]
+./. 
+==================================
+When/WRB 
+[ police/NNS ]
+arrived/VBD 
+[ the/DT man/NN ]
+was/VBD still/RB 
+[ violent/JJ ]
+,/, 
+[ Slate/NNP ]
+said/VBD ./. 
+==================================
+
+[ Attacks/VBZ officer/NN ]
+
+[ He/PRP ]
+attacked/VBD 
+[ one/CD ]
+of/IN 
+[ the/DT officers/NNS ]
+and/CC was/VBD restrained/VBN ./. 
+==================================
+About/IN 
+[ five/CD minutes/NNS ]
+later/RB 
+[ he/PRP ]
+jumped/VBD up/RB ,/, 
+[ Slate/NNP ]
+said/VBD ,/, and/CC struck/VBD 
+[ the/DT two/CD policemen/NNS ]
+again/RB ./. 
+==================================
+
+[ He/PRP ]
+was/VBD then/RB subdued/VBN and/CC placed/VBN in/IN 
+[ the/DT police/NN car/NN ]
+to/TO be/VB taken/VBN to/TO 
+[ Grady/NNP Hospital/NNP ]
+for/IN 
+[ treatment/NN ]
+of/IN 
+[ scratches/NNS ]
+received/VBN in/IN 
+[ the/DT melee/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Then/RB 
+[ he/PRP ]
+attacked/VBD 
+[ the/DT two/CD officers/NNS ]
+again/RB and/CC was/VBD again/RB restrained/VBN ,/, 
+[ Slate/NNP ]
+related/VBD ./. 
+==================================
+
+[ Slate/NNP ]
+said/VBD 
+[ he/PRP ]
+and/CC 
+[ Crawford/NNP ]
+received/VBD 
+[ cuts/NNS ]
+and/CC 
+[ scratches/NNS ]
+and/CC 
+[ their/PRP$ uniforms/NNS ]
+were/VBD badly/RB torn/VBN ./. 
+==================================
+
+[ Thomas/NNP ]
+was/VBD charged/VBN with/IN 
+[ four/CD counts/NNS ]
+of/IN 
+[ assault/NN ]
+and/CC 
+[ battery/NN ]
+./. 
+==================================
+
+[ Two/CD counts/NNS ]
+of/IN 
+[ assault/NN ]
+on/IN 
+[ an/DT officer/NN ]
+,/, resisting/VBG 
+[ arrest/NN ]
+,/, 
+[ disturbance/NN ]
+and/CC cursing/NN ,/, 
+[ police/NNS ]
+said/VBD ./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT hearing/NN ]
+was/VBD set/VBN for/IN 
+[ 30/CD a.m./RB Tuesday/NNP ]
+./. 
+==================================
+
+[ Mrs./NNP Mary/NNP Self/NNP ]
+,/, 
+[ who/WP ]
+knows/VBZ more/RBR than/IN 
+[ any/DT other/JJ person/NN ]
+about/IN 
+[ the/DT 5,000/CD city/NN employes/NNS ]
+for/IN 
+[ whom/WP ]
+
+[ she/PRP ]
+has/VBZ kept/VBN 
+[ personnel/JJ records/NNS ]
+over/IN 
+[ the/DT years/NNS ]
+,/, has/VBZ closed/VBN 
+[ her/PRP$ desk/NN ]
+and/CC retired/VBN ./. 
+==================================
+Over/IN 
+[ the/DT weekend/NN ]
+,/, 
+[ Mrs./NNP Self/NNP ]
+,/, 
+[ personnel/NNS clerk/NN ]
+,/, was/VBD 
+[ a/DT feted/JJ ]
+and/CC honored/JJ 
+[ guest/NN ]
+of/IN 
+[ the/DT Atlanta/NNP Club/NNP ]
+,/, 
+[ organization/NN ]
+of/IN 
+[ women/NNS employes/NNS ]
+at/IN 
+[ City/NNP Hall/NNP ]
+./. 
+==================================
+After/IN 
+[ 18/CD years/NNS ]
+in/IN 
+[ the/DT personnel/NNS office/NN ]
+,/, 
+[ she/PRP ]
+has/VBZ taken/VBN 
+[ a/DT disability/NN pension/NN ]
+on/IN 
+[ advice/NN ]
+of/IN 
+[ her/PRP$ doctors/NNS ]
+./. 
+==================================
+As/IN 
+[ personnel/NNS ]
+clerk/NN ,/, 
+[ she/PRP ]
+handled/VBD 
+[ thousands/NNS ]
+of/IN 
+[ entries/NNS ]
+,/, ranging/VBG from/IN 
+[ appointments/NNS ]
+to/TO 
+[ jobs/NNS ]
+,/, to/TO 
+[ transfers/NNS ]
+to/TO 
+[ other/JJ employments/NNS ]
+,/, to/TO 
+[ pensions/NNS ]
+./. 
+==================================
+``/`` 
+[ I/PRP ]
+have/VBP enjoyed/VBN 
+[ it/PRP ]
+and/CC will/MD feel/VB 
+[ a/DT bit/NN ]
+lost/VBN at/IN 
+[ least/JJS ]
+for/IN 
+[ a/DT while/NN ]
+''/'' ,/, 
+[ she/PRP ]
+said/VBD wistfully/RB 
+[ Friday/NNP ]
+./. 
+==================================
+
+[ One/CD ]
+of/IN 
+[ the/DT largest/JJS crowds/NNS ]
+in/IN 
+[ the/DT club/NN 's/POS history/NN ]
+turned/VBD out/RB to/TO pay/VB 
+[ tribute/NN ]
+to/TO 
+[ Mrs./NNP Self/NNP ]
+and/CC 
+[ her/PRP$ service/NN ]
+./. 
+==================================
+
+[ Georgia/NNP 's/POS Department/NNP ]
+of/IN 
+[ Agriculture/NNP ]
+is/VBZ intensifying/VBG 
+[ its/PRP$ fire/NN ant/NN eradication/NN program/NN ]
+in/IN 
+[ an/DT effort/NN ]
+to/TO stay/VB ahead/RB of/IN 
+[ the/DT fast-spreading/JJ pest/NN ]
+./. 
+==================================
+
+[ The/DT department/NN ]
+is/VBZ planning/VBG to/TO expand/VB 
+[ its/PRP$ eradication/NN program/NN ]
+soon/RB to/TO 
+[ four/CD additional/JJ counties/NNS ]
+--/: 
+[ Troup/NNP ]
+,/, 
+[ Pierce/NNP ]
+,/, 
+[ Bryan/NNP ]
+and/CC 
+[ Bulloch/NNP ]
+--/: to/TO treat/VB 
+[ 132,000/CD acres/NNS ]
+infested/VBN by/IN 
+[ the/DT ants/NNS ]
+,/, according/VBG to/TO 
+[ W.E./NNP Blasingame/NNP state/NN entomologist/NN ]
+./. 
+==================================
+
+[ Low-flying/JJ planes/NNS ]
+will/MD spread/VB 
+[ a/DT granular-type/JJ chemical/NN ]
+,/, 
+[ heptachlor/NN ]
+,/, over/IN 
+[ 30,000/CD acres/NNS ]
+in/IN 
+[ Troup/NNP ]
+,/, 
+[ 37,000/CD acres/NNS ]
+in/IN 
+[ Pierce/NNP ]
+and/CC 
+[ 65,000/CD acres/NNS ]
+in/IN 
+[ Bulloch/NNP ]
+and/CC 
+[ Bryan/NNP counties/NNS ]
+./. 
+==================================
+
+[ The/DT eradication/NN effort/NN ]
+is/VBZ being/VBG pushed/VBN in/IN 
+[ Bibb/NNP ]
+and/CC 
+[ Jones/NNP counties/NNS ]
+,/, over/IN 
+[ 37,679/CD acres/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT department/NN ]
+has/VBZ just/RB finished/VBN treating/VBG 
+[ 20,000/CD acres/NNS ]
+in/IN 
+[ urban/JJ areas/NNS ]
+of/IN 
+[ Macon/NNP ]
+./. 
+==================================
+Also/RB being/VBG treated/VBN are/VBP 
+[ Houston/NNP ]
+,/, 
+[ Bleckley/NNP ]
+,/, 
+[ Tift/NNP ]
+,/, 
+[ Turner/NNP ]
+and/CC 
+[ Dodge/NNP counties/NNS ]
+,/, 
+[ Blasingame/NNP ]
+said/VBD ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT fire/NN ant/NN ]
+is/VBZ thought/VBN to/TO infest/VB approximately/RB 
+[ two/CD million/CD acres/NNS ]
+of/IN 
+[ land/NN ]
+in/IN 
+[ Georgia/NNP ]
+,/, attacking/VBG 
+[ crops/NNS ]
+,/, 
+[ young/JJ wildlife/NN ]
+and/CC 
+[ livestock/NN ]
+and/CC can/MD be/VB 
+[ a/DT serious/JJ health/NN menace/NN ]
+to/TO 
+[ humans/NNS ]
+
+[ who/WP ]
+are/VBP allergic/JJ to/TO 
+[ its/PRP$ venom/NN ]
+,/, 
+[ Blasingame/NNP ]
+said/VBD ./. 
+==================================
+
+[ The/DT north-bound/JJ entrance/NN ]
+to/TO 
+[ the/DT Expressway/NN ]
+at/IN 
+[ 14th/JJ Street/NNP ]
+will/MD be/VB closed/VBN during/IN 
+[ the/DT afternoon/NN rush/NN traffic/NN hours/NNS ]
+
+[ this/DT week/NN ]
+./. 
+==================================
+
+[ This/DT ]
+is/VBZ being/VBG done/VBN so/IN that/IN 
+[ Georgia/NNP Tech/NNP ]
+can/MD complete/VB 
+[ the/DT final/JJ phase/NN ]
+of/IN 
+[ a/DT traffic/NN survey/NN ]
+on/IN 
+[ the/DT North/NNP Expressway/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Students/NNS ]
+have/VB been/VBN using/VBG 
+[ electric/JJ computers/NNS ]
+and/CC 
+[ high/JJ speed/NN movie/NN cameras/NNS ]
+during/IN 
+[ the/DT study/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Perhaps/RB 
+[ the/DT engineers/NNS ]
+can/MD find/VB out/RP 
+[ what/WP ]
+causes/VBZ 
+[ all/PDT the/DT congestion/NN ]
+and/CC suggest/VB 
+[ methods/NNS ]
+to/TO eliminate/VB 
+[ it/PRP ]
+./. 
+==================================
+Incidentally/RB ,/, 
+[ 14th/JJ Street/NNP ]
+and/CC 
+[ the/DT Expressway/NN ]
+is/VBZ 
+[ the/DT high/JJ accident/NN intersection/NN ]
+during/IN 
+[ daylight/NN hours/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ followed/VBN by/IN 
+[ Cain/NNP Street/NNP ]
+and/CC 
+[ Piedmont/NNP Avenue/NNP ]
+,/, 
+[ NE/NNP ]
+;/: ;/: 
+[ the/DT junction/NN ]
+of/IN 
+[ the/DT Northeast/NNP ]
+and/CC 
+[ Northwest/NNP Expressways/NNP ]
+and/CC 
+[ Jones/NNP Avenue/NNP ]
+and/CC 
+[ Marietta/NNP Street/NNP ]
+,/, 
+[ A[fj]/SYM ]
+./. 
+==================================
+
+[ Four/CD persons/NNS ]
+died/VBD in/IN 
+[ Georgia/NNP weekend/NN traffic/NN crashes/NNS ]
+,/, 
+[ two/CD ]
+of/IN 
+[ them/PRP ]
+in/IN 
+[ a/DT fiery/JJ crash/NN ]
+near/IN 
+[ Snellville/NNP ]
+,/, 
+[ the/DT State/NNP Patrol/NNP ]
+said/VBD 
+[ Sunday/NNP ]
+./. 
+==================================
+
+[ The/DT latest/JJS death/NN ]
+reported/VBN was/VBD that/IN of/IN 
+[ 4-year-old/JJ Claude/NNP Douglas/NNP Maynor/NNP ]
+of/IN 
+[ Calvary/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Troopers/NNS ]
+said/VBD 
+[ the/DT child/NN ]
+ran/VBD into/IN 
+[ the/DT path/NN ]
+of/IN 
+[ a/DT passing/VBG car/NN ]
+
+[ a/DT half-mile/JJ north/NN ]
+of/IN 
+[ Calvary/NNP ]
+on/IN 
+[ Georgia/NNP 111/CD ]
+in/IN 
+[ Grady/NNP County/NNP ]
+./. 
+==================================
+
+[ That/DT death/NN ]
+occurred/VBD at/IN 
+[ 50/CD p.m./RB Friday/NNP ]
+and/CC was/VBD reported/VBN 
+[ Sunday/NNP ]
+,/, 
+[ the/DT patrol/NN ]
+said/VBD ./. 
+==================================
+
+[ Bursts/VBZ ]
+into/IN 
+[ flames/NNS ]
+
+[ An/DT auto/NN ]
+overturned/VBN ,/, skidding/VBG into/IN 
+[ a/DT stopped/VBN tractor-trailer/NN ]
+and/CC 
+[ burst/VBD ]
+into/IN 
+[ flames/NNS ]
+near/IN 
+[ Snellville/NNP ]
+,/, 
+[ the/DT patrol/NN ]
+said/VBD ./. 
+==================================
+
+[ Bobby/NNP Bester/NNP Hammett/NNP ]
+,/, 
+[ 21/CD ]
+,/, of/IN 
+[ Rte./NNP 3/CD ]
+,/, 
+[ Lawrenceville/NNP ]
+,/, and/CC 
+[ Mrs./NNP Lucille/NNP Herrington/NNP Jones/NNP ]
+,/, 
+[ 23/CD ]
+,/, of/IN 
+[ Lawrenceville/NNP ]
+,/, died/VBD in/IN 
+[ the/DT flaming/VBG car/NN ]
+,/, 
+[ the/DT patrol/NN ]
+said/VBD ./. 
+==================================
+==================================
+==================================

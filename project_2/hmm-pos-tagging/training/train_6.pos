@@ -1,0 +1,1566 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ Several/JJ defendants/NNS ]
+in/IN 
+[ the/DT Summerdale/NN police/NN burglary/NN trial/NN ]
+made/VBD 
+[ statements/NNS ]
+indicating/VBG 
+[ their/PRP$ guilt/NN ]
+at/IN 
+[ the/DT time/NN ]
+of/IN 
+[ their/PRP$ arrest/NN ]
+,/, 
+[ Judge/NNP James/NNP B./NNP Parsons/NNP ]
+was/VBD told/VBN in/IN 
+[ Criminal/NNP court/NN yesterday/RB ]
+./. 
+==================================
+
+[ The/DT disclosure/NN ]
+by/IN 
+[ Charles/NNP Bellows/NNP ]
+,/, 
+[ chief/JJ defense/NN counsel/NN ]
+,/, startled/VBD 
+[ observers/NNS ]
+and/CC was/VBD viewed/VBN as/IN 
+[ the/DT prelude/NN ]
+to/TO 
+[ a/DT quarrel/NN ]
+between/IN 
+[ the/DT six/CD attorneys/NNS ]
+representing/VBG 
+[ the/DT eight/CD former/JJ policemen/NNS ]
+now/RB on/IN 
+[ trial/NN ]
+./. 
+==================================
+
+[ Bellows/NNP ]
+made/VBD 
+[ the/DT disclosure/NN ]
+when/WRB 
+[ he/PRP ]
+asked/VBD 
+[ Judge/NNP Parsons/NNP ]
+to/TO grant/VB 
+[ his/PRP$ client/NN ]
+,/, 
+[ Alan/NNP Clements/NNP ]
+,/, 
+[ 30/CD ]
+,/, 
+[ a/DT separate/JJ trial/NN ]
+./. 
+==================================
+
+[ Bellows/NNP ]
+made/VBD 
+[ the/DT request/NN ]
+while/IN 
+[ the/DT all-woman/JJ jury/NN ]
+was/VBD out/IN of/IN 
+[ the/DT courtroom/NN ]
+./. 
+==================================
+
+[ Fears/VBZ prejudicial/JJ aspects/NNS ]
+``/`` 
+[ The/DT statements/NNS ]
+may/MD be/VB highly/RB prejudicial/JJ to/TO 
+[ my/PRP$ client/NN ]
+''/'' ,/, 
+[ Bellows/NNP ]
+told/VBD 
+[ the/DT court/NN ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ Some/DT ]
+of/IN 
+[ the/DT defendants/NNS ]
+strongly/RB indicated/VBD 
+[ they/PRP ]
+knew/VBD 
+[ they/PRP ]
+were/VBD receiving/VBG 
+[ stolen/VBN property/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ impossible/JJ to/TO get/VB 
+[ a/DT fair/JJ trial/NN ]
+when/WRB 
+[ some/DT ]
+of/IN 
+[ the/DT defendants/NNS ]
+made/VBD 
+[ statements/NNS ]
+involving/VBG 
+[ themselves/PRP ]
+and/CC 
+[ others/NNS ]
+''/'' ./. 
+==================================
+
+[ Judge/NNP Parsons/NNP ]
+leaned/VBD over/IN 
+[ the/DT bench/NN ]
+and/CC inquired/VBD ,/, ``/`` 
+[ You/PRP ]
+mean/VBP 
+[ some/DT ]
+of/IN 
+[ the/DT defendants/NNS ]
+made/VBD 
+[ statements/NNS ]
+admitting/VBG 
+[ this/DT ]
+''/'' ?/. ?/. 
+==================================
+``/`` Yes/UH ,/, 
+[ your/PRP$ honor/NN ]
+''/'' ,/, replied/VBD 
+[ Bellows/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ What/WP ]
+
+[ this/DT ]
+amounts/VBZ to/TO ,/, if/IN 
+[ true/JJ ]
+,/, is/VBZ that/IN 
+[ there/EX ]
+will/MD be/VB 
+[ a/DT free-for-all/NN fight/NN ]
+in/IN 
+[ this/DT case/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ There/EX ]
+is/VBZ 
+[ a/DT conflict/NN ]
+among/IN 
+[ the/DT defendants/NNS ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ Washington/NNP ]
+,/, 
+[ July/NNP 24/CD ]
+--/: 
+[ President/NNP Kennedy/NNP today/NN ]
+pushed/VBD aside/RB 
+[ other/JJ White/NNP House/NNP business/NN ]
+to/TO devote/VB 
+[ all/DT his/PRP$ time/NN ]
+and/CC 
+[ attention/NN ]
+to/TO working/VBG on/IN 
+[ the/DT Berlin/NNP crisis/NN address/NN ]
+
+[ he/PRP ]
+will/MD deliver/VB 
+[ tomorrow/RB night/NN ]
+to/TO 
+[ the/DT American/NNP people/NNS ]
+over/IN 
+[ nationwide/JJ television/NN ]
+and/CC 
+[ radio/NN ]
+./. 
+==================================
+
+[ The/DT President/NNP ]
+spent/VBD much/RB of/IN 
+[ the/DT week-end/NN ]
+at/IN 
+[ his/PRP$ summer/NN home/NN ]
+on/IN 
+[ Cape/NNP Cod/NNP ]
+writing/VBG 
+[ the/DT first/JJ drafts/NNS ]
+of/IN 
+[ portions/NNS ]
+of/IN 
+[ the/DT address/NN ]
+with/IN 
+[ the/DT help/NN ]
+of/IN 
+[ White/NNP House/NNP aids/NNS ]
+in/IN 
+[ Washington/NNP ]
+with/IN 
+[ whom/WP ]
+
+[ he/PRP ]
+talked/VBD by/IN 
+[ telephone/NN ]
+./. 
+==================================
+Shortly/RB after/IN 
+[ the/DT Chief/NNP Executive/NNP ]
+returned/VBD to/TO 
+[ Washington/NNP ]
+in/IN 
+[ midmorning/NN ]
+from/IN 
+[ Hyannis/NNP Port/NNP ]
+,/, 
+[ Mass./NNP ]
+,/, 
+[ a/DT White/NNP House/NNP spokesman/NN ]
+said/VBD 
+[ the/DT address/NN text/NN ]
+still/RB had/VBD ``/`` quite/RB 
+[ a/DT way/NN ]
+to/TO go/VB ''/'' toward/IN 
+[ completion/NN ]
+./. 
+==================================
+
+[ Decisions/NNS ]
+are/VBP made/VBN Asked/VBN to/TO elaborate/VB ,/, 
+[ Pierre/NNP Salinger/NNP ]
+,/, 
+[ White/NNP House/NNP press/NN secretary/NN ]
+,/, replied/VBD ,/, ``/`` 
+[ I/PRP ]
+would/MD say/VB 
+[ it/PRP ]
+
+[ 's/VBZ ]
+got/VBD to/TO go/VB 
+[ thru/NN several/JJ more/JJR drafts/NNS ]
+''/'' ./. 
+==================================
+
+[ Salinger/NNP ]
+said/VBD 
+[ the/DT work/NN President/NNP Kennedy/NNP ]
+,/, 
+[ advisers/NNS ]
+,/, and/CC 
+[ members/NNS ]
+of/IN 
+[ his/PRP$ staff/NN ]
+were/VBD doing/VBG on/IN 
+[ the/DT address/NN ]
+involved/VBD 
+[ composition/NN ]
+and/CC 
+[ wording/NN ]
+,/, rather/RB than/IN 
+[ last/JJ minute/NN decisions/NNS ]
+on/IN 
+[ administration/NN plans/NNS ]
+to/TO meet/VB 
+[ the/DT latest/JJS Berlin/NNP crisis/NN ]
+precipitated/VBN by/IN 
+[ Russia/NN 's/POS demands/NNS ]
+and/CC     
+[ proposals/NNS ]
+for/IN 
+[ the/DT city/NN ]
+./. 
+==================================
+
+[ The/DT last/JJ 10/CD cases/NNS ]
+in/IN 
+[ the/DT investigation/NN ]
+of/IN 
+[ the/DT Nov./NN 8/CD election/NN ]
+were/VBD dismissed/VBN yesterday/RB by/IN 
+[ Acting/NNP Judge/NNP John/NNP M./NNP Karns/NNP ]
+,/, 
+[ who/WP ]
+charged/VBD that/IN 
+[ the/DT prosecution/NN ]
+obtained/VBP 
+[ evidence/NN ]
+``/`` by/IN 
+[ unfair/JJ ]
+and/CC fundamentally/RB 
+[ illegal/JJ means/NNS ]
+''/'' ./. 
+==================================
+
+[ Karns/NNP ]
+said/VBD that/IN 
+[ the/DT cases/NNS ]
+involved/VBD 
+[ a/DT matter/NN ]
+``/`` of/IN 
+[ even/RB greater/JJR significance/NN ]
+than/IN 
+[ the/DT guilt/NN ]
+or/CC 
+[ innocence/NN ]
+''/'' of/IN 
+[ the/DT 50/CD persons/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+said/VBD 
+[ evidence/NN ]
+was/VBD obtained/VBN ``/`` in/IN 
+[ violation/NN ]
+of/IN 
+[ the/DT legal/JJ rights/NNS ]
+of/IN 
+[ citizens/NNS ]
+''/'' ./. 
+==================================
+
+[ Karns/NNP '/POS ruling/NN ]
+pertained/VBP to/TO 
+[ eight/CD ]
+of/IN 
+[ the/DT 10/CD cases/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ the/DT two/CD other/JJ cases/NNS ]
+
+[ he/PRP ]
+ruled/VBD that/IN 
+[ the/DT state/NN ]
+had/VBD been/VBN ``/`` 
+[ unable/JJ ]
+to/TO make/VB 
+[ a/DT case/NN ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ Contempt/NN proceedings/NNS ]
+originally/RB had/VBD been/VBN brought/VBN against/IN 
+[ 677/CD persons/NNS ]
+in/IN 
+[ 133/CD precincts/NNS ]
+by/IN 
+[ Morris/NNP J./NNP Wexler/NNP ]
+,/, 
+[ special/JJ prosecutor/NN ]
+./. 
+==================================
+
+[ Issue/VB jury/NN subpoenas/NNS Wexler/NNP ]
+admitted/VBD in/IN 
+[ earlier/JJR court/NN hearings/NNS ]
+that/IN 
+[ he/PRP ]
+issued/VBD 
+[ grand/JJ jury/NN subpenas/NNS ]
+to/TO about/IN 
+[ 200/CD persons/NNS ]
+involved/VBN in/IN 
+[ the/DT election/NN investigation/NN ]
+,/, questioned/VBD 
+[ the/DT individuals/NNS ]
+in/IN 
+[ the/DT Criminal/NNP courts/NNS building/NN ]
+,/, but/CC did/VBD not/RB take/VB 
+[ them/PRP ]
+before/IN 
+[ the/DT grand/JJ jury/NN ]
+./. 
+==================================
+
+[ Mayer/NNP Goldberg/NNP ]
+,/, 
+[ attorney/NN ]
+for/IN 
+[ election/NN judges/NNS ]
+in/IN 
+[ the/DT 58th/JJ precinct/NN ]
+of/IN 
+[ the/DT 23d/JJ ward/NN ]
+,/, argued/VBD 
+[ this/DT procedure/NN ]
+constituted/VBD 
+[ intimidation/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Wexler/NNP ]
+has/VBZ denied/VBN repeatedly/RB 
+[ that/DT coercion/NN ]
+was/VBD used/VBN in/IN questioning/VBG ./. 
+==================================
+
+[ Karns/NNP ]
+said/VBD 
+[ it/PRP ]
+was/VBD 
+[ a/DT ]
+``/`` 
+[ wrongful/JJ act/NN ]
+''/'' for/IN 
+[ Wexler/NNP ]
+to/TO take/VB 
+[ statements/NNS ]
+``/`` privately/RB and/CC outside/IN of/IN 
+[ the/DT grand/JJ jury/NN room/NN ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+said/VBD 
+[ this/DT ]
+constituted/VBD 
+[ a/DT ]
+``/`` 
+[ very/RB serious/JJ misuse/NN ]
+''/'' of/IN 
+[ the/DT Criminal/NNP court/NN processes/NNS ]
+./. 
+==================================
+``/`` Actually/RB ,/, 
+[ the/DT abuse/NN ]
+of/IN 
+[ the/DT process/NN ]
+may/MD have/VB constituted/VBN 
+[ a/DT contempt/NN ]
+of/IN 
+[ the/DT Criminal/NNP court/NN ]
+of/IN 
+[ Cook/NNP county/NN ]
+,/, 
+[ altho/NN vindication/NN ]
+of/IN 
+[ the/DT authority/NN ]
+of/IN 
+[ that/DT court/NN ]
+is/VBZ not/RB 
+[ the/DT function/NN ]
+of/IN 
+[ this/DT court/NN ]
+''/'' ,/, said/VBD 
+[ Karns/NNP ]
+,/, 
+[ who/WP ]
+is/VBZ 
+[ a/DT City/NNP judge/NN ]
+in/IN 
+[ East/NNP St./NNP Louis/NNP ]
+sitting/VBG in/IN 
+[ Cook/NNP County/NNP court/NN ]
+./. 
+==================================
+Faced/VBD 
+[ seven/CD cases/NNS Karns/NNP ]
+had/VBD been/VBN scheduled/VBN 
+[ this/DT week/NN ]
+to/TO hear/VB 
+[ seven/CD cases/NNS ]
+involving/VBG 
+[ 35/CD persons/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Wexler/NNP ]
+had/VBD charged/VBN 
+[ the/DT precinct/NN judges/NNS ]
+in/IN 
+[ these/DT cases/NNS ]
+with/IN ``/`` 
+[ complementary/JJ ]
+''/'' 
+[ miscount/NN ]
+of/IN 
+[ the/DT vote/NN ]
+,/, in/IN 
+[ which/WDT votes/NNS ]
+would/MD be/VB taken/VBN from/IN 
+[ one/CD candidate/NN ]
+and/CC given/VBN to/TO 
+[ another/DT ]
+./. 
+==================================
+
+[ The/JJ cases/NNS ]
+involved/VBD 
+[ judges/NNS ]
+in/IN 
+[ the/DT 33d/JJ ]
+,/, 
+[ 24th/JJ ]
+,/, and/CC 
+[ 42d/JJ precincts/NNS ]
+of/IN 
+[ the/DT 31st/JJ ward/NN ]
+,/, 
+[ the/DT 21st/JJ ]
+and/CC 
+[ 28th/JJ precincts/NNS ]
+of/IN 
+[ the/DT 29th/JJ ward/NN ]
+,/, 
+[ the/DT 18th/JJ precinct/NN ]
+of/IN 
+[ the/DT 4th/JJ ward/NN ]
+,/, and/CC 
+[ the/DT 9th/JJ precinct/NN ]
+of/IN 
+[ the/DT 23d/JJ ward/NN  ]
+./. 
+==================================
+
+[ The/DT case/NN ]
+of/IN 
+[ the/DT judges/NNS ]
+in/IN 
+[ the/DT 58th/JJ precinct/NN ]
+of/IN 
+[ the/DT 23d/JJ ward/NN ]
+had/VBD been/VBN heard/VBN previously/RB and/CC taken/VBN under/IN 
+[ advisement/NN ]
+by/IN 
+[ Karns/NNP ]
+./. 
+==================================
+
+[ Two/CD other/JJ cases/NNS ]
+also/RB were/VBD under/IN 
+[ advisement/NN ]
+./. 
+==================================
+
+[ Claims/NNS precedent/NN ]
+lacking/VBG After/IN reading/VBG 
+[ his/PRP$ statement/NN ]
+discharging/VBG 
+[ the/DT 23d/JJ ward/NN case/NN ]
+,/, 
+[ Karns/NNP ]
+told/VBD 
+[ Wexler/NNP ]
+that/IN if/IN 
+[ the/DT seven/CD cases/NNS ]
+scheduled/VBN for/IN 
+[ trial/NN ]
+also/RB involved/VBN 
+[ persons/NNS ]
+
+[ who/WP ]
+had/VBD been/VBN subpenaed/VBN ,/, 
+[ he/PRP ]
+would/MD dismiss/VB 
+[ them/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Washington/NNP ]
+,/, 
+[ Feb./NNP 9/CD ]
+--/: 
+[ President/NNP Kennedy/NNP today/NN ]
+proposed/VBD 
+[ a/DT mammoth/JJ new/JJ medical/JJ care/NN program/NN ]
+whereby/WRB 
+[ social/JJ security/NN taxes/NNS ]
+on/IN 
+[ 70/CD million/CD American/NNP workers/NNS ]
+would/MD be/VB raised/VBN to/TO pay/VB 
+[ the/DT hospital/NN ]
+and/CC 
+[ some/DT other/JJ medical/JJ bills/NNS ]
+of/IN 
+[ 14.2/CD million/CD Americans/NNPS ]
+over/IN 
+[ 65/CD ]
+
+[ who/WP ]
+are/VBP covered/VBN by/IN 
+[ social/JJ security/NN ]
+or/CC 
+[ railroad/NN retirement/NN programs/NNS ]
+./. 
+==================================
+
+[ The/DT President/NNP ]
+,/, in/IN 
+[ a/DT special/JJ message/NN ]
+to/TO 
+[ Congress/NNP ]
+,/, tied/VBD in/IN with/IN 
+[ his/PRP$ aged/NNS care/NN plan/NN requests/NNS ]
+for/IN 
+[ large/JJ federal/JJ grants/NNS ]
+to/TO finance/VB 
+[ medical/JJ ]
+and/CC 
+[ dental/JJ scholarships/NNS ]
+,/, build/VB 
+[ 20/CD new/JJ medical/JJ ]
+and/CC 
+[ 20/CD new/JJ dental/JJ schools/NNS ]
+,/, and/CC expand/VB 
+[ child/NN health/NN care/NN ]
+and/CC 
+[ general/JJ medical/JJ research/NN ]
+./. 
+==================================
+
+[ The/DT aged/NNS care/NN plan/NN ]
+,/, similar/JJ to/TO 
+[ one/CD ]
+
+[ the/DT President/NNP ]
+sponsored/VBD 
+[ last/JJ year/NN ]
+as/IN 
+[ a/DT senator/NN ]
+,/, 
+[ a/DT fight/NN ]
+on/IN 
+[ Capitol/NN hill/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD defeated/VBN in/IN 
+[ Congress/NNP last/JJ year/NN ]
+./. 
+==================================
+Cost/NN up/IN to/TO 
+[ $/$ 37/CD ]
+
+[ a/DT year/NN ]
+
+[ It/PRP ]
+would/MD be/VB financed/VBN by/IN boosting/VBG 
+[ the/DT social/JJ security/NN payroll/NN tax/NN ]
+by/IN as/RB much/JJ as/IN 
+[ $/$ 37/CD ]
+
+[ a/DT year/NN ]
+for/IN 
+[ each/DT ]
+of/IN 
+[ the/DT workers/NNS ]
+now/RB paying/VBG 
+[ such/JJ taxes/NNS ]
+./. 
+==================================
+
+[ The/DT social/JJ security/NN payroll/NN tax/NN ]
+is/VBZ now/RB 
+[ 6/CD ]
+per/IN 
+[ cent/NN ]
+--/: 
+[ 3/CD ]
+per/IN 
+[ cent/NN ]
+on/IN 
+[ each/DT worker/NN ]
+and/CC 
+[ employer/NN ]
+--/: on/IN 
+[ the/DT first/JJ $/$ 4,800/CD ]
+of/IN 
+[ pay/NN ]
+per/IN 
+[ year/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT Kennedy/NNP plan/NN ]
+alone/RB would/MD boost/VB 
+[ the/DT base/NN ]
+to/TO 
+[ $/$ 5,000/CD ]
+
+[ a/DT year/NN ]
+and/CC 
+[ the/DT payroll/NN tax/NN ]
+to/TO 
+[ 6.5/CD ]
+per/IN 
+[ cent/NN ]
+--/: 
+[ 3.25/CD ]
+per/IN 
+[ cent/NN ]
+
+[ each/DT ]
+./. 
+==================================
+
+[ Similar/JJ payroll/NN tax/NN boosts/NNS ]
+would/MD be/VB imposed/VBN on/IN 
+[ those/DT ]
+under/IN 
+[ the/DT railroad/NN retirement/NN system/NN ]
+./. 
+==================================
+
+[ The/DT payroll/NN tax/NN ]
+would/MD actually/RB rise/VB to/TO 
+[ 7.5/CD ]
+per/IN 
+[ cent/NN starting/VBG Jan./NN 1/CD ]
+,/, 
+[ 1963/CD ]
+,/, if/IN 
+[ the/DT plan/NN ]
+is/VBZ approved/VBN ,/, because/IN 
+[ the/DT levy/NN ]
+is/VBZ already/RB scheduled/VBN to/TO go/VB up/IN by/IN 
+[ 1/CD ]
+per/IN 
+[ cent/NN ]
+on/IN 
+[ that/DT date/NN ]
+to/TO pay/VB for/IN 
+[ other/JJ social/JJ security/NN costs/NNS ]
+./. 
+==================================
+
+[ Outlays/NNS ]
+would/MD increase/VB 
+[ Officials/NNP ]
+estimated/VBD 
+[ the/DT annual/JJ tax/NN boost/NN ]
+for/IN 
+[ the/DT medical/JJ plan/NN ]
+would/MD amount/VB to/TO 
+[ 1.5/CD billion/CD dollars/NNS ]
+and/CC that/IN 
+[ medical/JJ benefits/NNS ]
+paid/VBN out/IN would/MD run/VB 
+[ 1/CD billion/CD ]
+or/CC more/RBR in/IN 
+[ the/DT first/JJ year/NN ]
+,/, 
+[ 1963/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Both/DT ]
+
+[ figures/NNS ]
+would/MD go/VB 
+[ higher/JJR ]
+in/IN 
+[ later/JJR years/NNS ]
+./. 
+==================================
+
+[ Other/JJ parts/NNS ]
+of/IN 
+[ the/DT Kennedy/NNP health/NN plan/NN ]
+would/MD entail/VB 
+[ federal/JJ grants/NNS ]
+of/IN 
+[ 750/CD million/CD ]
+to/TO 
+[ 1/CD billion/CD dollars/NNS ]
+over/IN 
+[ the/DT next/JJ 10/CD years/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT ]
+would/MD be/VB paid/VBN for/IN out/IN of/IN 
+[ general/JJ ]
+,/, not/RB 
+[ payroll/NN ]
+,/, 
+[ taxes/NNS ]
+./. 
+==================================
+Nursing/VBG 
+[ home/NN ]
+care/NN 
+[ The/DT aged/NNS care/NN plan/NN ]
+carries/VBZ 
+[ these/DT benefits/NNS ]
+for/IN 
+[ persons/NNS ]
+over/IN 
+[ 65/CD ]
+
+[ who/WP ]
+are/VBP under/IN 
+[ the/DT social/JJ security/NN ]
+and/CC 
+[ railroad/NN retirement/NN systems/NNS ]
+:/: 
+[ 1/LS Full/JJ payment/NN ]
+of/IN 
+[ hospital/NN bills/NNS ]
+for/IN 
+[ stays/NNS ]
+up/IN to/TO 
+[ 90/CD days/NNS ]
+for/IN 
+[ each/DT illness/NN ]
+,/, except/IN that/IN 
+[ the/DT patient/NN ]
+would/MD pay/VB 
+[ $/$ 10/CD ]
+
+[ a/DT day/NN ]
+of/IN 
+[ the/DT cost/NN ]
+for/IN 
+[ the/DT first/JJ nine/CD days/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ 2/LS Full/JJ payment/NN ]
+of/IN 
+[ nursing/VBG home/NN bills/NNS ]
+for/IN up/IN to/TO 
+[ 180/CD days/NNS ]
+following/VBG 
+[ discharge/NN ]
+from/IN 
+[ a/DT hospital/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT patient/NN ]
+could/MD receive/VB up/IN to/TO 
+[ 300/CD days/NNS ]
+paid-for/IN 
+[ nursing/VBG home/NN care/NN ]
+under/IN 
+[ a/DT ]
+``/`` 
+[ unit/NN formula/NN ]
+''/'' allowing/VBG more/RBR of/IN 
+[ such/JJ care/NN ]
+for/IN 
+[ those/DT ]
+
+[ who/WP ]
+use/VBP 
+[ none/NN ]
+or/CC 
+[ only/JJ part/NN ]
+of/IN 
+[ the/DT hospital-care/NN credit/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ 3/LS Hospital/NNP outpatient/NN clinic/NN diagnostic/JJ service/NN ]
+for/IN 
+[ all/DT costs/NNS ]
+in/IN 
+[ excess/NN ]
+of/IN 
+[ $/$ 20/CD ]
+
+[ a/DT patient/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ 4/LS Community/NN visiting/VBG nurse/NN services/NNS ]
+at/IN 
+[ home/NN ]
+for/IN up/IN to/TO 
+[ 240/CD days/NNS ]
+
+[ an/DT illness/NN ]
+./. 
+==================================
+
+[ The/DT President/NNP ]
+noted/VBD that/IN 
+[ Congress/NNP last/JJ year/NN ]
+passed/VBD 
+[ a/DT law/NN ]
+providing/VBG 
+[ grants/NNS ]
+to/TO 
+[ states/NNS ]
+to/TO help/VB pay/VB 
+[ medical/JJ bills/NNS ]
+of/IN 
+[ the/DT needy/JJ ]
+aged/NNS ./. 
+==================================
+
+[ Calls/VBZ proposal/NN ]
+modest/JJ 
+[ He/PRP ]
+said/VBD 
+[ his/PRP$ plan/NN ]
+is/VBZ designed/VBN to/TO ``/`` meet/VB 
+[ the/DT needs/NNS ]
+of/IN 
+[ those/DT millions/NNS ]
+
+[ who/WP ]
+have/VBP 
+[ no/DT ]
+wish/NN to/TO receive/VB care/NN at/IN 
+[ the/DT taxpayers/NNS '/POS expense/NN ]
+,/, but/CC 
+[ who/WP ]
+are/VBP nevertheless/RB staggered/VBN by/IN 
+[ the/DT drain/NN ]
+on/IN 
+[ their/PRP$ savings/NNS ]
+--/: or/CC 
+[ those/DT ]
+of/IN 
+[ their/PRP$ children/NNS ]
+--/: caused/VBN by/IN 
+[ an/DT extended/VBN hospital/NN stay/NN ]
+''/'' ./. 
+==================================
+``/`` 
+[ This/DT ]
+is/VBZ 
+[ a/DT very/RB modest/JJ proposal/NN ]
+cut/VBP to/TO  meet/VB 
+[ absolutely/RB essential/JJ needs/NNS ]
+''/'' ,/, 
+[ he/PRP ]
+said/VBD ,/, ``/`` and/CC with/IN 
+[ sufficient/JJ ]
+'/'' 
+[ deductible/JJ ]
+'/'' 
+[ requirements/NNS ]
+to/TO discourage/VB 
+[ any/DT ]
+malingering/VBG or/CC 
+[ unnecessary/JJ overcrowding/NN ]
+of/IN 
+[ our/PRP$ hospitals/NNS ]
+./. 
+==================================
+``/`` 
+[ This/DT ]
+is/VBZ not/RB 
+[ a/DT program/NN ]
+of/IN 
+[ socialized/VBN medicine/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ 
+[ a/DT program/NN ]
+of/IN 
+[ prepayment/NN ]
+of/IN 
+[ health/NN costs/NNS ]
+with/IN 
+[ absolute/JJ freedom/NN ]
+of/IN 
+[ choice/NN ]
+guaranteed/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ Every/DT person/NN ]
+will/MD choose/VB 
+[ his/PRP$ own/JJ doctor/NN ]
+and/CC 
+[ hospital/NN ]
+''/'' ./. 
+==================================
+Would/MD n't/RB pay/VB 
+[ doctors/NNS ]
+
+[ The/DT plan/NN ]
+does/VBZ not/RB cover/VB 
+[ doctor/NN bills/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+would/MD still/RB be/VB paid/VBN by/IN 
+[ the/DT patient/NN ]
+./. 
+==================================
+Apart/RB from/IN 
+[ the/DT aged/NNS care/NN plan/NN ]
+
+[ the/DT President/NNP ]
+'s/VBZ most/RBS ambitious/JJ and/CC 
+[ costly/JJ proposals/NNS ]
+were/VBD for/IN 
+[ federal/JJ scholarships/NNS ]
+,/, and/CC 
+[ grants/NNS ]
+to/TO build/VB or/CC enlarge/VB 
+[ medical/JJ ]
+and/CC 
+[ dental/JJ schools/NNS ]
+./. 
+==================================
+
+[ The/DT President/NNP ]
+said/VBD 
+[ the/DT nation/NN 's/POS 92/CD medical/JJ ]
+and/CC 
+[ 47/CD dental/NN schools/NNS ]
+can/MD not/RB now/RB handle/VB 
+[ the/DT student/NN load/NN ]
+needed/VBN to/TO meet/VB 
+[ the/DT rising/VBG need/NN ]
+for/IN 
+[ health/NN care/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Moreover/RB ,/, 
+[ he/PRP ]
+said/VBD ,/, 
+[ many/JJ ]
+qualified/JJ 
+[ young/JJ people/NNS ]
+are/VBP not/RB going/VBG into/IN 
+[ medicine/NN ]
+and/CC 
+[ dentistry/NN ]
+because/IN 
+[ they/PRP ]
+ca/MD n't/RB afford/VB 
+[ the/DT schooling/NN costs/NNS ]
+./. 
+==================================
+
+[ Contributions/NNS ]
+to/TO 
+[ schools/NNS ]
+
+[ The/DT scholarship/NN plan/NN ]
+would/MD provide/VB 
+[ federal/JJ contributions/NNS ]
+to/TO 
+[ each/DT medical/JJ ]
+and/CC 
+[ dental/JJ school/NN ]
+equal/JJ to/TO 
+[ $/$ 1,500/CD ]
+
+[ a/DT year/NN ]
+for/IN 
+[ one-fourth/JJ ]
+of/IN 
+[ the/DT first/JJ year/NN students/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT schools/NNS ]
+could/MD use/VB 
+[ the/DT money/NN ]
+to/TO pay/VB 
+[ 4-year/CD scholarships/NNS ]
+,/, based/VBN on/IN 
+[ need/NN ]
+,/, of/IN up/IN to/TO 
+[ $/$ 2,000/CD ]
+
+[ a/DT year/NN ]
+per/IN 
+[ student/NN ]
+./. 
+==================================
+In/IN 
+[ addition/NN ]
+,/, 
+[ the/DT government/NN ]
+would/MD pay/VB 
+[ a/DT $/$ 1,000/CD ]
+``/`` 
+[ cost/NN ]
+of/IN 
+[ education/NN ]
+''/'' 
+[ grant/NN ]
+to/TO 
+[ the/DT schools/NNS ]
+for/IN 
+[ each/DT $/$ 1,500/CD ]
+in/IN 
+[ scholarship/NN grants/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Officials/NNS ]
+estimated/VBD 
+[ the/DT combined/VBN programs/NNS ]
+would/MD cost/VB 
+[ 5.1/CD million/CD dollars/NNS ]
+
+[ the/DT first/JJ year/NN ]
+and/CC would/MD go/VB up/IN to/TO 
+[ 21/CD millions/NNS ]
+by/IN 
+[ 1966/CD ]
+./. 
+==================================
+
+[ The/DT President/NNP ]
+recommended/VBD 
+[ federal/JJ ]
+``/`` 
+[ matching/JJ grants/NNS ]
+''/'' totaling/VBG 
+[ 700/CD million/CD dollars/NNS ]
+in/IN 
+[ 10/CD years/NNS ]
+for/IN constructing/VBG 
+[ new/JJ medical/JJ ]
+and/CC 
+[ dental/JJ schools/NNS ]
+or/CC enlarging/VBG 
+[ the/DT capacity/NN ]
+of/IN existing/VBG 
+[ ones/NNS ]
+./. 
+==================================
+More/NN for/IN nursing/VBG 
+[ homes/NNS ]
+In/IN 
+[ the/DT area/NN ]
+of/IN ``/`` 
+[ community/NN health/NN services/NNS ]
+''/'' ,/, 
+[ the/DT President/NNP ]
+called/VBD for/IN doubling/VBG 
+[ the/DT present/JJ 10/CD million/CD dollar/NN ]
+
+[ a/DT year/NN federal/JJ grants/NNS ]
+for/IN 
+[ nursing/VBG home/NN construction/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+asked/VBD for/IN 
+[ another/DT 10/CD million/CD dollar/NN ]
+``/`` 
+[ initial/JJ ]
+''/'' 
+[ appropriation/NN ]
+for/IN ``/`` 
+[ stimulatory/JJ grants/NNS ]
+''/'' to/TO 
+[ states/NNS ]
+to/TO improve/VB nursing/VBG 
+[ homes/NNS ]
+./. 
+==================================
+
+[ He/PRP ]
+further/RB proposed/VBD 
+[ grants/NNS ]
+of/IN 
+[ an/DT unspecified/JJ sum/NN ]
+for/IN 
+[ experimental/JJ hospitals/NNS ]
+./. 
+==================================
+In/IN 
+[ the/DT child/NN health/NN field/NN ]
+,/, 
+[ the/DT President/NNP ]
+said/VBD 
+[ he/PRP ]
+will/MD recommend/VB later/RB 
+[ an/DT increase/NN ]
+in/IN 
+[ funds/NNS ]
+for/IN 
+[ programs/NNS ]
+under/IN 
+[ the/DT children/NNS 's/POS bureau/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+also/RB asked/VBD 
+[ Congress/NNP ]
+to/TO approve/VB 
+[ establishment/NN ]
+of/IN 
+[ a/DT national/JJ child/NN health/NN institute/NN ]
+./. 
+==================================
+Asks/VBZ 
+[ research/NN funds/NNS ]
+
+[ The/DT President/NNP ]
+said/VBD 
+[ he/PRP ]
+will/MD ask/VB 
+[ Congress/NNP ]
+to/TO increase/VB 
+[ grants/NNS ]
+to/TO 
+[ states/NNS ]
+for/IN 
+[ vocational/JJ rehabilitation/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+did/VBD not/RB say/VB by/IN how/WRB much/JJ ./. 
+==================================
+For/IN 
+[ medical/JJ research/NN ]
+
+[ he/PRP ]
+asked/VBD 
+[ a/DT 20/CD million/CD dollar/NN ]
+
+[ a/DT year/NN increase/NN ]
+,/, from/IN 
+[ 30/CD ]
+to/TO 
+[ 50/CD millions/NNS ]
+,/, in/IN matching/JJ 
+[ grants/NNS ]
+for/IN 
+[ building/VBG research/NN facilities/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT President/NNP ]
+said/VBD 
+[ he/PRP ]
+will/MD also/RB propose/VB increasing/VBG ,/, by/IN 
+[ an/DT unspecified/JJ amount/NN ]
+,/, 
+[ the/DT 540/CD million/CD dollars/NNS ]
+in/IN 
+[ the/DT 1961-62/CD budget/NN ]
+for/IN 
+[ direct/JJ government/NN research/NN ]
+in/IN 
+[ medicine/NN ]
+./. 
+==================================
+
+[ The/DT President/NNP ]
+said/VBD 
+[ his/PRP$ proposals/NNS ]
+combine/VB 
+[ the/DT ]
+``/`` 
+[ indispensable/NN elements/NNS ]
+in/IN 
+[ a/DT sound/JJ health/NN program/NN ]
+--/: 
+[ people/NNS ]
+,/, 
+[ knowledge/NN ]
+,/, 
+[ services/NNS ]
+,/, 
+[ facilities/NNS ]
+,/, and/CC 
+[ the/DT means/NN ]
+to/TO pay/VB for/IN 
+[ them/PRP ]
+''/'' ./. 
+==================================
+
+[ Reaction/NN ]
+as/IN expected/VBN 
+[ Congressional/JJ reaction/NN ]
+to/TO 
+[ the/DT message/NN ]
+was/VBD along/IN 
+[ expected/VBN lines/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Legislators/NNS ]
+
+[ who/WP ]
+last/JJ 
+[ year/NN ]
+opposed/VBN 
+[ placing/VBG aged-care/NN ]
+under/IN 
+[ the/DT social/JJ security/NN system/NN ]
+criticized/VBD 
+[ the/DT President/NNP 's/POS plan/NN ]
+./. 
+==================================
+
+[ Those/DT ]
+
+[ who/WP ]
+backed/VBD 
+[ a/DT similar/JJ plan/NN last/JJ year/NN ]
+hailed/VBD 
+[ the/DT message/NN ]
+./. 
+==================================
+
+[ Senate/NNP Republican/NNP Leader/NNP Dirksen/NNP ]
+(/( 
+[ Ill./NNP ]
+)/) and/CC 
+[ House/NNP Republican/NNP Leader/NNP Charles/NNP Halleck/NNP ]
+(/( 
+[ Ind./NNP ]
+)/) said/VBD 
+[ the/DT message/NN ]
+did/VBD not/RB persuade/VB 
+[ them/PRP ]
+to/TO change/VB 
+[ their/PRP$ opposition/NN ]
+to/TO 
+[ compulsory/JJ medical/JJ insurance/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Halleck/NNP ]
+said/VBD 
+[ the/DT voluntary/JJ care/NN plan/NN ]
+enacted/VBN 
+[ last/JJ year/NN ]
+should/MD be/VB given/VBN 
+[ a/DT fair/JJ trial/NN ]
+first/RB ./. 
+==================================
+
+[ House/NNP Speaker/NNP Sam/NNP Rayburn/NNP ]
+(/( 
+[ D./NNP ]
+,/, 
+[ Tex./NNP ]
+)/) called/VBD 
+[ the/DT Kennedy/NNP program/NN ]
+``/`` 
+[ a/DT mighty/RB fine/JJ thing/NN ]
+''/'' ,/, but/CC made/VBD 
+[ no/DT prediction/NN ]
+on/IN 
+[ its/PRP$ fate/NN ]
+in/IN 
+[ the/DT House/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Washington/NNP ]
+,/, 
+[ Feb./NNP 9/CD ]
+--/: 
+[ Acting/VBG ]
+hastily/RB under/IN 
+[ White/NNP House/NNP pressure/NN ]
+,/, 
+[ the/DT Senate/NNP ]
+tonight/RB confirmed/VBD 
+[ Robert/NNP C./NNP Weaver/NNP ]
+as/IN 
+[ the/DT nation/NN 's/POS federal/JJ housing/NN chief/NN ]
+./. 
+==================================
+Only/RB 
+[ 11/CD senators/NNS ]
+were/VBD on/IN 
+[ the/DT floor/NN ]
+and/CC 
+[ there/EX ]
+was/VBD 
+[ no/DT record/NN vote/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT number/NN ]
+of/IN 
+[ scattered/JJ ]
+``/`` 
+[ ayes/NNS ]
+''/'' and/CC ``/`` 
+[ noes/NNS ]
+''/'' was/VBD heard/VBN ./. 
+==================================
+
+[ Customary/NNP Senate/NNP rules/NNS ]
+were/VBD ignored/VBN in/IN 
+[ order/NN ]
+to/TO 
+[ speed/NN approval/NN ]
+of/IN 
+[ the/DT Negro/NNP leader/NN ]
+as/IN 
+[ administrator/NN ]
+of/IN 
+[ the/DT housing/NN ]
+and/CC 
+[ home/NN finance/NN agency/NN ]
+./. 
+==================================
+In/IN 
+[ the/DT last/JJ eight/CD years/NNS ]
+,/, 
+[ all/DT Presidential/JJ appointments/NNS ]
+,/, including/VBG 
+[ those/DT ]
+of/IN 
+[ cabinet/NN rank/NN ]
+,/, have/VBP been/VBN denied/VBN 
+[ immediate/JJ action/NN ]
+because/IN of/IN 
+[ a/DT Senate/NNP rule/NN ]
+requiring/VBG at/IN 
+[ least/JJS a/DT 24/CD hour/NN delay/NN ]
+after/IN 
+[ they/PRP ]
+are/VBP reported/VBN to/TO 
+[ the/DT floor/NN ]
+./. 
+==================================
+Enforce/VB by/IN 
+[ demand/NN ]
+
+[ The/DT rule/NN ]
+was/VBD enforced/VBN by/IN 
+[ demand/NN ]
+of/IN 
+[ Sen./NNP Wayne/NNP Morse/NNP ]
+(/( 
+[ D./NNP ]
+,/, 
+[ Ore./NNP ]
+)/) in/IN 
+[ connection/NN ]
+with/IN 
+[ President/NNP Eisenhower/NNP 's/POS cabinet/NN selections/NNS ]
+in/IN 
+[ 1953/CD ]
+and/CC 
+[ President/NNP Kennedy/NNP 's/POS ]
+in/IN 
+[ 1961/CD ]
+./. 
+==================================
+==================================
+==================================

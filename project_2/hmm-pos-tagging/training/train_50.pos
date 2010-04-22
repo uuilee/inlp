@@ -1,0 +1,1564 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ Asilomar/NNP ]
+,/, 
+[ March/NNP 26/CD Vast/JJ spraying/NN programs/NNS ]
+conducted/VBN by/IN ``/`` 
+[ technicians/NNS ]
+with/IN 
+[ narrow/JJ training/NN ]
+and/CC 
+[ little/JJ wisdom/NN ]
+''/'' are/VBP endangering/VBG 
+[ crops/NNS ]
+and/CC 
+[ wildlife/NN ]
+,/, 
+[ Carl/NNP W./NNP Buchheister/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ the/DT National/NNP Audubon/NNP Society/NNP ]
+,/, said/VBD 
+[ today/RB ]
+./. 
+==================================
+``/`` 
+[ It/PRP ]
+is/VBZ like/IN handing/VBG 
+[ a/DT loaded/JJ automatic/JJ ]
+to/TO 
+[ an/DT 8-year-old/NN ]
+and/CC telling/VBG 
+[ him/PRP ]
+to/TO run/VB out/RB and/CC play/VB ''/'' ,/, 
+[ he/PRP ]
+commented/VBD ./. 
+==================================
+
+[ Buchheister/NNP ]
+told/VBD 
+[ delegates/NNS ]
+to/TO 
+[ the/DT West/NNP Coast/NNP Audubon/NNP Convention/NNP ]
+that/IN 
+[ aerial/JJ spraying/NN ]
+in/IN 
+[ Louisiana/NNP ]
+failed/VBD to/TO destroy/VB 
+[ its/PRP$ target/NN ]
+,/, 
+[ the/DT fire/NN ant/NN ]
+./. 
+==================================
+``/`` But/CC 
+[ it/PRP ]
+did/VBD destroy/VB 
+[ the/DT natural/NN ]
+controls/NNS of/IN 
+[ a/DT borer/NN ]
+and/CC released/VBD 
+[ a/DT new/JJ plague/NN ]
+
+[ that/WDT ]
+wrecked/VBD 
+[ a/DT sugar/NN cane/NN crop/NN ]
+''/'' ,/, 
+[ he/PRP ]
+said/VBD ./. 
+==================================
+
+[ The/DT conservation/NN leader/NN ]
+said/VBD 
+[ other/JJ mistakes/NNS ]
+in/IN 
+[ spraying/NN ]
+had/VBD caused/VBN 
+[ serious/JJ damage/NN ]
+in/IN 
+[ Ohio/NNP ]
+and/CC 
+[ Wyoming/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ There/EX ]
+have/VBP even/RB been/VBN 
+[ serious/JJ errors/NNS ]
+in/IN 
+[ the/DT U.S./NNP Forest/NNP Service/NNP ]
+,/, 
+[ whose/WP$ officials/NNS ]
+pride/VBP 
+[ themselves/PRP ]
+in/IN 
+[ their/PRP$ scientific/JJ training/NN ]
+,/, 
+[ he/PRP ]
+added/VBD ./. 
+==================================
+``/`` 
+[ The/DT news/NN ]
+of/IN 
+[ their/PRP$ experiments/NNS ]
+reaches/VBZ 
+[ the/DT farmers/NNS ]
+
+[ who/WP ]
+,/, forgetting/VBG that/IN 
+[ birds/NNS ]
+are/VBP 
+[ the/DT most/RBS efficient/JJ natural/JJ enemies/NNS ]
+of/IN 
+[ insects/NNS ]
+and/CC 
+[ rodents/NNS ]
+,/, are/VBP encouraged/VBN to/TO try/VB to/TO get/VB 
+[ rid/JJ ]
+of/IN 
+[ all/DT birds/NNS ]
+
+[ that/WDT ]
+occasionally/RB peck/VB 
+[ their/PRP$ grapes/NNS ]
+or/CC 
+[ their/PRP$ blueberries/NNS ]
+''/'' ,/, 
+[ Buchheister/NNP ]
+told/VBD 
+[ the/DT delegates/NNS ]
+./. 
+==================================
+In/IN 
+[ addition/NN ]
+to/TO urging/VBG 
+[ greater/JJR restrictions/NNS ]
+on/IN 
+[ aerial/JJ spraying/NN ]
+,/, 
+[ Buchheister/NNP ]
+called/VBD for/IN 
+[ support/NN ]
+of/IN 
+[ the/DT Wilderness/NN bill/NN ]
+,/, 
+[ creation/NN ]
+of/IN 
+[ national/JJ seashore/NN parks/NNS ]
+,/, including/VBG 
+[ Point/NNP Reyes/NNP ]
+;/: ;/: 
+[ preservation/NN ]
+of/IN 
+[ the/DT wetlands/NNS ]
+where/WRB 
+[ birds/NNS ]
+breed/VBP ;/: ;/: 
+[ a/DT pesticides/NNS co-ordination/NN act/NN ]
+;/: ;/: 
+[ stronger/JJR water/NN pollution/NN control/NN programs/NNS ]
+,/, and/CC 
+[ Federal/JJ ratification/NN ]
+of/IN 
+[ an/DT international/JJ convention/NN ]
+to/TO halt/VB 
+[ pollution/NN ]
+of/IN 
+[ the/DT sea/NN ]
+by/IN 
+[ oil/NN ]
+./. 
+==================================
+
+[ The/DT Reed/NNP Rogers/NNP Da/NNP Fonta/NNP Wild/NNP Life/NNP Sanctuary/NNP ]
+in/IN 
+[ Marin/NNP county/NN ]
+on/IN 
+[ Friday/NNP ]
+officially/RB became/VBD 
+[ the/DT property/NN ]
+of/IN 
+[ the/DT National/NNP Audubon/NNP Society/NNP ]
+./. 
+==================================
+
+[ Mrs./NNP Norman/NNP Livermore/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ the/DT Marin/NNP Conservation/NNP League/NNP ]
+,/, handed/VBD over/IN 
+[ the/DT deed/NN ]
+to/TO 
+[ the/DT 645-acre/CD tidelands/NNS tract/NN ]
+south/RB of/IN 
+[ Greenwood/NNP Beach/NNP ]
+to/TO 
+[ Carl/NNP W./NNP Buchheister/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ the/DT Society/NN ]
+./. 
+==================================
+
+[ The/DT presentation/NN ]
+was/VBD made/VBN before/IN 
+[ several/JJ hundred/CD persons/NNS ]
+at/IN 
+[ the/DT annual/JJ meeting/NN ]
+of/IN 
+[ the/DT League/NN ]
+at/IN 
+[ Olney/NNP Hall/NNP ]
+,/, 
+[ College/NNP ]
+of/IN 
+[ Marin/NNP ]
+,/, 
+[ Kentfield/NNP ]
+./. 
+==================================
+
+[ Buchheister/NNP ]
+pledged/VBD 
+[ the/DT land/NN ]
+would/MD be/VB 
+[ an/DT ]
+``/`` 
+[ inviolate/JJ ]
+''/'' 
+[ sanctuary/NN ]
+for/IN 
+[ all/DT birds/NNS ]
+,/, 
+[ animals/NNS ]
+and/CC 
+[ plants/NNS ]
+./. 
+==================================
+
+[ Seventeen/CD years/NNS ]
+ago/RB 
+[ today/RB ]
+,/, 
+[ German/JJ scientist/NN Willy/NNP Fiedler/NNP ]
+climbed/VBD into/IN 
+[ a/DT makeshift/JJ cockpit/NN ]
+installed/VBN in/IN 
+[ a/DT V-1/NNP rocket-bomb/NN ]
+
+[ that/WDT ]
+was/VBD attached/VBN to/TO 
+[ the/DT underbelly/NN ]
+of/IN 
+[ a/DT Heinkel/NNP bomber/NN ]
+./. 
+==================================
+
+[ The/DT World/NNP War/NNP 2/CD ]
+,/, 
+[ German/NNP bomber/NN ]
+rolled/VBD down/IN 
+[ a/DT runway/NN ]
+and/CC took/VBD off/RB ./. 
+==================================
+
+[ The/DT only/JJ way/NN Fiedler/NNP ]
+could/MD get/VB back/RB to/TO 
+[ earth/NN alive/JJ ]
+was/VBD to/TO fly/VB 
+[ the/DT pulse/NN jet/NN missile/NN ]
+and/CC 
+[ land/NN ]
+
+[ it/PRP ]
+on/IN 
+[ the/DT airstrip/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+had/VBD never/RB been/VBN done/VBN before/RB ./. 
+==================================
+Now/RB 
+[ a/DT quiet-spoken/JJ ]
+,/, 
+[ middle-aged/JJ man/NN ]
+,/, 
+[ Fiedler/NNP ]
+is/VBZ 
+[ an/DT aeronautical/JJ engineer/NN ]
+for/IN 
+[ Lockheed/NNP 's/POS Missiles/NNP ]
+and/CC 
+[ Space/NNP Division/NNP ]
+at/IN 
+[ Sunnyvale/NNP ]
+,/, where/WRB 
+[ he/PRP ]
+played/VBD 
+[ a/DT key/JJ role/NN ]
+in/IN 
+[ the/DT development/NN ]
+of/IN 
+[ the/DT Navy/NNP 's/POS Polaris/NNP missile/NN ]
+./. 
+==================================
+
+[ He/PRP ]
+sat/VBD in/IN 
+[ his/PRP$ office/NN yesterday/RB ]
+and/CC recalled/VBD 
+[ that/DT historic/JJ flight/NN ]
+in/IN 
+[ 1944/CD ]
+./. 
+==================================
+``/`` 
+[ The/DT first/JJ two/CD pilots/NNS ]
+had/VBD crashed/VBN ''/'' ,/, 
+[ he/PRP ]
+said/VBD ./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ I/PRP ]
+had/VBD developed/VBN 
+[ the/DT machines/NNS ]
+and/CC therefore/RB knew/VBD 
+[ them/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD 
+[ time/NN ]
+to/TO go/VB up/RB 
+[ myself/PRP ]
+''/'' ./. 
+==================================
+
+[ Fiedler/NNP ]
+was/VBD then/RB 
+[ technical/JJ director/NN ]
+of/IN 
+[ Hitler/NNP 's/POS super-secret/JJ ]
+``/`` 
+[ Reichenberg/NNP project/NN ]
+''/'' ,/, 
+[ which/WDT ]
+remained/VBD unknown/JJ to/TO 
+[ the/DT Allies/NNPS ]
+until/IN after/IN 
+[ the/DT war/NN ]
+./. 
+==================================
+About/IN 
+[ 200/CD ]
+of/IN 
+[ the/DT special/JJ V-1/NNP rocket-bombs/NNS ]
+were/VBD to/TO be/VB made/VBN ready/JJ for/IN 
+[ manned/JJ flight/NN ]
+with/IN 
+[ an/DT explosive/JJ warhead/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT target/NN ]
+was/VBD 
+[ Allied/JJ ]
+shipping/NN --/: 
+[ a/DT desperate/JJ effort/NN ]
+to/TO stave/VB off/RP 
+[ the/DT Allied/JJ invasion/NN ]
+of/IN 
+[ Europe/NNP ]
+./. 
+==================================
+
+[ The/DT success/NN ]
+of/IN 
+[ the/DT project/NN ]
+depended/VBD upon/IN 
+[ Fiedler/NNP 's/POS flight/NN ]
+./. 
+==================================
+Squeezed/VBN into/IN 
+[ the/DT few/JJ cubic/JJ feet/NNS ]
+normally/RB filled/VBN by/IN 
+[ the/DT rocket/NN 's/POS automatic/JJ guidance/NN mechanism/NN ]
+,/, 
+[ the/DT scientist/NN ]
+waited/VBD while/IN 
+[ the/DT bomber/NN ]
+gained/VBD 
+[ altitude/NN ]
+./. 
+==================================
+At/IN 
+[ 12,000/CD feet/NNS ]
+,/, 
+[ Fiedler/NNP ]
+signaled/VBD ``/`` 
+[ release/VB ]
+''/'' ,/, and/CC started/VBD 
+[ the/DT roaring/VBG pulse-jet/NN engine/NN ]
+--/: then/RB streaked/VBD away/RB from/IN beneath/IN 
+[ the/DT Heinkel/NNP ]
+./. 
+==================================
+To/TO 
+[ the/DT German/JJ pilot/NN ]
+in/IN 
+[ the/DT bomber/NN ]
+
+[ the/DT rocket/NN ]
+became/VBD 
+[ a/DT faint/JJ black/JJ speck/NN ]
+,/, hurtling/VBG through/IN 
+[ the/DT sky/NN ]
+at/IN 
+[ the/DT ]
+then/RB 
+[ incredible/JJ speed/NN ]
+of/IN 
+[ 420/CD m.p.h/RB ]
+../. 
+[ It/PRP ]
+was/VBD probably/RB 
+[ man/NN 's/POS first/JJ successful/JJ flight/NN ]
+in/IN 
+[ a/DT missile/NN ]
+./. 
+==================================
+``/`` 
+[ She/PRP ]
+flew/VBD beautifully/RB ''/'' ,/, said/VBD 
+[ Fiedler/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ There/EX ]
+was/VBD only/RB 
+[ one/CD power/NN control/NN ]
+--/: 
+[ a/DT valve/NN ]
+to/TO adjust/VB 
+[ the/DT fuel/NN flow/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ I/PRP ]
+had/VBD exactly/RB 
+[ 20/CD minutes/NNS ]
+to/TO get/VB down/RB to/TO 
+[ the/DT test/NN strip/NN ]
+''/'' ./. 
+==================================
+Using/VBG 
+[ a/DT steering/NN system/NN ]
+
+[ that/WDT ]
+controlled/VBD 
+[ the/DT modified/JJ rocket/NN 's/POS tail/NN surfaces/NNS ]
+and/CC 
+[ wings/NNS ]
+equipped/VBN with/IN 
+[ ailerons/NNS ]
+,/, 
+[ Fiedler/NNP ]
+was/VBD to/TO land/VB 
+[ the/DT missile/NN ]
+on/IN 
+[ a/DT skid/NN ]
+especially/RB bolted/VBN under/IN 
+[ the/DT fuselage/NN ]
+./. 
+==================================
+
+[ He/PRP ]
+managed/VBD to/TO maneuver/VB 
+[ the/DT missile/NN ]
+to/TO 
+[ a/DT landing/NN speed/NN ]
+of/IN 
+[ 200/CD m.p.h/NN ]
+./. 
+==================================
+--/: fast/RB even/RB for/IN 
+[ a/DT modern/JJ jet/NN plane/NN touchdown/NN ]
+--/: and/CC banked/VBD into/IN 
+[ the/DT airfield/NN ]
+./. 
+==================================
+
+[ Moments/NNS ]
+later/RB 
+[ the/DT V-1/NNP ]
+skimmed/VBD across/IN 
+[ the/DT landing/NN strip/NN ]
+,/, edging/VBG closer/RBR and/CC closer/RBR to/TO 
+[ a/DT touchdown/NN ]
+--/: then/RB in/IN 
+[ a/DT streamer/NN ]
+of/IN 
+[ dust/NN ]
+
+[ it/PRP ]
+landed/VBD ./. 
+==================================
+
+[ Fiedler/NNP ]
+went/VBD on/IN to/TO make/VB 
+[ several/JJ other/JJ test/NN flights/NNS ]
+before/IN 
+[ German/JJ pilots/NNS ]
+took/VBD over/IN 
+[ the/DT Reichenberg/NNP missiles/NNS ]
+./. 
+==================================
+
+[ The/DT missiles/NNS ]
+were/VBD to/TO be/VB armed/VBN with/IN 
+[ an/DT underwater/JJ bomb/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Pilots/NNS ]
+would/MD steer/VB 
+[ them/PRP ]
+in/IN 
+[ a/DT suicide/NN dive/NN ]
+into/IN 
+[ the/DT water/NN ]
+,/, striking/VBG below/IN 
+[ the/DT waterline/NN ]
+of/IN 
+[ individual/JJ ships/NNS ]
+./. 
+==================================
+
+[ A/DT crack/JJ corps/NN ]
+of/IN 
+[ 50/CD pilots/NNS ]
+was/VBD formed/VBN from/IN 
+[ the/DT ranks/NNS ]
+of/IN 
+[ volunteers/NNS ]
+,/, but/CC 
+[ the/DT project/NN ]
+was/VBD halted/VBN before/IN 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT war/NN ]
+,/, and/CC 
+[ the/DT missiles/NNS ]
+later/RB fell/VBD into/IN 
+[ Allied/JJ hands/NNS ]
+./. 
+==================================
+Now/RB 
+[ a/DT family/NN man/NN ]
+with/IN 
+[ three/CD children/NNS ]
+,/, 
+[ Fiedler/NNP ]
+lives/VBZ in/IN 
+[ a/DT quiet/JJ residential/JJ area/NN ]
+near/IN 
+[ the/DT Lockheed/NNP plant/NN ]
+at/IN 
+[ Sunnyvale/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ His/PRP$ spare/JJ time/NN ]
+is/VBZ spent/VBN in/IN soaring/VBG 
+[ gliders/NNS ]
+./. 
+==================================
+``/`` 
+[ It/PRP ]
+'s/VBZ so/RB quiet/JJ ''/'' ,/, 
+[ he/PRP ]
+said/VBD ,/, ``/`` so/RB slow/JJ ,/, 
+[ serene/JJ ]
+--/: and/CC so/RB challenging/JJ ''/'' ./. 
+==================================
+
+[ John/NNP Di/NNP Massimo/NNP ]
+has/VBZ been/VBN elected/VBN 
+[ president/NN ]
+of/IN 
+[ the/DT 1961/CD Columbus/NNP Day/NNP Celebration/NNP Committee/NNP ]
+,/, 
+[ it/PRP ]
+was/VBD announced/VBN yesterday/RB ./. 
+==================================
+
+[ Other/JJ officers/NNS ]
+are/VBP 
+[ Angelo/NNP J./NNP Scampini/NNP ]
+,/, 
+[ vice/NN president/NN ]
+,/, 
+[ Joseph/NNP V./NNP Arata/NNP ]
+,/, 
+[ treasurer/NN ]
+,/, and/CC 
+[ Fred/NNP J./NNP Casassa/NNP ]
+,/, 
+[ secretary/NN ]
+./. 
+==================================
+
+[ Judge/NNP John/NNP B./NNP Molinari/NNP ]
+was/VBD named/VBN 
+[ chairman/NN ]
+of/IN 
+[ the/DT executive/JJ committee/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Elected/VBN to/TO 
+[ the/DT board/NN ]
+of/IN 
+[ directors/NNS ]
+were/VBD :/: 
+[ Elios/NNP P./NNP Anderlini/NNP ]
+,/, 
+[ Attilio/NNP Beronio/NNP ]
+,/, 
+[ Leo/NNP M./NNP Bianco/NNP ]
+,/, 
+[ Frederic/NNP Campagnoli/NNP ]
+,/, 
+[ Joseph/NNP Cervetto/NNP ]
+,/, 
+[ Armond/NNP J./NNP De/NNP Martini/NNP ]
+,/, 
+[ Grace/NNP Duhagon/NNP ]
+,/, 
+[ John/NNP P./NNP Figone/NNP ]
+,/, 
+[ John/NNP P./NNP Figone/NNP Jr./NNP ]
+,/, 
+[ Stephen/NNP Mana/NNP ]
+,/, 
+[ John/NNP Moscone/NNP ]
+,/, 
+[ Calude/NNP Perasso/NNP ]
+,/, 
+[ Angelo/NNP Petrini/NNP ]
+,/, 
+[ Frank/NNP Ratto/NNP ]
+,/, and/CC 
+[ George/NNP R./NNP Reilly/NNP ]
+./. 
+==================================
+
+[ Dr./NNP Albert/NNP Schweitzer/NNP ]
+,/, 
+[ world-famous/JJ theologian/NN ]
+and/CC 
+[ medical/JJ missionary/NN ]
+,/, has/VBZ endorsed/VBN 
+[ an/DT Easter/NNP March/NNP ]
+for/IN 
+[ Disarmament/NNP ]
+
+[ which/WDT ]
+begins/VBZ 
+[ tomorrow/NN ]
+in/IN 
+[ Sunnyvale/NNP ]
+./. 
+==================================
+
+[ Members/NNP ]
+of/IN 
+[ the/DT San/NNP Francisco/NNP American/NNP Friends/NNP Service/NNP ]
+,/, 
+[ a/DT Quaker/NNP organization/NN ]
+,/, will/MD march/VB to/TO 
+[ San/NNP Francisco/NNP ]
+for/IN 
+[ a/DT rally/NN ]
+in/IN 
+[ Union/NNP Square/NNP ]
+at/IN 
+[ 2/CD p.m./RB Saturday/NNP ]
+./. 
+==================================
+In/IN 
+[ a/DT letter/NN ]
+to/TO 
+[ the/DT American/NNP Friends/NNP Service/NNP ]
+,/, 
+[ Dr./NNP Schweitzer/NNP ]
+wrote/VBD :/: ``/`` Leading/VBG 
+[ Nations/NNS ]
+of/IN 
+[ the/DT West/NNP ]
+and/CC of/IN 
+[ the/DT East/NNP ]
+keep/VBP 
+[ busy/JJ ]
+making/VBG 
+[ newer/JJR nuclear/JJ weapons/NNS ]
+to/TO defend/VB 
+[ themselves/PRP ]
+in/IN 
+[ the/DT event/NN ]
+
+[ the/DT ]
+constantly/RB threatening/VBG 
+[ nuclear/JJ war/NN ]
+should/MD break/VB out/RB ./. 
+==================================
+``/`` 
+[ They/PRP ]
+can/MD not/RB do/VB otherwise/RB than/IN live/VB in/IN 
+[ dread/NN ]
+of/IN 
+[ each/DT other/JJ ]
+since/IN 
+[ these/DT weapons/NNS ]
+imply/VBP 
+[ the/DT possibility/NN ]
+of/IN 
+[ such/DT grisly/JJ surprise/NN attack/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT only/JJ way/NN ]
+out/IN of/IN 
+[ this/DT state/NN ]
+of/IN 
+[ affairs/NNS ]
+is/VBZ 
+[ agreement/NN ]
+to/TO abolish/VB 
+[ nuclear/JJ weapons/NNS ]
+;/: ;/: otherwise/RB 
+[ no/DT peace/NN ]
+is/VBZ possible/JJ ./. 
+==================================
+``/`` 
+[ Governments/NNS ]
+apparently/RB do/VBP not/RB feel/VB obligated/VBN to/TO make/VB 
+[ the/DT people/NNS ]
+adequately/RB aware/JJ of/IN 
+[ this/DT danger/NN ]
+;/: ;/: therefore/RB 
+[ we/PRP ]
+need/VBP 
+[ guardians/NNS ]
+to/TO demonstrate/VB against/IN 
+[ the/DT ghastly/JJ stupidity/NN ]
+of/IN 
+[ nuclear/JJ weapons/NNS ]
+and/CC jolt/VB 
+[ the/DT people/NNS ]
+out/IN of/IN 
+[ their/PRP$ complacency/NN ]
+''/'' ./. 
+==================================
+
+[ A/DT federal/JJ grand/JJ jury/NN ]
+called/VBD 
+[ 10/CD witnesses/NNS ]
+yesterday/RB in/IN 
+[ an/DT investigation/NN ]
+of/IN 
+[ the/DT affairs/NNS ]
+of/IN 
+[ Ben/NNP Stein/NNP ]
+,/, 
+[ 47/CD ]
+,/, 
+[ who/WP ]
+collected/VBD 
+[ big/JJ fees/NNS ]
+as/IN 
+[ a/DT ]
+``/`` 
+[ labor/NN consultant/NN ]
+''/'' and/CC 
+[ operator/NN ]
+of/IN 
+[ a/DT janitors/NNS '/POS service/NN ]
+./. 
+==================================
+Before/IN 
+[ he/PRP ]
+testified/VBD for/IN 
+[ 20/CD minutes/NNS ]
+,/, 
+[ Stein/NNP ]
+,/, 
+[ who/WP ]
+lives/VBZ at/IN 
+[ 3300/CD Lake/NNP Shore/NNP Dr./NNP ]
+,/, admitted/VBD to/TO 
+[ reporters/NNS ]
+that/IN 
+[ he/PRP ]
+had/VBD 
+[ a/DT wide/JJ acquaintance/NN ]
+with/IN 
+[ crime/NN syndicate/NN hoodlums/NNS ]
+./. 
+==================================
+
+[ Glimco/NNP ]
+
+[ a/DT buddy/NN ]
+Among/IN 
+[ his/PRP$ gangland/NN buddies/NNS ]
+,/, 
+[ he/PRP ]
+said/VBD ,/, were/VBD 
+[ Joseph/NNP ]
+(/( 
+[ Joey/NN ]
+)/) 
+[ Glimco/NNP ]
+,/, 
+[ a/DT mob/NN labor/NN racketeer/NN ]
+,/, and/CC 
+[ four/CD gang/NN ]
+gambling/NN 
+[ chiefs/NNS ]
+,/, 
+[ Gus/NN ]
+(/( Slim/NNP )/) 
+[ Alex/NNP ]
+,/, 
+[ Ralph/NNP Pierce/NNP ]
+,/, 
+[ Joe/NNP ]
+(/( Caesar/NNP )/) 
+[ DiVarco/NNP ]
+,/, and/CC 
+[ Jimmy/NNP ]
+(/( 
+[ Monk/NNP ]
+)/) 
+[ Allegretti/NNP ]
+./. 
+==================================
+
+[ Another/DT hoodlum/NN ]
+,/, 
+[ Louis/NNP Arger/NNP ]
+,/, drew/VBD 
+[ $/$ 39,000/CD ]
+from/IN 
+[ Stein/NNP 's/POS janitor/NN firm/NN ]
+,/, 
+[ the/DT National/NNP Maintenance/NNP company/NN ]
+,/, in/IN 
+[ three/CD years/NNS ]
+ending/VBG in/IN 
+[ 1959/CD ]
+,/, 
+[ Stein/NNP ]
+disclosed/VBD in/IN 
+[ an/DT interview/NN ]
+./. 
+==================================
+``/`` 
+[ I/PRP ]
+put/VB 
+[ Arger/NNP ]
+on/IN 
+[ the/DT payroll/NN ]
+because/IN 
+[ he/PRP ]
+promised/VBD to/TO get/VB 
+[ my/PRP$ firm/NN ]
+
+[ the/DT stevedore/NN account/NN ]
+at/IN 
+[ Navy/NNP pier/NN ]
+''/'' ,/, 
+[ Stein/NNP ]
+said/VBD ./. 
+==================================
+
+==================================
+==================================
+``/`` But/CC 
+[ Arger/NNP ]
+never/RB was/VBD able/JJ to/TO produce/VB 
+[ it/PRP ]
+,/, so/CC 
+[ I/PRP ]
+cut/VB 
+[ him/PRP ]
+off/IN 
+[ my/PRP$ payroll/NN ]
+''/'' ./. 
+==================================
+
+[ Connection/NN ]
+is/VBZ sought/VBN 
+[ Other/JJ witnesses/NNS ]
+,/, after/IN 
+[ appearances/NNS ]
+before/IN 
+[ the/DT jury/NN ]
+,/, 
+[ which/WDT ]
+reportedly/RB is/VBZ probing/VBG into/IN 
+[ possible/JJ income/NN tax/NN violations/NNS ]
+,/, disclosed/VBD that/IN 
+[ government/NN prosecutors/NNS ]
+were/VBD attempting/VBG to/TO connect/VB 
+[ Stein/NNP ]
+and/CC 
+[ his/PRP$ company/NN ]
+with/IN 
+[ a/DT number/NN ]
+of/IN 
+[ gangsters/NNS ]
+,/, including/VBG 
+[ Glimco/NNP ]
+and/CC 
+[ Alex/NNP ]
+./. 
+==================================
+
+[ The/DT federal/JJ lawyers/NNS ]
+,/, according/VBG to/TO 
+[ their/PRP$ witnesses/NNS ]
+,/, also/RB were/VBD tracing/VBG 
+[ Stein/NNP 's/POS fees/NNS ]
+as/IN 
+[ a/DT labor/NN consultant/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Under/IN 
+[ scrutiny/NN ]
+,/, 
+[ two/CD ]
+of/IN 
+[ the/DT witnesses/NNS ]
+said/VBD ,/, were/VBD 
+[ payments/NNS ]
+and/CC 
+[ loans/NNS ]
+to/TO 
+[ Stein/NNP 's/POS National/NNP Maintenance/NNP company/NN ]
+at/IN 
+[ 543/CD Madison/NNP St/NNP ]
+../. 
+[ The/DT company/NN ]
+supplies/VBZ 
+[ janitors/NNS ]
+and/CC 
+[ workmen/NNS ]
+for/IN 
+[ McCormick/NNP Place/NNP ]
+and/CC 
+[ factories/NNS ]
+,/, 
+[ liquor/NN firms/NNS ]
+,/, and/CC 
+[ other/JJ businesses/NNS ]
+./. 
+==================================
+
+[ Lee/NNP ]
+
+[ a/DT witness/NN ]
+Among/IN 
+[ the/DT witnesses/NNS ]
+were/VBD 
+[ Ed/NNP J./NNP Lee/NNP ]
+,/, 
+[ director/NN ]
+of/IN 
+[ McCormick/NNP Place/NNP ]
+;/: ;/: 
+[ Jerome/NNP Leavitt/NNP ]
+,/, 
+[ a/DT partner/NN ]
+in/IN 
+[ the/DT Union/NNP Liquor/NNP company/NN ]
+,/, 
+[ 3247/CD S./NNP Kedzie/NNP Av./NNP ]
+,/, 
+[ Dominic/NNP Senese/NNP ]
+,/, 
+[ a/DT teamster/NN union/NN slugger/NN ]
+
+[ who/WP ]
+is/VBZ 
+[ a/DT buddy/NN ]
+of/IN 
+[ Stein/NNP ]
+and/CC 
+[ a/DT cousin/NN ]
+of/IN 
+[ Tony/NNP Accardo/NNP ]
+,/, 
+[ onetime/JJ gang/NN chief/NN ]
+;/: ;/: and/CC 
+[ Frank/NNP W./NNP Pesce/NNP ]
+,/, 
+[ operator/NN ]
+of/IN 
+[ a/DT Glimco/NNP ]
+dominated/VBN 
+[ deodorant/JJ firm/NN ]
+,/, 
+[ the/DT Best/JJS Sanitation/NNP ]
+and/CC 
+[ Supply/NNP company/NN ]
+,/, 
+[ 1215/CD Blue/NNP Island/NNP Av/NNP ]
+../. 
+[ Lee/NNP ]
+said/VBD 
+[ he/PRP ]
+had/VBD told/VBN 
+[ the/DT jury/NN ]
+that/IN 
+[ he/PRP ]
+made/VBD 
+[ an/DT agreement/NN ]
+in/IN 
+[ April/NNP ]
+with/IN 
+[ Stein/NNP ]
+to/TO supply/VB and/CC supervise/VB 
+[ janitors/NNS ]
+in/IN 
+[ McCormick/NNP Place/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Stein/NNP 's/POS fee/NN ]
+,/, 
+[ Lee/NNP ]
+said/VBD ,/, was/VBD 
+[ 10/CD ]
+per/IN 
+[ cent/NN ]
+of/IN 
+[ the/DT janitors/NNS '/POS pay/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Stein/NNP ]
+estimated/VBD 
+[ this/DT amount/NN ]
+at/IN ``/`` about/IN 
+[ $/$ 1,500/CD ]
+or/CC 
+[ $/$ 1,600/CD ]
+
+[ a/DT month/NN ]
+''/'' ./. 
+==================================
+
+[ A/DT $/$ 12,500/CD payment/NN Leavitt/NNP ]
+,/, as/IN 
+[ he/PRP ]
+entered/VBD 
+[ the/DT jury/NN room/NN ]
+,/, said/VBD 
+[ he/PRP ]
+was/VBD prepared/VBN to/TO answer/VB 
+[ questions/NNS ]
+about/IN 
+[ the/DT $/$ 12,500/CD his/PRP$ liquor/NN firm/NN ]
+paid/VBN to/TO 
+[ Stein/NNP ]
+for/IN ``/`` 
+[ labor/NN consultant/NN work/NN ]
+''/'' with/IN 
+[ five/CD unions/NNS ]
+
+[ which/WDT ]
+organized/VBD 
+[ Leavitt/NNP 's/POS workers/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Leavitt/NNP ]
+identified/VBD 
+[ the/DT unions/NNS ]
+as/IN 
+[ a/DT warehouseman/NN 's/POS local/JJ ]
+,/, 
+[ the/DT teamsters/NNS union/NN ]
+,/, 
+[ a/DT salesman/NN 's/POS union/NN ]
+,/, 
+[ the/DT janitors/NNS '/POS union/NN ]
+,/, and/CC 
+[ a/DT bottling/NN workers/NNS '/POS union/NN ]
+./. 
+==================================
+
+[ Government/NN attorneys/NNS ]
+,/, 
+[ Leavitt/NNP ]
+said/VBD ,/, have/VBP questioned/VBN 
+[ him/PRP ]
+closely/RB about/IN ``/`` 
+[ five/CD ]
+or/CC 
+[ six/CD loans/NNS ]
+''/'' totaling/VBG about/IN 
+[ $/$ 40,000/CD ]
+
+[ which/WDT ]
+
+[ the/DT liquor/NN company/NN ]
+made/VBN to/TO 
+[ Stein/NNP ]
+in/IN 
+[ the/DT last/JJ year/NN ]
+./. 
+==================================
+
+[ All/DT ]
+of/IN 
+[ the/DT loans/NNS ]
+,/, in/IN 
+[ amounts/NNS ]
+up/IN to/TO 
+[ $/$ 5,000/CD each/DT ]
+,/, have/VBP been/VBN repaid/VBN by/IN 
+[ Stein/NNP ]
+,/, according/VBG to/TO 
+[ Leavitt/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Stein/NNP ]
+said/VBD 
+[ he/PRP ]
+needed/VBD 
+[ the/DT money/NN ]
+,/, 
+[ Leavitt/NNP ]
+said/VBD ,/, to/TO ``/`` meet/VB 
+[ the/DT payroll/NN ]
+''/'' at/IN 
+[ National/NNP Maintenance/NNP company/NN ]
+./. 
+==================================
+
+[ The/DT deodorant/NN firm/NN ]
+run/VBN by/IN 
+[ Pesce/NNP ]
+has/VBZ 
+[ offices/NNS ]
+in/IN 
+[ the/DT headquarters/NN ]
+of/IN 
+[ Glimco/NNP 's/POS discredited/JJ taxi/NN drivers/NNS '/POS union/NN ]
+at/IN 
+[ 1213-15/CD Blue/NNP Island/NNP Av/NNP ]
+../. 
+[ The/DT radiation/NN station/NN ]
+of/IN 
+[ the/DT Chicago/NNP board/NN ]
+of/IN 
+[ health/NN ]
+recorded/VBD 
+[ a/DT reading/NN ]
+of/IN 
+[ 1/CD micro-microcurie/NN ]
+of/IN 
+[ radiation/NN ]
+per/IN 
+[ cubic/JJ meter/NN ]
+of/IN 
+[ air/NN ]
+over/IN 
+[ Chicago/NNP yesterday/NN ]
+./. 
+==================================
+
+[ The/DT reading/NN ]
+,/, 
+[ which/WDT ]
+has/VBZ been/VBN watched/VBN with/IN 
+[ interest/NN ]
+since/IN 
+[ Russia/NNP 's/POS detonation/NN ]
+of/IN 
+[ a/DT super/JJ bomb/NN Monday/NNP ]
+,/, was/VBD 
+[ 4/CD ]
+on/IN 
+[ Tuesday/NNP ]
+and/CC 
+[ 7/CD last/JJ Saturday/NNP ]
+,/, 
+[ a/DT level/NN ]
+far/RB below/IN 
+[ the/DT danger/NN point/NN ]
+,/, according/VBG to/TO 
+[ the/DT board/NN ]
+of/IN 
+[ health/NN ]
+./. 
+==================================
+
+[ The/DT weather/NN bureau/NN ]
+has/VBZ estimated/VBN that/IN 
+[ radioactive/JJ fallout/NN ]
+from/IN 
+[ the/DT test/NN ]
+might/MD arrive/VB here/RB 
+[ next/JJ week/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT board/NN ]
+of/IN 
+[ health/NN spokesman/NN ]
+said/VBD 
+[ there/EX ]
+is/VBZ 
+[ no/DT reason/NN ]
+to/TO believe/VB that/IN 
+[ an/DT increase/NN ]
+in/IN 
+[ the/DT level/NN ]
+here/RB will/MD occur/VB as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ the/DT detonation/NN ]
+./. 
+==================================
+
+[ Curtis/NNP Allen/NNP Huff/NNP ]
+,/, 
+[ 41/CD ]
+,/, of/IN 
+[ 1630/CD Lake/NNP Av./NNP ]
+,/, 
+[ Wilmette/NNP ]
+,/, was/VBD arrested/VBN yesterday/RB on/IN 
+[ a/DT suppressed/JJ federal/JJ warrant/NN ]
+charging/VBG 
+[ him/PRP ]
+with/IN embezzling/VBG 
+[ an/DT undetermined/JJ amount/NN ]
+of/IN 
+[ money/NN ]
+from/IN 
+[ the/DT First/JJ Federal/NNP Savings/NNP ]
+and/CC 
+[ Loan/NNP association/NN ]
+,/, 
+[ 1/CD S./NNP Dearborn/NNP St./NNP ]
+,/, where/WRB 
+[ he/PRP ]
+formerly/RB was/VBD employed/VBN as/IN 
+[ an/DT attorney/NN ]
+./. 
+==================================
+
+[ Federal/JJ prosecutors/NNS ]
+estimated/VBD that/IN 
+[ the/DT amount/NN ]
+may/MD total/VB 
+[ $/$ 20,000/CD ]
+,/, 
+[ altho/IN ]
+
+[ a/DT spokesman/NN ]
+for/IN 
+[ the/DT association/NN ]
+estimated/VBD 
+[ its/PRP$ loss/NN ]
+at/IN approximately/RB 
+[ $/$ 10,000/CD ]
+./. 
+==================================
+
+[ Lien/NN payments/NNS ]
+involved/VBN 
+[ Huff/NNP 's/POS attorney/NN ]
+,/, 
+[ Antone/NNP F./NNP Gregorio/NNP ]
+,/, quoted/VBD 
+[ his/PRP$ client/NN ]
+as/IN saying/VBG 
+[ that/DT part/NN ]
+of/IN 
+[ the/DT embezzlement/NN ]
+represented/VBD 
+[ money/NN ]
+paid/VBN to/TO 
+[ Huff/NNP ]
+,/, as/IN 
+[ attorney/NN ]
+for/IN 
+[ the/DT loan/NN association/NN ]
+,/, in/IN 
+[ satisfaction/NN ]
+of/IN 
+[ mechanic/NN 's/POS liens/NNS ]
+on/IN 
+[ property/NN ]
+on/IN 
+[ which/WDT ]
+
+[ the/DT association/NN ]
+held/VBD 
+[ mortgages/NNS ]
+./. 
+==================================
+
+[ Huff/NNP ]
+told/VBD 
+[ Gregorio/NNP ]
+that/IN 
+[ he/PRP ]
+took/VBD 
+[ the/DT money/NN ]
+to/TO pay/VB ``/`` 
+[ the/DT ordinary/JJ bills/NNS ]
+and/CC 
+[ expenses/NNS ]
+of/IN 
+[ suburban/JJ living/NN ]
+''/'' ./. 
+==================================
+
+[ Huff/NNP ]
+,/, 
+[ who/WP ]
+received/VBD 
+[ a/DT salary/NN ]
+of/IN 
+[ $/$ 109/CD ]
+
+[ a/DT week/NN ]
+from/IN 
+[ the/DT loan/NN association/NN ]
+from/IN 
+[ October/NNP ]
+of/IN 
+[ 1955/CD ]
+until/IN 
+[ September/NNP ]
+of/IN 
+[ this/DT year/NN ]
+,/, said/VBD that/IN 
+[ his/PRP$ private/JJ practice/NN ]
+was/VBD not/RB lucrative/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ Huff/NNP ]
+lives/VBZ with/IN 
+[ his/PRP$ wife/NN ]
+,/, Sue/NNP ,/, and/CC 
+[ their/PRP$ four/CD children/NNS ]
+,/, 
+[ 6/CD ]
+to/TO 
+[ 10/CD years/NNS ]
+old/JJ ,/, in/IN 
+[ a/DT $/$ 25,000/CD home/NN ]
+with/IN 
+[ a/DT $/$ 17,000/CD mortgage/NN ]
+./. 
+==================================
+
+[ Charge/NN ]
+lists/VBZ 
+[ 3/CD checks/NNS ]
+
+[ The/DT complaint/NN ]
+on/IN 
+[ which/WDT ]
+
+[ the/DT warrant/NN ]
+was/VBD issued/VBN was/VBD filed/VBN by/IN 
+[ Leo/NNP Blaber/NNP ]
+,/, 
+[ an/DT attorney/NN ]
+for/IN 
+[ the/DT association/NN ]
+./. 
+==================================
+
+[ The/DT shortage/NN ]
+was/VBD discovered/VBN after/IN 
+[ Huff/NNP ]
+failed/VBD to/TO report/VB for/IN 
+[ work/NN ]
+on/IN 
+[ Sept./NNP 18/CD ]
+./. 
+==================================
+
+==================================
+==================================
+On/IN 
+[ that/DT date/NN ]
+,/, according/VBG to/TO 
+[ Gregorio/NNP ]
+,/, 
+[ Huff/NNP ]
+left/VBD 
+[ his/PRP$ home/NN ]
+and/CC took/VBD 
+[ a/DT room/NN ]
+in/IN 
+[ the/DT New/NNP Lawrence/NNP hotel/NN ]
+at/IN 
+[ 1020/CD Lawrence/NNP Av/NNP ]
+../. There/RB ,/, 
+[ Gregorio/NNP ]
+said/VBD ,/, 
+[ Huff/NNP ]
+wrote/VBD 
+[ a/DT complete/JJ statement/NN ]
+of/IN 
+[ his/PRP$ offense/NN ]
+./. 
+==================================
+Later/RB ,/, 
+[ Huff/NNP ]
+cashed/VBD 
+[ three/CD checks/NNS ]
+for/IN 
+[ $/$ 100/CD each/DT ]
+at/IN 
+[ the/DT Sherman/NNP House/NNP ]
+,/, using/VBG 
+[ a/DT credit/NN card/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ All/DT ]
+bounced/VBD ./. 
+==================================
+When/WRB 
+[ Huff/NNP ]
+attempted/VBD to/TO cash/VB 
+[ another/DT $/$ 100/CD check/NN ]
+there/RB 
+[ Monday/NNP ]
+,/, 
+[ hotel/NN officials/NNS ]
+called/VBD 
+[ police/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Bonn/NNP ]
+,/, 
+[ Oct./NNP 24/CD ]
+(/( 
+[ UPI/NNP ]
+)/) --/: 
+[ Greece/NNP ]
+and/CC 
+[ West/NNP Germany/NNP ]
+have/VBP ratified/VBN 
+[ an/DT agreement/NN ]
+under/IN 
+[ which/WDT ]
+
+[ Germany/NNP ]
+will/MD pay/VB 
+[ $/$ 28,700,000/CD ]
+to/TO 
+[ Greek/NNP victims/NNS ]
+of/IN 
+[ Nazi/NNP persecution/NN ]
+,/, 
+[ it/PRP ]
+was/VBD announced/VBN 
+[ today/RB ]
+./. 
+==================================
+==================================
+==================================

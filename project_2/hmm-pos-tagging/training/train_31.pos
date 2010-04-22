@@ -1,0 +1,1773 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ The/DT red/JJ glow/NN ]
+from/IN 
+[ the/DT cove/NN ]
+had/VBD died/VBN out/IN of/IN 
+[ the/DT sky/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT two/CD ]
+in/IN 
+[ the/DT bed/NN ]
+knew/VBD 
+[ each/DT other/JJ ]
+as/IN 
+[ old/JJ people/NNS ]
+know/VBP 
+[ the/DT partners/NNS ]
+with/IN 
+[ whom/WP ]
+
+[ they/PRP ]
+have/VBP shared/VBN 
+[ the/DT same/JJ bed/NN ]
+for/IN 
+[ many/JJ years/NNS ]
+,/, and/CC 
+[ they/PRP ]
+needed/VBD to/TO say/VB 
+[ no/DT more/JJR ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT things/NNS ]
+left/VBD 
+[ unsaid/JJ they/PRP ]
+
+[ both/DT ]
+felt/VBD deeply/RB ,/, and/CC with/IN 
+[ a/DT sigh/NN ]
+
+[ they/PRP ]
+fell/VBD back/RB on/IN 
+[ the/DT well-stuffed/JJ pillows/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Anita/NNP ]
+put/VBN out/RP 
+[ the/DT remaining/VBG candles/NNS ]
+with/IN 
+[ a/DT long/JJ snuffer/NN ]
+,/, and/CC in/IN 
+[ the/DT smell/NN ]
+of/IN 
+[ scented/JJ candlewick/NN ]
+,/, 
+[ the/DT comforting/VBG awareness/NN ]
+of/IN 
+[ each/DT other/JJ ]
+
+[ 's/POS bodies/NNS ]
+,/, 
+[ the/DT retained/VBN pattern/NN ]
+of/IN 
+[ dancers/NNS ]
+and/CC 
+[ guests/NNS ]
+remembered/VBN ,/, 
+[ their/PRP$ minds/NNS ]
+grew/VBD 
+[ numb/JJ ]
+and/CC then/RB empty/JJ of/IN 
+[ images/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+slept/VBD --/: 
+[ Mynheer/NNP ]
+with/IN 
+[ a/DT ]
+marvelously/RB 
+[ high-pitched/JJ snoring/NN ]
+,/, 
+[ the/DT damn/JJ seahorse/NN ivory/NN teeth/NNS ]
+watching/VBG 
+[ him/PRP ]
+from/IN 
+[ a/DT bedside/NN table/NN ]
+./. 
+==================================
+In/IN 
+[ the/DT ballroom/NN ]
+below/RB ,/, 
+[ the/DT dark/NN ]
+had/VBD given/VBN 
+[ way/NN ]
+to/TO moonlight/VB coming/VBG in/IN through/IN 
+[ the/DT bank/NN ]
+of/IN 
+[ French/JJ windows/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD 
+[ a/DT delayed/VBN moon/NN ]
+,/, but/CC now/RB 
+[ the/DT sky/NN ]
+had/VBD cleared/VBN of/IN scudding/VBG 
+[ black/JJ ]
+and/CC 
+[ the/DT stars/NNS ]
+sugared/VBN 
+[ the/DT silver-gray/JJ sky/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Martha/NNP Schuyler/NNP ]
+,/, 
+[ old/JJ ]
+,/, 
+[ slow/JJ ]
+,/, 
+[ careful/JJ ]
+of/IN 
+[ foot/NN ]
+,/, came/VBD down/IN 
+[ the/DT great/JJ staircase/NN ]
+,/, dressed/VBN in/IN 
+[ her/PRP$ best/JJS lace-drawn/JJ black/JJ silk/NN ]
+,/, 
+[ her/PRP$ jeweled/JJ shoe/NN buckles/NNS ]
+held/VBD forward/RB ./. 
+==================================
+``/`` Well/UH ,/, 
+[ I/PRP ]
+'m/VBP here/RB at/IN 
+[ last/JJ ]
+''/'' ,/, 
+[ she/PRP ]
+said/VBD ,/, addressing/VBG 
+[ the/DT old/JJ portraits/NNS ]
+on/IN 
+[ the/DT walls/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ I/PRP ]
+do/VBP n't/RB hear/VB 
+[ the/DT music/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ I/PRP ]
+am/VBP getting/VBG 
+[ deaf/JJ ]
+,/, 
+[ I/PRP ]
+must/MD admit/VB 
+[ it/PRP ]
+''/'' ./. 
+==================================
+
+[ She/PRP ]
+came/VBD to/TO 
+[ the/DT ballroom/NN ]
+and/CC stood/VBD on/IN 
+[ the/DT two/CD carpeted/VBN steps/NNS ]
+
+[ that/WDT ]
+led/VBD down/IN to/TO 
+[ it/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` Where/WRB is/VBZ 
+[ everyone/NN ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ I/PRP ]
+say/VBP ,/, where/WRB is/VBZ 
+[ everyone/NN ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ Peter/NNP ]
+,/, 
+[ you/PRP ]
+
+[ lummox/NN ]
+,/, 
+[ you/PRP ]
+'ve/VBP forgot/VBD to/TO order/VB 
+[ the/DT musicians/NNS ]
+''/'' ./. 
+==================================
+
+[ She/PRP ]
+stood/VBD 
+[ there/EX ]
+,/, 
+[ a/DT large/JJ old/JJ woman/NN ]
+,/, smiling/VBG at/IN 
+[ the/DT things/NNS ]
+
+[ she/PRP ]
+would/MD say/VB to/TO 
+[ him/PRP ]
+in/IN 
+[ the/DT morning/NN ]
+,/, 
+[ this/DT big/JJ foolish/JJ baby/NN ]
+of/IN 
+[ a/DT son/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ There/EX ]
+were/VBD 
+[ times/NNS ]
+now/RB ,/, like/IN 
+[ this/DT ]
+,/, when/WRB 
+[ she/PRP ]
+lost/VBD 
+[ control/NN ]
+of/IN 
+[ the/DT time/NN count/NN ]
+and/CC moved/VBD freely/RB back/RB and/CC forth/RB into/IN 
+[ three/CD generations/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Was/VBD 
+[ it/PRP ]
+
+[ a/DT birthday/NN ball/NN ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ Peter/NNP ]
+had/VBD reached/VBN 
+[ his/PRP$ majority/NN ]
+at/IN 
+[ eighteen/CD ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+Or/CC was/VBD 
+[ it/PRP her/PRP$ own/JJ first/JJ ball/NN ]
+as/IN 
+[ mistress/NN ]
+of/IN 
+[ this/DT big/JJ house/NN ]
+,/, 
+[ a/DT Van/NNP Rensselaer/NNP bride/NN ]
+from/IN 
+[ way/NN upstate/RB ]
+near/IN 
+[ Albany/NNP ]
+,/, from/IN 
+[ Rensselaerwyck/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+And/CC 
+[ this/DT handsome/JJ booby/NN ]
+,/, staring/VBG and/CC sweating/VBG ,/, was/VBD 
+[ he/PRP ]
+
+[ her/PRP ]
+
+[ bridegroom/NN ]
+?/. ?/. 
+==================================
+
+[ Martha/NNP ]
+picked/VBD up/RP 
+[ the/DT hem/NN ]
+of/IN 
+[ her/PRP$ gown/NN ]
+and/CC with/IN 
+[ eyes/NNS ]
+closed/VBN 
+[ she/PRP ]
+slowly/RB began/VBD to/TO dance/VB 
+[ a/DT stately/JJ minuet/NN ]
+around/IN 
+[ the/DT ballroom/NN ]
+./. 
+==================================
+
+[ David/NNP Cortlandt/NNP ]
+was/VBD tired/VBN beyond/IN almost/RB 
+[ the/DT limits/NNS ]
+of/IN 
+[ his/PRP$ flesh/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+had/VBD ridden/VBN hard/RB from/IN 
+[ Boston/NNP ]
+,/, and/CC 
+[ he/PRP ]
+was/VBD not/RB used/VBN to/TO 
+[ horseback/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Now/RB ,/, driving/VBG 
+[ the/DT horse/NN ]
+and/CC 
+[ sulky/NN ]
+borrowed/VBN from/IN 
+[ Mynheer/NNP Schuyler/NNP ]
+,/, 
+[ he/PRP ]
+felt/VBD as/IN if/IN 
+[ every/DT bone/NN ]
+was/VBD topped/VBN by/IN 
+[ burning/VBG oil/NN ]
+and/CC that/IN 
+[ every/DT muscle/NN ]
+was/VBD ready/JJ to/TO dissolve/VB into/IN 
+[ jelly/NN ]
+and/CC leave/VB 
+[ his/PRP$ big/JJ body/NN ]
+helpless/JJ and/CC unable/JJ to/TO move/VB ./. 
+==================================
+
+[ The/DT road/NN ]
+leading/VBG south/RB along/IN 
+[ the/DT river/NN ]
+was/VBD shaded/VBN with/IN 
+[ old/JJ trees/NNS ]
+,/, and/CC in/IN 
+[ the/DT moonlight/NN ]
+
+[ the/DT silvery/JJ landscape/NN ]
+was/VBD like/IN 
+[ a/DT setting/NN ]
+for/IN 
+[ trolls/NNS ]
+and/CC 
+[ wood/NN gods/NNS ]
+rather/RB than/IN 
+[ the/DT Hudson/NNP River/NNP Valley/NNP ]
+of/IN 
+[ his/PRP$ boyhood/NN memories/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+slapped/VBD 
+[ the/DT reins/NNS ]
+on/IN 
+[ the/DT back/NN ]
+of/IN 
+[ the/DT powerful/JJ gray/JJ horse/NN ]
+and/CC held/VBD on/RB as/IN 
+[ the/DT sulky/NN 's/POS wheels/NNS ]
+hit/VBD 
+[ a/DT pothole/NN ]
+and/CC came/VBD out/RB with/IN 
+[ a/DT jolt/NN ]
+and/CC went/VBD on/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+would/MD cross/VB to/TO 
+[ Manhattan/NNP ]
+,/, to/TO 
+[ Harlem/NNP Heights/NNP ]
+,/, before/IN 
+[ morning/NN ]
+./. 
+==================================
+
+==================================
+==================================
+There/RB 
+[ a/DT certain/JJ farmhouse/NN ]
+was/VBD 
+[ a/DT station/NN ]
+for/IN 
+[ the/DT Sons/NNPS ]
+of/IN 
+[ Liberty/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+would/MD send/VB on/RB by/IN 
+[ trusted/VBN messenger/NN ]
+
+[ the/DT dispatches/NNS ]
+with/IN 
+[ their/PRP$ electrifying/JJ news/NN ]
+./. 
+==================================
+
+==================================
+==================================
+And/CC 
+[ he/PRP ]
+would/MD sleep/VB ,/, sleep/VB ,/, and/CC never/RB think/VB of/IN 
+[ roads/NNS ]
+and/CC 
+[ horses/NNS '/POS sore/JJ haunches/NNS ]
+,/, of/IN 
+[ colonial/JJ wars/NNS ]
+./. 
+==================================
+
+[ Strange/JJ ]
+how/WRB 
+[ everything/NN ]
+here/RB fitted/VBN back/RB into/IN 
+[ his/PRP$ life/NN ]
+,/, even/RB if/IN 
+[ he/PRP ]
+had/VBD been/VBN away/RB so/RB long/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ Mynheer/NNP ]
+,/, 
+[ Sir/NNP Francis/NNP ]
+,/, 
+[ the/DT valley/NN society/NN ]
+,/, 
+[ the/DT very/JJ smell/NN ]
+of/IN 
+[ the/DT river/NN ]
+on/IN 
+[ his/PRP$ right/NN ]
+purling/VBG along/IN to/TO 
+[ the/DT bay/NN ]
+past/IN 
+[ fish/NN weirs/NNS ]
+and/CC 
+[ rocks/NNS ]
+,/, and/CC ahead/RB 
+[ the/DT sleepy/JJ ribbon/NN ]
+of/IN 
+[ moon-drenched/JJ road/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT mist/NN ]
+was/VBD walking/VBG on/IN 
+[ the/DT water/NN ]
+,/, white/JJ as/IN 
+[ cotton/NN ]
+,/, but/CC with/IN 
+[ a/DT blending/VBG ]
+and/CC 
+[ merging/VBG grace/NN ]
+./. 
+==================================
+Ahead/RB 
+[ there/EX ]
+was/VBD 
+[ a/DT stirring/NN ]
+of/IN 
+[ sudden/JJ movement/NN ]
+at/IN 
+[ a/DT crossroads/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ David/NNP ]
+reached/VBD for/IN 
+[ the/DT pair/NN ]
+of/IN 
+[ pistols/NNS ]
+in/IN 
+[ the/DT saddlebags/NNS ]
+at/IN 
+[ his/PRP$ feet/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+pulled/VBD out/RP 
+[ one/CD ]
+of/IN 
+[ them/PRP ]
+and/CC cocked/VBD 
+[ it/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT strange/JJ wood/NN creature/NN ]
+came/VBD floating/VBG up/RB from/IN 
+[ a/DT patch/NN ]
+of/IN 
+[ berry/NN bushes/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD 
+[ a/DT grotesque/JJ hen/NN ]
+,/, 
+[ five/CD ]
+or/CC 
+[ six/CD feet/NNS ]
+tall/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+had/VBD 
+[ the/DT features/NNS ]
+of/IN 
+[ a/DT man/NN ]
+bewhiskered/JJ by/IN 
+[ clumps/NNS ]
+of/IN 
+[ loose/JJ feathers/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+ran/VBD ,/, 
+[ this/DT apocalyptic/JJ beast/NN ]
+,/, on/IN 
+[ two/CD thin/JJ legs/NNS ]
+,/, and/CC 
+[ its/PRP$ wings/NNS ]
+--/: were/VBD 
+[ they/PRP ]
+
+[ feathered/JJ arms/NNS ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+--/: flapped/VBD as/IN 
+[ it/PRP ]
+ran/VBD ./. 
+==================================
+
+==================================
+==================================
+
+[ Its/PRP$ groin/NN ]
+was/VBD bloody/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ Black/JJ strips/NNS ]
+of/IN 
+[ skin/NN ]
+hung/VBD from/IN 
+[ it/PRP ]
+./. 
+==================================
+
+[ The/DT horse/NN ]
+shied/VBD at/IN 
+[ the/DT dreadful/JJ thing/NN ]
+and/CC flared/VBD 
+[ its/PRP$ nostrils/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ David/NNP ]
+took/VBD 
+[ a/DT firm/JJ hand/NN ]
+with/IN 
+[ it/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT creature/NN ]
+in/IN 
+[ feathers/NNS ]
+looked/VBD around/RB and/CC 
+[ David/NNP ]
+saw/VBD 
+[ the/DT mad/JJ eyes/NNS ]
+,/, glazed/VBN with/IN 
+[ an/DT insane/JJ fear/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT ungainly/JJ bird/NN thing/NN ]
+ran/VBD away/RB ,/, and/CC to/TO 
+[ David/NNP its/PRP$ croaking/NN ]
+sounded/VBD like/IN 
+[ the/DT crowing/NN ]
+of/IN 
+[ a/DT tormented/JJ rooster/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Then/RB 
+[ it/PRP ]
+was/VBD gone/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+drove/VBD on/RB ,/, 
+[ wary/JJ ]
+and/CC shaken/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT Sons/NNPS ]
+were/VBD out/RB tonight/RB ./. 
+==================================
+
+[ Chapter/NN 10/CD New/NNP York/NNP ]
+lay/VBD bleaching/VBG in/IN 
+[ the/DT summer/NN sun/NN ]
+,/, and/CC 
+[ the/DT morning/NN fish/NN hawk/NN ]
+,/, flying/VBG in/IN 
+[ the/DT heated/VBN air/NN ]
+,/, saw/VBD below/IN 
+[ him/PRP ]
+
+[ the/DT long/JJ triangular/JJ wedge/NN ]
+of/IN 
+[ Manhattan/NNP Island/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD thickly/RB settled/VBN by/IN 
+[ fifteen/CD thousand/CD citizens/NNS ]
+and/CC laid/VBD out/RB into/IN 
+[ pig-infested/JJ streets/NNS ]
+,/, mostly/RB around/IN 
+[ the/DT Battery/NNP ]
+,/, going/VBG bravely/RB north/RB to/TO 
+[ Wall/NNP Street/NNP ]
+,/, but/CC giving/VBG up/RB and/CC 
+[ becoming/VBG fields/NNS ]
+and/CC 
+[ farms/NNS ]
+in/IN 
+[ the/DT region/NN ]
+of/IN 
+[ Harlem/NNP Heights/NNP ]
+./. 
+==================================
+From/IN there/RB 
+[ it/PRP ]
+looked/VBD across/IN at/IN 
+[ Westchester/NNP County/NNP ]
+and/CC 
+[ the/DT Hudson/NNP River/NNP ]
+where/WRB 
+[ the/DT manor/NN houses/NNS ]
+,/, 
+[ estates/NNS ]
+,/, and/CC 
+[ big/JJ farms/NNS ]
+of/IN 
+[ the/DT original/JJ ]
+(/( non-Indian/JJ )/) 
+[ landowners/NNS ]
+began/VBD ./. 
+==================================
+On/IN 
+[ the/DT east/JJ side/NN ]
+of/IN 
+[ the/DT island/NN ]
+of/IN 
+[ Manhattan/NNP ]
+
+[ the/DT indifferent/JJ hawk/NN ]
+knew/VBD 
+[ the/DT East/NNP River/NNP ]
+
+[ that/WDT ]
+connected/VBD 
+[ New/NNP York/NNP Bay/NNP ]
+with/IN 
+[ Long/NNP Island/NNP Sound/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+On/IN 
+[ the/DT western/JJ tip/NN ]
+of/IN 
+[ Long/NNP Island/NNP ]
+protruded/VBD 
+[ Brooklyn/NNP Heights/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+commanded/VBD 
+[ a/DT view/NN ]
+over/IN 
+[ Manhattan/NNP ]
+and/CC 
+[ the/DT harbor/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT fringe/NN ]
+of/IN 
+[ housing/NN ]
+and/CC 
+[ gardens/NNS ]
+bearded/VBD 
+[ the/DT top/NN ]
+of/IN 
+[ the/DT heights/NNS ]
+,/, and/CC behind/IN 
+[ it/PRP ]
+were/VBD 
+[ sandy/JJ roads/NNS ]
+leading/VBG 
+[ past/JJ farms/NNS ]
+and/CC 
+[ hayfields/NNS ]
+./. 
+==================================
+
+[ Husbandry/NN ]
+was/VBD bounded/VBN by/IN 
+[ snake-rail/JJ fences/NNS ]
+,/, and/CC 
+[ there/EX ]
+were/VBD 
+[ grazing/JJ cattle/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+On/IN 
+[ the/DT shores/NNS ]
+north/RB and/CC south/RB ,/, 
+[ the/DT fishers/NNS ]
+and/CC 
+[ mooncursers/NNS ]
+--/: 
+[ smugglers/NNS ]
+--/: lived/VBD along/IN 
+[ the/DT ]
+churning/VBG 
+[ Great/NNP South/NNP Bay/NNP ]
+and/CC 
+[ the/DT narrow/JJ barrier/NN ]
+of/IN 
+[ sand/NN ]
+,/, 
+[ Fire/NNP Island/NNP ]
+./. 
+==================================
+
+[ The/DT morning/NN hawk/NN ]
+,/, hungry/JJ for/IN 
+[ any/DT eatable/JJ ]
+,/, 
+[ killable/JJ ]
+,/, 
+[ digestible/JJ item/NN ]
+,/, kept/VBD 
+[ his/PRP$ eyes/NNS ]
+on/IN 
+[ the/DT ring/NN ]
+of/IN 
+[ anchored/JJ ships/NNS ]
+
+[ that/WDT ]
+lay/VBD off/IN 
+[ the/DT shores/NNS ]
+in/IN 
+[ the/DT bay/NN ]
+,/, sheltered/VBN by/IN 
+[ the/DT Jersey/NNP inlets/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+often/RB threw/VBD 
+[ tidbits/NNS ]
+overboard/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT larger/JJR ships/NNS ]
+were/VBD near/IN 
+[ Paulus/NNP Hook/NNP ]
+,/, already/RB being/VBG called/VBN ,/, by/IN 
+[ a/DT few/JJ ]
+,/, 
+[ Jersey/NNP City/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT ]
+were/VBD 
+[ the/DT ships/NNS ]
+of/IN 
+[ His/PRP$ Majesty/NNP 's/POS Navy/NNP ]
+,/, herding/VBG 
+[ the/DT hulks/NNS ]
+of/IN 
+[ the/DT East/NNP Indies/NNPS merchants/NNS ]
+and/CC 
+[ the/DT yachts/NNS ]
+and/CC 
+[ ketches/NNS ]
+of/IN 
+[ the/DT loyalists/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT news/NN ]
+of/IN 
+[ battle/NN ]
+on/IN 
+[ Breed/NNP 's/POS Hill/NNP ]
+had/VBD already/RB seeped/VBN through/IN ,/, and/CC 
+[ New/NNP York/NNP itself/PRP ]
+was/VBD now/RB left/VBN in/IN 
+[ the/DT hands/NNS ]
+of/IN 
+[ the/DT local/JJ Provincial/NNP Congress/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT fish/NN hawk/NN ]
+,/, 
+[ his/PRP$ wings/NNS ]
+not/RB moving/VBG ,/, circled/VBD and/CC glided/VBD 
+[ lower/JJR ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT gilt/JJ sterns/NNS ]
+of/IN 
+[ the/DT men-of-war/NNS ]
+becoming/VBG 
+[ clearer/JJR ]
+to/TO 
+[ him/PRP ]
+,/, 
+[ the/DT sides/NNS ]
+of/IN 
+[ the/DT wooden/JJ sea/NN walls/NNS ]
+alternately/RB painted/VBN 
+[ yellow/JJ ]
+and/CC 
+[ black/JJ ]
+,/, 
+[ the/DT bronze/JJ cannon/NN ]
+at/IN 
+[ the/DT ports/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT captain/NN 's/POS gig/NN ]
+of/IN 
+[ H.M.S./NNP Mercury/NNP ]
+was/VBD being/VBG rowed/VBD to/TO 
+[ H.M.S./NNP Neptune/NNP ]
+./. 
+==================================
+On/IN 
+[ shore/NN ]
+``/`` 
+[ the/DT freed/JJ slaves/NNS ]
+to/TO 
+[ despotism/NN ]
+''/'' --/: 
+[ the/DT town/NN dwellers/NNS ]
+--/: watched/VBD 
+[ the/DT ships/NNS ]
+and/CC waited/VBD ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT chevaux/FW ]
+de/FW 
+[ frise/FW ]
+,/, 
+[ those/DT sharp/JJ stakes/NNS ]
+and/CC 
+[ barriers/NNS ]
+around/IN 
+[ the/DT fort/NN ]
+at/IN 
+[ the/DT Battery/NNP ]
+,/, pointed/VBD to/TO 
+[ a/DT conflict/NN ]
+between/IN 
+[ the/DT town/NN ]
+and/CC 
+[ sea/NN power/NN ]
+rolling/VBG in/IN 
+[ glassy/JJ swells/NNS ]
+as/IN 
+[ the/DT tide/NN ]
+came/VBD in/RB ./. 
+==================================
+
+==================================
+==================================
+Across/IN 
+[ the/DT bay/NN ]
+
+[ the/DT Palisades/NNPS ]
+were/VBD heavy/JJ in/IN 
+[ green/JJ timber/NN ]
+;/: ;/: 
+[ their/PRP$ rock/NN paths/NNS ]
+led/VBD down/IN to/TO 
+[ the/DT Hudson/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+Below/IN in/IN 
+[ the/DT open/JJ bay/NN ]
+facing/VBG 
+[ Manhattan/NNP ]
+was/VBD 
+[ Staten/NNP Island/NNP ]
+,/, 
+[ gritty/JJ ]
+with/IN 
+[ clam/NN shells/NNS ]
+and/CC 
+[ mud/NN flats/NNS ]
+behind/IN 
+[ which/WDT ]
+nested/VBD 
+[ farms/NNS ]
+,/, 
+[ cattle/NNS barns/NNS ]
+,/, and/CC 
+[ berry/NN thickets/NNS ]
+./. 
+==================================
+Along/IN 
+[ Wappinger/NNP Creek/NNP ]
+in/IN 
+[ Dutchess/NNP County/NNP ]
+,/, past/IN 
+[ the/DT white/JJ church/NN ]
+at/IN 
+[ Fishkill/NNP ]
+,/, 
+[ past/JJ Verplanck/NNP 's/POS Point/NNP ]
+on/IN 
+[ the/DT east/JJ bank/NN ]
+of/IN 
+[ the/DT Hudson/NNP ]
+,/, to/TO 
+[ the/DT white/JJ salt-crusted/JJ roads/NNS ]
+of/IN 
+[ the/DT Long/NNP Island/NNP Rockaways/NNPS there/EX ]
+was/VBD 
+[ a/DT watching/NN ]
+and/CC 
+[ an/DT activity/NN ]
+of/IN preparing/VBG for/IN 
+[ something/NN ]
+explosive/JJ to/TO happen/VB ./. 
+==================================
+
+==================================
+==================================
+
+[ Today/RB ]
+,/, 
+[ tomorrow/RB ]
+,/, 
+[ six/CD months/NNS ]
+,/, even/RB perhaps/RB 
+[ a/DT year/NN ]
+
+[ The/DT fish/NN hawk/NN ]
+flew/VBD on/RB and/CC was/VBD lost/VBN from/IN 
+[ sight/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT British/JJ ships/NNS ]
+rolled/VBD at/IN 
+[ anchor/NN ]
+,/, sent/VBN out/RP 
+[ picket/NN boats/NNS ]
+and/CC waited/VBD for/IN 
+[ orders/NNS ]
+from/IN 
+[ London/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+Waited/VBN for/IN 
+[ more/JJR ships/NNS ]
+,/, 
+[ more/RBR lobster-backed/JJ infantry/NN ]
+,/, and/CC asked/VBD 
+[ what/WP ]
+was/VBD to/TO be/VB done/VBN with/IN 
+[ a/DT war/NN ]
+of/IN 
+[ rebellion/NN ]
+?/. ?/. 
+==================================
+
+[ David/NNP Cortlandt/NNP ]
+,/, having/VBG slept/VBN away/RB 
+[ a/DT day/NN ]
+and/CC 
+[ a/DT night/NN ]
+,/, came/VBD awake/RB in/IN 
+[ a/DT plank/NN farmhouse/NN ]
+on/IN 
+[ the/DT Harlem/NNP River/NNP ]
+near/IN 
+[ Spuyten/NNP Duyvil/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+looked/VBD out/RB through/IN 
+[ windowpanes/NNS ]
+turned/VBD 
+[ a/DT faint/JJ violet/NN ]
+by/IN 
+[ sun/NN ]
+and/CC 
+[ weather/NN ]
+,/, looked/VBD out/RB at/IN 
+[ King/NNP 's/POS Bridge/NNP ]
+toward/IN 
+[ Westchester/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT road/NN ]
+seemed/VBD animated/VBN with/IN 
+[ a/DT few/JJ more/JJR wagons/NNS ]
+than/IN 
+[ usual/JJ ]
+;/: ;/: 
+[ a/DT carriage/NN ]
+raising/RP up/IN 
+[ the/DT ]
+choking/VBG 
+[ June/NNP dust/NN ]
+,/, and/CC beyond/RB ,/, in/IN 
+[ a/DT meadow/NN ]
+,/, 
+[ a/DT local/JJ militia/NN company/NN ]
+drilling/VBG with/IN 
+[ muskets/NNS ]
+,/, 
+[ Kentuck/NNP ]
+'/'' 
+[ rifles/NNS ]
+,/, 
+[ every/DT kind/NN ]
+of/IN 
+[ horse/NN pistol/NN ]
+,/, 
+[ old/JJ sword/NN ]
+,/, or/CC 
+[ cutlass/NN ]
+./. 
+==================================
+
+[ The/DT wraith-like/JJ events/NNS ]
+of/IN 
+[ the/DT last/JJ few/JJ days/NNS ]
+flooded/VBD 
+[ David/NNP 's/POS mind/NN ]
+and/CC 
+[ he/PRP ]
+rubbed/VBD 
+[ his/PRP$ unshaved/JJ chin/NN ]
+and/CC felt/VBD again/RB 
+[ the/DT ache/NN ]
+in/IN 
+[ his/PRP$ kidneys/NNS ]
+caused/VBN by/IN 
+[ his/PRP$ saddle/NN odyssey/NN ]
+from/IN 
+[ Boston/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Pensive/JJ ]
+,/, 
+[ introspective/JJ ]
+,/, 
+[ he/PRP ]
+ached/VBD ./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+had/VBD sent/VBN 
+[ the/DT dispatches/NNS downtown/RB ]
+to/TO 
+[ the/DT proper/JJ people/NNS ]
+and/CC had/VBD slept/VBN ./. 
+==================================
+
+==================================
+==================================
+Now/RB 
+[ there/EX ]
+was/VBD more/NN to/TO do/VB ./. 
+==================================
+
+==================================
+==================================
+
+[ Orders/NNS ]
+not/RB written/VBN down/RB had/VBD to/TO be/VB transmitted/VBN to/TO 
+[ the/DT local/JJ provincial/JJ government/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+scratched/VBD 
+[ his/PRP$ mosquito-plagued/JJ neck/NN ]
+./. 
+==================================
+From/IN 
+[ the/DT saddlebags/NNS ]
+,/, hung/VBD on/IN 
+[ a/DT Hitchcock/NNP chair/NN ]
+,/, 
+[ David/NNP ]
+took/VBD out/RP 
+[ a/DT good/JJ English/NNP razor/NN ]
+,/, 
+[ a/DT present/NN ]
+from/IN 
+[ John/NNP Hunter/NNP ]
+./. 
+==================================
+
+[ He/PRP ]
+found/VBD 
+[ tepid/JJ water/NN ]
+in/IN 
+[ a/DT pitcher/NN ]
+and/CC 
+[ a/DT last/JJ bit/NN ]
+of/IN 
+[ soap/NN ]
+,/, and/CC 
+[ he/PRP ]
+lathered/VBD 
+[ his/PRP$ face/NN ]
+and/CC stood/VBD stropping/VBG 
+[ the/DT razor/NN ]
+on/IN 
+[ his/PRP$ broad/JJ leather/NN belt/NN ]
+,/, 
+[ its/PRP$ buckle/NN ]
+held/VBN 
+[ firm/NN  ]
+by/IN 
+[ a/DT knob/NN ]
+of/IN 
+[ the/DT bedpost/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+hoped/VBD 
+[ he/PRP ]
+was/VBD free/JJ of/IN 
+[ self-deception/NN ]
+./. 
+==================================
+Here/RB 
+[ he/PRP ]
+was/VBD ,/, suddenly/RB caught/VBD up/RB in/IN 
+[ the/DT delirium/NN ]
+of/IN 
+[ a/DT war/NN ]
+,/, in/IN 
+[ the/DT spite/NN ]
+and/CC 
+[ calumny/NN ]
+of/IN 
+[ Whigs/NNPS ]
+and/CC 
+[ Tories/NNPS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ There/EX ]
+would/MD be/VB 
+[ great/JJ need/NN ]
+soon/RB for/IN 
+[ his/PRP$ skill/NN ]
+as/IN 
+[ surgeon/NN ]
+,/, but/CC somehow/RB 
+[ he/PRP ]
+had/VBD not/RB planned/VBN to/TO use/VB 
+[ his/PRP$ knowledge/NN ]
+merely/RB for/IN 
+[ war/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ David/NNP Cortlandt/NNP ]
+had/VBD 
+[ certain/JJ psychic/JJ intuitions/NNS ]
+that/IN 
+[ this/DT rebellion/NN ]
+was/VBD not/RB wholly/RB 
+[ what/WP ]
+
+[ it/PRP ]
+appeared/VBD on/IN 
+[ the/DT surface/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+knew/VBD that/IN 
+[ many/JJ ]
+were/VBD using/VBG 
+[ it/PRP ]
+for/IN 
+[ their/PRP$ own/JJ ends/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ it/PRP ]
+did/VBD not/RB 
+[ matter/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+
+[ stropped/VBD ]
+
+[ the/DT razor/NN ]
+slowly/RB ;/: ;/: 
+[ what/WP ]
+mattered/VBD was/VBD that/IN 
+[ a/DT new/JJ concept/NN ]
+of/IN 
+[ Americans/NNPS ]
+was/VBD being/VBG born/VBN ./. 
+==================================
+That/IN 
+[ some/DT men/NNS ]
+did/VBD not/RB want/VB 
+[ it/PRP ]
+
+[ he/PRP ]
+could/MD understand/VB ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT moral/JJ aridity/NN ]
+of/IN 
+[ merchants/NNS ]
+made/VBD 
+[ them/PRP ]
+loyal/JJ usually/RB to/TO 
+[ their/PRP$ ledgers/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Yet/RB some/RB ,/, like/IN 
+[ Morris/NNP Manderscheid/NNP ]
+,/, would/MD bankrupt/VB 
+[ themselves/PRP ]
+for/IN 
+[ the/DT new/JJ ideas/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Unique/JJ circumstances/NNS ]
+would/MD test/VB 
+[ us/PRP ]
+
+[ all/DT ]
+,/, 
+[ he/PRP ]
+decided/VBD ./. 
+==================================
+
+==================================
+==================================
+
+[ Injury/NN ]
+and/CC 
+[ ingratitude/NN ]
+would/MD occur/VB ./. 
+==================================
+
+==================================
+==================================
+
+[ No/DT doubt/NN John/NNP Hancock/NNP ]
+would/MD do/VB well/RB now/RB ;/: ;/: 
+[ war/NN ]
+was/VBD 
+[ a/DT smugglers/NNS '/POS heaven/NN ]
+./. 
+==================================
+
+==================================
+==================================
+And/CC 
+[ what/WP ]
+of/IN 
+[ that/DT poor/JJ ]
+tarred/VBN and/CC feathered/VBN 
+[ wretch/NN ]
+
+[ he/PRP ]
+had/VBD seen/VBN on/IN 
+[ the/DT road/NN ]
+driving/VBG down/RB from/IN 
+[ Schuyler/NNP 's/POS ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ Things/NNS ]
+like/IN 
+[ that/DT ]
+would/MD increase/VB rather/RB than/IN be/VB done/VBN away/RB with/IN ./. 
+==================================
+
+==================================
+==================================
+
+[ One/PRP ]
+had/VBD to/TO believe/VB in/IN 
+[ final/JJ events/NNS ]
+or/CC 
+[ one/PRP ]
+was/VBD stranded/VBN in/IN 
+[ the/DT abyss/NN ]
+of/IN 
+[ nothing/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+saw/VBD with/IN 
+[ John/NNP Hunter/NNP ]
+now/RB that/IN 
+[ the/DT perfectability/NN ]
+of/IN 
+[ man/NN ]
+was/VBD 
+[ a/DT dream/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Life/NN ]
+was/VBD 
+[ a/DT short/JJ play/NN ]
+of/IN 
+[ tenebrous/JJ shadows/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ David/NNP ]
+began/VBD to/TO shave/VB with/IN 
+[ great/JJ sweeping/VBG strokes/NNS ]
+./. 
+==================================
+
+[ Time/NN ]
+plays/VBZ 
+[ an/DT essential/JJ part/NN ]
+in/IN 
+[ our/PRP$ mortality/NN ]
+,/, and/CC suddenly/RB for/IN 
+[ no/DT reason/NN ]
+
+[ he/PRP ]
+could/MD imagine/VB (/( or/CC admit/VB )/) 
+[ the/DT image/NN ]
+of/IN 
+[ Peg/NNP ]
+laughing/VBG filled/VBD 
+[ his/PRP$ mind/NN ]
+--/: so/RB desirable/JJ ,/, so/RB lusty/JJ ,/, so/RB full/JJ of/IN 
+[ nuances/NNS ]
+of/IN 
+[ pleasure/NN ]
+and/CC 
+[ joy/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+drove/VBD 
+[ sensual/JJ patterns/NNS ]
+off/RP ,/, carefully/RB shaving/VBG 
+[ his/PRP$ long/JJ upper/JJ lip/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ harder/JJR ,/, 
+[ he/PRP ]
+muttered/VBD ,/, to/TO meditate/VB on/IN 
+[ man/NN ]
+(/( or/CC 
+[ woman/NN ]
+)/) than/IN on/IN 
+[ God/NNP ]
+./. 
+==================================
+
+[ David/NNP ]
+finished/VBD shaving/NN ,/, washed/VBD 
+[ his/PRP$ face/NN ]
+clean/JJ of/IN 
+[ lather/NN ]
+,/, and/CC combed/VBD and/CC retied/VBD 
+[ his/PRP$ hair/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+was/VBD proud/JJ that/IN 
+[ he/PRP ]
+had/VBD never/RB worn/VBN 
+[ a/DT wig/NN ]
+./. 
+==================================
+
+==================================
+==================================
+More/JJ and/CC more/JJR of/IN 
+[ the/DT colonials/NNS ]
+were/VBD wearing/VBG 
+[ their/PRP$ own/JJ hair/NN ]
+and/CC not/RB using/VBG 
+[ powder/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+felt/VBD 
+[ cheerful/JJ ]
+again/RB ,/, refreshed/JJ ;/: ;/: 
+[ presentable/JJ ]
+in/IN 
+[ his/PRP$ wide-cut/JJ brown/JJ suit/NN ]
+,/, 
+[ the/DT well-made/JJ riding/JJ boots/NNS ]
+./. 
+==================================
+
+[ It/PRP ]
+is/VBZ so/RB easy/JJ to/TO falsify/VB 
+[ sentiment/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ the/DT meadow/NN ]
+below/RB ,/, 
+[ militia/NN officers/NNS ]
+shouted/VBD at/IN 
+[ their/PRP$ men/NNS ]
+and/CC on/IN 
+[ King/NNP 's/POS Bridge/NNP two/CD boys/NNS ]
+sat/VBD fishing/VBG ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT future/NN ]
+would/MD happen/VB ;/: ;/: 
+[ he/PRP ]
+did/VBD not/RB have/VB to/TO hurry/VB 
+[ it/PRP ]
+by/IN thinking/VBG too/RB much/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT man/NN ]
+could/MD be/VB tossed/VBN outside/IN 
+[ the/DT dimension/NN ]
+of/IN 
+[ time/NN ]
+by/IN 
+[ a/DT stray/JJ bullet/NN these/DT days/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+began/VBD to/TO pack/VB 
+[ the/DT saddlebags/NNS ]
+./. 
+==================================
+And/CC 
+[ all/DT this/DT ]
+too/RB shall/MD pass/VB away/RB :/: 
+[ it/PRP ]
+came/VBD to/TO 
+[ him/PRP ]
+out/IN of/IN 
+[ some/DT dim/JJ corner/NN ]
+of/IN 
+[ memory/NN ]
+from/IN 
+[ a/DT church/NN service/NN ]
+when/WRB 
+[ he/PRP ]
+was/VBD 
+[ a/DT boy/NN ]
+--/: yes/UH ,/, in/IN 
+[ a/DT white/JJ church/NN ]
+with/IN 
+[ a/DT thin/JJ spur/NN steeple/NN ]
+in/IN 
+[ the/DT patriarchal/JJ Hudson/NNP Valley/NNP ]
+,/, where/WRB 
+[ a/DT feeling/NN ]
+of/IN 
+[ plenitude/NN ]
+was/VBD normal/JJ in/IN 
+[ those/DT English-Dutch/JJ manors/NNS ]
+with/IN 
+[ their/PRP$ well-fed/JJ squires/NNS ]
+./. 
+==================================
+==================================
+==================================

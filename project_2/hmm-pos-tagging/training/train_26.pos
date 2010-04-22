@@ -1,0 +1,1583 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ Rookie/NNP Ron/NNP Nischwitz/NNP ]
+continued/VBD 
+[ his/PRP$ pinpoint/NN ]
+pitching/NN 
+[ Monday/NNP night/NN ]
+as/IN 
+[ the/DT Bears/NNP ]
+made/VBD 
+[ it/PRP ]
+
+[ two/CD ]
+straight/RB over/IN 
+[ Indianapolis/NNP ]
+,/, 
+[ 5-3/CD ]
+./. 
+==================================
+
+[ The/DT husky/JJ 6-3/CD ]
+,/, 
+[ 205-pound/CD lefthander/NN ]
+,/, was/VBD in/IN 
+[ command/NN ]
+
+[ all/DT the/DT way/NN ]
+before/IN 
+[ an/DT on-the-scene/JJ audience/NN ]
+of/IN only/RB 
+[ 949/CD ]
+and/CC 
+[ countless/JJ ]
+of/IN 
+[ television/NN viewers/NNS ]
+in/IN 
+[ the/DT Denver/NNP area/NN ]
+./. 
+==================================
+
+[ It/PRP ]
+was/VBD 
+[ Nischwitz/NNP '/POS third/JJ straight/JJ victory/NN ]
+of/IN 
+[ the/DT new/JJ season/NN ]
+and/CC ran/VBD 
+[ the/DT Grizzlies/NNS '/POS winning/VBG streak/NN ]
+to/TO 
+[ four/CD ]
+straight/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+now/RB lead/VBP 
+[ Louisville/NNP ]
+by/IN 
+[ a/DT full/JJ game/NN ]
+on/IN 
+[ top/NN ]
+of/IN 
+[ the/DT American/NNP Association/NNP pack/NN ]
+./. 
+==================================
+
+[ Nischwitz/NNP ]
+fanned/VBD 
+[ six/CD ]
+and/CC walked/VBD only/RB 
+[ Charley/NNP Hinton/NNP ]
+in/IN 
+[ the/DT third/JJ inning/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+has/VBZ given/VBN only/RB 
+[ the/DT one/CD pass/NN ]
+in/IN 
+[ his/PRP$ 27/CD innings/NNS ]
+,/, 
+[ an/DT unusual/JJ characteristic/NN ]
+for/IN 
+[ a/DT southpaw/NN ]
+./. 
+==================================
+
+[ The/DT Bears/NNP ]
+took/VBD 
+[ the/DT lead/NN ]
+in/IN 
+[ the/DT first/JJ inning/NN ]
+,/, as/IN 
+[ they/PRP ]
+did/VBD in/IN 
+[ Sunday/NNP 's/POS opener/NN ]
+,/, and/CC never/RB lagged/VBD ./. 
+==================================
+
+[ Dick/NNP McAuliffe/NNP ]
+cracked/VBD 
+[ the/DT first/JJ ]
+of/IN 
+[ his/PRP$ two/CD doubles/NNS ]
+against/IN 
+[ Lefty/NNP Don/NNP Rudolph/NNP ]
+to/TO open/VB 
+[ the/DT Bear/NN 's/POS attack/NN ]
+./. 
+==================================
+
+==================================
+==================================
+After/IN 
+[ Al/NNP Paschal/NNP ]
+gruonded/VBD out/RP ,/, 
+[ Jay/NNP Cooke/NNP ]
+walked/VBD and/CC 
+[ Jim/NNP McDaniel/NNP ]
+singled/VBD 
+[ home/NN McAuliffe/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Alusik/NNP ]
+then/RB moved/VBD 
+[ Cooke/NNP ]
+across/IN with/IN 
+[ a/DT line/NN drive/NN ]
+to/TO 
+[ left/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Jay/NNP Porter/NNP ]
+drew/VBD 
+[ a/DT base/NN ]
+on/IN 
+[ balls/NNS ]
+to/TO fill/VB 
+[ the/DT bases/NNS ]
+but/CC 
+[ Don/NNP Wert/NNP 's/POS smash/NN ]
+was/VBD knocked/VBN down/IN by/IN 
+[ Rudolph/NNP ]
+for/IN 
+[ the/DT putout/NN ]
+./. 
+==================================
+
+[ The/DT Bears/NNP ]
+added/VBD 
+[ two/CD more/JJR ]
+in/IN 
+[ the/DT fifth/JJ ]
+when/WRB 
+[ McAuliffe/NNP ]
+dropped/VBD 
+[ a/DT double/NN ]
+into/IN 
+[ the/DT leftfield/NN corner/NN ]
+,/, 
+[ Paschal/NNP ]
+doubled/VBD down/IN 
+[ the/DT rightfield/NN line/NN ]
+and/CC 
+[ Cooke/NNP ]
+singled/VBD off/RB 
+[ Phil/NNP Shartzer/NNP 's/POS glove/NN ]
+./. 
+==================================
+
+[ Nischwitz/NNP ]
+was/VBD working/VBG on/IN 
+[ a/DT 3-hitter/NN ]
+when/WRB 
+[ the/DT Indians/NNP ]
+bunched/VBD 
+[ three/CD ]
+of/IN 
+[ their/PRP$ eight/CD hits/NNS ]
+for/IN 
+[ two/CD runs/NNS ]
+in/IN 
+[ the/DT sixth/JJ ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Chuck/NNP Hinton/NNP ]
+tripled/VBD to/TO 
+[ the/DT rightfield/NN corner/NN ]
+,/, 
+[ Cliff/NNP Cook/NNP ]
+and/CC 
+[ Dan/NNP Pavletich/NNP ]
+singled/VBD and/CC 
+[ Gaines/NNP '/POS infield/NN roller/NN ]
+accounted/VBD for/IN 
+[ the/DT tallies/NNS ]
+./. 
+==================================
+
+[ The/DT Bears/NNP ]
+added/VBD 
+[ their/PRP$ last/JJ run/NN ]
+in/IN 
+[ the/DT sixth/JJ ]
+on/IN 
+[ Alusik/NNP 's/POS double/NN ]
+and/CC 
+[ outfield/NN flies/NNS ]
+by/IN 
+[ Porter/NNP ]
+and/CC 
+[ Wert/NNP ]
+./. 
+==================================
+
+[ Gaines/NNP ]
+hammered/VBD 
+[ the/DT ball/NN ]
+over/IN 
+[ the/DT left/JJ fence/NN ]
+for/IN 
+[ the/DT third/JJ Indianapolis/NNP run/NN ]
+in/IN 
+[ the/DT ninth/JJ ]
+./. 
+==================================
+Despite/IN 
+[ the/DT 45-degree/CD weather/NN ]
+
+[ the/DT game/NN ]
+was/VBD clicked/VBN off/RP in/IN 
+[ 1:48/CD ]
+,/, 
+[ thanks/NNS ]
+to/TO only/RB 
+[ three/CD bases/NNS ]
+on/IN 
+[ balls/NNS ]
+and/CC 
+[ some/DT good/JJ infield/NN play/NN ]
+./. 
+==================================
+
+[ Chico/NNP Ruiz/NNP ]
+made/VBD 
+[ a/DT spectacular/JJ play/NN ]
+on/IN 
+[ Alusik/NNP 's/POS grounder/NN ]
+in/IN 
+[ the/DT hole/NN ]
+in/IN 
+[ the/DT fourth/JJ ]
+and/CC 
+[ Wert/NNP ]
+came/VBD up/RP with/IN 
+[ some/DT good/JJ stops/NNS ]
+and/CC showed/VBD 
+[ a/DT strong/JJ arm/NN ]
+at/IN 
+[ third/JJ base/NN ]
+./. 
+==================================
+
+[ Bingles/NNS ]
+and/CC 
+[ bobbles/NNS ]
+:/: 
+[ Cliff/NNP Cook/NNP ]
+accounted/VBD for/IN 
+[ three/CD ]
+of/IN 
+[ the/DT Tribe/NN 's/POS eight/CD hits/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD 
+[ the/DT season/NN 's/POS first/JJ night/NN game/NN ]
+and/CC 
+[ an/DT obvious/JJ refocusing/NN ]
+of/IN 
+[ the/DT lights/NNS ]
+are/VBP in/IN 
+[ order/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT infield/NN ]
+was/VBD well/RB flooded/VBN but/CC 
+[ the/DT expanded/VBN outfield/NN ]
+was/VBD much/RB too/RB dark/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ Mary/NNP Dobbs/NNP Tuttle/NNP ]
+was/VBD back/RB at/IN 
+[ the/DT organ/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Among/IN 
+[ the/DT spectators/NNS ]
+was/VBD 
+[ the/DT noted/VBN exotic/JJ dancer/NN ]
+,/, 
+[ Patti/NNP Waggin/NNP ]
+
+[ who/WP ]
+is/VBZ 
+[ Mrs./NNP Don/NNP Rudolph/NNP ]
+when/WRB off/IN 
+[ the/DT stage/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Lefty/NNP Wyman/NNP Carey/NNP ]
+,/, 
+[ another/DT Denver/NNP rookie/NN ]
+,/, will/MD be/VB on/IN 
+[ the/DT mound/NN ]
+against/IN 
+[ veteran/JJ John/NNP Tsitouris/NNP ]
+at/IN 
+[ 8/CD ]
+o'clock/RB 
+[ Tuesday/NNP night/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Ed/NNP Donnelly/NNP ]
+is/VBZ still/RB bothered/VBN by/IN 
+[ a/DT side/NN injury/NN ]
+and/CC will/MD miss/VB 
+[ his/PRP$ starting/VBG turn/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Dallas/NNP ]
+,/, 
+[ Tex./NNP ]
+,/, 
+[ May/NNP 1/CD ]
+--/: (/( 
+[ AP/NNP ]
+)/) --/: 
+[ Kenny/NNP Lane/NNP ]
+of/IN 
+[ Muskegon/NNP ]
+,/, 
+[ Mich./NNP ]
+,/, 
+[ world/NN 's/POS seventh/JJ ranked/JJ lightweight/NN ]
+,/, had/VBD 
+[ little/JJ trouble/NN ]
+in/IN taking/VBG 
+[ a/DT unanimous/JJ decision/NN ]
+over/IN 
+[ Rip/NNP Randall/NNP ]
+of/IN 
+[ Tyler/NNP ]
+,/, 
+[ Tex./NNP ]
+,/, here/RB 
+[ Monday/NNP night/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ St./NNP Paul-Minneapolis/NNP ]
+,/, 
+[ May/NNP 1/CD ]
+--/: (/( 
+[ AP/NNP ]
+)/) --/: 
+[ Billy/NNP Gardner/NNP 's/POS line/NN double/NN ]
+,/, 
+[ which/WDT ]
+just/RB eluded/VBD 
+[ the/DT diving/VBG Minnie/NNP Minoso/NNP ]
+in/IN 
+[ left/JJ field/NN ]
+,/, drove/VBD in/IN 
+[ Jim/NNP Lemon/NNP ]
+with/IN 
+[ the/DT winning/VBG run/NN ]
+with/IN 
+[ two/CD ]
+out/JJ in/IN 
+[ the/DT last/JJ ]
+of/IN 
+[ the/DT ninth/JJ ]
+to/TO give/VB 
+[ the/DT Minnesota/NNP Twins/NNP ]
+
+[ a/DT 6-5/CD victory/NN ]
+over/IN 
+[ the/DT Chicago/NNP White/NNP Sox/NNP Monday/NNP ]
+./. 
+==================================
+
+[ Lemon/NNP ]
+was/VBD on/IN with/IN 
+[ his/PRP$ fourth/JJ single/NN ]
+of/IN 
+[ the/DT game/NN ]
+,/, 
+[ a/DT liner/NN ]
+to/TO 
+[ center/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+came/VBD 
+[ all/DT the/DT way/NN ]
+around/RB on/IN 
+[ Gardner/NNP 's/POS hit/NN ]
+before/IN 
+[ 5777/CD fans/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD 
+[ Gardner/NNP 's/POS second/JJ run/NN ]
+batted/VBD in/RB of/IN 
+[ the/DT game/NN ]
+and/CC 
+[ his/PRP$ only/JJ ones/NNS ]
+of/IN 
+[ the/DT year/NN ]
+./. 
+==================================
+
+[ Turk/NNP Lown/NNP ]
+was/VBD tagged/VBN with/IN 
+[ the/DT loss/NN ]
+,/, 
+[ his/PRP$ second/NN ]
+against/IN 
+[ no/DT victories/NNS ]
+,/, while/IN 
+[ Ray/NNP Moore/NNP ]
+won/VBD 
+[ his/PRP$ second/JJ game/NN ]
+against/IN 
+[ a/DT single/JJ loss/NN ]
+./. 
+==================================
+
+[ The/DT Twins/NNP ]
+tied/VBD 
+[ the/DT score/NN ]
+in/IN 
+[ the/DT sixth/JJ inning/NN ]
+when/WRB 
+[ Reno/NNP Bertoia/NNP ]
+beat/VBD out/RP 
+[ a/DT high/JJ chopper/NN ]
+to/TO 
+[ third/JJ base/NN ]
+and/CC scored/VBD on/IN 
+[ Lenny/NNP Green/NNP 's/POS double/NN ]
+to/TO 
+[ left/NN ]
+./. 
+==================================
+
+[ The/DT White/NNP Sox/NNP ]
+had/VBD taken/VBN 
+[ a/DT 5-4/CD lead/NN ]
+in/IN 
+[ the/DT top/NN ]
+of/IN 
+[ the/DT sixth/JJ ]
+on/IN 
+[ a/DT pair/NN ]
+of/IN 
+[ pop/NN fly/NN hits/NNS ]
+--/: 
+[ a/DT triple/NN ]
+by/IN 
+[ Roy/NNP Sievers/NNP ]
+and/CC 
+[ single/JJ ]
+by/IN 
+[ Camilo/NNP Carreon/NNP ]
+--/: 
+[ a/DT walk/NN ]
+and/CC 
+[ a/DT sacrifice/NN fly/NN ]
+./. 
+==================================
+
+[ Jim/NNP Landis/NNP '/POS 380-foot/CD home/NN run/NN ]
+over/IN 
+[ left/NN ]
+in/IN 
+[ the/DT first/JJ inning/NN ]
+gave/VBD 
+[ the/DT Sox/NNP ]
+
+[ a/DT 1-0/CD lead/NN ]
+,/, but/CC 
+[ Harmon/NNP Killebrew/NNP ]
+came/VBD back/RB in/IN 
+[ the/DT bottom/NN ]
+of/IN 
+[ the/DT first/JJ ]
+with/IN 
+[ his/PRP$ second/JJ homer/NN ]
+in/IN 
+[ two/CD days/NNS ]
+with/IN 
+[ the/DT ]
+walking/VBG 
+[ Bob/NNP Allison/NNP ]
+aboard/RB ./. 
+==================================
+
+[ Al/NNP Smith/NNP ]
+'s/POS 
+[ 340-blast/CD ]
+over/IN 
+[ left/NN ]
+in/IN 
+[ the/DT fourth/JJ ]
+--/: 
+[ his/PRP$ fourth/JJ homer/NN ]
+of/IN 
+[ the/DT campaign/NN ]
+--/: tied/VBD 
+[ the/DT score/NN ]
+and/CC 
+[ Carreon/NNP 's/POS first/JJ major/JJ league/NN home/NN ]
+run/NN in/IN 
+[ the/DT fifth/JJ ]
+put/VBD 
+[ the/DT Sox/NNP back/NN ]
+in/IN 
+[ front/NN ]
+./. 
+==================================
+
+[ A/DT double/NN ]
+by/IN 
+[ Green/NNP ]
+,/, 
+[ Allison/NNP 's/POS run-scoring/JJ 2-baser/NN ]
+,/, 
+[ an/DT infield/NN ]
+single/NN by/IN 
+[ Lemon/NNP ]
+and/CC 
+[ Gardner/NNP 's/POS solid/JJ single/NN ]
+to/TO center/NN put/VBD 
+[ the/DT Twins/NNP back/RB ]
+in/IN 
+[ front/NN ]
+in/IN 
+[ the/DT last/JJ ]
+of/IN 
+[ the/DT fifth/JJ ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Ogden/NNP ]
+,/, 
+[ Utah/NNP ]
+,/, 
+[ May/NNP 1/CD ]
+--/: (/( 
+[ AP/NNP ]
+)/) --/: 
+[ Boston/NNP Red/NNP Sox/NNP Outfielder/NNP Jackie/NNP Jensen/NNP ]
+said/VBD 
+[ Monday/NNP night/NN ]
+
+[ he/PRP ]
+was/VBD through/JJ 
+[ playing/VBG baseball/NN ]
+./. 
+==================================
+``/`` 
+[ I/PRP ]
+'ve/VBP had/VBD 
+[ it/PRP ]
+''/'' ,/, 
+[ he/PRP ]
+told/VBD 
+[ a/DT newsman/NN ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ I/PRP ]
+know/VBP when/WRB 
+[ my/PRP$ reflexes/NNS ]
+are/VBP gone/VBN and/CC 
+[ I/PRP ]
+'m/VBP not/RB going/VBG to/TO be/VB 
+[ any/DT 25th/JJ man/NN ]
+on/IN 
+[ the/DT ball/NN club/NN ]
+''/'' ./. 
+==================================
+
+[ This/DT ]
+was/VBD 
+[ the/DT first/JJ word/NN ]
+from/IN 
+[ Jensen/NNP ]
+on/IN 
+[ his/PRP$ sudden/JJ walkout/NN ]
+./. 
+==================================
+
+[ Jensen/NNP ]
+got/VBD only/RB 
+[ six/CD hits/NNS ]
+in/IN 
+[ 46/CD at-bats/NNS ]
+for/IN 
+[ a/DT batting/VBG average/NN ]
+in/IN 
+[ the/DT first/JJ 12/CD games/NNS ]
+./. 
+==================================
+
+[ He/PRP ]
+took/VBD 
+[ a/DT midnight/NN train/NN ]
+out/IN of/IN 
+[ Cleveland/NNP Saturday/NNP ]
+,/, without/IN 
+[ an/DT official/JJ word/NN ]
+to/TO 
+[ anybody/NN ]
+,/, and/CC has/VBZ stayed/VBN away/RB from/IN 
+[ newsmen/NNS ]
+on/IN 
+[ his/PRP$ train/NN trip/NN ]
+across/IN 
+[ the/DT nation/NN ]
+to/TO 
+[ Reno/NNP ]
+,/, 
+[ Nev./NNP ]
+,/, where/WRB 
+[ his/PRP$ wife/NN ]
+,/, 
+[ former/JJ Olympic/JJ Diving/NNP Champion/NNP Zoe/NNP Ann/NNP Olsen/NNP ]
+,/, awaited/VBD ./. 
+==================================
+
+[ She/PRP ]
+said/VBD ,/, when/WRB 
+[ she/PRP ]
+learned/VBD 
+[ Jackie/NNP ]
+was/VBD heading/VBG 
+[ home/NN ]
+:/: ``/`` 
+[ I/PRP ]
+'m/VBP just/RB speculating/VBG ,/, but/CC 
+[ I/PRP ]
+have/VBP to/TO think/VB 
+[ Jack/NNP ]
+feels/VBZ 
+[ he/PRP ]
+'s/VBZ hurting/VBG 
+[ Boston/NNP 's/POS chances/NNS ]
+''/'' ./. 
+==================================
+
+[ The/DT Union/NNP Pacific/NNP Railroad/NNP streamliner/NN ]
+,/, 
+[ City/NNP ]
+of/IN 
+[ San/NNP Francisco/NNP ]
+,/, stopped/VBD in/IN 
+[ Ogden/NNP ]
+,/, 
+[ Utah/NNP ]
+,/, for/IN 
+[ a/DT few/JJ minutes/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Sports/NNP Writer/NNP Ensign/NNP Ritchie/NNP ]
+of/IN 
+[ the/DT Ogden/NNP Standard/NNP Examiner/NNP ]
+went/VBD to/TO 
+[ his/PRP$ compartment/NN ]
+to/TO talk/VB with/IN 
+[ him/PRP ]
+./. 
+==================================
+
+[ The/DT conductor/NN ]
+said/VBD to/TO 
+[ Ritchie/NNP ]
+:/: ``/`` 
+[ I/PRP ]
+do/VBP n't/RB think/VB 
+[ you/PRP ]
+want/VBP to/TO talk/VB to/TO 
+[ him/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ You/PRP ]
+'ll/MD probably/RB get/VB 
+[ a/DT ball/NN bat/NN ]
+on/IN 
+[ the/DT head/NN ]
+./. 
+==================================
+
+[ He/PRP ]
+'s/VBZ mad/JJ at/IN 
+[ the/DT world/NN ]
+''/'' ./. 
+==================================
+But/CC 
+[ Jackie/NNP ]
+had/VBD gone/VBN into/IN 
+[ the/DT station/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Ritchie/NNP ]
+walked/VBD up/IN to/TO 
+[ him/PRP ]
+at/IN 
+[ the/DT magazine/NN stand/NN ]
+./. 
+==================================
+``/`` 
+[ I/PRP ]
+told/VBD 
+[ him/PRP ]
+
+[ who/WP ]
+
+[ I/PRP ]
+was/VBD and/CC 
+[ he/PRP ]
+was/VBD quite/RB cold/JJ ./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ he/PRP ]
+warmed/VBD up/IN after/IN 
+[ a/DT while/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ I/PRP ]
+told/VBD 
+[ him/PRP ]
+
+[ what/WP ]
+
+[ Liston/NNP ]
+had/VBD said/VBD and/CC 
+[ he/PRP ]
+said/VBD 
+[ Liston/NNP ]
+was/VBD 
+[ a/DT double-crosser/JJ ]
+and/CC said/VBD 
+[ anything/NN ]
+
+[ he/PRP ]
+(/( 
+[ Liston/NNP ]
+)/) got/VBD was/VBD through/IN 
+[ a/DT keyhole/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+said/VBD 
+[ he/PRP ]
+had/VBD never/RB talked/VBN to/TO 
+[ Liston/NNP ]
+''/'' ./. 
+==================================
+
+[ Liston/NNP ]
+is/VBZ 
+[ Bill/NNP Liston/NNP ]
+,/, 
+[ baseball/NN writer/NN ]
+for/IN 
+[ the/DT Boston/NNP Traveler/NNP ]
+,/, 
+[ who/WP ]
+quoted/VBD 
+[ Jensen/NNP ]
+as/IN saying/VBG :/: ``/`` 
+[ I/PRP ]
+ca/MD n't/RB hit/VB anymore/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ I/PRP ]
+ca/MD n't/RB run/VB ./. 
+==================================
+
+==================================
+==================================
+
+[ I/PRP ]
+ca/MD n't/RB throw/VB ./. 
+==================================
+Suddenly/RB 
+[ my/PRP$ reflexes/NNS ]
+are/VBP gone/VBN ./. 
+==================================
+Just/RB when/WRB 
+[ it/PRP ]
+seems/VBZ 
+[ baseball/NN ]
+might/MD be/VB losing/VBG 
+[ its/PRP$ grip/NN ]
+on/IN 
+[ the/DT masses/NNS ]
+up/IN pops/VBZ 
+[ heroics/NNS ]
+to/TO start/VB millions/NNS of/IN 
+[ tongues/NNS ]
+to/TO wagging/VBG ./. 
+==================================
+And/CC so/RB 
+[ it/PRP ]
+was/VBD over/IN 
+[ the/DT weekend/NN ]
+
+[ what/WP ]
+with/IN 
+[ 40-year-old/CD Warren/NNP Spahn/NNP ]
+pitching/VBG 
+[ his/PRP$ no-hit/JJ masterpiece/NN ]
+against/IN 
+[ the/DT Giants/NNP ]
+and/CC 
+[ the/DT Giants/NNP '/POS Willie/NNP Mays/NNP ]
+retaliating/VBG with/IN 
+[ a/DT record-tying/JJ 4-homer/JJ spree/NN Sunday/NNP ]
+./. 
+==================================
+
+[ Both/DT ]
+,/, of/IN 
+[ course/NN ]
+,/, were/VBD 
+[ remarkable/JJ feats/NNS ]
+and/CC further/RB embossed/VBD 
+[ the/DT fact/NN ]
+
+[ that/DT baseball/NN ]
+rightfully/RB is/VBZ 
+[ the/DT national/JJ pastime/NN ]
+./. 
+==================================
+Of/IN 
+[ the/DT two/CD cherished/VBN achievements/NNS ]
+
+[ the/DT elderly/JJ Spahn/NNP 's/POS hitless/JJ pitching/NN ]
+probably/RB reached/VBD 
+[ the/DT most/JJS hearts/NNS ]
+./. 
+==================================
+
+[ It/PRP ]
+was/VBD 
+[ a/DT real/JJ stimulant/NN ]
+to/TO 
+[ a/DT lot/NN ]
+of/IN 
+[ guys/NNS I/PRP ]
+know/VBP 
+[ who/WP ]
+have/VBP moved/VBN past/RB 
+[ the/DT 2-score-year/JJ milestone/NN ]
+./. 
+==================================
+
+==================================
+==================================
+And/CC 
+[ one/NN ]
+of/IN 
+[ the/DT Milwaukee/NNP rookies/NNS ]
+sighed/VBD and/CC remarked/VBD ,/, ``/`` 
+[ Wish/VB I/PRP ]
+was/VBD 
+[ 40/CD ]
+,/, and/CC 
+[ a/DT top-grade/JJ big/JJ leaguer/NN ]
+./. 
+==================================
+
+[ The/DT modest/JJ ]
+and/CC 
+[ happy/JJ Spahn/NNP ]
+waved/VBD off/IN 
+[ his/PRP$ new/JJ laurels/NNS ]
+as/IN 
+[ one/CD ]
+of/IN 
+[ those/DT good/JJ days/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ there/EX ]
+surely/RB can/MD be/VB 
+[ no/DT doubt/NN ]
+about/IN 
+[ the/DT slender/JJ southpaw/NN ]
+belonging/VBG with/IN 
+[ the/DT all-time/JJ great/JJ lefthanders/NNS ]
+in/IN 
+[ the/DT game/NN 's/POS history/NN ]
+./. 
+==================================
+Yes/UH ,/, with/IN 
+[ Bob/NNP Grove/NNP ]
+,/, 
+[ Carl/NNP Hubbell/NNP ]
+,/, 
+[ Herb/NNP Pennock/NNP ]
+,/, 
+[ Art/NNP Nehf/NNP ]
+,/, 
+[ Vernon/NNP Gomez/NNP ]
+,/, et/FW 
+[ al/FW ]
+./. 
+==================================
+
+[ Spahn/NNP ]
+not/RB only/RB is/VBZ 
+[ a/DT superior/JJ pitcher/NN ]
+but/CC 
+[ a/DT gentlemanly/JJ fine/JJ fellow/NN ]
+,/, 
+[ a/DT ball/NN player/NN 's/POS ball/NN player/NN ]
+,/, as/IN 
+[ they/PRP ]
+say/VB in/IN 
+[ the/DT trade/NN ]
+./. 
+==================================
+
+[ I/PRP ]
+remember/VBP 
+[ his/PRP$ beardown/JJ performance/NN ]
+in/IN 
+[ a/DT meaningless/JJ exhibition/NN game/NN ]
+at/IN 
+[ Bears/NNP Stadium/NNP Oct./NNP 14/CD ]
+,/, 
+[ 1951/CD ]
+,/, before/IN 
+[ a/DT new/JJ record/NN crowd/NN ]
+for/IN 
+[ the/DT period/NN ]
+of/IN 
+[ 18,792/CD ]
+./. 
+==================================
+``/`` 
+[ Spahnie/NN ]
+does/VBZ n't/RB know/VB how/WRB to/TO merely/RB go/VB through/IN 
+[ the/DT motions/NNS ]
+''/'' ,/, remarked/VBD 
+[ Enos/NNP Slaughter/NNP ]
+,/, 
+[ another/DT all-out/JJ guy/NN ]
+,/, 
+[ who/WP ]
+played/VBD rightfield/NN that/IN 
+[ day/NN ]
+and/CC popped/VBD 
+[ one/NN ]
+over/IN 
+[ the/DT clubhouse/NN ]
+./. 
+==================================
+
+[ The/DT spectacular/JJ Mays/NNP ]
+,/, 
+[ who/WP ]
+reaches/VBZ 
+[ a/DT decade/NN ]
+in/IN 
+[ the/DT big/JJ leagues/NNS ]
+come/VB 
+[ May/NNP 25/CD ]
+,/, joined/VBD 
+[ six/CD other/JJ sluggers/NNS ]
+
+[ who/WP ]
+
+[ walloped/VBD four/CD home/NN runs/NNS ]
+in/IN 
+[ a/DT span/NN ]
+of/IN 
+[ nine/CD innings/NN ]
+./. 
+==================================
+Incidentally/RB ,/, only/RB 
+[ two/CD ]
+did/VBD 
+[ it/PRP ]
+before/IN 
+[ a/DT home/NN audience/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Bobby/NNP Lowe/NNP ]
+of/IN 
+[ Boston/NNP ]
+was/VBD 
+[ the/DT first/JJ ]
+to/TO hit/VB 
+[ four/CD ]
+at/IN 
+[ home/NN ]
+and/CC 
+[ Gil/NNP Hodges/NNP ]
+turned/VBD 
+[ the/DT trick/NN ]
+in/IN 
+[ Brooklyn/NN 's/POS Ebbetts/NNP Field/NNP ]
+./. 
+==================================
+
+[ Ed/NNP Delahanty/NNP ]
+and/CC 
+[ Chuck/NNP Klein/NNP ]
+of/IN 
+[ the/DT Phillies/NNP ]
+,/, 
+[ the/DT Braves/NNP '/POS Joe/NNP Adcock/NNP ]
+,/, 
+[ Lou/NNP Gehrig/NNP ]
+of/IN 
+[ the/DT Yankees/NNP ]
+,/, 
+[ Pat/NNP Seerey/NNP ]
+of/IN 
+[ the/DT White/NNP Sox/NNP ]
+and/CC 
+[ Rocky/NNP Colavito/NNP ]
+,/, then/RB with/IN 
+[ Cleveland/NNP ]
+,/, made/VBD 
+[ their/PRP$ history/NN ]
+on/IN 
+[ the/DT road/NN ]
+./. 
+==================================
+
+[ Willie/NNP 's/POS big/JJ day/NN ]
+revived/VBD 
+[ the/DT running/VBG argument/NN ]
+about/IN 
+[ the/DT relative/JJ merits/NNS ]
+of/IN 
+[ Mays/NNP ]
+and/CC 
+[ Mickey/NNP Mantle/NNP ]
+./. 
+==================================
+
+[ This/DT ]
+is/VBZ 
+[ an/DT issue/NN ]
+
+[ which/WDT ]
+boils/VBZ down/IN to/TO 
+[ a/DT matter/NN ]
+of/IN 
+[ opinion/NN ]
+,/, depending/VBG on/IN whether/CC 
+[ you/PRP ]
+'re/VBP 
+[ an/DT American/JJ ]
+or/CC 
+[ National/JJ fan/NN ]
+and/CC 
+[ anti/IN ]
+or/CC 
+[ pro-Yankee/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT record/NN books/NNS ]
+,/, however/RB ,/, would/MD favor/VB 
+[ the/DT Giants/NNP '/POS ace/NN ]
+./. 
+==================================
+In/IN 
+[ four/CD ]
+of/IN 
+[ his/PRP$ nine/CD previous/JJ seasons/NNS Mays/NNP ]
+hit/VBD as/RB many/JJ as/IN 
+[ 25/CD home/NN runs/NNS ]
+and/CC stole/VBD as/RB many/JJ as/IN 
+[ 25/CD bases/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Once/RB 
+[ the/DT figure/NN ]
+was/VBD 
+[ 30-30/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Willie/NNP 's/POS lifetime/NN ]
+batting/NN 
+[ average/JJ ]
+of/IN is/VBZ 
+[ 11/CD points/NNS ]
+beyond/IN 
+[ Mickey/NNP 's/POS ]
+./. 
+==================================
+
+[ The/DT Giants/NNP ]
+
+[ who/WP ]
+had/VBD been/VBN anemic/JJ with/IN 
+[ the/DT bat/NN ]
+in/IN 
+[ their/PRP$ windy/JJ Candlestick/NNP Park/NNP ]
+suddenly/RB found/VBD 
+[ the/DT formula/NN ]
+in/IN 
+[ Milwaukee/NNP 's/POS park/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+will/MD forever/RB be/VB 
+[ a/DT baseball/NN mystery/NN ]
+how/WRB 
+[ a/DT team/NN ]
+will/MD suddenly/RB start/VB hitting/VBG after/IN 
+[ a/DT distressing/JJ slump/NN ]
+./. 
+==================================
+
+[ The/DT Denver-area/NN TV/NN audience/NN ]
+was/VBD privileged/JJ to/TO see/VB 
+[ Mays/NNP '/POS four/CD home/NN runs/NNS ]
+,/, 
+[ thanks/NNS ]
+to/TO 
+[ a/DT new/JJ arrangement/NN ]
+made/VBN by/IN 
+[ Bob/NNP Howsam/NNP ]
+that/IN 
+[ the/DT games/NNS ]
+are/VBP not/RB to/TO be/VB blacked/VBN out/IN when/WRB 
+[ his/PRP$ Bears/NNP ]
+are/VBP playing/VBG at/IN 
+[ home/NN ]
+./. 
+==================================
+
+[ This/DT rule/NN ]
+providing/VBG for/IN 
+[ a/DT blackout/NN ]
+of/IN 
+[ televised/VBN baseball/NN 30/CD minutes/NNS ]
+before/IN 
+[ the/DT start/NN ]
+of/IN 
+[ a/DT major/JJ ]
+or/CC 
+[ minor/JJ league/NN game/NN ]
+in/IN 
+[ any/DT area/NN ]
+comes/VBZ from/IN 
+[ the/DT game/NN 's/POS top/JJ rulers/NNS ]
+./. 
+==================================
+
+[ The/DT last/JJ couple/NN ]
+of/IN 
+[ years/NNS ]
+
+[ the/DT Bears/NNP management/NN ]
+got/VBD 
+[ the/DT business/NN ]
+from/IN 
+[ the/DT ]
+``/`` 
+[ Living/NNP Room/NNP Athletic/NNP Club/NNP ]
+''/'' when/WRB 
+[ games/NNS ]
+were/VBD cut/VBN off/RP ./. 
+==================================
+
+==================================
+==================================
+Actually/RB 
+[ they/PRP ]
+were/VBD helpless/JJ to/TO do/VB 
+[ anything/NN ]
+about/IN 
+[ the/DT nationwide/JJ policy/NN ]
+./. 
+==================================
+
+[ This/DT year/NN ]
+,/, 
+[ I/PRP ]
+am/VBP told/VBN ,/, 
+[ the/DT CBS/NNP network/NN ]
+will/MD continue/VB to/TO abide/VB by/IN 
+[ the/DT rule/NN ]
+but/CC 
+[ NBC/NNP ]
+will/MD play/VB to/TO 
+[ a/DT conclusion/NN ]
+here/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ There/EX ]
+are/VBP 
+[ two/CD more/JJR Sunday/NNP afternoons/NNS ]
+when/WRB 
+[ the/DT situation/NN ]
+will/MD arise/VB ./. 
+==================================
+
+[ It/PRP ]
+is/VBZ 
+[ an/DT irritable/JJ rule/NN ]
+
+[ that/WP ]
+does/VBZ 
+[ baseball/NN more/JJR harm/NN ]
+than/IN 
+[ good/JJ ]
+,/, especially/RB at/IN 
+[ the/DT minor/JJ league/NN level/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ You/PRP ]
+would/MD be/VB surprised/VBN how/WRB 
+[ many/JJ fans/NNS ]
+purposely/RB stayed/VBD away/RB from/IN 
+[ Bears/NNP Stadium/NNP last/JJ year/NN ]
+because/IN of/IN 
+[ the/DT television/NN policy/NN ]
+./. 
+==================================
+
+[ This/DT dissatisfaction/NN ]
+led/VBD to/TO 
+[ Howsam/NNP 's/POS request/NN ]
+that/IN 
+[ the/DT video/NN ]
+not/RB be/VB terminated/VBN before/IN 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT game/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Cincinnati/NNP ]
+,/, 
+[ Ohio/NNP ]
+(/( 
+[ AP/NNP ]
+)/) --/: 
+[ The/DT powerful/JJ New/NNP York/NNP Yankees/NNP ]
+won/VBD 
+[ their/PRP$ 19th/JJ world/NN series/NN ]
+in/IN 
+[ a/DT 5-game/JJ romp/NN ]
+over/IN 
+[ outclassed/VBN Cincinnati/NNP ]
+,/, crushing/VBG 
+[ the/DT Reds/NNP ]
+in/IN 
+[ a/DT humiliating/JJ 13-5/CD barrage/NN Monday/NNP ]
+in/IN 
+[ the/DT ]
+loosely/RB played/VBN 
+[ finale/NN ]
+./. 
+==================================
+With/IN 
+[ Mickey/NNP Mantle/NNP ]
+and/CC 
+[ Yogi/NNP Berra/NNP ]
+
+[ both/DT ]
+out/JJ of/IN 
+[ action/NN ]
+due/RB to/TO 
+[ injuries/NNS ]
+,/, 
+[ the/DT American/NNP League/NNP champs/NNS ]
+still/RB mounted/VBD 
+[ a/DT 15-hit/JJ attack/NN ]
+against/IN 
+[ a/DT parade/NN ]
+of/IN 
+[ eight/CD Cincinnati/NNP pitchers/NNS ]
+,/, 
+[ the/DT ]
+most/RBS ever/RB used/VBN by/IN 
+[ one/CD team/NN ]
+in/IN 
+[ a/DT series/NN game/NN ]
+./. 
+==================================
+
+[ Johnny/NNP Blanchard/NNP ]
+,/, 
+[ Mantle/NNP 's/POS replacement/NN ]
+,/, slammed/VBD 
+[ a/DT 2-run/JJ homer/NN ]
+as/IN 
+[ the/DT Yankees/NNP ]
+routed/VBD 
+[ loser/NN Joey/NNP Jay/NNP ]
+in/IN 
+[ a/DT 5-run/JJ first/JJ inning/NN ]
+./. 
+==================================
+
+[ Hector/NNP Lopez/NNP ]
+,/, subbing/VBG for/IN 
+[ Berra/NNP ]
+,/, smashed/VBD 
+[ a/DT 3-run/JJ homer/NN ]
+off/IN 
+[ Bill/NNP Henry/NNP ]
+during/IN 
+[ another/DT 5-run/JJ explosion/NN ]
+in/IN 
+[ the/DT fourth/JJ ]
+./. 
+==================================
+
+[ The/DT Yanks/NNP ]
+also/RB took/VBD 
+[ advantage/NN ]
+of/IN 
+[ three/CD Cincinnati/NNP errors/NNS ]
+./. 
+==================================
+
+[ The/DT crowd/NN ]
+of/IN 
+[ 32,589/CD ]
+had/VBD only/RB 
+[ two/CD chances/NNS ]
+to/TO applaud/VB ./. 
+==================================
+In/IN 
+[ the/DT third/JJ Frank/NNP Robinson/NNP ]
+hammered/VBD 
+[ a/DT long/JJ home/NN ]
+run/NN deep/RB into/IN 
+[ the/DT corner/NN ]
+of/IN 
+[ the/DT bleachers/NNS ]
+in/IN 
+[ right/JJ center/NN ]
+,/, about/IN 
+[ 400/CD feet/NNS ]
+away/RB ,/, with/IN 
+[ two/CD men/NNS ]
+on/RB ./. 
+==================================
+
+==================================
+==================================
+Momentarily/RB 
+[ the/DT Reds/NNP ]
+were/VBD back/RB in/IN 
+[ the/DT ball/NN game/NN ]
+,/, trailing/VBG only/RB 
+[ 6-3/CD ]
+,/, but/CC 
+[ the/DT drive/NN ]
+fizzled/VBD when/WRB 
+[ John/NNP Edwards/NNP ]
+fouled/VBD out/RP with/IN 
+[ men/NNS ]
+on/IN 
+[ second/JJ ]
+and/CC 
+[ third/JJ ]
+and/CC 
+[ two/CD ]
+out/JJ ./. 
+==================================
+In/IN 
+[ the/DT fifth/JJ ]
+,/, 
+[ Wally/NNP Post/NNP ]
+slashed/VBD a/DT 2-run/JJ homer/NN off/IN 
+[ Bud/NNP Daley/NNP ]
+,/, but/CC by/IN 
+[ that/DT time/NN ]
+
+[ the/DT score/NN ]
+was/VBD 
+[ 11-5/CD ]
+and/CC 
+[ it/PRP ]
+really/RB did/VBD n't/RB 
+[ matter/VB ]
+./. 
+==================================
+
+[ The/DT Yankee/NNP triumph/NN ]
+made/VBD 
+[ Ralph/NNP Houk/NNP ]
+only/RB 
+[ the/DT third/JJ man/NN ]
+to/TO lead/VB 
+[ a/DT team/NN ]
+to/TO 
+[ both/DT ]
+
+[ a/DT pennant/NN ]
+and/CC 
+[ a/DT World/NNP Series/NNP victory/NN ]
+in/IN 
+[ his/PRP$ first/JJ year/NN ]
+as/IN 
+[ a/DT manager/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Only/RB 
+[ Bucky/NNP Harris/NNP ]
+,/, 
+[ the/DT ]
+``/`` 
+[ boy-manager/NN ]
+''/'' of/IN 
+[ Washington/NNP ]
+in/IN 
+[ 1924/CD ]
+,/, and/CC 
+[ Eddie/NNP Dyer/NNP ]
+of/IN 
+[ the/DT St./NNP Louis/NNP Cardinals/NNP ]
+in/IN 
+[ 1946/CD ]
+had/VBD accomplished/VBN 
+[ the/DT feat/NN ]
+./. 
+==================================
+==================================
+==================================

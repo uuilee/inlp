@@ -1,0 +1,1719 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ Rousseau/NNP ]
+is/VBZ so/RB persuasive/JJ that/IN 
+[ Voltaire/NNP ]
+is/VBZ almost/RB convinced/VBN that/IN 
+[ he/PRP ]
+should/MD burn/VB 
+[ his/PRP$ books/NNS ]
+,/, too/RB ./. 
+==================================
+
+==================================
+==================================
+But/CC while/IN 
+[ the/DT two/CD men/NNS ]
+are/VBP riding/VBG into/IN 
+[ the/DT country/NN ]
+,/, where/WRB 
+[ they/PRP ]
+are/VBP going/VBG to/TO 
+[ dinner/NN ]
+,/, 
+[ they/PRP ]
+are/VBP attacked/VBN in/IN 
+[ the/DT dark/NN ]
+of/IN 
+[ the/DT forest/NN ]
+by/IN 
+[ a/DT band/NN ]
+of/IN 
+[ thieves/NNS ]
+,/, 
+[ who/WP ]
+strip/VBP 
+[ them/PRP ]
+of/IN 
+[ everything/NN ]
+,/, including/VBG most/JJS of/IN 
+[ their/PRP$ clothes/NNS ]
+./. 
+==================================
+``/`` 
+[ You/PRP ]
+must/MD be/VB 
+[ a/DT very/RB learned/JJ man/NN ]
+''/'' ,/, says/VBZ 
+[ Voltaire/NNP ]
+to/TO 
+[ one/CD ]
+of/IN 
+[ the/DT bandits/NNS ]
+./. 
+==================================
+``/`` 
+[ A/DT learned/JJ man/NN ]
+''/'' ?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ The/DT bandit/NN ]
+laughs/VBZ in/IN 
+[ his/PRP$ face/NN ]
+./. 
+==================================
+But/CC 
+[ Voltaire/NNP ]
+perseveres/VBZ ./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+goes/VBZ to/TO 
+[ the/DT chief/NN ]
+
+[ himself/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` At/IN 
+[ what/WDT university/NN ]
+did/VBD 
+[ you/PRP ]
+
+[ study/VB ]
+''/'' ?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+asks/VBZ ./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+refuses/VBZ to/TO believe/VB that/IN 
+[ the/DT bandit/NN chief/NN ]
+never/RB attended/VBD 
+[ a/DT higher/JJR institution/NN ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` To/TO have/VB become/VBN so/RB corrupt/JJ ''/'' ,/, 
+[ he/PRP ]
+says/VBZ ,/, ``/`` surely/RB 
+[ you/PRP ]
+must/MD have/VB studied/VBN 
+[ many/JJ arts/NNS ]
+and/CC 
+[ sciences/NNS ]
+''/'' ./. 
+==================================
+
+[ The/DT chief/NN ]
+,/, annoyed/VBN by/IN 
+[ these/DT questions/NNS ]
+,/, knocks/VBZ 
+[ Voltaire/NNP ]
+down/RP and/CC shouts/VBZ at/IN 
+[ him/PRP ]
+that/IN 
+[ he/PRP ]
+not/RB only/RB never/RB went/VBD to/TO 
+[ any/DT school/NN ]
+,/, but/CC never/RB even/RB learned/VBD how/WRB to/TO read/VB ./. 
+==================================
+When/WRB finally/RB 
+[ the/DT two/CD bedraggled/JJ men/NNS ]
+reach/VBP 
+[ their/PRP$ friend/NN 's/POS home/NN ]
+,/, 
+[ Voltaire/NNP 's/POS fears/NNS ]
+are/VBP once/RB again/RB aroused/VBN ./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ it/PRP ]
+is/VBZ such/DT 
+[ a/DT distinguished/JJ place/NN ]
+,/, with/IN 
+[ such/DT fine/JJ works/NNS ]
+of/IN 
+[ art/NN ]
+and/CC 
+[ such/PDT a/DT big/JJ library/NN ]
+,/, that/IN 
+[ there/EX ]
+can/MD be/VB 
+[ little/JJ doubt/NN ]
+but/CC that/IN 
+[ the/DT owner/NN ]
+has/VBZ become/VBN 
+[ depraved/JJ ]
+by/IN 
+[ all/PDT this/DT culture/NN ]
+./. 
+==================================
+To/TO 
+[ Voltaire/NNP 's/POS surprise/NN ]
+,/, however/RB ,/, 
+[ their/PRP$ host/NN ]
+gives/VBZ 
+[ them/PRP fresh/JJ clothes/NNS ]
+to/TO put/VB on/RB ,/, opens/VBZ 
+[ his/PRP$ purse/NN ]
+to/TO lend/VB 
+[ them/PRP ]
+
+[ money/NN ]
+and/CC sits/VBZ 
+[ them/PRP ]
+down/RB before/IN 
+[ a/DT good/JJ dinner/NN ]
+./. 
+==================================
+Immediately/RB after/IN 
+[ dinner/NN ]
+,/, however/RB ,/, 
+[ Rousseau/NNP ]
+asks/VBZ for/IN still/RB 
+[ another/DT favor/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Could/MD 
+[ he/PRP ]
+have/VB 
+[ pen/NN ]
+and/CC 
+[ paper/NN ]
+,/, please/VB ?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+is/VBZ in/IN 
+[ a/DT hurry/NN ]
+to/TO write/VB 
+[ another/DT essay/NN ]
+against/IN 
+[ culture/NN ]
+./. 
+==================================
+
+[ Such/DT ]
+was/VBD 
+[ the/DT impromptu/NN ]
+that/IN 
+[ Voltaire/NNP ]
+gave/VBD to/TO 
+[ howls/NNS ]
+of/IN 
+[ laughter/NN ]
+at/IN 
+[ Sans/NNP Souci/NNP ]
+and/CC 
+[ that/DT ]
+was/VBD soon/RB circulated/VBN in/IN 
+[ manuscript/NN ]
+throughout/IN 
+[ the/DT literary/JJ circles/NNS ]
+of/IN 
+[ Europe/NNP ]
+,/, to/TO be/VB printed/VBN sometime/RB later/RB ,/, but/CC with/IN 
+[ the/DT name/NN ]
+of/IN 
+[ Timon/NNP ]
+of/IN 
+[ Athens/NNP ]
+,/, 
+[ the/DT famous/JJ misanthrope/NN ]
+,/, substituted/VBN for/IN 
+[ that/DT ]
+of/IN 
+[ Rousseau/NNP ]
+./. 
+==================================
+How/WRB cruel/JJ !/. !/. 
+==================================
+But/CC at/IN 
+[ the/DT same/JJ time/NN ]
+how/WRB understandable/JJ ./. 
+==================================
+
+==================================
+==================================
+How/WRB could/MD 
+[ the/DT rich/JJ ]
+,/, for/IN 
+[ whom/WP ]
+
+[ life/NN ]
+was/VBD made/VBN so/IN 
+[ simple/NN ]
+,/, ever/RB understand/VB 
+[ the/DT subterfuges/NNS ]
+,/, 
+[ the/DT lies/NNS ]
+,/, 
+[ the/DT frauds/NNS ]
+,/, 
+[ the/DT errors/NNS ]
+,/, 
+[ sins/NNS ]
+and/CC 
+[ even/JJ crimes/NNS ]
+to/TO 
+[ which/WDT ]
+
+[ the/DT poor/JJ ]
+were/VBD driven/VBN in/IN 
+[ their/PRP$ efforts/NNS ]
+to/TO overcome/VB 
+[ the/DT great/JJ advantages/NNS ]
+
+[ the/DT rich/NN ]
+had/VBN in/IN 
+[ the/DT race/NN ]
+of/IN 
+[ life/NN ]
+?/. ?/. 
+==================================
+How/WRB ,/, for/IN 
+[ example/NN ]
+,/, could/MD 
+[ a/DT Voltaire/NNP ]
+understand/VB 
+[ the/DT strange/JJ predicament/NN ]
+in/IN 
+[ which/WDT ]
+
+[ a/DT Rousseau/NNP ]
+would/MD find/VB 
+[ himself/PRP ]
+when/WRB ,/, soon/RB after/IN 
+[ the/DT furor/NN ]
+of/IN 
+[ his/PRP$ first/JJ Discourse/NNP ]
+,/, 
+[ he/PRP ]
+acquired/VBD still/RB 
+[ another/DT title/NN ]
+to/TO 
+[ fame/NN ]
+?/. ?/. 
+==================================
+
+[ This/DT time/NN ]
+as/IN 
+[ a/DT musician/NN ]
+./. 
+==================================
+
+==================================
+==================================
+As/IN 
+[ a/DT composer/NN ]
+./. 
+==================================
+Ever/RB since/IN 
+[ he/PRP ]
+had/VBD first/RB begun/VBN to/TO study/VB 
+[ music/NN ]
+and/CC to/TO teach/VB 
+[ it/PRP ]
+,/, 
+[ Rousseau/NNP ]
+had/VBD dreamed/VBN of/IN piercing/VBG through/IN to/TO fame/VB as/IN 
+[ the/DT result/NN ]
+of/IN 
+[ a/DT successful/JJ opera/NN ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ his/PRP$ facility/NN ]
+in/IN 
+[ this/DT genre/NN ]
+was/VBD not/RB great/JJ ./. 
+==================================
+
+==================================
+==================================
+And/CC 
+[ his/PRP$ efforts/NNS ]
+to/TO get/VB 
+[ a/DT performance/NN ]
+for/IN 
+[ his/PRP$ Gallant/NNP Muses/NNP ]
+invariably/RB failed/VBD ./. 
+==================================
+
+==================================
+==================================
+And/CC for/IN 
+[ good/JJ reasons/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ His/PRP$ operatic/JJ music/NN ]
+had/VBD 
+[ little/JJ merit/NN ]
+./. 
+==================================
+But/CC then/RB 
+[ one/CD day/NN ]
+,/, while/IN on/IN 
+[ a/DT week/NN 's/POS visit/NN ]
+to/TO 
+[ the/DT country/NN home/NN ]
+of/IN 
+[ a/DT retired/VBN Swiss/JJ jeweler/NN ]
+,/, 
+[ Rousseau/NNP ]
+amused/VBD 
+[ the/DT company/NN ]
+with/IN 
+[ a/DT few/JJ little/JJ melodies/NNS ]
+
+[ he/PRP ]
+had/VBD written/VBN ,/, to/TO 
+[ which/WDT ]
+
+[ he/PRP ]
+attached/VBD 
+[ no/DT great/JJ importance/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+was/VBD really/RB amazed/VBN to/TO discover/VB 
+[ the/DT other/JJ guests/NNS ]
+so/RB excited/VBN about/IN 
+[ these/DT delicate/JJ little/JJ songs/NNS ]
+./. 
+==================================
+``/`` Put/VB 
+[ a/DT few/JJ such/DT songs/NNS ]
+together/RB ''/'' ,/, 
+[ they/PRP ]
+urged/VBD 
+[ him/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` String/VB 
+[ them/PRP ]
+onto/IN 
+[ some/DT sort/NN ]
+of/IN 
+[ little/JJ plot/NN ]
+,/, and/CC 
+[ you/PRP ]
+'ll/MD have/VB 
+[ a/DT delightful/JJ operetta/NN ]
+''/'' ./. 
+==================================
+
+[ He/PRP ]
+did/VBD n't/RB believe/VB 
+[ them/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ Nonsense/NN ]
+''/'' ,/, 
+[ he/PRP ]
+said/VBD ./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ This/DT ]
+is/VBZ 
+[ the/DT sort/NN ]
+of/IN 
+[ stuff/NN ]
+
+[ I/PRP ]
+write/VBP and/CC then/RB throw/VBP away/RB ''/'' !/. !/. 
+==================================
+``/`` 
+[ Heaven/UH ]
+forbid/UH ''/'' !/. !/. 
+==================================
+
+==================================
+==================================
+Cried/VBD 
+[ the/DT ladies/NNS ]
+,/, enchanted/VBN by/IN 
+[ his/PRP$ music/NN ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ You/PRP ]
+must/MD make/VB 
+[ an/DT opera/NN ]
+out/IN of/IN 
+[ this/DT material/NN ]
+''/'' ./. 
+==================================
+And/CC 
+[ they/PRP ]
+would/MD n't/RB leave/VB off/RP arguing/NN and/CC pleading/NN until/IN 
+[ he/PRP ]
+had/VBD promised/VBN ./. 
+==================================
+Oh/UH ,/, 
+[ the/DT irony/NN ]
+and/CC 
+[ the/DT bitterness/NN ]
+of/IN 
+[ it/PRP ]
+!/. !/. 
+==================================
+
+==================================
+==================================
+That/IN after/IN 
+[ all/DT his/PRP$ years/NNS ]
+of/IN 
+[ effort/NN ]
+to/TO become/VB 
+[ a/DT composer/NN ]
+,/, 
+[ he/PRP ]
+should/MD now/RB ,/, now/RB when/WRB 
+[ he/PRP ]
+was/VBD still/RB stoutly/RB replying/VBG to/TO 
+[ the/DT critics/NNS ]
+of/IN 
+[ his/PRP$ Discourse/NNP ]
+on/IN 
+[ the/DT Arts/NNP ]
+and/CC 
+[ Sciences/NNP ]
+,/, be/VB so/RB close/RB to/TO 
+[ a/DT success/NN ]
+in/IN 
+[ music/NN ]
+and/CC have/VB to/TO reject/VB 
+[ it/PRP ]
+./. 
+==================================
+Or/CC at/IN 
+[ least/JJS ]
+appear/VB to/TO reject/VB 
+[ it/PRP ]
+!/. !/. 
+==================================
+But/CC 
+[ what/WP ]
+else/RB could/MD 
+[ he/PRP ]
+do/VB ?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ You/PRP ]
+could/MD n't/RB on/IN 
+[ the/DT one/CD hand/NN ]
+decry/VB 
+[ the/DT arts/NNS ]
+and/CC at/IN 
+[ the/DT same/JJ time/NN ]
+practice/VB 
+[ them/PRP ]
+,/, could/MD 
+[ you/PRP ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+Well/RB ,/, yes/UH ,/, perhaps/RB in/IN 
+[ literature/NN ]
+,/, since/IN 
+[ you/PRP ]
+could/MD argue/VB that/IN 
+[ you/PRP ]
+could/MD n't/RB keep/VB 
+[ silent/JJ ]
+about/IN 
+[ your/PRP$ feelings/NNS ]
+against/IN 
+[ literature/NN ]
+and/CC so/CC were/VBD involved/VBN in/IN 
+[ spite/NN ]
+of/IN 
+[ yourself/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC now/RB 
+[ music/NN ]
+too/RB ?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ No/UH ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ That/DT ]
+would/MD be/VB too/RB much/JJ !/. !/. 
+==================================
+And/CC 
+[ the/DT fault/NN ]
+,/, of/IN 
+[ course/NN ]
+,/, was/VBD 
+[ Rameau/NNP 's/POS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT fault/NN ]
+was/VBD 
+[ Rameau/NNP 's/POS ]
+and/CC that/IN of/IN 
+[ the/DT whole/JJ culture/NN ]
+of/IN 
+[ this/DT Parisian/JJ age/NN ]
+./. 
+==================================
+
+==================================
+==================================
+For/IN 
+[ it/PRP ]
+was/VBD 
+[ Rameau/NNP 's/POS type/NN ]
+of/IN 
+[ music/NN ]
+that/IN 
+[ he/PRP ]
+had/VBD been/VBN trying/VBG to/TO write/VB ,/, and/CC that/IN 
+[ he/PRP ]
+could/MD n't/RB write/VB ./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT little/JJ songs/NNS ]
+,/, however/RB ,/, were/VBD 
+[ sweet/JJ nothings/NNS ]
+from/IN 
+[ the/DT heart/NN ]
+,/, 
+[ tender/JJ memories/NNS ]
+of/IN 
+[ his/PRP$ childhood/NN ]
+,/, 
+[ little/JJ melodies/NNS ]
+that/IN 
+[ anyone/NN ]
+could/MD hum/VB and/CC 
+[ that/WP ]
+would/MD make/VB 
+[ one/PRP ]
+want/VB to/TO weep/VB ./. 
+==================================
+But/CC no/UH ./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+could/MD n't/RB appear/VB as/IN 
+[ a/DT composer/NN ]
+now/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ That/DT glory/NN ]
+,/, craved/VBN for/IN so/RB long/JJ ,/, was/VBD now/RB forbidden/VBN to/TO 
+[ him/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+Still/RB ,/, just/RB for/IN 
+[ the/DT ladies/NNS ]
+,/, and/CC just/RB for/IN 
+[ this/DT ]
+once/RB ,/, for/IN 
+[ this/DT one/CD weekend/NN ]
+in/IN 
+[ the/DT country/NN ]
+,/, 
+[ he/PRP ]
+would/MD make/VB 
+[ a/DT little/JJ piece/NN ]
+out/IN of/IN 
+[ his/PRP$ melodies/NNS ]
+./. 
+==================================
+
+[ The/DT ladies/NNS ]
+were/VBD delighted/VBN and/CC 
+[ Jean/NNP Jacques/NNP ]
+was/VBD applauded/VBN ./. 
+==================================
+
+==================================
+==================================
+And/CC 
+[ everyone/NN ]
+went/VBD to/TO work/VB to/TO learn/VB 
+[ the/DT parts/NNS ]
+
+[ which/WDT ]
+
+[ he/PRP ]
+wrote/VBD ./. 
+==================================
+But/CC then/RB ,/, after/IN 
+[ the/DT little/JJ operetta/NN ]
+had/VBD been/VBN given/VBN 
+[ its/PRP$ feeble/JJ amateur/NN rendering/NN ]
+,/, 
+[ everyone/NN ]
+insisted/VBD that/IN 
+[ it/PRP ]
+was/VBD too/RB good/JJ to/TO be/VB lost/VBN forever/RB ,/, and/CC that/IN 
+[ the/DT Royal/NNP Academy/NNP ]
+of/IN 
+[ Music/NNP ]
+must/MD now/RB have/VB 
+[ the/DT manuscript/NN ]
+in/IN 
+[ order/NN ]
+to/TO give/VB 
+[ it/PRP ]
+
+[ the/DT ]
+really/RB 
+[ first-rate/JJ performance/NN ]
+
+[ it/PRP ]
+merited/VBD ./. 
+==================================
+
+[ Rousseau/NNP ]
+was/VBD aware/JJ that/IN 
+[ he/PRP ]
+must/MD seem/VB like/IN 
+[ a/DT hypocrite/NN ]
+,/, standing/VBG there/RB and/CC arguing/VBG that/IN 
+[ he/PRP ]
+could/MD not/RB possibly/RB permit/VB 
+[ a/DT public/JJ performance/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT ladies/NNS ]
+especially/RB could/MD n't/RB understand/VB 
+[ what/WP ]
+troubled/VBD 
+[ him/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT contradiction/NN ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+Bah/UH ,/, 
+[ what/WP ]
+was/VBD 
+[ a/DT contradiction/NN ]
+in/IN 
+[ one/PRP ]
+
+[ 's/POS life/NN ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ Every/DT woman/NN ]
+has/VBZ had/VBD 
+[ the/DT experience/NN ]
+of/IN saying/VBG no/RB when/WRB 
+[ she/PRP ]
+meant/VBD yes/RB ,/, and/CC saying/VBG yes/RB when/WRB 
+[ she/PRP ]
+meant/VBD no/RB ./. 
+==================================
+
+[ Rousseau/NNP ]
+had/VBD to/TO admit/VB that/IN though/IN 
+[ he/PRP ]
+could/MD n't/RB agree/VB to/TO 
+[ a/DT public/JJ performance/NN ]
+,/, 
+[ he/PRP ]
+would/MD indeed/RB ,/, just/RB for/IN 
+[ his/PRP$ own/JJ private/JJ satisfaction/NN ]
+,/, dearly/RB love/VB to/TO know/VB how/WRB 
+[ his/PRP$ work/NN ]
+would/MD sound/VB when/WRB done/VBN by/IN 
+[ professional/JJ musicians/NNS ]
+and/CC by/IN 
+[ trained/JJ voices/NNS ]
+./. 
+==================================
+``/`` 
+[ I/PRP ]
+'d/MD simply/RB like/VB to/TO know/VB if/IN 
+[ it/PRP ]
+is/VBZ as/RB good/JJ as/IN 
+[ you/PRP ]
+
+[ kind/JJ people/NNS ]
+seem/VBP to/TO think/VB ''/'' ,/, 
+[ he/PRP ]
+said/VBD ./. 
+==================================
+
+[ Duclos/NNP ]
+,/, 
+[ the/DT historian/NN ]
+,/, pointed/VBD out/RP to/TO 
+[ Jean/NNP Jacques/NNP ]
+that/IN 
+[ this/DT ]
+was/VBD impossible/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT musicians/NNS ]
+of/IN 
+[ the/DT Royal/NNP Opera/NNP ]
+would/MD not/RB rehearse/VB 
+[ a/DT work/NN ]
+merely/RB to/TO see/VB how/WRB 
+[ it/PRP ]
+would/MD sound/VB ./. 
+==================================
+
+==================================
+==================================
+Merely/RB to/TO satisfy/VB 
+[ the/DT author/NN 's/POS curiosity/NN ]
+./. 
+==================================
+
+[ Rousseau/NNP ]
+agreed/VBD ./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ he/PRP ]
+recalled/VBD that/IN 
+[ Rameau/NNP ]
+had/VBD once/RB had/VBD 
+[ a/DT private/JJ performance/NN ]
+of/IN 
+[ his/PRP$ opera/NN Armide/NN ]
+,/, behind/IN 
+[ closed/JJ doors/NNS ]
+,/, just/RB for/IN 
+[ himself/PRP ]
+alone/RB ./. 
+==================================
+
+[ Duclos/NNP ]
+understood/VBD 
+[ what/WP ]
+was/VBD bothering/VBG 
+[ Rousseau/NNP ]
+:/: that/IN 
+[ the/DT writer/NN ]
+of/IN 
+[ the/DT Prosopopoeia/NNP ]
+of/IN 
+[ Fabricius/NNP ]
+should/MD now/RB become/VB known/VBN as/IN 
+[ the/DT writer/NN ]
+of/IN 
+[ an/DT amusing/JJ little/JJ operetta/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ That/DT ]
+would/MD certainly/RB be/VB paradoxical/JJ ./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ Duclos/NNP ]
+thought/VBD 
+[ he/PRP ]
+saw/VBD 
+[ a/DT way/NN ]
+out/RB ./. 
+==================================
+``/`` Let/VB 
+[ me/PRP ]
+do/VB 
+[ the/DT submitting/NN ]
+to/TO 
+[ the/DT Royal/NNP Academy/NNP ]
+''/'' ,/, 
+[ he/PRP ]
+suggested/VBD ./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ Your/PRP$ name/NN ]
+will/MD never/RB appear/VB ./. 
+==================================
+
+==================================
+==================================
+
+[ No/NN one/NN ]
+will/MD even/RB suspect/VB that/IN 
+[ it/PRP ]
+is/VBZ 
+[ your/PRP$ work/NN ]
+''/'' ./. 
+==================================
+To/TO that/IN 
+[ Rousseau/NNP ]
+could/MD agree/VB ./. 
+==================================
+But/CC now/RB 
+[ what/WDT ]
+
+[ crazy/JJ twists/NNS ]
+and/CC turns/NNS of/IN 
+[ his/PRP$ emotions/NNS ]
+!/. !/. 
+==================================
+
+[ Afraid/JJ ]
+at/IN 
+[ one/CD ]
+and/CC 
+[ the/DT same/JJ time/NN ]
+that/IN 
+[ his/PRP$ work/NN ]
+might/MD be/VB turned/VBN down/RP --/: 
+[ which/WDT ]
+would/MD be/VB 
+[ a/DT blow/NN ]
+to/TO 
+[ his/PRP$ pride/NN ]
+even/RB though/IN 
+[ no/NN one/NN ]
+knew/VBD 
+[ he/PRP ]
+was/VBD 
+[ the/DT author/NN ]
+--/: and/CC that/IN 
+[ the/DT work/NN ]
+would/MD be/VB accepted/VBN ,/, and/CC then/RB that/IN 
+[ his/PRP$ violent/JJ feelings/NNS ]
+in/IN 
+[ the/DT matter/NN ]
+would/MD certainly/RB betray/VB how/WRB deeply/RB concerned/VBN 
+[ he/PRP ]
+was/VBD in/IN 
+[ spite/NN ]
+of/IN 
+[ himself/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+And/CC how/WRB 
+[ anxious/JJ ]
+
+[ this/DT lover/NN ]
+of/IN 
+[ obscurity/NN ]
+was/VBD for/IN 
+[ applause/NN ]
+!/. !/. 
+==================================
+
+==================================
+==================================
+And/CC thus/RB torn/VBN between/IN 
+[ his/PRP$ desire/NN ]
+to/TO be/VB known/VBN as/IN 
+[ the/DT composer/NN ]
+of/IN 
+[ a/DT successful/JJ opera/NN ]
+and/CC 
+[ the/DT necessity/NN ]
+of/IN remaining/VBG 
+[ true/JJ ]
+to/TO 
+[ his/PRP$ proclaimed/VBN desire/NN ]
+for/IN 
+[ anonymity/NN ]
+,/, 
+[ Rousseau/NNP ]
+suffered/VBD through/IN 
+[ several/JJ painful/JJ weeks/NNS ]
+./. 
+==================================
+
+[ All/PDT these/DT emotions/NNS ]
+were/VBD screwed/VBN up/IN to/TO 
+[ new/JJ heights/NNS ]
+when/WRB ,/, after/IN 
+[ acceptance/NN ]
+and/CC 
+[ the/DT first/JJ rehearsals/NNS ]
+,/, there/EX ensued/VBD 
+[ such/DT a/DT buzz/NN ]
+of/IN 
+[ excitement/NN ]
+among/IN 
+[ Parisian/JJ music/NN lovers/NNS ]
+that/IN 
+[ Duclos/NNP ]
+had/VBD to/TO come/VB running/VBG to/TO 
+[ Rousseau/NNP ]
+to/TO inform/VB 
+[ him/PRP ]
+that/IN 
+[ the/DT news/NN ]
+had/VBD reached/VBN 
+[ the/DT superintendent/NN ]
+of/IN 
+[ the/DT King/NNP 's/POS amusements/NNS ]
+,/, and/CC that/IN 
+[ he/PRP ]
+was/VBD now/RB demanding/VBG that/IN 
+[ the/DT work/NN ]
+be/VB offered/VBN first/JJ at/IN 
+[ the/DT royal/JJ summer/NN palace/NN ]
+of/IN 
+[ Fontainebleau/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+Imagine/VB 
+[ the/DT honor/NN ]
+of/IN 
+[ it/PRP ]
+!/. !/. 
+==================================
+``/`` 
+[ What/WP ]
+was/VBD 
+[ your/PRP$ answer/NN ]
+''/'' ?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ Jean/NNP Jacques/NNP ]
+asked/VBD ,/, striving/VBG to/TO appear/VB 
+[ unimpressed/JJ ]
+./. 
+==================================
+``/`` 
+[ I/PRP ]
+refused/VBD ''/'' ,/, 
+[ Duclos/NNP ]
+said/VBD ./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ What/WP ]
+else/RB could/MD 
+[ I/PRP ]
+do/VB ?/. ?/. 
+==================================
+
+[ Monsieur/NNP De/NNP Cury/NNP ]
+was/VBD incensed/VBN ,/, of/IN 
+[ course/NN ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ I/PRP ]
+said/VBD 
+[ I/PRP ]
+would/MD first/RB have/VB to/TO get/VB 
+[ the/DT author/NN 's/POS permission/NN ]
+./. 
+==================================
+
+==================================
+==================================
+And/CC 
+[ I/PRP ]
+was/VBD certain/JJ 
+[ he/PRP ]
+would/MD refuse/VB ''/'' ./. 
+==================================
+How/WRB infuriating/VBG 
+[ all/PDT this/DT ]
+was/VBD !/. !/. 
+==================================
+
+==================================
+==================================
+Why/WRB had/VBD not/RB 
+[ this/DT success/NN ]
+come/VB to/TO 
+[ him/PRP ]
+before/IN 
+[ he/PRP ]
+had/VBD plunged/VBN into/IN 
+[ his/PRP$ Discourse/NNP ]
+,/, and/CC before/IN 
+[ he/PRP ]
+had/VBD committed/VBN 
+[ himself/PRP ]
+to/TO 
+[ a/DT life/NN ]
+of/IN 
+[ austerity/NN ]
+and/CC 
+[ denial/NN ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+Now/RB ,/, when/WRB 
+[ everything/NN ]
+was/VBD opening/VBG up/RP to/TO 
+[ him/PRP ]
+--/: even/RB 
+[ the/DT court/NN ]
+of/IN 
+[ Louis/NNP 15/NNP ] 
+!/. !/. 
+==================================
+
+==================================
+==================================
+--/: 
+[ he/PRP ]
+had/VBD to/TO play/VB 
+[ a/DT role/NN ]
+of/IN 
+[ self-effacement/NN ]
+./. 
+==================================
+Back/RB and/CC forth/RB 
+[ Duclos/NNP ]
+had/VBD to/TO go/VB ,/, between/IN 
+[ M./NNP De/NNP Cury/NNP ]
+and/CC 
+[ Jean/NNP Jacques/NNP ]
+and/CC between/IN 
+[ the/DT Duke/NNP D'Aumont/NNP ]
+and/CC 
+[ Jean/NNP Jacques/NNP ]
+again/RB ,/, as/IN 
+[ his/PRP$ little/JJ operetta/NN ]
+,/, 
+[ The/DT Village/NNP Soothsayer/NNP ]
+,/, though/IN still/RB unperformed/JJ ,/, took/VBD on/IN ever/RB 
+[ more/JJR importance/NN ]
+./. 
+==================================
+And/CC of/IN 
+[ course/NN ]
+
+[ the/DT news/NN ]
+of/IN 
+[ who/WP ]
+
+[ the/DT composer/NN ]
+was/VBD did/VBD finally/RB begin/VB to/TO get/VB around/IN among/IN 
+[ his/PRP$ closest/JJS friends/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ they/PRP ]
+,/, naturally/RB ,/, kept/VBD 
+[ his/PRP$ secret/NN ]
+well/RB ,/, and/CC 
+[ the/DT public/NN ]
+at/IN 
+[ large/JJ ]
+knew/VBD only/RB of/IN 
+[ a/DT great/JJ excitement/NN ]
+in/IN 
+[ musical/JJ ]
+and/CC 
+[ court/NN circles/NNS ]
+./. 
+==================================
+How/WRB titillating/VBG 
+[ it/PRP ]
+was/VBD to/TO go/VB among/IN 
+[ people/NNS ]
+
+[ who/WP ]
+did/VBD not/RB know/VB 
+[ him/PRP ]
+as/IN 
+[ the/DT composer/NN ]
+,/, but/CC 
+[ who/WP ]
+talked/VBD in/IN 
+[ the/DT most/JJS glowing/VBG terms/NNS ]
+of/IN 
+[ the/DT promise/NN ]
+of/IN 
+[ the/DT piece/NN ]
+after/IN having/VBG heard/VBN 
+[ the/DT first/JJ rehearsals/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT furor/NN ]
+was/VBD such/DT that/IN 
+[ people/NNS ]
+
+[ who/WP ]
+could/MD not/RB possibly/RB have/VB squirmed/VBN 
+[ their/PRP$ way/NN ]
+into/IN 
+[ the/DT rehearsals/NNS ]
+were/VBD pretending/VBG that/IN 
+[ they/PRP ]
+were/VBD intimate/JJ with/IN 
+[ the/DT whole/JJ affair/NN ]
+and/CC that/IN 
+[ it/PRP ]
+would/MD be/VB sensational/JJ ./. 
+==================================
+
+==================================
+==================================
+And/CC listening/VBG to/TO 
+[ such/DT a/DT conversation/NN one/CD morning/NN ]
+while/IN taking/VBG 
+[ a/DT cup/NN ]
+of/IN 
+[ chocolate/NN ]
+in/IN 
+[ a/DT cafe/NN ]
+,/, 
+[ Rousseau/NNP ]
+found/VBD 
+[ himself/PRP ]
+bathed/VBN in/IN 
+[ perspiration/NN ]
+,/, trembling/VBG lest/IN 
+[ his/PRP$ authorship/NN ]
+become/VB known/VBN ,/, and/CC at/IN 
+[ the/DT same/JJ time/NN ]
+dreaming/NN of/IN 
+[ the/DT startling/JJ effect/NN ]
+
+[ he/PRP ]
+would/MD make/VB if/IN 
+[ he/PRP ]
+should/MD proclaim/VB 
+[ himself/PRP ]
+suddenly/RB as/IN 
+[ the/DT composer/NN ]
+./. 
+==================================
+
+[ He/PRP ]
+felt/VBD 
+[ himself/PRP ]
+now/RB ,/, as/IN 
+[ he/PRP ]
+
+[ himself/PRP ]
+says/VBZ in/IN 
+[ his/PRP$ Confessions/NNP ]
+,/, at/IN 
+[ a/DT crucial/JJ point/NN ]
+of/IN 
+[ his/PRP$ life/NN ]
+./. 
+==================================
+
+==================================
+==================================
+And/CC 
+[ that/DT ]
+was/VBD why/WRB ,/, on/IN 
+[ the/DT day/NN ]
+of/IN 
+[ the/DT performance/NN ]
+,/, when/WRB 
+[ a/DT carriage/NN ]
+from/IN 
+[ the/DT royal/JJ stables/NNS ]
+called/VBD to/TO take/VB 
+[ him/PRP ]
+to/TO 
+[ the/DT palace/NN ]
+,/, 
+[ he/PRP ]
+did/VBD not/RB bother/VB to/TO shave/VB ./. 
+==================================
+
+==================================
+==================================
+On/IN 
+[ the/DT contrary/NN ]
+,/, 
+[ he/PRP ]
+was/VBD pleased/VBN that/IN 
+[ his/PRP$ face/NN ]
+showed/VBD 
+[ a/DT neglect/NN ]
+of/IN 
+[ several/JJ days/NNS ]
+./. 
+==================================
+Seeing/VBG 
+[ him/PRP ]
+in/IN 
+[ that/DT condition/NN ]
+,/, and/CC about/IN to/TO enter/VB 
+[ the/DT hall/NN ]
+where/WRB 
+[ the/DT King/NNP ]
+,/, 
+[ the/DT Queen/NNP ]
+,/, 
+[ the/DT whole/JJ royal/JJ family/NN ]
+and/CC 
+[ all/PDT the/DT members/NNS ]
+of/IN 
+[ the/DT highest/JJS aristocracy/NN ]
+would/MD be/VB present/JJ ,/, 
+[ Grimm/NNP ]
+and/CC 
+[ the/DT Abbe/NNP Raynal/NNP ]
+and/CC 
+[ others/NNS ]
+tried/VBD to/TO stop/VB 
+[ him/PRP ]
+./. 
+==================================
+``/`` 
+[ You/PRP ]
+ca/MD n't/RB go/VB in/RB 
+[ that/DT way/NN ]
+''/'' !/. !/. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+cried/VBD ./. 
+==================================
+``/`` Why/WRB not/RB ''/'' ?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ Jean/NNP Jacques/NNP ]
+asked/VBD ./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ Who/WP ]
+is/VBZ going/VBG to/TO stop/VB 
+[ me/PRP ]
+''/'' ?/. ?/. 
+==================================
+``/`` 
+[ You/PRP ]
+have/VBP n't/RB dressed/VBN for/IN 
+[ the/DT occasion/NN ]
+''/'' !/. !/. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+pointed/VBD out/RP to/TO 
+[ him/PRP ]
+./. 
+==================================
+``/`` 
+[ I/PRP ]
+'m/VBP dressed/VBN as/IN 
+[ I/PRP ]
+always/RB am/VBP ''/'' ,/, 
+[ Rousseau/NNP ]
+said/VBD ./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ Neither/DT better/RBR ]
+nor/CC 
+[ worse/RBR ]
+''/'' ./. 
+==================================
+``/`` At/IN 
+[ home/NN ]
+,/, yes/UH ''/'' ,/, 
+[ they/PRP ]
+argued/VBD ./. 
+==================================
+
+==================================
+==================================
+``/`` But/CC here/RB 
+[ you/PRP ]
+are/VBP in/IN 
+[ the/DT palace/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ There/EX ]
+'s/VBZ 
+[ the/DT King/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+And/CC 
+[ Madame/NNP De/NNP Pompadour/NNP ]
+''/'' ./. 
+==================================
+``/`` If/IN 
+[ they/PRP ]
+are/VBP here/RB ,/, then/RB surely/RB 
+[ I/PRP ]
+have/VBP 
+[ the/DT right/NN ]
+to/TO be/VB here/RB ''/'' ,/, 
+[ Rousseau/NNP ]
+said/VBD ./. 
+==================================
+
+==================================
+==================================
+``/`` And/CC even/RB more/JJR right/NN ./. 
+==================================
+
+==================================
+==================================
+Since/IN 
+[ I/PRP ]
+am/VBP 
+[ the/DT composer/NN ]
+''/'' !/. !/. 
+==================================
+``/`` But/CC in/IN 
+[ such/DT a/DT slovenly/JJ condition/NN ]
+''/'' ./. 
+==================================
+``/`` 
+[ What/WP ]
+is/VBZ slovenly/JJ about/IN 
+[ me/PRP ]
+''/'' ?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ Rousseau/NNP ]
+asked/VBD ./. 
+==================================
+
+==================================
+==================================
+``/`` Is/VBZ 
+[ it/PRP ]
+because/IN of/IN 
+[ my/PRP$ slovenliness/NN ]
+
+[ that/DT hair/NN ]
+grows/VBZ on/IN 
+[ my/PRP$ face/NN ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+Surely/RB 
+[ it/PRP ]
+would/MD grow/VB there/RB whether/IN 
+[ I/PRP ]
+washed/VBD 
+[ myself/PRP ]
+or/CC not/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT hundred/CD years/NNS ]
+ago/RB 
+[ I/PRP ]
+would/MD have/VB worn/VBN 
+[ a/DT beard/NN ]
+with/IN 
+[ pride/NN ]
+./. 
+==================================
+
+==================================
+==================================
+And/CC 
+[ those/DT ]
+without/IN 
+[ beards/NNS ]
+would/MD have/VB stood/VBD out/RB as/RB not/RB dressed/VBN for/IN 
+[ the/DT occasion/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Now/RB 
+[ times/NNS ]
+have/VBP changed/VBN ,/, and/CC 
+[ I/PRP ]
+must/MD pretend/VB 
+[ that/DT hair/NN ]
+does/VBZ n't/RB grow/VB on/IN 
+[ my/PRP$ face/NN ]
+./. 
+==================================
+
+[ That/DT ]
+'s/VBZ 
+[ the/DT fashion/NN ]
+./. 
+==================================
+
+==================================
+==================================
+And/CC 
+[ fashion/NN ]
+is/VBZ 
+[ the/DT real/JJ king/NN ]
+here/RB ./. 
+==================================
+
+==================================
+==================================
+Not/RB 
+[ Louis/NNP 15/NNP ]
+,/, ,/, since/IN even/RB 
+[ he/PRP ]
+obeys/VBZ ./. 
+==================================
+
+==================================
+==================================
+Now/RB ,/, if/IN 
+[ you/PRP ]
+do/VBP n't/RB mind/VB ,/, 
+[ I/PRP ]
+should/MD like/VB to/TO hear/VB 
+[ my/PRP$ own/JJ piece/NN ]
+performed/VBN ''/'' ./. 
+==================================
+But/CC of/IN 
+[ course/NN ]
+behind/IN 
+[ his/PRP$ boldness/NN ]
+
+[ he/PRP ]
+did/VBD n't/RB feel/VB 
+[ bold/JJ ]
+at/IN 
+[ all/DT ]
+./. 
+==================================
+
+[ He/PRP ]
+trembled/VBD lest/IN 
+[ his/PRP$ piece/NN ]
+should/MD fail/VB ./. 
+==================================
+
+==================================
+==================================
+And/CC 
+[ this/DT ]
+in/IN 
+[ addition/NN ]
+to/TO 
+[ his/PRP$ usual/JJ fear/NN ]
+of/IN being/VBG among/IN 
+[ people/NNS ]
+of/IN 
+[ high/JJ society/NN ]
+,/, 
+[ his/PRP$ fear/NN ]
+of/IN making/VBG 
+[ some/DT inane/JJ ]
+or/CC 
+[ inappropriate/JJ remark/NN ]
+./. 
+==================================
+
+==================================
+==================================
+And/CC even/RB deeper/JJR than/IN 
+[ that/DT ]
+:/: 
+[ his/PRP$ fear/NN ]
+lest/IN in/IN 
+[ this/DT closed/JJ hall/NN  ]
+
+[ he/PRP ]
+should/MD suddenly/RB itch/VB to/TO relieve/VB 
+[ himself/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+Could/MD 
+[ he/PRP ]
+walk/VB out/RB in/IN 
+[ the/DT midst/NN ]
+of/IN 
+[ his/PRP$ piece/NN ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+Here/RB ,/, before/IN 
+[ the/DT court/NN ]
+?/. ?/. 
+==================================
+
+==================================
+==================================
+Before/IN 
+[ the/DT King/NNP ]
+?/. ?/. 
+==================================
+==================================
+==================================

@@ -1,0 +1,1627 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+``/`` But/CC tell/VB 
+[ me/PRP ]
+,/, 
+[ doctor/NN ]
+,/, where/WRB do/VBP 
+[ you/PRP ]
+plan/VB to/TO conduct/VB 
+[ the/DT hatching/NN ]
+''/'' ?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ Alex/NNP ]
+asked/VBD ./. 
+==================================
+``/`` 
+[ That/DT ]
+will/MD have/VB to/TO be/VB in/IN 
+[ the/DT hotel/NN ]
+''/'' ,/, 
+[ the/DT doctor/NN ]
+retorted/VBD ,/, confirming/VBG 
+[ Alex/NNP 's/POS anticipations/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ What/WP ]
+
+[ I/PRP ]
+want/VBP 
+[ you/PRP ]
+to/TO do/VB is/VBZ to/TO go/VB to/TO 
+[ the/DT market/NN ]
+with/IN 
+[ me/PRP early/RB tomorrow/RB morning/NN ]
+and/CC help/VB smuggle/VB 
+[ the/DT hen/NN ]
+back/RB into/IN 
+[ the/DT hotel/NN ]
+''/'' ./. 
+==================================
+
+[ The/DT doctor/NN ]
+paid/VBD 
+[ the/DT bill/NN ]
+and/CC 
+[ they/PRP ]
+repaired/VBD to/TO 
+[ the/DT hotel/NN ]
+,/, 
+[ room/NN number/NN nine/CD ]
+,/, to/TO initiate/VB 
+[ Alex/NNP further/RBR ]
+into/IN 
+[ these/DT undertakings/NNS ]
+./. 
+==================================
+
+[ The/DT doctor/NN ]
+opened/VBD 
+[ the/DT smallest/JJS ]
+of/IN 
+[ his/PRP$ cases/NNS ]
+,/, 
+[ an/DT unimposing/JJ straw/NN bag/NN ]
+,/, and/CC exposed/VBD 
+[ the/DT contents/NNS ]
+for/IN 
+[ Alex/NNP 's/POS inspection/NN ]
+./. 
+==================================
+
+[ Inside/NN ]
+,/, carefully/RB packed/VBN in/IN 
+[ straw/NN ]
+,/, were/VBD 
+[ six/CD eggs/NNS ]
+,/, but/CC 
+[ the/DT eye/NN ]
+of/IN 
+[ a/DT poultry/NN psychologist/NN ]
+was/VBD required/VBN to/TO detect/VB 
+[ what/WP ]
+scientifically/RB 
+[ valuable/JJ specimentalia/NN ]
+lay/VBD inside/RB ;/: ;/: to/TO 
+[ Alex/NNP they/PRP ]
+were/VBD merely/RB 
+[ six/CD ]
+not/RB 
+[ unusual/JJ hens/NNS '/POS eggs/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ There/EX ]
+was/VBD 
+[ little/RB enough/JJ time/NN ]
+to/TO contemplate/VB 
+[ them/PRP ]
+,/, however/RB ;/: ;/: in/IN 
+[ an/DT instant/NN ]
+
+[ the/DT doctor/NN ]
+was/VBD stalking/VBG across/IN 
+[ the/DT room/NN ]
+with/IN 
+[ an/DT antique/JJ ledger/NN ]
+in/IN 
+[ his/PRP$ hands/NNS ]
+,/, thoroughly/RB eared/JJ and/CC big/JJ as/IN 
+[ a/DT table/NN top/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+placed/VBD 
+[ it/PRP ]
+on/IN 
+[ Alex/NNP 's/POS lap/NN ]
+./. 
+==================================
+``/`` 
+[ This/DT ]
+is/VBZ 
+[ my/PRP$ hen/NN ledger/NN ]
+''/'' ,/, 
+[ he/PRP ]
+informed/VBD 
+[ him/PRP ]
+in/IN 
+[ an/DT absorbed/JJ way/NN ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ It/PRP ]
+'s/VBZ been/VBN going/VBG since/IN 
+[ 1908/CD ]
+when/WRB 
+[ I/PRP ]
+was/VBD 
+[ a/DT junior/NN ]
+in/IN 
+[ college/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ That/DT first/JJ entry/NN ]
+
+[ there/EX ]
+is/VBZ 
+[ the/DT Vermont/NNP Flumenophobe/NNP ]
+,/, 
+[ the/DT earliest/JJS ]
+and/CC 
+[ one/CD ]
+of/IN 
+[ the/DT most/RBS successful/JJ ]
+of/IN 
+[ my/PRP$ eighty-three/CD varieties/NNS ]
+--/: 
+[ great/JJ big/JJ scapulars/NNS ]
+and/CC hardly/RB 
+[ any/DT primaries/NNS ]
+at/IN 
+[ all/DT ]
+./. 
+==================================
+
+==================================
+==================================
+Could/MD n't/RB take/VB 
+[ them/PRP ]
+near/IN 
+[ a/DT river/NN ]
+,/, though/IN ,/, or/CC 
+[ they/PRP ]
+'d/MD squawk/VB like/IN 
+[ a/DT turkey/NN ]
+cock/NN 
+[ the/DT day/NN ]
+before/IN 
+[ Thanksgiving/NNP ]
+''/'' ./. 
+==================================
+
+[ The/DT ledger/NN ]
+was/VBD full/JJ of/IN 
+[ most/RBS precise/JJ information/NN ]
+:/: 
+[ date/NN ]
+of/IN laying/NN ,/, 
+[ length/NN ]
+of/IN 
+[ incubation/NN period/NN ]
+,/, 
+[ number/NN ]
+of/IN 
+[ chick/NN ]
+reaching/VBG 
+[ the/DT first/JJ week/NN ]
+,/, 
+[ second/JJ week/NN ]
+,/, 
+[ fifth/JJ week/NN ]
+,/, 
+[ weight/NN ]
+of/IN 
+[ hen/NN ]
+,/, 
+[ size/NN ]
+of/IN 
+[ rooster/NN 's/POS wattles/NNS ]
+and/CC so/RB on/RB ,/, 
+[ all/DT ]
+scrawled/VBD out/IN in/IN 
+[ a/DT hand/NN ]
+
+[ that/WDT ]
+looked/VBD 
+[ more/JJR Chinese/NNP ]
+than/IN 
+[ English/NNP ]
+,/, 
+[ the/DT most/RBS jagged/JJ ]
+and/CC sprawling/JJ 
+[ Alex/NNP ]
+had/VBD ever/RB seen/VBN ./. 
+==================================
+
+==================================
+==================================
+Below/IN 
+[ these/DT particulars/NNS ]
+was/VBD 
+[ a/DT series/NN ]
+of/IN 
+[ alpha-beta-gammas/NNS ]
+connected/VBN by/IN 
+[ arrows/NNS ]
+and/CC crosses/NNS 
+[ which/WDT ]
+denoted/VBD 
+[ the/DT lineage/NN ]
+of/IN 
+[ the/DT breed/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Alex/NNP 's/POS instruction/NN ]
+was/VBD rapid/JJ ,/, for/IN 
+[ the/DT doctor/NN ]
+had/VBD to/TO go/VB off/RB to/TO 
+[ the/DT Rue/NNP Ecole/NNP De/FW Medecine/NNP ]
+to/TO hear/VB 
+[ more/JJR speeches/NNS ]
+with/IN 
+[ only/JJ time/NN ]
+for/IN 
+[ one/CD sip/NN ]
+of/IN 
+[ wine/NN ]
+to/TO sustain/VB 
+[ him/PRP ]
+through/IN 
+[ them/PRP ]
+
+[ all/DT ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC after/IN 
+[ the/DT doctor/NN 's/POS return/NN ]
+
+[ that/DT night/NN Alex/NNP ]
+could/MD see/VB ,/, from/IN 
+[ the/DT high/JJ window/NN ]
+in/IN 
+[ his/PRP$ own/JJ room/NN ]
+,/, 
+[ the/DT ]
+now/RB 
+[ familiar/JJ figure/NN ]
+crouched/VBN on/IN 
+[ a/DT ]
+truly/RB 
+[ impressive/JJ heap/NN ]
+of/IN 
+[ towels/NNS ]
+,/, apparently/RB giving/VBG 
+[ its/PRP$ egg-hatching/JJ powers/NNS one/CD final/JJ chance/NN ]
+before/IN 
+[ it/PRP ]
+was/VBD replaced/VBN in/IN 
+[ its/PRP$ office/NN ]
+by/IN 
+[ a/DT sure-enough/JJ hen/NN ]
+./. 
+==================================
+
+[ A/DT knocking/NN ]
+at/IN 
+[ Alex/NNP 's/POS door/NN ]
+roused/VBD 
+[ him/PRP ]
+at/IN 
+[ six/CD ]
+o'clock/RB 
+[ the/DT following/VBG morning/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD 
+[ the/DT doctor/NN ]
+,/, dressed/JJ and/CC 
+[ ready/JJ ]
+for/IN 
+[ the/DT expedition/NN ]
+to/TO 
+[ the/DT market/NN ]
+,/, and/CC 
+[ Alex/NNP ]
+was/VBD obliged/VBN to/TO prepare/VB 
+[ himself/PRP ]
+in/IN 
+[ haste/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT doctor/NN ]
+stood/VBD about/RB ,/, waiting/VBG for/IN 
+[ Alex/NNP ]
+to/TO dress/VB ,/, with/IN 
+[ a/DT show/NN ]
+of/IN 
+[ impatience/NN ]
+,/, and/CC soon/RB 
+[ they/PRP ]
+were/VBD moving/VBG ,/, as/RB quietly/RB as/IN could/MD be/VB ,/, through/IN 
+[ the/DT still-dark/JJ hallways/NNS ]
+,/, past/IN 
+[ the/DT bedroom/NN ]
+of/IN 
+[ the/DT patronne/NN ]
+,/, and/CC so/RB into/IN 
+[ the/DT street/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT market/NN ]
+was/VBD not/RB far/RB and/CC ,/, once/RB there/RB ,/, 
+[ the/DT doctor/NN 's/POS sense/NN ]
+of/IN 
+[ immediacy/NN ]
+left/VBD 
+[ him/PRP ]
+and/CC 
+[ he/PRP ]
+fell/VBD into/IN 
+[ a/DT state/NN ]
+of/IN 
+[ harmony/NN ]
+with/IN 
+[ the/DT birds/NNS ]
+around/IN 
+[ him/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+stroked/VBD 
+[ the/DT hens/NNS ]
+and/CC 
+[ they/PRP ]
+responded/VBD with/IN 
+[ delighted/JJ clucks/NNS ]
+,/, 
+[ he/PRP ]
+gobbled/VBD with/IN 
+[ the/DT turkeys/NNS ]
+and/CC 
+[ they/PRP ]
+at/IN once/RB were/VBD 
+[ all/DT attention/NN ]
+,/, 
+[ he/PRP ]
+quacked/VBD with/IN 
+[ the/DT ducks/NNS ]
+,/, and/CC cackled/VBD with/IN 
+[ a/DT pair/NN ]
+of/IN exceedingly/RB flattered/JJ 
+[ geese/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT dawn/NN ]
+progressed/VBD and/CC 
+[ it/PRP ]
+seemed/VBD that/IN 
+[ the/DT doctor/NN ]
+would/MD never/RB be/VB done/VBN with/IN 
+[ his/PRP$ ministrations/NNS ]
+when/WRB quite/RB abruptly/RB 
+[ something/NN ]
+broke/VBD 
+[ his/PRP$ revery/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD 
+[ a/DT fine/JJ broody/JJ hen/NN ]
+,/, 
+[ white/JJ ]
+,/, with/IN 
+[ a/DT maternal/JJ eye/NN ]
+and/CC 
+[ a/DT striking/JJ abundance/NN ]
+of/IN 
+[ feathers/NNS ]
+in/IN 
+[ the/DT ]
+under/IN 
+[ region/NN ]
+of/IN 
+[ the/DT abdomen/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT doctor/NN ]
+,/, with/IN 
+[ the/DT air/NN ]
+of/IN 
+[ a/DT man/NN ]
+
+[ whose/WP$ professional/JJ interests/NNS ]
+have/VBP found/VBN 
+[ scope/NN ]
+,/, drew/VBD 
+[ Alex/NNP 's/POS attention/NN ]
+to/TO 
+[ those/DT excellences/NNS ]
+
+[ which/WDT ]
+might/MD otherwise/RB have/VBP escaped/VBN 
+[ him/PRP ]
+:/: 
+[ the/DT fine/JJ color/NN ]
+in/IN 
+[ comb/NN ]
+and/CC 
+[ wattles/NNS ]
+,/, 
+[ the/DT length/NN ]
+and/CC 
+[ quality/NN ]
+of/IN 
+[ neck/NN ]
+and/CC 
+[ saddle/NN hackles/NNS ]
+,/, 
+[ the/DT firm/JJ ]
+,/, 
+[ wide/JJ spread/NN ]
+of/IN 
+[ the/DT toes/NNS ]
+,/, and/CC 
+[ a/DT rare/JJ justness/NN ]
+in/IN 
+[ the/DT formation/NN ]
+of/IN 
+[ the/DT ear/NN lappets/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ All/DT search/NN ]
+was/VBD ended/VBN ;/: ;/: 
+[ he/PRP ]
+had/VBD found/VBN 
+[ his/PRP$ fowl/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT purchase/NN ]
+was/VBD effected/VBN and/CC 
+[ they/PRP ]
+made/VBN 
+[ their/PRP$ way/NN ]
+towards/IN 
+[ the/DT hotel/NN ]
+again/RB ,/, 
+[ the/DT hen/NN ]
+,/, with/IN 
+[ whom/WP ]
+
+[ some/DT sort/NN ]
+of/IN 
+[ communication/NN ]
+had/VBD been/VBN set/VBN up/RB ,/, 
+[ nestling/NN ]
+in/IN 
+[ the/DT doctor/NN 's/POS arms/NNS ]
+./. 
+==================================
+
+[ The/DT clocks/NNS ]
+struck/VBD seven-thirty/RB as/IN 
+[ they/PRP ]
+approached/VBD 
+[ the/DT hotel/NN entrance/NN ]
+;/: ;/: and/CC hopes/NNS that/IN 
+[ the/DT chambermaid/NN ]
+and/CC 
+[ patronne/NN ]
+would/MD still/RB be/VB abed/RB began/VBD to/TO rise/VB in/IN 
+[ Alex/NNP ]
+'s/VBZ well/RB exercised/JJ 
+[ breast/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT doctor/NN ]
+was/VBD wearing/VBG 
+[ a/DT long/JJ New/NNP England/NNP greatcoat/NN ]
+,/, hardly/RB necessary/JJ in/IN 
+[ the/DT June/NNP weather/NN ]
+but/CC 
+[ a/DT garment/NN ]
+
+[ which/WDT ]
+proved/VBD well/RB adapted/VBN to/TO 
+[ the/DT sequestration/NN ]
+of/IN 
+[ hens/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Alex/NNP ]
+entered/VBD 
+[ first/JJ ]
+and/CC was/VBD followed/VBN by/IN 
+[ the/DT doctor/NN ]
+
+[ who/WP ]
+,/, for/IN 
+[ all/DT his/PRP$ care/NN ]
+,/, manifested/VBD 
+[ a/DT perceptible/JJ bulge/NN ]
+on/IN 
+[ his/PRP$ left/JJ side/NN ]
+where/WRB 
+[ the/DT hen/NN ]
+was/VBD cradled/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+advanced/VBD in/IN 
+[ a/DT line/NN ]
+across/IN 
+[ the/DT entrance/NN hall/NN ]
+to/TO 
+[ the/DT stairway/NN ]
+and/CC up/RB ,/, with/IN 
+[ gingerly/JJ steps/NNS ]
+,/, towards/IN 
+[ the/DT first/JJ landing/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD then/RB that/IN 
+[ they/PRP ]
+heard/VBD 
+[ the/DT tread/NN ]
+of/IN 
+[ one/CD ]
+descending/VBG and/CC ,/, in/IN 
+[ some/DT perturbation/NN ]
+glancing/VBG up/RB ,/, saw/VBD 
+[ the/DT patronne/NN ]
+coming/VBG towards/IN 
+[ them/PRP ]
+as/IN 
+[ they/PRP ]
+gained/VBD 
+[ the/DT landing/NN ]
+./. 
+==================================
+``/`` 
+[ Bonjour/FW ]
+,/, 
+[ messieurs/FW ]
+,/, 
+[ vous/FW etes/FW matinals/FW ]
+''/'' ,/, 
+[ she/PRP ]
+greeted/VBD 
+[ them/PRP ]
+pleasantly/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ Alex/NNP ]
+explained/VBD that/IN 
+[ they/PRP ]
+had/VBD been/VBN out/IN for/IN 
+[ a/DT stroll/NN ]
+before/IN 
+[ breakfast/NN ]
+while/IN 
+[ the/DT doctor/NN ]
+edged/VBD around/IN behind/IN 
+[ him/PRP ]
+,/, attempting/VBG to/TO hide/VB 
+[ the/DT protuberance/NN ]
+at/IN 
+[ his/PRP$ left/JJ side/NN ]
+behind/IN 
+[ Alex/NNP 's/POS arm/NN ]
+and/CC 
+[ back/NN ]
+./. 
+==================================
+``/`` 
+[ Vous/FW voulez/FW ]
+vos/FW 
+[ petits/FW dejeuners/FW ]
+tout/FW de/FW 
+[ suite/FW alors/FW ]
+''/'' ?/. ?/. 
+==================================
+
+[ Their/PRP$ hostess/NN ]
+enquired/VBD ./. 
+==================================
+
+==================================
+==================================
+
+[ Alex/NNP ]
+told/VBD 
+[ her/PRP ]
+that/IN 
+[ there/EX ]
+was/VBD 
+[ no/DT hurry/NN ]
+for/IN 
+[ their/PRP$ breakfasts/NNS ]
+,/, trying/VBG at/IN 
+[ the/DT same/JJ time/NN ]
+to/TO effect/VB 
+[ a/DT speedy/JJ separation/NN ]
+of/IN 
+[ the/DT persons/NNS ]
+before/IN and/CC behind/IN 
+[ him/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT doctor/NN ]
+,/, 
+[ he/PRP ]
+noticed/VBD ,/, was/VBD attempting/VBG 
+[ a/DT transverse/JJ movement/NN ]
+towards/IN 
+[ the/DT stairs/NNS ]
+,/, but/CC before/IN 
+[ the/DT movement/NN ]
+could/MD be/VB completed/VBN 
+[ a/DT distinct/JJ ]
+and/CC 
+[ audible/JJ cluck/NN ]
+ruffled/VBD 
+[ the/DT air/NN ]
+in/IN 
+[ the/DT hollow/NN ]
+of/IN 
+[ the/DT stair-well/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Eyes/NNS ]
+swerved/VBD in/IN 
+[ the/DT patronne/NN 's/POS head/NN ]
+,/, 
+[ Alex/NNP ]
+coughed/VBD loudly/RB ,/, and/CC 
+[ the/DT doctor/NN ]
+,/, with/IN 
+[ a/DT sforzando/NN ]
+of/IN 
+[ chicken/NN noises/NNS ]
+floating/VBG behind/IN 
+[ him/PRP ]
+,/, took/VBD to/TO 
+[ the/DT stairs/NNS ]
+in/IN 
+[ long-shanked/JJ leaps/NNS ]
+./. 
+==================================
+``/`` 
+[ Comment/NN ]
+''/'' ?/. ?/. 
+==================================
+
+==================================
+==================================
+Ejaculated/VBD 
+[ the/DT surprised/VBN woman/NN ]
+,/, looking/VBG at/IN 
+[ Alex/NNP ]
+for/IN 
+[ an/DT explanation/NN ]
+but/CC 
+[ he/PRP ]
+,/, parting/VBG from/IN 
+[ her/PRP ]
+without/IN 
+[ ceremony/NN ]
+,/, only/RB offered/VBD 
+[ a/DT few/JJ words/NNS ]
+about/IN 
+[ the/DT doctor/NN 's/POS provincial/JJ American/JJ speech/NN ]
+and/CC 
+[ a/DT state/NN ]
+of/IN 
+[ nerves/NNS ]
+brought/VBN on/IN by/IN 
+[ the/DT demands/NNS ]
+of/IN 
+[ his/PRP$ work/NN ]
+./. 
+==================================
+
+==================================
+==================================
+With/IN that/IN 
+[ he/PRP ]
+hurried/VBD up/IN 
+[ the/DT stairs/NNS ]
+,/, followed/VBN by/IN 
+[ her/PRP$ suspicious/JJ gaze/NN ]
+./. 
+==================================
+When/WRB 
+[ Alex/NNP ]
+entered/VBD 
+[ his/PRP$ room/NN ]
+,/, 
+[ the/DT doctor/NN ]
+was/VBD already/RB preparing/VBG 
+[ a/DT nest/NN ]
+in/IN 
+[ the/DT straw/NN case/NN ]
+,/, 
+[ six/CD eggs/NNS ]
+ready/JJ for/IN 
+[ the/DT hen/NN 's/POS attentions/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ There/EX ]
+was/VBD 
+[ no/DT reference/NN ]
+to/TO 
+[ the/DT incident/NN ]
+on/IN 
+[ the/DT stairs/NNS ]
+,/, 
+[ his/PRP$ powers/NNS ]
+being/VBG absorbed/VBN by/IN 
+[ this/DT more/RBR immediate/JJ business/NN ]
+./. 
+==================================
+
+[ The/DT hen/NN ]
+appeared/VBD to/TO have/VB 
+[ no/DT doubts/NNS ]
+as/IN to/TO 
+[ her/PRP$ duties/NNS ]
+and/CC was/VBD quick/JJ to/TO settle/VB down/RB to/TO 
+[ the/DT performance/NN ]
+of/IN 
+[ them/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ One/CD part/NN ]
+of/IN 
+[ her/PRP$ audience/NN ]
+was/VBD totally/RB engaged/VBN ,/, 
+[ the/DT connoisseur/NN ]
+witnessing/VBG 
+[ a/DT ]
+peculiarly/RB 
+[ fine/JJ performance/NN ]
+of/IN 
+[ some/DT ancient/JJ classic/NN ]
+,/, 
+[ the/DT other/JJ part/NN ]
+,/, 
+[ the/DT guest/NN ]
+of/IN 
+[ the/DT connoisseur/NN ]
+,/, attentive/JJ as/IN 
+[ one/PRP ]
+
+[ who/WP ]
+must/MD take/VB 
+[ an/DT intelligent/JJ interest/NN ]
+in/IN 
+[ that/DT which/WDT ]
+
+[ he/PRP ]
+does/VBZ not/RB fully/RB understand/VB ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT spectacle/NN ]
+progressed/VBD towards/IN 
+[ a/DT denouement/NN ]
+
+[ which/WDT ]
+was/VBD obviously/RB still/RB 
+[ remote/JJ ]
+;/: ;/: 
+[ the/DT audience/NN ]
+attended/VBD ./. 
+==================================
+
+==================================
+==================================
+
+[ Time/NN ]
+elapsed/VBN but/IN 
+[ the/DT doctor/NN ]
+was/VBD obviously/RB unconscious/JJ of/IN 
+[ its/PRP$ passage/NN ]
+until/IN 
+[ an/DT unwelcome/JJ knock/NN ]
+on/IN 
+[ the/DT door/NN ]
+interrupted/VBD 
+[ the/DT processes/NNS ]
+of/IN 
+[ nature/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Startled/VBN ,/, 
+[ he/PRP ]
+jumped/VBD up/RB to/TO pull/VB 
+[ hen/NN ]
+and/CC 
+[ case/NN ]
+out/IN of/IN 
+[ view/NN ]
+,/, and/CC 
+[ Alex/NNP ]
+went/VBD to/TO 
+[ the/DT door/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+opened/VBD 
+[ it/PRP ]
+
+[ a/DT crack/NN ]
+and/CC in/IN doing/VBG so/RB made/VBN as/IN 
+[ much/JJ ]
+shuffling/VBG ,/, coughing/VBG ,/, and/CC 
+[ scraping/VBG noise/NN ]
+as/IN 
+[ possible/JJ ]
+in/IN 
+[ order/NN ]
+to/TO drown/VB 
+[ emanations/NNS ]
+from/IN 
+[ the/DT hen/NN ]
+
+[ who/WP ]
+had/VBD begun/VBN to/TO protest/VB ./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD 
+[ Giselle/NNP ]
+,/, 
+[ the/DT fille/FW ]
+de/FW 
+[ chambre/FW ]
+,/, come/VBN to/TO clean/VB 
+[ the/DT room/NN ]
+,/, and/CC while/IN 
+[ she/PRP ]
+stood/VBD before/IN 
+[ him/PRP ]
+with/IN 
+[ ears/NNS ]
+pricked/VBN up/RB and/CC regard/VB 
+[ all/DT curiosity/NN ]
+,/, explaining/VBG 
+[ her/PRP ]
+
+[ errand/NN ]
+,/, 
+[ Alex/NNP ]
+could/MD see/VB from/IN 
+[ the/DT corner/NN ]
+of/IN 
+[ his/PRP$ eye/NN ]
+
+[ the/DT doctor/NN ]
+doing/VBG 
+[ all/DT he/PRP ]
+could/MD to/TO calm/VB 
+[ the/DT displeased/JJ bird/NN ]
+./. 
+==================================
+
+[ Giselle/NNP ]
+was/VBD reluctant/JJ but/CC 
+[ Alex/NNP ]
+succeeded/VBD in/IN persuading/VBG 
+[ her/PRP ]
+to/TO come/VB back/RB in/IN 
+[ five/CD minutes/NNS ]
+and/CC 
+[ the/DT door/NN ]
+was/VBD shut/VBN again/RB ./. 
+==================================
+``/`` 
+[ Who/WP ]
+was/VBD 
+[ that/DT ]
+,/, 
+[ young/JJ feller/NN ]
+''/'' ?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ The/DT doctor/NN ]
+instantly/RB asked/VBD ./. 
+==================================
+``/`` 
+[ That/DT ]
+was/VBD 
+[ the/DT fille/FW ]
+de/FW 
+[ chambre/FW ]
+,/, 
+[ the/DT one/CD ]
+
+[ you/PRP ]
+thought/VBD could/MD n't/RB get/VB 
+[ the/DT eggs/NNS ]
+out/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ She/PRP ]
+looked/VBD mighty/RB interested/JJ ,/, though/RB ./. 
+==================================
+Anyhow/RB 
+[ she/PRP ]
+'s/VBZ coming/VBG back/RB in/IN 
+[ five/CD minutes/NNS ]
+to/TO do/VB 
+[ the/DT room/NN ]
+''/'' ./. 
+==================================
+
+[ The/DT doctor/NN 's/POS mind/NN ]
+was/VBD working/VBG at/IN 
+[ a/DT great/JJ speed/NN ]
+;/: ;/: 
+[ he/PRP ]
+rose/VBD to/TO put/VB 
+[ his/PRP$ greatcoat/NN ]
+on/RP and/CC addressed/VBD 
+[ Alex/NNP ]
+in/IN 
+[ a/DT muted/JJ voice/NN ]
+./. 
+==================================
+``/`` Have/VBP 
+[ you/PRP ]
+got/VBD 
+[ our/PRP$ keys/NNS ]
+handy/JJ ''/'' ?/. ?/. 
+==================================
+``/`` Right/RB in/IN 
+[ my/PRP$ pocket/NN ]
+''/'' ./. 
+==================================
+``/`` All/RB right/JJ ./. 
+==================================
+
+==================================
+==================================
+Now/RB 
+[ you/PRP ]
+go/VB outside/RB and/CC beckon/VB 
+[ me/PRP ]
+when/WRB 
+[ it/PRP ]
+'s/VBZ safe/JJ ''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT hall/NN ]
+was/VBD empty/JJ and/CC 
+[ Alex/NNP ]
+beckoned/VBD ;/: ;/: 
+[ they/PRP ]
+climbed/VBD 
+[ the/DT stairs/NNS ]
+
+[ which/WDT ]
+creaked/VBD ,/, very/RB loudly/RB to/TO 
+[ their/PRP$ sensitive/JJ ears/NNS ]
+,/, and/CC reached/VBD 
+[ the/DT next/JJ floor/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT guest/NN ]
+was/VBD locking/VBG 
+[ his/PRP$ room/NN ]
+;/: ;/: 
+[ they/PRP ]
+passed/VBD behind/IN 
+[ him/PRP ]
+and/CC got/VBD to/TO 
+[ Alex/NNP 's/POS room/NN ]
+unnoticed/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT doctor/NN ]
+sat/VBD down/RB rather/RB wearily/RB ,/, caressing/VBG 
+[ the/DT hen/NN ]
+and/CC remarking/VBG that/IN 
+[ the/DT city/NN ]
+was/VBD not/RB 
+[ the/DT place/NN ]
+for/IN 
+[ a/DT poultry-loving/JJ man/NN ]
+,/, but/CC no/RB sooner/RB was/VBD 
+[ the/DT remark/NN ]
+out/RB than/IN 
+[ a/DT knock/NN ]
+at/IN 
+[ this/DT door/NN ]
+obliged/VBD 
+[ him/PRP ]
+to/TO cover/VB 
+[ the/DT hen/NN ]
+with/IN 
+[ his/PRP$ greatcoat/NN ]
+once/RB more/JJR ./. 
+==================================
+At/IN 
+[ the/DT door/NN Alex/NNP ]
+managed/VBD to/TO persuade/VB 
+[ the/DT ]
+increasingly/RB astonished/VBN 
+[ fille/FW ]
+de/FW 
+[ chambre/FW ]
+to/TO 
+[ return/NN ]
+in/IN 
+[ ten/CD minutes/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD evident/JJ that/IN 
+[ a/DT second/JJ transfer/NN ]
+had/VBD to/TO be/VB effected/VBN ,/, and/CC that/IN 
+[ it/PRP ]
+had/VBD to/TO take/VB 
+[ place/NN ]
+between/IN 
+[ the/DT time/NN ]
+
+[ the/DT fille/FW ]
+finished/VBD 
+[ the/DT doctor/NN 's/POS room/NN ]
+and/CC 
+[ the/DT time/NN ]
+
+[ she/PRP ]
+began/VBD 
+[ Alex/NNP 's/POS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+waited/VBD 
+[ three/CD minutes/NNS ]
+and/CC then/RB crept/VBD out/RB on/IN 
+[ tip-toe/NN ]
+;/: ;/: 
+[ the/DT halls/NNS ]
+were/VBD empty/JJ and/CC 
+[ they/PRP ]
+passed/VBD down/IN 
+[ the/DT stairs/NNS ]
+to/TO 
+[ number/NN nine/CD ]
+and/CC listened/VBD at/IN 
+[ the/DT door/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT bustle/NN ]
+of/IN 
+[ sheets/NNS ]
+being/VBG smoothed/VBN and/CC 
+[ pillows/NNS ]
+being/VBG arranged/VBN indicated/VBD 
+[ the/DT fille/FW ]
+de/FW 
+[ chambre/FW 's/POS presence/NN inside/RB ]
+;/: ;/: 
+[ they/PRP ]
+listened/VBD and/CC suddenly/RB 
+[ a/DT step/NN ]
+towards/IN 
+[ the/DT door/NN ]
+announced/VBD 
+[ another/DT important/JJ fact/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT doctor/NN ]
+shot/VBD down/RB to/TO 
+[ the/DT lavatory/NN ]
+and/CC turned/VBD 
+[ the/DT doorknob/NN ]
+,/, but/CC to/TO 
+[ no/DT effect/NN ]
+:/: 
+[ the/DT lavatory/NN ]
+was/VBD occupied/VBN ./. 
+==================================
+
+==================================
+==================================
+Although/IN 
+[ a/DT look/NN ]
+of/IN 
+[ alarm/NN ]
+passed/VBN over/IN 
+[ his/PRP$ face/NN ]
+,/, 
+[ he/PRP ]
+did/VBD not/RB arrest/VB 
+[ his/PRP$ movements/NNS ]
+but/CC disappeared/VBD into/IN 
+[ the/DT shower/NN room/NN ]
+just/RB as/IN 
+[ the/DT chambermaid/NN ]
+emerged/VBD from/IN 
+[ number/NN nine/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Alex/NNP ]
+suppressed/VBD 
+[ those/DT expressions/NNS ]
+of/IN 
+[ relief/NN ]
+
+[ which/WDT ]
+offered/VBD to/TO prevail/VB in/IN 
+[ his/PRP$ face/NN ]
+and/CC 
+[ escape/VB ]
+from/IN 
+[ his/PRP$ throat/NN ]
+;/: ;/: 
+[ unwarranted/JJ they/PRP ]
+were/VBD in/IN 
+[ any/DT case/NN ]
+for/IN ,/, as/IN 
+[ he/PRP ]
+stood/VBD facing/VBG 
+[ the/DT fille/FW ]
+de/FW 
+[ chambre/FW ]
+,/, 
+[ his/PRP$ ears/NNS ]
+were/VBD assailed/VBN by/IN 
+[ new/JJ sounds/NNS ]
+from/IN 
+[ the/DT interior/NN ]
+of/IN 
+[ the/DT shower/NN room/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT events/NNS ]
+of/IN 
+[ the/DT last/JJ quarter/NN ]
+of/IN 
+[ an/DT hour/NN ]
+,/, mysterious/JJ to/TO 
+[ any/DT bird/NN ]
+accustomed/VBN only/RB to/TO 
+[ the/DT predictable/JJ life/NN ]
+of/IN 
+[ coop/NN ]
+and/CC 
+[ barnyard/NN ]
+,/, had/VBD overcome/VBN 
+[ the/DT doctor/NN 's/POS hen/NN ]
+and/CC 
+[ she/PRP ]
+gave/VBD out/IN 
+[ a/DT series/NN ]
+of/IN cackly/RB 
+[ wails/NNS ]
+,/, perhaps/RB mourning/VBG 
+[ her/PRP ]
+
+[ nest/NN ]
+,/, but/CC 
+[ briefly/RB ]
+enjoyed/VBD ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT doctor/NN 's/POS wits/NNS ]
+had/VBD not/RB left/VBN 
+[ him/PRP ]
+,/, however/RB ,/, for/IN 
+[ all/DT his/PRP$ sixty-eight/CD years/NNS ]
+,/, and/CC 
+[ the/DT wails/NNS ]
+were/VBD almost/RB immediately/RB lost/VBN in/IN 
+[ the/DT sound/NN ]
+of/IN 
+[ water/NN ]
+rushing/VBG out/RB from/IN 
+[ the/DT showerhead/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Alex/NNP ]
+nodded/VBD to/TO 
+[ the/DT maid/NN ]
+as/IN though/IN 
+[ nothing/NN ]
+
+[ unusual/JJ ]
+were/VBD taking/VBG 
+[ place/NN ]
+and/CC entered/VBD 
+[ the/DT doctor/NN 's/POS room/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Shortly/RB ,/, 
+[ the/DT doctor/NN ]
+
+[ himself/PRP ]
+entered/VBD ,/, 
+[ his/PRP$ hair/NN ]
+somewhat/RB wet/JJ from/IN 
+[ the/DT shower/NN ]
+,/, but/CC evidently/RB satisfied/VBN with/IN 
+[ the/DT outcome/NN ]
+of/IN 
+[ their/PRP$ adventures/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Without/IN 
+[ comment/NN ]
+
+[ he/PRP ]
+opened/VBD 
+[ the/DT closet/NN ]
+and/CC from/IN 
+[ its/PRP$ shelves/NNS ]
+constructed/VBD 
+[ a/DT highboard/NN ]
+around/IN 
+[ the/DT egg/NN case/NN ]
+
+[ which/WDT ]
+
+[ he/PRP ]
+had/VBD placed/VBN on/IN 
+[ the/DT floor/NN inside/RB ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Next/JJ ]
+,/, 
+[ the/DT hen/NN ]
+was/VBD nested/VBN and/CC 
+[ all/DT ]
+seemed/VBD well/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT two/CD men/NNS ]
+sat/VBD for/IN 
+[ some/DT time/NN ]
+,/, savoring/VBG 
+[ the/DT pleasure/NN ]
+of/IN 
+[ escape/NN ]
+from/IN 
+[ peril/NN ]
+and/CC 
+[ the/DT relief/NN such/JJ escape/NN ]
+brings/VBZ ,/, before/IN 
+[ they/PRP ]
+got/VBD up/RB and/CC left/VBD 
+[ the/DT hotel/NN ]
+,/, 
+[ the/DT doctor/NN ]
+to/TO go/VB to/TO 
+[ the/DT conference/NN house/NN ]
+and/CC 
+[ Alex/NNP ]
+to/TO go/VB to/TO 
+[ the/DT main/JJ post/NN office/NN ]
+./. 
+==================================
+
+[ Alex/NNP ]
+returned/VBD to/TO 
+[ the/DT hotel/NN ]
+,/, rather/RB weary/JJ and/CC with/IN 
+[ no/DT new/JJ prospects/NNS ]
+of/IN 
+[ a/DT role/NN ]
+,/, in/IN 
+[ the/DT late/JJ afternoon/NN ]
+,/, but/CC found/VBD 
+[ the/DT doctor/NN ]
+in/IN 
+[ an/DT ebullient/JJ mood/NN ]
+./. 
+==================================
+
+==================================
+==================================
+At/IN 
+[ the/DT time/NN Alex/NNP ]
+arrived/VBD 
+[ he/PRP ]
+was/VBD engaged/VBN in/IN 
+[ some/DT sort/NN ]
+of/IN 
+[ intimate/JJ communication/NN ]
+with/IN 
+[ the/DT hen/NN ]
+,/, 
+[ who/WP ]
+had/VBD settled/VBN 
+[ herself/PRP ]
+on/IN 
+[ the/DT nest/NN ]
+most/RBS peacefully/RB after/IN 
+[ the/DT occurrences/NNS ]
+of/IN 
+[ the/DT morning/NN ]
+./. 
+==================================
+``/`` 
+[ Chickens/NNS ]
+have/VBP 
+[ short/JJ memories/NNS ]
+''/'' ,/, 
+[ the/DT doctor/NN ]
+remarked/VBD ,/, ``/`` 
+[ that/DT ]
+'s/VBZ why/WRB 
+[ they/PRP ]
+are/VBP better/RB 
+[ company/NN ]
+than/IN 
+[ most/JJS people/NNS I/PRP ]
+know/VBP ''/'' ,/, and/CC 
+[ he/PRP ]
+went/VBD on/IN to/TO break/VB 
+[ some/DT important/JJ news/NN ]
+to/TO 
+[ Alex/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` Well/UH ''/'' ,/, 
+[ he/PRP ]
+began/VBD ,/, ``/`` 
+[ It/PRP ]
+seems/VBZ like/IN 
+[ some/DT people/NNS ]
+in/IN 
+[ Paris/NNP ]
+want/VB to/TO hear/VB 
+[ more/JJR ]
+from/IN 
+[ me/PRP ]
+than/IN 
+[ those/DT fellers/NNS ]
+over/IN at/IN 
+[ the/DT conference/NN house/NN ]
+do/VBP ./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+'ve/VBP got/VBN 
+[ a/DT big/JJ vulture/NN ]
+from/IN 
+[ Tanganika/NNP ]
+at/IN 
+[ the/DT zoo/NN ]
+here/RB ,/, with/IN 
+[ a/DT wife/NN ]
+for/IN 
+[ him/PRP ]
+,/, too/RB ,/, 
+[ very/RB rare/JJ birds/NNS ]
+,/, 
+[ both/DT ]
+of/IN 
+[ them/PRP ]
+,/, 
+[ the/DT only/JJ Vulturidae/NNS ]
+of/IN 
+[ their/PRP$ species/NN ]
+outside/IN 
+[ Africa/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Seems/NNS ]
+like/IN 
+[ she/PRP ]
+'s/VBZ willing/JJ ,/, but/CC 
+[ the/DT male/NN ]
+just/RB flops/VBZ around/RB 
+[ all/DT day/NN ]
+like/IN 
+[ the/DT bashful/JJ boy/NN ]
+
+[ who/WP ]
+took/VBD 
+[ Jeannie/NNP May/NNP ]
+behind/IN 
+[ the/DT barn/NN ]
+and/CC then/RB did/VBD n't/RB know/VB 
+[ what/WP ]
+to/TO do/VB ,/, and/CC 
+[ the/DT people/NNS ]
+at/IN 
+[ the/DT zoo/NN ]
+have/VBP n't/RB got/VBD 
+[ any/DT vulture/NN chicks/NNS ]
+to/TO show/VB for/IN 
+[ their/PRP$ trouble/NN ]
+./. 
+==================================
+==================================
+==================================

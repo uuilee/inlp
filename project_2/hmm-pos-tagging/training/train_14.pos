@@ -1,0 +1,1573 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ Resentment/NN ]
+welled/VBD up/IN yesterday/RB among/IN 
+[ Democratic/JJ district/NN leaders/NNS ]
+and/CC 
+[ some/DT county/NN leaders/NNS ]
+at/IN 
+[ reports/NNS ]
+that/IN 
+[ Mayor/NNP Wagner/NNP ]
+had/VBD decided/VBN to/TO seek/VB 
+[ a/DT third/JJ term/NN ]
+with/IN 
+[ Paul/NNP R./NNP Screvane/NNP ]
+and/CC 
+[ Abraham/NNP D./NNP Beame/NNP ]
+as/IN running/VBG 
+[ mates/NNS ]
+./. 
+==================================
+At/IN 
+[ the/DT same/JJ time/NN reaction/NN ]
+among/IN 
+[ anti-organization/JJ Democratic/JJ leaders/NNS ]
+and/CC in/IN 
+[ the/DT Liberal/NNP party/NN ]
+to/TO 
+[ the/DT Mayor/NNP 's/POS reported/VBN plan/NN ]
+was/VBD generally/RB favorable/JJ ./. 
+==================================
+
+[ Some/DT anti-organization/JJ Democrats/NNP ]
+saw/VBD in/IN 
+[ the/DT program/NN ]
+
+[ an/DT opportunity/NN ]
+to/TO end/VB 
+[ the/DT bitter/JJ internal/JJ fight/NN ]
+within/IN 
+[ the/DT Democratic/JJ party/NN ]
+
+[ that/WP ]
+has/VBZ been/VBN going/VBG on/IN for/IN 
+[ the/DT last/JJ three/CD years/NNS ]
+./. 
+==================================
+
+[ The/DT resentment/NN ]
+among/IN 
+[ Democratic/JJ organization/NN leaders/NNS ]
+to/TO 
+[ the/DT reported/VBN Wagner/NNP plan/NN ]
+was/VBD directed/VBN particularly/RB at/IN 
+[ the/DT Mayor/NNP 's/POS efforts/NNS ]
+to/TO name/VB 
+[ his/PRP$ own/JJ running/VBG mates/NNS ]
+without/IN consulting/VBG 
+[ the/DT leaders/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Some/DT ]
+viewed/VBD 
+[ this/DT attempt/NN ]
+as/IN 
+[ evidence/NN ]
+that/IN 
+[ Mr./NNP Wagner/NNP ]
+regarded/VBD 
+[ himself/PRP ]
+as/RB bigger/JJR than/IN 
+[ the/DT party/NN ]
+./. 
+==================================
+
+[ Opposition/NN ]
+reported/VBN 
+[ Some/DT Democratic/JJ district/NN ]
+and/CC 
+[ county/NN leaders/NNS ]
+are/VBP reported/VBN trying/VBG to/TO induce/VB 
+[ State/NNP Controller/NNP Arthur/NNP Levitt/NNP ]
+of/IN 
+[ Brooklyn/NNP ]
+to/TO oppose/VB 
+[ Mr./NNP Wagner/NNP ]
+for/IN 
+[ the/DT Mayoral/JJ nomination/NN ]
+in/IN 
+[ the/DT Sept./NNP 7/CD Democratic/JJ primary/NN ]
+./. 
+==================================
+
+[ These/DT ]
+contend/VBP 
+[ there/EX ]
+is/VBZ 
+[ a/DT serious/JJ question/NN ]
+as/IN to/TO whether/IN 
+[ Mr./NNP Wagner/NNP ]
+has/VBZ 
+[ the/DT confidence/NN ]
+of/IN 
+[ the/DT Democratic/NNP rank/NN ]
+and/CC 
+[ file/NN ]
+in/IN 
+[ the/DT city/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Their/PRP$ view/NN ]
+is/VBZ that/IN 
+[ last-minute/JJ changes/NNS ]
+
+[ the/DT Mayor/NNP ]
+is/VBZ proposing/VBG to/TO make/VB in/IN 
+[ the/DT Democratic/JJ ticket/NN ]
+only/RB emphasize/VBP 
+[ the/DT weakness/NN ]
+of/IN 
+[ his/PRP$ performance/NN ]
+as/IN 
+[ Mayor/NNP ]
+./. 
+==================================
+In/IN 
+[ an/DT apparent/JJ effort/NN ]
+to/TO 
+[ head/NN ]
+off/RP 
+[ such/JJ a/DT rival/JJ primary/JJ slate/NN ]
+,/, 
+[ Mr./NNP Wagner/NNP ]
+talked/VBD by/IN 
+[ telephone/NN yesterday/RB ]
+with/IN 
+[ Representative/NNP Charles/NNP A./NNP Buckley/NNP ]
+,/, 
+[ the/DT Bronx/NNP Democratic/NNP leader/NN ]
+,/, and/CC with/IN 
+[ Joseph/NNP T./NNP Sharkey/NNP ]
+,/, 
+[ the/DT Brooklyn/NNP Democratic/NNP leader/NN ]
+./. 
+==================================
+
+[ Mayor/NNP ]
+visits/VBZ 
+[ Buckley/NNP ]
+As/IN 
+[ usual/JJ ]
+,/, 
+[ he/PRP ]
+made/VBD 
+[ no/DT attempt/NN ]
+to/TO get/VB in/IN 
+[ touch/NN ]
+with/IN 
+[ Carmine/NNP G./NNP De/NNP Sapio/NNP ]
+,/, 
+[ the/DT Manhattan/NNP leader/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+is/VBZ publicly/RB on/IN 
+[ record/NN ]
+as/IN believing/VBG 
+[ Mr./NNP De/NNP Sapio/NNP ]
+should/MD be/VB replaced/VBN for/IN 
+[ the/DT good/NN ]
+of/IN 
+[ the/DT party/NN ]
+./. 
+==================================
+
+[ Last/JJ night/NN ]
+
+[ the/DT Mayor/NNP ]
+visited/VBD 
+[ Mr./NNP Buckley/NNP ]
+at/IN 
+[ the/DT Bronx/NNP leader/NN 's/POS home/NN ]
+for/IN 
+[ a/DT discussion/NN ]
+of/IN 
+[ the/DT situation/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Apparently/RB 
+[ he/PRP ]
+believes/VBZ 
+[ Mr./NNP Buckley/NNP ]
+holds/VBZ 
+[ the/DT key/NN ]
+to/TO 
+[ the/DT Democratic/NNP organization/NN 's/POS acceptance/NN ]
+of/IN 
+[ his/PRP$ choices/NNS ]
+for/IN running/VBG 
+[ mates/NNS ]
+without/IN 
+[ a/DT struggle/NN ]
+./. 
+==================================
+In/IN 
+[ talks/NNS ]
+with/IN 
+[ Mr./NNP Buckley/NNP last/JJ week/NN ]
+in/IN 
+[ Washington/NNP ]
+,/, 
+[ the/DT Mayor/NNP ]
+apparently/RB received/VBD 
+[ the/DT Bronx/NNP leader/NN 's/POS assent/NN ]
+to/TO dropping/VBG 
+[ Controller/NNP Lawrence/NNP E./NNP Gerosa/NNP ]
+,/, 
+[ who/WP ]
+lives/VBZ in/IN 
+[ the/DT Bronx/NNP ]
+,/, from/IN 
+[ this/DT year/NN 's/POS ticket/NN ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ Mr./NNP Buckley/NNP ]
+seems/VBZ to/TO have/VB assumed/VBN 
+[ he/PRP ]
+would/MD be/VB given/VBN 
+[ the/DT right/NN ]
+to/TO pick/VB 
+[ Mr./NNP Gerosa/NNP 's/POS successor/NN ]
+./. 
+==================================
+
+[ Screvane/NNP ]
+and/CC 
+[ Beame/NNP ]
+hailed/VBN 
+[ The/DT Mayor/NNP ]
+declined/VBD in/IN 
+[ two/CD interviews/NNS ]
+with/IN 
+[ reporters/NNS ]
+yesterday/RB to/TO confirm/VB or/CC deny/VB 
+[ the/DT reports/NNS ]
+that/IN 
+[ he/PRP ]
+had/VBD decided/VBN to/TO run/VB and/CC wanted/VBD 
+[ Mr./NNP Screvane/NNP ]
+,/, 
+[ who/WP ]
+lives/VBZ in/IN 
+[ Queens/NNP ]
+,/, to/TO replace/VB 
+[ Abe/NNP Stark/NNP ]
+,/, 
+[ the/DT incumbent/NN ]
+,/, as/IN 
+[ the/DT candidate/NN ]
+for/IN 
+[ President/NNP ]
+of/IN 
+[ the/DT City/NNP Council/NNP ]
+and/CC 
+[ Mr./NNP Beame/NNP ]
+,/, 
+[ who/WP ]
+lives/VBZ in/IN 
+[ Brooklyn/NNP ]
+,/, to/TO replace/VB 
+[ Mr./NNP Gerosa/NNP ]
+as/IN 
+[ the/DT candidate/NN ]
+for/IN 
+[ Controller/NNP ]
+./. 
+==================================
+
+[ The/DT Mayor/NNP ]
+spoke/VBD yesterday/RB at/IN 
+[ the/DT United/NNP Irish/NNP Counties/NNP Feis/NNP ]
+on/IN 
+[ the/DT Hunter/NNP College/NNP Campus/NNP ]
+in/IN 
+[ the/DT Bronx/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+After/IN 
+[ his/PRP$ speech/NN ]
+,/, 
+[ reporters/NNS ]
+asked/VBD 
+[ him/PRP ]
+about/IN 
+[ the/DT report/NN ]
+of/IN 
+[ his/PRP$ political/JJ intentions/NNS ]
+,/, published/VBN in/IN 
+[ yesterday/NN 's/POS New/NNP York/NNP Times/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT Mayor/NNP ]
+said/VBD :/: ``/`` 
+[ It/PRP ]
+did/VBD n't/RB come/VBN from/IN 
+[ me/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC as/IN 
+[ I/PRP ]
+have/VBP said/VBD before/IN ,/, if/IN 
+[ I/PRP ]
+announce/VBP 
+[ my/PRP$ candidacy/NN ]
+,/, 
+[ I/PRP ]
+will/MD have/VB 
+[ something/NN ]
+definite/JJ to/TO say/VB about/IN running/VBG 
+[ mates/NNS ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ Boston/NNP ]
+,/, 
+[ June/NNP 16/CD ]
+--/: 
+[ A/DT wave/NN ]
+of/IN 
+[ public/JJ resentment/NN ]
+against/IN 
+[ corruption/NN ]
+in/IN 
+[ government/NN ]
+is/VBZ rising/VBG in/IN 
+[ Massachusetts/NNP ]
+./. 
+==================================
+
+[ There/EX ]
+is/VBZ 
+[ a/DT tangible/JJ feeling/NN ]
+in/IN 
+[ the/DT air/NN ]
+of/IN 
+[ revulsion/NN ]
+toward/IN 
+[ politics/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT taxi/NN driver/NN ]
+taking/VBG 
+[ the/DT visitor/NN ]
+from/IN 
+[ the/DT airport/NN ]
+remarks/VBZ that/IN 
+[ politicians/NNS ]
+in/IN 
+[ the/DT state/NN ]
+are/VBP ``/`` 
+[ all/DT the/DT same/JJ ]
+''/'' ./. 
+==================================
+``/`` 
+[ It/PRP ]
+'s/VBZ '/'' See/VB 
+[ Joe/NNP ]
+,/, see/VB 
+[ Jim/NNP ]
+'/'' ''/'' ,/, 
+[ he/PRP ]
+says/VBZ ./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ The/DT hand/NN ]
+is/VBZ out/IN ''/'' ./. 
+==================================
+
+[ A/DT political/JJ scientist/NN ]
+writes/VBZ of/IN 
+[ the/DT growth/NN ]
+of/IN ``/`` alienated/VBN 
+[ voters/NNS ]
+''/'' ,/, 
+[ who/WP ]
+``/`` believe/VB 
+[ that/DT voting/NN ]
+is/VBZ useless/JJ because/IN 
+[ politicians/NNS ]
+or/CC 
+[ those/DT ]
+
+[ who/WP ]
+influence/VBP 
+[ politicians/NNS ]
+are/VBP corrupt/JJ ,/, 
+[ selfish/JJ ]
+and/CC beyond/IN 
+[ popular/JJ control/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT voters/NNS ]
+view/VBP 
+[ the/DT political/JJ process/NN ]
+as/IN 
+[ a/DT secret/JJ conspiracy/NN ]
+,/, 
+[ the/DT object/NN ]
+of/IN 
+[ which/WDT ]
+is/VBZ to/TO plunder/VB 
+[ them/PRP ]
+''/'' ./. 
+==================================
+
+[ Corruption/NN ]
+is/VBZ hardly/RB 
+[ a/DT recent/JJ development/NN ]
+in/IN 
+[ the/DT city/NN ]
+and/CC 
+[ state/NN ]
+
+[ that/WP ]
+were/VBD widely/RB identified/VBN as/IN 
+[ the/DT locale/NN ]
+of/IN 
+[ Edwin/NNP O'Connor's/NNP novel/NN ]
+,/, ``/`` 
+[ The/DT Last/NNP Hurrah/NNP ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ there/EX ]
+are/VBP 
+[ reasons/NNS ]
+for/IN 
+[ the/DT current/JJ spotlight/NN ]
+on/IN 
+[ the/DT subject/NN ]
+./. 
+==================================
+
+[ A/DT succession/NN ]
+of/IN highly/RB publicized/VBN 
+[ scandals/NNS ]
+has/VBZ aroused/VBN 
+[ the/DT public/NN ]
+within/IN 
+[ the/DT last/JJ year/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Graft/NN in/IN 
+[ the/DT construction/NN ]
+of/IN 
+[ highways/NNS ]
+and/CC 
+[ other/JJ public/JJ works/NNS ]
+has/VBZ brought/VBN on/RP 
+[ state/NN ]
+and/CC 
+[ Federal/JJ investigations/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+And/CC 
+[ the/DT election/NN ]
+of/IN 
+[ President/NNP Kennedy/NNP ]
+has/VBZ attracted/VBN 
+[ new/JJ attention/NN ]
+to/TO 
+[ the/DT ethical/JJ climate/NN ]
+of/IN 
+[ his/PRP$ home/NN state/NN ]
+./. 
+==================================
+
+[ A/DT reader/NN ]
+of/IN 
+[ the/DT Boston/NNP newspapers/NNS ]
+can/MD hardly/RB escape/VB 
+[ the/DT impression/NN ]
+that/IN 
+[ petty/JJ chicanery/NN ]
+,/, or/CC 
+[ worse/JJR ]
+,/, is/VBZ 
+[ the/DT norm/NN ]
+in/IN 
+[ Massachusetts/NNP public/JJ life/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Day/NN ]
+after/IN 
+[ day/NN ]
+
+[ some/DT new/JJ episode/NN ]
+is/VBZ reported/VBN ./. 
+==================================
+
+[ The/DT state/NN Public/NNP Works/NNP Department/NNP ]
+is/VBZ accused/VBN of/IN having/VBG spent/VBD 
+[ $/$ 8,555/CD ]
+to/TO build/VB 
+[ a/DT private/JJ beach/NN ]
+for/IN 
+[ a/DT state/NN judge/NN ]
+on/IN 
+[ his/PRP$ waterfront/NN property/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ An/DT assistant/JJ attorney/NN general/NN ]
+is/VBZ directed/VBN to/TO investigate/VB ./. 
+==================================
+
+==================================
+==================================
+
+[ Washington/NNP ]
+,/, 
+[ June/NNP 18/CD ]
+--/: 
+[ Congress/NNP ]
+starts/VBZ 
+[ another/DT week/NN tomorrow/RB ]
+with/IN sharply/RB contrasting/VBG 
+[ forecasts/NNS ]
+for/IN 
+[ the/DT two/CD chambers/NNS ]
+./. 
+==================================
+In/IN 
+[ the/DT Senate/NNP ]
+,/, 
+[ several/JJ bills/NNS ]
+are/VBP expected/VBN to/TO pass/VB without/IN 
+[ any/DT major/JJ conflict/NN ]
+or/CC 
+[ opposition/NN ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ the/DT House/NNP ]
+,/, 
+[ the/DT Southern-Republican/NNP coalition/NN ]
+is/VBZ expected/VBN to/TO make/VB 
+[ another/DT major/JJ stand/NN ]
+in/IN 
+[ opposition/NN ]
+to/TO 
+[ the/DT Administration/NNP 's/POS housing/NN bill/NN ]
+,/, while/IN more/RBR jockeying/VBG is/VBZ expected/VBN in/IN 
+[ an/DT attempt/NN ]
+to/TO advance/VB 
+[ the/DT aid-to-education/NN bill/NN ]
+./. 
+==================================
+
+[ The/DT housing/NN bill/NN ]
+is/VBZ now/RB in/IN 
+[ the/DT House/NNP Rules/NNP Committee/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ expected/VBN to/TO be/VB reported/VBN out/IN 
+[ Tuesday/NNP ]
+,/, but/CC 
+[ this/DT ]
+is/VBZ 
+[ a/DT little/RB uncertain/JJ ]
+./. 
+==================================
+
+[ The/DT panel/NN 's/POS action/NN ]
+depends/VBZ on/IN 
+[ the/DT return/NN ]
+of/IN 
+[ Representative/NNP James/NNP W./NNP Trimble/NNP ]
+,/, 
+[ Democrat/NNP ]
+of/IN 
+[ Arkansas/NNP ]
+,/, 
+[ who/WP ]
+has/VBZ been/VBN siding/VBG with/IN 
+[ Speaker/NNP Sam/NNP Rayburn/NNP 's/POS forces/NNS ]
+in/IN 
+[ the/DT Rules/NNP Committee/NNP ]
+in/IN moving/VBG 
+[ bills/NNS ]
+to/TO 
+[ the/DT floor/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Mr./NNP Trimble/NNP ]
+has/VBZ been/VBN in/IN 
+[ the/DT hospital/NN ]
+but/CC is/VBZ expected/VBN back/RB 
+[ Tuesday/NNP ]
+./. 
+==================================
+
+[ Leadership/NN ]
+is/VBZ hopeful/JJ 
+[ The/DT housing/NN bill/NN ]
+is/VBZ expected/VBN to/TO encounter/VB 
+[ strong/JJ opposition/NN ]
+by/IN 
+[ the/DT coalition/NN ]
+of/IN 
+[ Southern/NNP Democrats/NNPS ]
+and/CC 
+[ conservative/JJ Republicans/NNPS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT Democratic/JJ leadership/NN ]
+,/, however/RB ,/, hopes/VBZ to/TO pass/VB 
+[ it/PRP ]
+sometime/RB 
+[ this/DT week/NN ]
+./. 
+==================================
+
+[ The/DT $/$ 6,100,000,000/CD measure/NN ]
+,/, 
+[ which/WDT ]
+was/VBD passed/VBN 
+[ last/JJ Monday/NNP ]
+by/IN 
+[ the/DT Senate/NNP ]
+,/, provides/VBZ for/IN 
+[ forty-year/JJ mortgages/NNS ]
+at/IN 
+[ low/JJ down-payments/NNS ]
+for/IN 
+[ moderate-income/NN families/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+also/RB provides/VBZ for/IN 
+[ funds/NNS ]
+to/TO 
+[ clear/VB slums/NNS ]
+and/CC 
+[ help/VB colleges/NNS ]
+build/VB 
+[ dormitories/NNS ]
+./. 
+==================================
+
+[ The/DT education/NN bill/NN ]
+appears/VBZ to/TO be/VB temporarily/RB stalled/VBN in/IN 
+[ the/DT Rules/NNP Committee/NNP ]
+,/, where/WRB 
+[ two/CD Northern/NNP Democratic/JJ members/NNS ]
+
+[ who/WP ]
+usually/RB vote/VBP with/IN 
+[ the/DT Administration/NNP ]
+are/VBP balking/VBG because/RB of/IN 
+[ the/DT religious/JJ controversy/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+are/VBP 
+[ James/NNP J./NNP Delaney/NNP ]
+of/IN 
+[ Queens/NNP ]
+and/CC 
+[ Thomas/NNP P./NNP O'Neill/NNP Jr./NNP ]
+of/IN 
+[ Massachusetts/NNP ]
+./. 
+==================================
+
+[ Three/CD groups/NNS ]
+to/TO meet/VB 
+[ What/WP ]
+could/MD rescue/VB 
+[ the/DT bill/NN ]
+would/MD be/VB 
+[ some/DT quick/JJ progress/NN ]
+on/IN 
+[ a/DT bill/NN ]
+amending/VBG 
+[ the/DT National/NNP Defense/NNP Education/NNP Act/NNP ]
+of/IN 
+[ 1958/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+would/MD provide/VB for/IN 
+[ long-term/JJ Federal/JJ loans/NNS ]
+for/IN 
+[ construction/NN ]
+of/IN 
+[ parochial/JJ ]
+and/CC 
+[ other/JJ private-school/NN facilities/NNS ]
+for/IN 
+[ teaching/VBG science/NN ]
+,/, 
+[ languages/NNS ]
+and/CC 
+[ mathematics/NNS ]
+./. 
+==================================
+
+[ Mr./NNP Delaney/NNP ]
+and/CC 
+[ Mr./NNP O'Neill/NNP ]
+are/VBP not/RB willing/JJ to/TO vote/VB on/IN 
+[ the/DT public-school/NN measure/NN ]
+until/IN 
+[ the/DT defense/NN education/NN bill/NN ]
+clears/VBZ 
+[ the/DT House/NNP Education/NNP ]
+and/CC 
+[ Labor/NNP Committee/NNP ]
+./. 
+==================================
+About/IN 
+[ half/NN ]
+of/IN 
+[ all/DT Peace/NNP Corps/NNP projects/NNS ]
+assigned/VBN to/TO 
+[ voluntary/JJ agencies/NNS ]
+will/MD be/VB carried/VBN out/IN by/IN 
+[ religious/NN groups/NNS ]
+,/, according/VBG to/TO 
+[ an/DT official/NN ]
+of/IN 
+[ the/DT corps/NN ]
+./. 
+==================================
+In/IN 
+[ the/DT $/$ 40,000,000/CD budget/NN ]
+
+[ that/WP ]
+has/VBZ been/VBN submitted/VBN for/IN 
+[ Congressional/JJ approval/NN ]
+,/, 
+[ $/$ 26,000,000/CD ]
+would/MD be/VB spent/VBN through/IN 
+[ universities/NNS ]
+and/CC 
+[ private/JJ voluntary/JJ agencies/NNS ]
+./. 
+==================================
+
+[ Twelve/CD projects/NNS ]
+proposed/VBN by/IN 
+[ private/JJ groups/NNS ]
+are/VBP at/IN 
+[ the/DT contract-negotiation/NN stage/NN ]
+,/, 
+[ Gordon/NNP Boyce/NNP ]
+,/, 
+[ director/NN ]
+of/IN 
+[ relations/NNS ]
+with/IN 
+[ the/DT voluntary/JJ agencies/NNS ]
+,/, said/VBD in/IN 
+[ a/DT Washington/NNP interview/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Six/CD ]
+of/IN 
+[ these/DT ]
+were/VBD proposed/VBN by/IN 
+[ religious/JJ groups/NNS ]
+./. 
+==================================
+
+[ They/PRP ]
+will/MD be/VB for/IN teaching/VBG ,/, 
+[ agriculture/NN ]
+and/CC 
+[ community/NN development/NN ]
+in/IN 
+[ Southeast/NNP Asia/NNP ]
+,/, 
+[ Africa/NNP ]
+,/, 
+[ the/DT Middle/NNP East/NNP ]
+and/CC 
+[ Latin/NNP America/NNP ]
+./. 
+==================================
+
+[ Question/NN ]
+raised/VBD 
+[ Interviews/NNS ]
+with/IN 
+[ several/JJ church/NN leaders/NNS ]
+have/VBP disclosed/VBN that/IN 
+[ this/DT development/NN ]
+has/VBZ raised/VBN 
+[ the/DT question/NN ]
+whether/IN 
+[ the/DT Peace/NNP Corps/NNP ]
+will/MD be/VB able/JJ to/TO prevent/VB 
+[ confusion/NN ]
+for/IN 
+[ church/NN ]
+and/CC 
+[ state/NN ]
+over/IN 
+[ methods/NNS ]
+,/, 
+[ means/NNS ]
+and/CC 
+[ goals/NNS ]
+./. 
+==================================
+
+[ There/EX ]
+are/VBP 
+[ a/DT number/NN ]
+of/IN 
+[ ways/NNS ]
+
+[ this/DT ]
+could/MD happen/VB ,/, 
+[ the/DT churchmen/NNS ]
+pointed/VBD out/IN ,/, and/CC here/RB is/VBZ 
+[ an/DT example/NN ]
+:/: 
+[ Last/JJ month/NN ]
+in/IN 
+[ Ghana/NN ]
+
+[ an/DT American/NNP missionary/NN ]
+discovered/VBD when/WRB 
+[ he/PRP ]
+came/VBD to/TO pay/VB 
+[ his/PRP$ hotel/NN bill/NN ]
+that/IN 
+[ the/DT usual/JJ rate/NN ]
+had/VBD been/VBN doubled/VBN ./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ he/PRP ]
+protested/VBD ,/, 
+[ the/DT hotel/NN owner/NN ]
+said/VBD :/: ``/`` Why/WRB do/VBP 
+[ you/PRP ]
+worry/VB ?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ The/DT U.S./NNP Government/NNP ]
+is/VBZ paying/VBG for/IN 
+[ it/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT U.S./NNP Government/NNP ]
+pays/VBZ for/IN 
+[ all/DT its/PRP$ overseas/JJ workers/NNS ]
+''/'' ./. 
+==================================
+
+[ Missionary/NN ]
+explains/VBZ ``/`` 
+[ I/PRP ]
+do/VBP n't/RB work/VB for/IN 
+[ the/DT Government/NNP ]
+''/'' ,/, 
+[ the/DT American/NNP ]
+said/VBD ./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ I/PRP ]
+'m/VBP 
+[ a/DT missionary/NN ]
+''/'' ./. 
+==================================
+
+[ The/DT hotel/NN owner/NN ]
+shrugged/VBD ./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ Same/JJ thing/NN ]
+''/'' ,/, 
+[ he/PRP ]
+said/VBD ./. 
+==================================
+And/CC then/RB ,/, 
+[ some/DT churchmen/NNS ]
+remarked/VBD ,/, 
+[ there/EX ]
+is/VBZ 
+[ a/DT more/RBR classical/JJ church-state/NN problem/NN ]
+:/: Can/MD 
+[ religious/JJ agencies/NNS ]
+use/VB 
+[ Government/NNP funds/NNS ]
+and/CC 
+[ Peace/NNP Corps/NNP personnel/NNS ]
+in/IN 
+[ their/PRP$ projects/NNS ]
+and/CC still/RB preserve/VB 
+[ the/DT constitutional/JJ requirement/NN ]
+on/IN 
+[ separation/NN ]
+of/IN 
+[ church/NN ]
+and/CC 
+[ state/NN ]
+?/. ?/. 
+==================================
+
+[ R./NNP Sargent/NNP Shriver/NNP Jr./NNP ]
+,/, 
+[ director/NN ]
+of/IN 
+[ the/DT corps/NN ]
+,/, is/VBZ certain/JJ that/IN 
+[ they/PRP ]
+can/MD ./. 
+==================================
+
+==================================
+==================================
+
+[ No/DT religious/NN group/NN ]
+,/, 
+[ he/PRP ]
+declared/VBD in/IN 
+[ an/DT interview/NN ]
+,/, will/MD receive/VB 
+[ Peace/NNP Corps/NNP funds/NNS ]
+unless/IN 
+[ it/PRP ]
+forswears/VBZ 
+[ all/DT ]
+proselytizing/VBG on/IN 
+[ the/DT project/NN ]
+
+[ it/PRP ]
+proposes/VBZ ./. 
+==================================
+
+==================================
+==================================
+
+[ Moscow/NNP ]
+,/, 
+[ June/NNP 18/CD ]
+--/: At/IN 
+[ a/DT gay/JJ party/NN ]
+in/IN 
+[ the/DT Kremlin/NNP ]
+for/IN 
+[ President/NNP Sukarno/NNP ]
+of/IN 
+[ Indonesia/NNP ]
+,/, 
+[ Premier/NNP Khrushchev/NNP ]
+pulled/VBD out/IN 
+[ his/PRP$ pockets/NNS ]
+and/CC said/VBD ,/, beaming/VBG :/: ``/`` Look/VB ,/, 
+[ he/PRP ]
+took/VBD 
+[ everything/NN ]
+
+[ I/PRP ]
+had/VBD ''/'' !/. !/. 
+==================================
+
+[ Mr./NNP Khrushchev/NNP ]
+was/VBD jesting/VBG in/IN 
+[ the/DT expansive/JJ mood/NN ]
+of/IN 
+[ the/DT successful/JJ banker/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Indonesia/NNP ]
+is/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT twenty/CD under-developed/JJ countries/NNS ]
+of/IN 
+[ Asia/NNP ]
+,/, 
+[ Africa/NNP ]
+and/CC 
+[ Latin/NNP America/NNP ]
+
+[ that/WP ]
+are/VBP receiving/VBG 
+[ Soviet/NNP aid/NN ]
+./. 
+==================================
+
+[ The/DT Soviet/NNP Union/NNP ]
+and/CC 
+[ other/JJ members/NNS ]
+of/IN 
+[ the/DT Communist/NNP bloc/NN ]
+are/VBP rapidly/RB expanding/VBG 
+[ their/PRP$ economic/JJ ]
+,/, 
+[ technical/JJ ]
+and/CC 
+[ military/JJ assistance/NN ]
+to/TO 
+[ the/DT uncommitted/JJ nations/NNS ]
+./. 
+==================================
+
+[ The/DT Communist/NNP countries/NNS ]
+allocated/VBD more/JJR than/IN 
+[ $/$ 1,000,000,000/CD ]
+in/IN 
+[ economic/JJ aid/NN ]
+alone/RB 
+[ last/JJ year/NN ]
+,/, according/VBG to/TO 
+[ Western/NNP estimates/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+was/VBD 
+[ the/DT biggest/JJS annual/JJ outlay/NN ]
+since/IN 
+[ the/DT Communist/NNP program/NN ]
+for/IN 
+[ the/DT under-developed/JJ countries/NNS ]
+made/VBD 
+[ its/PRP$ modest/JJ beginning/NN ]
+in/IN 
+[ 1954/CD ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ 1960/CD ]
+more/RBR than/IN 
+[ 6,000/CD Communist/NNP technicians/NNS ]
+were/VBD present/JJ in/IN 
+[ those/DT countries/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ United/NNP Nations/NNP ]
+,/, 
+[ N.Y./NNP ]
+,/, 
+[ June/NNP 18/CD ]
+--/: 
+[ A/DT committee/NN ]
+of/IN 
+[ experts/NNS ]
+has/VBZ recommended/VBN that/IN 
+[ a/DT country/NN 's/POS population/NN ]
+be/VB considered/VBN in/IN 
+[ the/DT distribution/NN ]
+of/IN 
+[ professional/JJ posts/NNS ]
+at/IN 
+[ the/DT United/NNP Nations/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+was/VBD disclosed/VBN 
+[ today/NN ]
+by/IN 
+[ a/DT responsible/JJ source/NN ]
+amid/IN 
+[ intensified/VBN efforts/NNS ]
+by/IN 
+[ the/DT Soviet/NNP Union/NNP ]
+to/TO gain/VB 
+[ a/DT greater/JJR role/NN ]
+in/IN 
+[ the/DT staff/NN ]
+and/CC 
+[ operation/NN ]
+of/IN 
+[ the/DT United/NNP Nations/NNP ]
+./. 
+==================================
+
+[ One/CD effect/NN ]
+of/IN 
+[ the/DT proposal/NN ]
+,/, 
+[ which/WDT ]
+puts/VBZ 
+[ a/DT premium/NN ]
+on/IN 
+[ population/NN ]
+instead/RB of/IN 
+[ economic/JJ strength/NN ]
+,/, as/IN in/IN 
+[ the/DT past/NN ]
+,/, would/MD be/VB to/TO take/VB 
+[ jobs/NNS ]
+from/IN 
+[ European/NNP nations/NNS ]
+and/CC give/VB more/JJR to/TO 
+[ such/JJ countries/NNS ]
+as/IN 
+[ India/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ India/NNP ]
+is/VBZ 
+[ the/DT most/RBS populous/JJ United/NNP Nations/NNP member/NN ]
+with/IN more/RBR than/IN 
+[ 400,000,000/CD inhabitants/NNS ]
+./. 
+==================================
+
+[ The/DT new/JJ formula/NN ]
+for/IN 
+[ filling/VBG staff/NN positions/NNS ]
+in/IN 
+[ the/DT Secretariat/NN ]
+is/VBZ 
+[ one/CD ]
+of/IN 
+[ a/DT number/NN ]
+of/IN 
+[ recommendations/NNS ]
+made/VBN by/IN 
+[ a/DT panel/NN ]
+of/IN 
+[ eight/CD ]
+in/IN 
+[ a/DT long/JJ ]
+and/CC detailed/VBN 
+[ report/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT report/NN ]
+was/VBD completed/VBN after/IN nearly/RB 
+[ eighteen/CD months/NNS ]
+of/IN 
+[ work/NN ]
+on/IN 
+[ the/DT question/NN ]
+of/IN 
+[ the/DT organization/NN ]
+of/IN 
+[ the/DT United/NNP Nations/NNP ]
+./. 
+==================================
+
+[ Formula/NN ]
+is/VBZ due/RB 
+[ this/DT week/NN ]
+
+[ The/DT Advisory/NNP Committee/NNP ]
+on/IN 
+[ Administrative/NNP ]
+and/CC 
+[ Budgetary/NNP Questions/NNP ]
+is/VBZ expected/VBN to/TO receive/VB 
+[ the/DT report/NN ]
+
+[ this/DT week/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT jobs/NNS formula/NN ]
+is/VBZ understood/VBN to/TO follow/VB 
+[ these/DT lines/NNS ]
+:/: 
+[ Each/DT ]
+of/IN 
+[ the/DT organization/NN 's/POS ninety-nine/CD members/NNS ]
+would/MD get/VB 
+[ two/CD professional/JJ posts/NNS ]
+,/, such/JJ as/IN 
+[ political/JJ affairs/NNS officer/NN ]
+,/, 
+[ a/DT department/NN head/NN ]
+or/CC 
+[ an/DT economist/NN ]
+,/, to/TO start/VB ./. 
+==================================
+
+[ Each/DT member/NN ]
+would/MD get/VB 
+[ one/CD post/NN ]
+for/IN 
+[ each/DT 10,000,000/CD people/NNS ]
+in/IN 
+[ its/PRP$ population/NN ]
+up/IN to/TO 
+[ 150,000,000/CD people/NNS ]
+or/CC 
+[ a/DT maximum/NN ]
+of/IN 
+[ fifteen/CD posts/NNS ]
+./. 
+==================================
+
+[ Each/DT member/NN ]
+with/IN 
+[ a/DT population/NN ]
+above/IN 
+[ 150,000,000/CD ]
+would/MD get/VB 
+[ one/CD additional/JJ post/NN ]
+for/IN 
+[ each/DT additional/JJ 30,000,000/CD people/NNS ]
+up/IN to/TO 
+[ an/DT unspecified/JJ cut-off/JJ point/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Geneva/NNP ]
+,/, 
+[ June/NNP 18/CD ]
+--/: 
+[ The/DT three/CD leaders/NNS ]
+of/IN 
+[ Laos/NNP ]
+agreed/VBD 
+[ today/NN ]
+to/TO begin/VB 
+[ negotiations/NNS tomorrow/NN ]
+on/IN forming/VBG 
+[ a/DT coalition/NN government/NN ]
+
+[ that/WP ]
+would/MD unite/VB 
+[ the/DT war-ridden/JJ kingdom/NN ]
+./. 
+==================================
+
+[ The/DT decision/NN ]
+was/VBD made/VBN in/IN 
+[ Zurich/NNP ]
+by/IN 
+[ Prince/NNP Boun/NNP Oum/NNP ]
+,/, 
+[ Premier/NNP ]
+of/IN 
+[ the/DT pro-Western/JJ royal/JJ Government/NNP ]
+;/: ;/: 
+[ Prince/NNP Souvanna/NNP Phouma/NNP ]
+,/, 
+[ leader/NN ]
+of/IN 
+[ the/DT nation/NN 's/POS neutralists/NNS ]
+and/CC recognized/VBD as/IN 
+[ Premier/NNP ]
+by/IN 
+[ the/DT Communist/NNP bloc/NN ]
+,/, and/CC 
+[ Prince/NNP Souphanouvong/NNP ]
+,/, 
+[ head/NN ]
+of/IN 
+[ the/DT pro-Communist/NNP Pathet/NNP Lao/NNP forces/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT latter/NN two/CD ]
+are/VBP 
+[ half-brothers/NNS ]
+./. 
+==================================
+
+[ Their/PRP$ joint/JJ statement/NN ]
+was/VBD welcomed/VBN by/IN 
+[ the/DT Western/JJ delegations/NNS ]
+
+[ who/WP ]
+will/MD attend/VB tomorrow/RB 
+[ the/DT nineteenth/JJ plenary/JJ session/NN ]
+of/IN 
+[ the/DT fourteen-nation/NN conference/NN ]
+on/IN 
+[ the/DT future/NN ]
+of/IN 
+[ Laos/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ An/DT agreement/NN ]
+among/IN 
+[ the/DT Princes/NNPS ]
+on/IN 
+[ a/DT coalition/NN government/NN ]
+would/MD ease/VB 
+[ their/PRP$ task/NN ]
+,/, 
+[ diplomats/NNS ]
+conceded/VBD ./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ no/DT one/NN ]
+was/VBD overly/RB optimistic/JJ ./. 
+==================================
+
+[ Tactics/NNS ]
+studied/VBD in/IN 
+[ Geneva/NNP W./NNP Averell/NNP Harriman/NNP ]
+of/IN 
+[ the/DT United/NNP States/NNP ]
+,/, 
+[ Malcolm/NNP MacDonald/NNP ]
+of/IN 
+[ Britain/NNP ]
+,/, 
+[ Maurice/NNP Couve/NNP De/NNP Murville/NNP ]
+,/, 
+[ France/NNP 's/POS Foreign/NNP Minister/NNP ]
+,/, and/CC 
+[ Howard/NNP C./NNP Green/NNP ]
+,/, 
+[ Canada/NNP 's/POS Minister/NNP ]
+of/IN 
+[ External/NNP Affairs/NNP ]
+,/, concluded/VBD ,/, meanwhile/RB ,/, 
+[ a/DT round/NN ]
+of/IN 
+[ consultations/NNS ]
+here/RB on/IN 
+[ future/JJ tactics/NNS ]
+in/IN 
+[ the/DT conference/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT pace/NN ]
+of/IN 
+[ the/DT talks/NNS ]
+has/VBZ slowed/VBN with/IN 
+[ each/DT passing/VBG week/NN ]
+./. 
+==================================
+
+[ Princess/NNP Moune/NNP ]
+,/, 
+[ Prince/NNP Souvanna/NNP Phouma/NNP 's/POS young/JJ daughter/NN ]
+,/, read/VBD 
+[ the/DT Princes/NNPS '/POS statement/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+had/VBD 
+[ a/DT two-hour/JJ luncheon/NN ]
+together/RB in/IN ``/`` 
+[ an/DT atmosphere/NN ]
+of/IN 
+[ cordial/JJ understanding/NN ]
+and/CC 
+[ relaxation/NN ]
+''/'' ,/, 
+[ she/PRP ]
+said/VBD ./. 
+==================================
+
+[ The/DT three/CD Laotians/NNS ]
+agreed/VBD upon/IN 
+[ a/DT six-point/JJ agenda/NN ]
+for/IN 
+[ their/PRP$ talks/NNS ]
+,/, 
+[ which/WDT ]
+are/VBP to/TO last/VB 
+[ three/CD days/NNS ]
+./. 
+==================================
+
+[ The/DT Princess/NNP ]
+said/VBD 
+[ it/PRP ]
+was/VBD too/RB early/JJ to/TO say/VB 
+[ what/WP ]
+would/MD be/VB decided/VBN if/IN 
+[ no/DT agreement/NN ]
+was/VBD reached/VBN after/IN 
+[ three/CD days/NNS ]
+./. 
+==================================
+To/TO deal/VB with/IN 
+[ principles/NNS ]
+
+[ The/DT meetings/NNS ]
+in/IN 
+[ Zurich/NNP ]
+,/, 
+[ the/DT statement/NN ]
+said/VBD ,/, would/MD deal/VB only/RB with/IN 
+[ principles/NNS ]
+
+[ that/WP ]
+would/MD guide/VB 
+[ the/DT three/CD factors/NNS ]
+in/IN 
+[ their/PRP$ search/NN ]
+for/IN 
+[ a/DT coalition/NN Government/NNP ]
+./. 
+==================================
+==================================
+==================================

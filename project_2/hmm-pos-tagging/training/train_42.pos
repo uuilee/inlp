@@ -1,0 +1,1467 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ St./NNP Johns/NNP ]
+,/, 
+[ Mich./NNP ]
+,/, 
+[ April/NNP 19/CD ]
+./. 
+==================================
+--/: 
+[ A/DT jury/NN ]
+of/IN 
+[ seven/CD men/NNS ]
+and/CC 
+[ five/CD women/NNS ]
+found/VBD 
+[ 21-year-old/JJ Richard/NNP Pohl/NNP guilty/JJ ]
+of/IN 
+[ manslaughter/NN yesterday/RB ]
+in/IN 
+[ the/DT bludgeon/NN slaying/NN ]
+of/IN 
+[ Mrs./NNP Anna/NNP Hengesbach/NNP ]
+./. 
+==================================
+
+[ Pohl/NNP ]
+received/VBD 
+[ the/DT verdict/NN ]
+without/IN 
+[ visible/JJ emotion/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+returned/VBD to/TO 
+[ his/PRP$ cell/NN ]
+in/IN 
+[ the/DT county/NN jail/NN ]
+,/, where/WRB 
+[ he/PRP ]
+has/VBZ been/VBN held/VBN since/IN 
+[ his/PRP$ arrest/NN last/JJ July/NNP ]
+,/, without/IN 
+[ a/DT word/NN ]
+to/TO 
+[ his/PRP$ court-appointed/JJ attorney/NN ]
+,/, 
+[ Jack/NNP Walker/NNP ]
+,/, or/CC 
+[ his/PRP$ guard/NN ]
+./. 
+==================================
+
+[ Stepson/NNP ]
+vindicated/VBN 
+[ The/DT verdict/NN ]
+brought/VBD 
+[ vindication/NN ]
+to/TO 
+[ the/DT dead/JJ woman/NN 's/POS stepson/NN ]
+,/, 
+[ Vincent/NNP Hengesbach/NNP ]
+,/, 
+[ 54/CD ]
+,/, 
+[ who/WP ]
+was/VBD tried/VBN for/IN 
+[ the/DT same/JJ crime/NN ]
+in/IN 
+[ December/NNP ]
+,/, 
+[ 1958/CD ]
+,/, and/CC released/VBD when/WRB 
+[ the/DT jury/NN ]
+failed/VBD to/TO reach/VB 
+[ a/DT verdict/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Mrs./NNP Hengesbach/NNP ]
+was/VBD killed/VBN on/IN 
+[ Aug./NNP 31/CD ]
+,/, 
+[ 1958/CD ]
+./. 
+==================================
+
+[ Hengesbach/NNP ]
+has/VBZ been/VBN living/VBG under/IN 
+[ a/DT cloud/NN ]
+ever/RB since/IN ./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ the/DT verdict/NN ]
+came/VBD in/RB against/IN 
+[ his/PRP$ young/JJ neighbor/NN ]
+,/, 
+[ Hengesbach/NNP ]
+said/VBD :/: ``/`` 
+[ I/PRP ]
+am/VBP very/RB pleased/VBN to/TO have/VB 
+[ the/DT doubt/NN ]
+of/IN 
+[ suspicion/NN ]
+removed/VBN ./. 
+==================================
+Still/RB ,/, 
+[ I/PRP ]
+do/VBP n't/RB wish/VB to/TO appear/VB 
+[ happy/JJ ]
+at/IN 
+[ somebody/NN ]
+else/RB 
+[ 's/POS misfortune/NN ]
+''/'' ./. 
+==================================
+
+[ Lives/VBZ ]
+on/IN 
+[ welfare/NN Hengesbach/NNP ]
+,/, 
+[ who/WP ]
+has/VBZ been/VBN living/VBG on/IN 
+[ welfare/NN ]
+recently/RB ,/, said/VBD 
+[ he/PRP ]
+hopes/VBZ to/TO rebuild/VB 
+[ the/DT farm/NN ]
+
+[ which/WDT ]
+was/VBD settled/VBN by/IN 
+[ his/PRP$ grandfather/NN ]
+in/IN 
+[ Westphalia/NNP ]
+,/, 
+[ 27/CD miles/NNS ]
+southwest/RB of/IN here/RB ./. 
+==================================
+
+[ Hengesbach/NNP ]
+has/VBZ been/VBN living/VBG in/IN 
+[ Grand/NNP Ledge/NNP ]
+since/IN 
+[ his/PRP$ house/NN ]
+and/CC 
+[ barn/NN ]
+were/VBD burned/VBN down/RB after/IN 
+[ his/PRP$ release/NN ]
+in/IN 
+[ 1958/CD ]
+./. 
+==================================
+
+[ Pohl/NNP ]
+confessed/VBD 
+[ the/DT arson/NN ]
+while/IN being/VBG questioned/VBN about/IN 
+[ several/JJ fires/NNS ]
+in/IN 
+[ the/DT Westphalia/NNP area/NN ]
+by/IN 
+[ State/NNP Police/NNP ]
+./. 
+==================================
+
+[ He/PRP ]
+also/RB admitted/VBD killing/VBG 
+[ Mrs./NNP Hengesbach/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+However/RB ,/, 
+[ the/DT confession/NN ]
+,/, 
+[ which/WDT ]
+was/VBD 
+[ the/DT only/JJ evidence/NN ]
+against/IN 
+[ him/PRP ]
+,/, was/VBD retracted/VBN before/IN 
+[ the/DT trial/NN ]
+./. 
+==================================
+
+[ Charges/NNS ]
+in/IN 
+[ doubt/NN Assistant/NNP Prosecutor/NNP Fred/NNP Lewis/NNP ]
+,/, 
+[ who/WP ]
+tried/VBD 
+[ both/DT ]
+
+[ the/DT Hengesbach/NNP ]
+and/CC 
+[ Pohl/NNP cases/NNS ]
+,/, said/VBD 
+[ he/PRP ]
+did/VBD not/RB know/VB 
+[ what/WP ]
+would/MD be/VB done/VBN about/IN 
+[ two/CD arson/NN charges/NNS ]
+pending/VBG against/IN 
+[ Pohl/NNP ]
+./. 
+==================================
+
+[ Circuit/NNP Judge/NNP Paul/NNP R./NNP Cash/NNP ]
+did/VBD not/RB set/VBN 
+[ a/DT date/NN ]
+for/IN sentencing/NN ./. 
+==================================
+
+[ Pohl/NNP ]
+could/MD receive/VB from/IN 
+[ 1/CD ]
+to/TO 
+[ 15/CD years/NNS ]
+in/IN 
+[ prison/NN ]
+or/CC 
+[ probation/NN ]
+./. 
+==================================
+
+[ Walker/NNP ]
+said/VBD 
+[ he/PRP ]
+was/VBD considering/VBG filing/VBG 
+[ a/DT motion/NN ]
+for/IN 
+[ a/DT new/JJ trial/NN ]
+
+[ which/WDT ]
+would/MD contend/VB that/IN 
+[ the/DT verdict/NN ]
+was/VBD against/IN 
+[ the/DT weight/NN ]
+of/IN 
+[ the/DT evidence/NN ]
+and/CC that/IN 
+[ there/EX ]
+were/VBD 
+[ several/JJ errors/NNS ]
+in/IN 
+[ trial/NN procedure/NN ]
+./. 
+==================================
+Locked/VBN in/IN 
+[ motel/NN ]
+
+[ A/DT verdict/NN ]
+against/IN 
+[ Pohl/NNP ]
+came/VBD at/IN 
+[ 4:05/CD p.m./RB ]
+after/IN almost/RB 
+[ 13-12/CD hours/NNS ]
+of/IN 
+[ deliberation/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT jury/NN ]
+,/, 
+[ which/WDT ]
+was/VBD locked/VBN up/RB in/IN 
+[ a/DT motel/NN ]
+overnight/RB ,/, was/VBD canvassed/VBN at/IN 
+[ the/DT request/NN ]
+of/IN 
+[ Walker/NNP ]
+after/IN 
+[ the/DT verdict/NN ]
+was/VBD announced/VBN ./. 
+==================================
+
+[ The/DT jury/NN foreman/NN ]
+,/, 
+[ Mrs./NNP Olive/NNP Heideman/NNP ]
+,/, of/IN 
+[ rural/JJ Elsie/NNP ]
+,/, said/VBD that/IN 
+[ a/DT ballot/NN ]
+was/VBD not/RB even/RB taken/VBN until/IN 
+[ yesterday/NN morning/NN ]
+and/CC that/IN 
+[ the/DT first/JJ day/NN ]
+of/IN 
+[ deliberation/NN ]
+was/VBD spent/VBN in/IN going/VBG over/IN 
+[ the/DT evidence/NN ]
+./. 
+==================================
+
+[ She/PRP ]
+said/VBD 
+[ the/DT jurors/NNS ]
+agreed/VBD that/IN 
+[ Pohl/NNP 's/POS confession/NN ]
+was/VBD valid/JJ ./. 
+==================================
+
+[ The/DT jury/NN ]
+asked/VBD 
+[ Judge/NNP Cash/NNP ]
+to/TO send/VB in/IN 
+[ his/PRP$ written/JJ definition/NN ]
+of/IN 
+[ the/DT difference/NN ]
+between/IN 
+[ first/JJ ]
+and/CC 
+[ second-degree/JJ murder/NN ]
+and/CC 
+[ manslaughter/NN ]
+./. 
+==================================
+
+[ The/DT verdict/NN ]
+came/VBD 
+[ three/CD hours/NNS ]
+later/RB ./. 
+==================================
+
+[ Some/DT 30/CD spectators/NNS ]
+remained/VBD in/IN 
+[ the/DT court/NN ]
+during/IN 
+[ the/DT day/NN ]
+and/CC were/VBD on/IN 
+[ hand/NN ]
+to/TO hear/VB 
+[ the/DT verdict/NN ]
+read/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT trial/NN ]
+had/VBD packed/VBN 
+[ the/DT large/JJ courtroom/NN ]
+for/IN more/JJR than/IN 
+[ a/DT week/NN ]
+./. 
+==================================
+
+[ A/DT Sterling/NNP Township/NNP family/NN ]
+of/IN 
+[ six/CD surviving/VBG children/NNS ]
+,/, 
+[ whose/WP$ mother/NN ]
+died/VBD yesterday/RB as/IN 
+[ the/DT aftermath/NN ]
+to/TO 
+[ a/DT fire/NN ]
+
+[ that/WDT ]
+also/RB killed/VBD 
+[ one/CD ]
+of/IN 
+[ the/DT children/NNS ]
+,/, found/VBD 
+[ today/RB ]
+
+[ they/PRP ]
+had/VBD 
+[ the/DT help/NN ]
+of/IN 
+[ hundreds/NNS ]
+of/IN 
+[ neighbors/NNS ]
+and/CC 
+[ school/NN friends/NNS ]
+./. 
+==================================
+While/IN 
+[ neighbor/NN women/NNS ]
+assumed/VBD 
+[ some/DT ]
+of/IN 
+[ the/DT dead/JJ mother/NN 's/POS duties/NNS ]
+,/, 
+[ fund-raising/NN events/NNS ]
+were/VBD being/VBG planned/VBN by/IN 
+[ a/DT homeowners/NNS association/NN ]
+and/CC 
+[ a/DT student/NN council/NN ]
+for/IN 
+[ the/DT hard-hit/JJ Henry/NNP Kowalski/NNP family/NN ]
+,/, 
+[ 34220/CD Viceroy/NNP ]
+./. 
+==================================
+
+[ Mrs./NNP Eleanor/NNP Kowalski/NNP ]
+,/, 
+[ 42/CD ]
+,/, died/VBN 
+[ yesterday/RB afternoon/NN ]
+in/IN 
+[ Holy/NNP Cross/NNP Hospital/NNP ]
+of/IN 
+[ burns/NNS ]
+suffered/VBN in/IN 
+[ a/DT fire/NN ]
+
+[ that/WDT ]
+followed/VBD 
+[ a/DT bottled/JJ gas/NN explosion/NN Saturday/NNP night/NN ]
+at/IN 
+[ the/DT flat/NN ]
+of/IN 
+[ her/PRP$ widowed/JJ mother/NN ]
+,/, 
+[ Mrs./NNP Mary/NNP Pankowski/NNP ]
+,/, in/IN 
+[ the/DT adjoining/VBG suburb/NN ]
+of/IN 
+[ Warren/NNP ]
+./. 
+==================================
+
+[ Services/NNS tomorrow/RB Funeral/NN services/NNS ]
+for/IN 
+[ Mrs./NNP Kowalski/NNP ]
+and/CC 
+[ her/PRP ]
+
+[ daughter/NN ]
+,/, 
+[ Christine/NNP ]
+,/, 
+[ 11/CD ]
+,/, 
+[ who/WP ]
+died/VBD of/IN 
+[ burns/NNS ]
+at/IN 
+[ the/DT same/JJ hospital/NN Monday/NNP ]
+,/, have/VBP been/VBN scheduled/VBN for/IN 
+[ 10/CD a.m./RB tomorrow/NN ]
+in/IN 
+[ St./NNP Anne/NNP 's/POS Catholic/NNP Church/NNP ]
+,/, 
+[ 31978/CD Mound/NNP ]
+,/, in/IN 
+[ Warren/NNP ]
+./. 
+==================================
+
+[ The/DT mother/NN ]
+and/CC 
+[ daughter/NN ]
+,/, 
+[ who/WP ]
+will/MD be/VB buried/VBN 
+[ side/NN ]
+by/IN 
+[ side/NN ]
+in/IN 
+[ Mt./NNP Olivet/NNP Cemetery/NNP ]
+,/, rested/VBD together/RB 
+[ today/NN ]
+in/IN 
+[ closed/JJ caskets/NNS ]
+at/IN 
+[ the/DT Lyle/NNP Elliott/NNP Funeral/NNP Home/NNP ]
+,/, 
+[ 31730/CD Mound/NNP ]
+,/, 
+[ Warren/NNP ]
+./. 
+==================================
+
+[ Mrs./NNP Pankowski/NNP ]
+,/, 
+[ 61/CD ]
+,/, remained/VBD in/IN 
+[ Holy/NNP Cross/NNP Hospital/NNP ]
+as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ the/DT explosion/NN ]
+,/, 
+[ which/WDT ]
+occurred/VBD while/IN 
+[ Mrs./NNP Kowalski/NNP ]
+fueled/VBD 
+[ a/DT cook/NN stove/NN ]
+in/IN 
+[ the/DT grandmother/NN 's/POS small/JJ upstairs/RB flat/NN ]
+at/IN 
+[ 2274/CD Eight/CD Mile/NNP Road/NNP East/NNP ]
+./. 
+==================================
+Held/VBD 
+[ candle/NN Assistant/NNP Fire/NNP Chief/NNP Chester/NNP Cornell/NNP ]
+said/VBD 
+[ gas/NN fumes/NNS ]
+apparently/RB were/VBD ignited/VBN by/IN 
+[ a/DT candle/NN ]
+
+[ which/WDT ]
+
+[ one/CD ]
+of/IN 
+[ the/DT three/CD Kowalski/NNP girls/NNS ]
+present/RB held/VBD for/IN 
+[ her/PRP$ mother/NN ]
+,/, because/IN 
+[ the/DT flat/NN ]
+lacked/VBD 
+[ electricity/NN ]
+./. 
+==================================
+
+[ Christine/NNP 's/POS twin/NN sister/NN ]
+,/, 
+[ Patricia/NNP ]
+,/, and/CC 
+[ Darlene/NNP Kowalski/NNP ]
+,/, 
+[ 8/CD ]
+,/, escaped/VBD with/IN 
+[ minor/JJ burns/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+are/VBP 
+[ home/NN ]
+now/RB with/IN 
+[ the/DT other/JJ Kowalski/NNP children/NNS ]
+,/, 
+[ Vicky/NNP ]
+,/, 
+[ 14/CD ]
+;/: ;/: 
+[ Dennis/NNS ]
+,/, 
+[ 6/CD ]
+;/: ;/: 
+[ Eleanor/NNP ]
+,/, 
+[ 2/CD ]
+;/: ;/: and/CC 
+[ Bernardine/NNP ]
+,/, 
+[ 1/CD ]
+./. 
+==================================
+``/`` 
+[ All/DT ]
+
+[ we/PRP ]
+have/VBP left/VBN in/IN 
+[ the/DT world/NN ]
+is/VBZ 
+[ one/CD another/DT ]
+,/, and/CC 
+[ we/PRP ]
+must/MD stay/VB together/RB 
+[ the/DT way/NN Mother/NNP ]
+wanted/VBD ''/'' ,/, 
+[ Kowalski/NNP ]
+said/VBD in/IN telling/VBG 
+[ his/PRP$ children/NNS ]
+of/IN 
+[ their/PRP$ mother/NN 's/POS death/NN yesterday/RB afternoon/NN ]
+./. 
+==================================
+
+[ Kowalski/NNP ]
+,/, 
+[ a/DT roofer/NN ]
+
+[ who/WP ]
+seldom/RB worked/VBD 
+[ last/JJ winter/NN ]
+,/, already/RB was/VBD in/IN 
+[ arrears/NNS ]
+on/IN 
+[ their/PRP$ ]
+recently/RB purchased/VBN 
+[ split-level/JJ home/NN ]
+when/WRB 
+[ the/DT tragedy/NN ]
+staggered/VBD 
+[ him/PRP ]
+with/IN 
+[ medical/JJ ]
+and/CC 
+[ funeral/JJ bills/NNS ]
+./. 
+==================================
+
+[ A135/NN donated/VBN Neighbor/NN women/NNS ]
+,/, such/DT as/IN 
+[ Mrs./NNP Sidney/NNP Baker/NNP ]
+,/, 
+[ 2269/CD Serra/NNP ]
+,/, 
+[ Sterling/NNP Township/NNP ]
+,/, have/VBP been/VBN supplying/VBG 
+[ the/DT family/NN ]
+with/IN 
+[ meals/NNS ]
+and/CC 
+[ handling/VBG household/NN chores/NNS ]
+with/IN 
+[ Kowalski/NNP 's/POS sister-in-law/NN ]
+,/, 
+[ Mrs./NNP Anna/NNP Kowalski/NNP ]
+,/, 
+[ 22111/CD David/NNP ]
+,/, 
+[ East/NNP Detroit/NNP ]
+./. 
+==================================
+
+[ Another/DT neighbor/NN ]
+,/, 
+[ Mrs./NNP Frank/NNP C./NNP Smith/NNP ]
+,/, 
+[ 2731/CD Pall/NNP Mall/NNP ]
+,/, 
+[ Sterling/NNP Township/NNP ]
+,/, surprised/VBD 
+[ Kowalski/NNP ]
+by/IN coming/VBG to/TO 
+[ the/DT home/NN ]
+yesterday/RB with/IN 
+[ $/$ 135/CD ]
+collected/VBN locally/RB toward/IN 
+[ the/DT $/$ 400/CD funeral/NN costs/NNS ]
+./. 
+==================================
+
+[ John/NNP C./NNP Houghton/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ the/DT Tareytown/NNP Acres/NNP Homeowners/NNP Association/NNP ]
+,/, followed/VBD that/DT by/IN announcing/VBG 
+[ plans/NNS last/JJ night/NN ]
+for/IN 
+[ a/DT door-to-door/JJ fund/NN drive/NN ]
+throughout/IN 
+[ their/PRP$ subdivision/NN ]
+on/IN 
+[ behalf/NN ]
+of/IN 
+[ the/DT Kowalski/NNP family/NN ]
+./. 
+==================================
+
+[ Students/NNS ]
+help/VBP out/RP 
+[ Houghton/NNP ]
+said/VBD 
+[ 6/CD p.m./RB Friday/NNP ]
+had/VBD been/VBN set/VBN for/IN 
+[ a/DT canvass/NN ]
+of/IN 
+[ all/DT 480/CD homes/NNS ]
+in/IN 
+[ the/DT subdivision/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ located/VBN northeast/RB of/IN 
+[ Dequindre/NNP ]
+and/CC 
+[ 14/CD Mile/NNP Road/NNP East/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+said/VBD 
+[ contributions/NNS ]
+also/RB could/MD be/VB mailed/VBN to/TO 
+[ Post/NNP Office/NNP Box/NNP 553/CD ]
+,/, 
+[ Warren/NNP Village/NNP Station/NNP ]
+./. 
+==================================
+
+[ Vicky/NNP Kowalski/NNP ]
+meanwhile/RB learned/VBD that/IN 
+[ several/JJ ]
+of/IN 
+[ her/PRP$ fellow/JJ students/NNS ]
+had/VBD collected/VBN almost/RB 
+[ $/$ 25/CD ]
+for/IN 
+[ her/PRP$ family/NN ]
+during/IN 
+[ the/DT lunch/NN hour/NN yesterday/RB ]
+at/IN 
+[ Fuhrmann/NNP Junior/NNP High/NNP School/NNP ]
+,/, 
+[ 5155/CD Fourteen/CD Mile/NNP road/NN ]
+east/RB ./. 
+==================================
+
+[ Principal/NNP Clayton/NNP W./NNP Pohly/NNP ]
+said/VBD 
+[ he/PRP ]
+would/MD allow/VB 
+[ a/DT further/JJR collection/NN ]
+between/IN 
+[ classes/NNS today/NN ]
+,/, and/CC revealed/VBD that/IN 
+[ Y-Teen/NNP Club/NNP past/JJ surpluses/NNS ]
+had/VBD been/VBN used/VBN to/TO provide/VB 
+[ a/DT private/JJ hospital/NN nurse/NN Monday/NNP ]
+for/IN 
+[ Mrs./NNP Kowalski/NNP ]
+./. 
+==================================
+
+[ Funds/NNS ]
+from/IN 
+[ dances/NNS Student/NNP Council/NNP officers/NNS ]
+announced/VBD 
+[ today/RB ]
+
+[ the/DT Kowalski/NNP family/NN ]
+would/MD be/VB given/VBN 
+[ the/DT combined/VBN proceeds/NNS ]
+from/IN 
+[ a/DT school/NN dance/NN ]
+held/VBN 
+[ two/CD weeks/NNS ]
+ago/RB ,/, and/CC 
+[ another/DT dance/NN ]
+for/IN 
+[ Fuhrmann/NNP 's/POS 770/CD students/NNS ]
+
+[ this/DT Friday/NNP night/NN ]
+./. 
+==================================
+``/`` 
+[ Furhmann/NNP 's/POS faculty/NN ]
+is/VBZ proud/JJ that/IN 
+[ this/DT ]
+has/VBZ been/VBN 
+[ a/DT spontaneous/JJ effort/NN ]
+,/, started/VB largely/VBN among/IN 
+[ the/DT students/NNS themselves/PRP ]
+,/, because/IN of/IN 
+[ fondness/NN ]
+for/IN 
+[ Vicky/NNP ]
+and/CC 
+[ sympathy/NN ]
+for/IN 
+[ her/PRP$ entire/JJ family/NN ]
+,/, 
+[ Pohly/NNP ]
+said/VBD ./. 
+==================================
+
+[ There/EX ]
+also/RB were/VBD 
+[ reports/NNS ]
+of/IN 
+[ a/DT collection/NN ]
+at/IN 
+[ the/DT County/NNP Line/NNP Elementary/NNP School/NNP ]
+,/, 
+[ 3505o/CD Dequindre/NNP ]
+,/, 
+[ which/WDT ]
+has/VBZ been/VBN attended/VBN 
+[ this/DT year/NN ]
+by/IN 
+[ four/CD ]
+of/IN 
+[ the/DT Kowalski/NNP children/NNS ]
+including/VBG 
+[ Christine/NNP ]
+./. 
+==================================
+Expresses/VBZ 
+[ thanks/NNS Kowalski/NNP ]
+has/VBZ spoken/VBN but/CC little/JJ since/IN 
+[ the/DT fire/NN last/JJ Saturday/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ today/NN ]
+
+[ he/PRP ]
+wanted/VBD to/TO make/VB 
+[ a/DT public/JJ statement/NN ]
+./. 
+==================================
+``/`` 
+[ I/PRP ]
+never/RB knew/VBD 
+[ there/EX ]
+were/VBD 
+[ such/DT neighbors/NNS ]
+and/CC 
+[ friends/NNS ]
+around/IN 
+[ me/PRP ]
+and/CC 
+[ my/PRP$ family/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ I/PRP ]
+was/VBD n't/RB 
+[ sure/JJ ]
+
+[ there/EX ]
+were/VBD 
+[ such/DT people/NNS ]
+anywhere/RB in/IN 
+[ the/DT world/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ I/PRP ]
+'ll/MD need/VB more/JJR than/IN 
+[ a/DT single/JJ day/NN ]
+to/TO find/VB 
+[ the/DT words/NNS ]
+to/TO properly/RB express/VB 
+[ my/PRP$ thanks/NNS ]
+to/TO 
+[ them/PRP ]
+''/'' ./. 
+==================================
+
+[ An/DT alert/JJ 10-year-old/CD safety/NN patrol/NN boy/NN ]
+was/VBD congratulated/VBN by/IN 
+[ police/NN today/NN ]
+for/IN 
+[ his/PRP$ part/NN ]
+in/IN obtaining/VBG 
+[ a/DT reckless/JJ driving/NN conviction/NN ]
+against/IN 
+[ a/DT youthful/JJ motorist/NN ]
+./. 
+==================================
+
+[ Patrolman/NNP George/NNP Kimmell/NNP ]
+,/, of/IN 
+[ McClellan/NNP Station/NNP ]
+,/, said/VBD 
+[ he/PRP ]
+would/MD recommend/VB 
+[ a/DT special/JJ safety/NN citation/NN ]
+for/IN 
+[ Ralph/NNP Sisk/NNP ]
+,/, 
+[ 9230/CD Vernor/NNP east/RB ]
+,/, 
+[ a/DT third/JJ grader/NN ]
+at/IN 
+[ the/DT Scripps/NNP School/NNP ]
+,/, for/IN 
+[ his/PRP$ assistance/NN ]
+in/IN 
+[ the/DT case/NN ]
+./. 
+==================================
+
+[ Kimmell/NNP ]
+said/VBD 
+[ he/PRP ]
+and/CC 
+[ Ralph/NNP ]
+were/VBD helping/VBG 
+[ children/NNS ]
+across/IN 
+[ Belvidere/NNP ]
+at/IN 
+[ Kercheval/NNP Monday/NNP afternoon/NN ]
+when/WRB 
+[ a/DT car/NN heading/VBG north/RB ]
+on/IN 
+[ Belvidere/NNP ]
+stopped/VBD belatedly/RB inside/IN 
+[ the/DT pedestrian/JJ crosswalk/NN ]
+./. 
+==================================
+Gets/VBZ 
+[ car/NN number/NN Kimmell/NNP ]
+ordered/VBD 
+[ the/DT driver/NN ]
+to/TO back/VB up/RB ,/, watched/VBD 
+[ the/DT children/NNS ]
+safely/RB across/RB and/CC was/VBD approaching/VBG 
+[ the/DT car/NN ]
+when/WRB 
+[ it/PRP ]
+suddenly/RB ``/`` took/VBD off/RB at/IN 
+[ high/JJ speed/NN ]
+''/'' ,/, 
+[ he/PRP ]
+said/VBD ,/, narrowly/RB missing/VBG 
+[ him/PRP ]
+./. 
+==================================
+Commandeering/VBG 
+[ a/DT passing/VBG car/NN ]
+,/, 
+[ Kimmell/NNP ]
+pursued/VBD 
+[ the/DT fleeing/VBG vehicle/NN ]
+,/, but/CC lost/VBD 
+[ it/PRP ]
+in/IN 
+[ traffic/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Returning/VBG to/TO 
+[ the/DT school/NN crossing/NN ]
+,/, 
+[ the/DT officer/NN ]
+was/VBD informed/VBN by/IN 
+[ the/DT Sisk/NNP boy/NN ]
+that/IN 
+[ he/PRP ]
+recognized/VBD 
+[ the/DT driver/NN ]
+,/, 
+[ a/DT neighbor/NN ]
+,/, and/CC had/VBD obtained/VBN 
+[ the/DT license/NN number/NN ]
+./. 
+==================================
+
+[ The/DT motorist/NN ]
+later/RB was/VBD identified/VBN as/IN 
+[ Richard/NNP Sarkees/NNP ]
+,/, 
+[ 17/CD ]
+,/, of/IN 
+[ 2433/CD McClellan/NNP ]
+,/, currently/RB on/IN 
+[ probation/NN ]
+and/CC under/IN 
+[ court/NN order/NN ]
+not/RB to/TO drive/VB ./. 
+==================================
+Given/VBN 
+[ 15/CD days/NNS ]
+
+[ He/PRP ]
+was/VBD found/VBN 
+[ guilty/JJ ]
+of/IN 
+[ reckless/JJ driving/NN yesterday/RB ]
+by/IN 
+[ Traffic/NNP Judge/NNP George/NNP T./NNP Murphy/NNP ]
+,/, 
+[ who/WP ]
+continued/VBD 
+[ his/PRP$ no-driving/JJ probation/NN ]
+for/IN 
+[ another/DT year/NN ]
+and/CC ordered/VBD 
+[ him/PRP ]
+to/TO spend/VB 
+[ 15/CD days/NNS ]
+in/IN 
+[ the/DT Detroit/NNP House/NNP ]
+of/IN 
+[ Correction/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT jail/NN sentence/NN ]
+is/VBZ to/TO begin/VB 
+[ the/DT day/NN ]
+after/IN 
+[ Sarkees/NNP graduates/VBZ ]
+from/IN 
+[ Eastern/NNP High/NNP School/NNP ]
+in/IN 
+[ June/NNP ]
+./. 
+==================================
+
+[ The/DT long/JJ crisis/NN ]
+in/IN 
+[ Laos/NNP ]
+appeared/VBD nearing/VBG 
+[ a/DT showdown/NN today/NN ]
+./. 
+==================================
+
+[ Britain/NNP ]
+announced/VBD that/IN 
+[ it/PRP ]
+is/VBZ asking/VBG 
+[ the/DT Soviet/NNP Union/NNP ]
+to/TO agree/VB 
+[ tomorrow/NN ]
+to/TO 
+[ an/DT immediate/JJ cease-fire/NN ]
+./. 
+==================================
+
+[ Help/NN ]
+asked/VBN In/IN 
+[ Vientiane/NNP ]
+,/, 
+[ the/DT royal/JJ Laotian/JJ government/NN ]
+decided/VBD 
+[ today/RB ]
+to/TO ask/VB 
+[ its/PRP$ ]
+``/`` 
+[ friends/NNS ]
+and/CC 
+[ neighbors/NNS ]
+''/'' for/IN 
+[ help/NN ]
+in/IN fighting/VBG 
+[ what/WP ]
+
+[ it/PRP ]
+called/VBD 
+[ a/DT new/JJ rebel/NN offensive/NN ]
+threatening/VBG 
+[ the/DT southeast/JJ Asian/JJ kingdom/NN ]
+./. 
+==================================
+
+[ Britain/NNP 's/POS plans/NNS ]
+to/TO press/VB 
+[ Russia/NN ]
+for/IN 
+[ a/DT definite/JJ cease-fire/JJ timetable/NN ]
+was/VBD announced/VBN in/IN 
+[ London/NNP ]
+by/IN 
+[ Foreign/NNP Secretary/NNP Lord/NNP Home/NNP ]
+./. 
+==================================
+
+[ He/PRP ]
+said/VBD 
+[ Britain/NNP ]
+also/RB proposed/VBD that/IN 
+[ the/DT international/JJ truce/NN commission/NN ]
+should/MD be/VB reconvened/VBN ,/, sent/VBN to/TO 
+[ New/NNP Delhi/NNP ]
+and/CC from/IN there/RB to/TO 
+[ Laos/NNP ]
+to/TO verify/VB 
+[ the/DT cease-fire/NN ]
+./. 
+==================================
+
+[ A/DT 14-power/JJ conference/NN ]
+on/IN 
+[ Laos/NNP ]
+should/MD then/RB meet/VB on/IN 
+[ May/NNP 5/CD ]
+,/, 
+[ he/PRP ]
+said/VBD ./. 
+==================================
+
+[ Plea/NN ]
+for/IN 
+[ arms/NNS ]
+
+[ The/DT Laos/NNP government/NN plea/NN ]
+for/IN 
+[ help/NN ]
+was/VBD made/VBN by/IN 
+[ Foreign/NNP Minister/NNP Tiao/NNP Sopsaisana/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+indicated/VBD that/IN 
+[ requests/NNS ]
+would/MD be/VB made/VBN for/IN 
+[ more/JJR U.S./NNP arms/NNS ]
+and/CC 
+[ more/JJR U.S./NNP military/JJ advisers/NNS ]
+./. 
+==================================
+
+[ He/PRP ]
+declared/VBD 
+[ the/DT government/NN ]
+is/VBZ thinking/VBG of/IN asking/VBG for/IN 
+[ foreign/JJ troops/NNS ]
+if/IN 
+[ the/DT situation/NN ]
+worsens/VBZ ./. 
+==================================
+
+[ One/CD ]
+of/IN 
+[ the/DT first/JJ moves/NNS ]
+made/VBN after/IN 
+[ a/DT cabinet/NN decision/NN ]
+was/VBD to/TO request/VB 
+[ the/DT United/NNP States/NNP ]
+to/TO establish/VB 
+[ a/DT full-fledged/JJ military/JJ assistance/NN group/NN ]
+instead/RB of/IN 
+[ the/DT current/JJ civilian/NN body/NN ]
+./. 
+==================================
+
+[ A/DT note/NN ]
+making/VBG 
+[ the/DT request/NN ]
+was/VBD handed/VBN to/TO 
+[ U.S./NNP Ambassador/NNP Winthrop/NNP G./NNP Brown/NNP ]
+./. 
+==================================
+
+[ Heavy/JJ ]
+support/NN 
+[ The/DT Laos/NNP government/NN ]
+said/VBD 
+[ four/CD major/JJ Pathet/NNP Lao/NNP rebel/NN attacks/NNS ]
+had/VBD been/VBN launched/VBN ,/, heavily/RB supported/VBN by/IN 
+[ troops/NNS ]
+from/IN 
+[ Communist/NNP North/NNP Viet/NNP Nam/NNP ]
+./. 
+==================================
+
+[ The/DT minister/NN ]
+,/, describing/VBG 
+[ the/DT attacks/NNS ]
+
+[ which/WDT ]
+led/VBD up/RB to/TO 
+[ the/DT appeal/NN ]
+,/, said/VBD that/IN 
+[ 60,000/CD Communist/NNP North/NNP Vietnamese/NNP ]
+were/VBD fighting/VBG 
+[ royal/JJ army/NN troops/NNS ]
+on/IN 
+[ one/CD front/JJ ]
+--/: near/IN 
+[ Thakhek/NNP ]
+,/, in/IN 
+[ southern-central/JJ Laos/NNP ]
+./. 
+==================================
+
+[ There/EX ]
+was/VBD 
+[ no/DT confirmation/NN ]
+of/IN 
+[ such/DT massive/JJ assaults/NNS ]
+from/IN 
+[ independent/JJ sources/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ the/DT past/JJ such/DT government/NN claims/NNS ]
+have/VBP been/VBN found/VBN exaggerated/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ Havana/NNP ]
+,/, 
+[ April/NNP 19/CD ]
+./. 
+==================================
+--/: 
+[ Two/CD Americans/NNPS ]
+and/CC 
+[ seven/CD Cubans/NNP ]
+were/VBD executed/VBN by/IN firing/VBG 
+[ squads/NNS today/NN ]
+as/IN 
+[ Castro/NNP military/JJ tribunals/NNS ]
+began/VBD decreeing/VBG 
+[ the/DT death/NN penalty/NN ]
+for/IN 
+[ captured/VBN invasion/NN forces/NNS ]
+and/CC suspected/VBN 
+[ collaborators/NNS ]
+./. 
+==================================
+
+[ A/DT Havana/NNP radio/NN broadcast/NN ]
+identified/VBD 
+[ the/DT Americans/NNPS ]
+as/IN 
+[ Howard/NNP Anderson/NNP ]
+and/CC 
+[ August/NNP Jack/NNP McNair/NNP ]
+./. 
+==================================
+
+[ The/DT executions/NNS ]
+took/VBD 
+[ place/NN ]
+at/IN 
+[ dawn/NN ]
+only/RB 
+[ a/DT few/JJ hours/NNS ]
+after/IN 
+[ Havana/NNP radio/NN ]
+announced/VBD 
+[ their/PRP$ conviction/NN ]
+by/IN 
+[ a/DT revolutionary/JJ tribunal/NN ]
+at/IN 
+[ Pinar/NNP Del/NNP Rio/NNP ]
+,/, where/WRB 
+[ the/DT executions/NNS ]
+took/VBD 
+[ place/NN ]
+./. 
+==================================
+
+[ Arms/NNS plot/NN ]
+charged/VBN 
+[ The/DT broadcast/NN ]
+said/VBD 
+[ Anderson/NNP ]
+,/, 
+[ a/DT Seattle/NNP ex-marine/NN ]
+and/CC 
+[ Havana/NNP businessman/NN ]
+,/, and/CC 
+[ McNair/NNP ]
+,/, of/IN 
+[ Miami/NNP ]
+,/, were/VBD condemned/VBN on/IN 
+[ charges/NNS ]
+of/IN smuggling/VBG 
+[ arms/NNS ]
+to/TO 
+[ Cuban/JJ rebels/NNS ]
+./. 
+==================================
+
+[ Anderson/NNP ]
+operated/VBD 
+[ three/CD Havana/NNP automobile/NN service/NN stations/NNS ]
+and/CC was/VBD 
+[ commander/NN ]
+of/IN 
+[ the/DT Havana/NNP American/NNP Legion/NNP post/NN ]
+before/IN 
+[ it/PRP ]
+disbanded/VBD since/IN 
+[ the/DT start/NN ]
+of/IN 
+[ Fidel/NNP Castro/NNP 's/POS regime/NN ]
+./. 
+==================================
+
+[ Anderson/NNP 's/POS wife/NN ]
+and/CC 
+[ four/CD children/NNS ]
+live/VBP in/IN 
+[ Miami/NNP ]
+./. 
+==================================
+
+[ McNair/NNP ]
+,/, 
+[ 25/CD ]
+,/, was/VBD seized/VBN 
+[ March/NNP 20/CD ]
+with/IN 
+[ four/CD Cubans/NNPS ]
+and/CC accused/VBN of/IN trying/VBG to/TO land/VB 
+[ a/DT boatload/NN ]
+of/IN 
+[ rifles/NNS ]
+in/IN 
+[ Pinar/NNP Del/NNP Rio/NNP ]
+,/, about/IN 
+[ 35/CD miles/NNS ]
+from/IN 
+[ Havana/NNP ]
+./. 
+==================================
+
+[ Report/VBP others/NNS ]
+held/VBN At/IN 
+[ least/JJS 20/CD other/JJ Americans/NNPS ]
+were/VBD reported/VBN to/TO have/VB been/VBN arrested/VBN in/IN 
+[ a/DT mass/JJ political/JJ roundup/NN ]
+./. 
+==================================
+Among/IN 
+[ them/PRP ]
+were/VBD 
+[ a/DT number/NN ]
+of/IN 
+[ newsmen/NNS ]
+,/, including/VBG 
+[ Henry/NNP Raymont/NNP ]
+,/, of/IN 
+[ United/NNP Press/NNP International/NNP ]
+,/, and/CC 
+[ Robert/NNP Berrellez/NNP ]
+,/, of/IN 
+[ Associated/NNP Press/NNP ]
+./. 
+==================================
+
+[ So/RB many/JJ Cubans/NNPS ]
+were/VBD reported/VBN being/VBG swept/VBN into/IN 
+[ the/DT Castro/NNP dragnet/NN ]
+that/IN 
+[ the/DT massive/JJ Sports/NNP Palace/NNP auditorium/NN ]
+and/CC at/IN 
+[ least/JJS one/CD hotel/NN ]
+were/VBD converted/VBN into/IN 
+[ makeshift/JJ jails/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+More/RBR than/IN 
+[ 1,000/CD ]
+were/VBD said/VBD to/TO have/VB been/VBN arrested/VBN --/: 
+[ 100/CD ]
+of/IN 
+[ them/PRP ]
+
+[ Roman/NNP Catholic/NNP priests/NNS ]
+./. 
+==================================
+Of/IN 
+[ the/DT millions/NNS ]
+
+[ who/WP ]
+have/VB served/VBN 
+[ time/NN ]
+in/IN 
+[ concentration/NN camps/NNS ]
+in/IN 
+[ Siberia/NNP ]
+as/IN 
+[ political/JJ prisoners/NNS ]
+of/IN 
+[ the/DT Soviet/JJ state/NN ]
+,/, 
+[ few/JJ ]
+emerge/VBP in/IN 
+[ the/DT West/NNP ]
+to/TO tell/VB about/IN 
+[ it/PRP ]
+./. 
+==================================
+
+[ M./NNP Kegham/NNP ]
+--/: 
+[ the/DT name/NN ]
+is/VBZ 
+[ a/DT pseudynom/NN ]
+--/: was/VBD 
+[ a/DT teacher/NN ]
+in/IN 
+[ Bucharest/NNP ]
+and/CC 
+[ a/DT member/NN ]
+of/IN 
+[ the/DT Armenian/NNP Revolutionary/NNP Federation/NNP ]
+(/( 
+[ ARF/NNP ]
+)/) --/: 
+[ two/CD reasons/NNS ]
+
+[ the/DT Communists/NNS ]
+put/VBD 
+[ him/PRP ]
+away/RB when/WRB 
+[ they/PRP ]
+arrived/VBD in/IN 
+[ 1945/CD ]
+./. 
+==================================
+
+[ Today/NNP ]
+,/, 
+[ M./NNP Kegham/NNP ]
+was/VBD in/IN 
+[ Detroit/NNP ]
+,/, en/RB 
+[ route/RB ]
+to/TO join/VB 
+[ his/PRP$ wife/NN ]
+and/CC 
+[ children/NNS ]
+in/IN 
+[ California/NNP ]
+./. 
+==================================
+==================================
+==================================

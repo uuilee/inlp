@@ -1,0 +1,1591 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ Salem/NNP ]
+(/( special/JJ )/) --/: For/IN 
+[ a/DT second/JJ month/NN ]
+in/IN 
+[ a/DT row/NN ]
+,/, 
+[ Multnomah/NNP County/NNP ]
+may/MD be/VB short/JJ of/IN 
+[ general/JJ assistance/NN money/NN ]
+in/IN 
+[ its/PRP$ budget/NN ]
+to/TO handle/VB 
+[ an/DT ]
+unusually/RB 
+[ high/JJ summer/NN month/NN 's/POS need/NN ]
+,/, 
+[ the/DT state/NN public/JJ welfare/NN commission/NN ]
+was/VBD told/VBN 
+[ Friday/NNP ]
+./. 
+==================================
+
+[ It/PRP ]
+is/VBZ 
+[ the/DT only/JJ county/NN ]
+in/IN 
+[ the/DT state/NN ]
+so/RB far/RB 
+[ this/DT month/NN ]
+reporting/VBG 
+[ a/DT possible/JJ shortage/NN ]
+in/IN 
+[ GA/NNP category/NN ]
+,/, for/IN 
+[ which/WDT emergency/NN allotment/NN ]
+can/MD be/VB given/VBN by/IN 
+[ the/DT state/NN ]
+if/IN 
+[ necessary/JJ ]
+./. 
+==================================
+
+[ William/NNP Smythe/NNP ]
+,/, 
+[ director/NN ]
+of/IN 
+[ field/NN service/NN ]
+,/, told/VBD 
+[ the/DT commissioners/NNS ]
+that/IN 
+[ Multnomah/NNP ]
+,/, as/IN of/IN 
+[ Aug./NNP 22/CD ]
+,/, had/VBD spent/VBN 
+[ $/$ 58,918/CD ]
+out/IN of/IN 
+[ its/PRP$ ]
+budgeted/VBN 
+[ $/$ 66,000/CD ]
+in/IN 
+[ the/DT category/NN ]
+,/, leaving/VBG only/RB 
+[ $/$ 7,082/CD ]
+for/IN 
+[ the/DT rest/NN ]
+of/IN 
+[ the/DT month/NN ]
+./. 
+==================================
+At/IN 
+[ the/DT rate/NN ]
+of/IN 
+[ need/NN ]
+indicated/VBN in/IN 
+[ the/DT early/JJ weeks/NNS ]
+of/IN 
+[ the/DT month/NN ]
+,/, 
+[ this/DT ]
+could/MD mean/VB 
+[ a/DT shortage/NN ]
+of/IN as/RB high/JJ as/IN 
+[ $/$ 17,000/CD ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ it/PRP ]
+probably/RB will/MD be/VB less/RBR because/RB of/IN 
+[ a/DT usual/JJ ]
+slackening/VBG during/IN 
+[ the/DT last/JJ weeks/NNS ]
+of/IN 
+[ each/DT month/NN ]
+,/, 
+[ Smythe/NNP ]
+said/VBD ./. 
+==================================
+
+==================================
+==================================
+
+[ No/DT request/NN ]
+for/IN 
+[ emergency/NN allotment/NN ]
+had/VBD yet/RB been/VBN received/VBN ,/, however/RB ./. 
+==================================
+
+[ Board/NNP ]
+oks/VBZ 
+[ pact/NN ]
+
+[ The/DT commission/NN ]
+,/, meeting/VBG for/IN 
+[ the/DT first/JJ time/NN ]
+with/IN 
+[ both/DT ]
+of/IN 
+[ its/PRP$ newly-appointed/JJ commissioners/NNS ]
+,/, 
+[ Roy/NNP Webster/NNP ]
+,/, of/IN 
+[ Hood/NNP River/NNP ]
+,/, and/CC 
+[ Dr./NNP Ennis/NNP Keizer/NNP ]
+,/, of/IN 
+[ North/NNP Bend/NNP ]
+,/, approved/VBD 
+[ a/DT year/NN 's/POS contract/NN ]
+for/IN 
+[ a/DT consultant/NN ]
+in/IN 
+[ the/DT data/NNS processing/NN department/NN ]
+
+[ who/WP ]
+has/VBZ been/VBN 
+[ the/DT center/NN ]
+of/IN 
+[ considerable/JJ controversy/NN ]
+in/IN 
+[ the/DT past/NN ]
+./. 
+==================================
+
+[ The/DT contract/NN ]
+with/IN 
+[ Ray/NNP Field/NNP ]
+,/, 
+[ who/WP ]
+has/VBZ been/VBN converting/VBG 
+[ the/DT agencies/NNS electronic/JJ data/NNS processing/VBG program/NN ]
+to/TO 
+[ magnetic/JJ tape/NN ]
+,/, would/MD renew/VB 
+[ his/PRP$ present/JJ salary/NN ]
+of/IN 
+[ $/$ 8/CD ]
+
+[ an/DT hour/NN ]
+up/IN to/TO 
+[ a/DT maximum/NN ]
+of/IN 
+[ 200/CD hours/NNS ]
+
+[ a/DT month/NN ]
+./. 
+==================================
+
+[ Field/NN ]
+does/VBZ 
+[ the/DT planning/NN ]
+for/IN 
+[ the/DT machine/NN operations/NNS ]
+and/CC 
+[ fiscal/JJ processes/NNS ]
+and/CC 
+[ the/DT adapting/NN ]
+of/IN 
+[ the/DT data/NNS processing/VBG system/NN ]
+to/TO 
+[ new/JJ programs/NNS ]
+as/IN 
+[ they/PRP ]
+are/VBP made/VBN 
+[ necessary/JJ ]
+by/IN 
+[ legislative/JJ ]
+and/CC 
+[ policy/NN changes/NNS ]
+./. 
+==================================
+
+[ Acting/NNP Administrator/NNP Andrew/NNP F./NNP Juras/NNP ]
+said/VBD that/IN because/IN of/IN 
+[ Field/NNP 's/POS unique/JJ position/NN ]
+and/CC 
+[ knowledge/NN ]
+in/IN 
+[ the/DT program/NN ]
+,/, 
+[ the/DT agency/NN ]
+now/RB would/MD be/VB seriously/RB handicapped/VBN if/IN 
+[ he/PRP ]
+was/VBD not/RB continued/VBN for/IN 
+[ a/DT period/NN ]
+./. 
+==================================
+But/CC 
+[ he/PRP ]
+emphasized/VBD that/IN 
+[ the/DT agency/NN ]
+must/MD train/VB 
+[ people/NNS ]
+within/IN 
+[ its/PRP$ own/JJ employ/NN ]
+to/TO fulfill/VB 
+[ what/WP Field/NNP ]
+handles/VBZ ,/, and/CC 
+[ he/PRP ]
+said/VBD 
+[ he/PRP ]
+personally/RB ``/`` regrets/VBZ very/RB much/JJ that/IN 
+[ the/DT agency/NN ]
+has/VBZ not/RB done/VBN 
+[ this/DT ]
+in/IN 
+[ the/DT past/NN ]
+''/'' ./. 
+==================================
+
+[ He/PRP ]
+pointed/VBD out/RB to/TO 
+[ the/DT commissioners/NNS ]
+that/IN 
+[ the/DT agency/NN ]
+was/VBD literally/RB dependent/JJ now/RB on/IN 
+[ the/DT machine/NN processing/NN ]
+,/, ``/`` and/CC 
+[ the/DT whole/JJ wheels/NNS ]
+of/IN 
+[ the/DT agency/NN ]
+would/MD stop/VB if/IN 
+[ it/PRP ]
+broke/VBD down/RB or/CC 
+[ the/DT three/CD ]
+or/CC 
+[ four/CD persons/NNS ]
+directing/VBG 
+[ it/PRP ]
+were/VBD to/TO leave/VB ''/'' ./. 
+==================================
+
+[ Salary/NN ]
+termed/VBN 
+[ modest/JJ Juras/NNP ]
+said/VBD 
+[ he/PRP ]
+insisted/VBD 
+[ Field/NNP ]
+be/VB continued/VBN on/IN 
+[ a/DT consultant/NN basis/NN ]
+only/RB and/CC be/VB answerable/JJ directly/RB to/TO 
+[ the/DT administrator/NN ]
+of/IN 
+[ the/DT agency/NN ]
+and/CC not/RB to/TO 
+[ other/JJ agencies/NNS ]
+of/IN 
+[ the/DT government/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+also/RB said/VBD that/IN 
+[ the/DT salary/NN ]
+,/, in/IN 
+[ terms/NNS ]
+of/IN going/VBG 
+[ rates/NNS ]
+in/IN 
+[ the/DT field/NN ]
+,/, was/VBD ``/`` 
+[ modest/JJ ]
+''/'' in/IN 
+[ terms/NNS ]
+of/IN 
+[ the/DT man/NN 's/POS responsibility/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT conversion/NN ]
+to/TO 
+[ magnetic/JJ tape/NN ]
+is/VBZ not/RB yet/RB completed/VBN ,/, 
+[ he/PRP ]
+said/VBD ,/, and/CC added/VBD 
+[ Field/NNP 's/POS long/JJ service/NN ]
+in/IN 
+[ state/NN government/NN ]
+and/CC 
+[ welfare/NN employ/NN ]
+gave/VBD 
+[ him/PRP ]
+
+[ familiarity/NN ]
+with/IN 
+[ the/DT welfare/NN program/NN ]
+./. 
+==================================
+``/`` Do/VBP 
+[ you/PRP ]
+feel/VB 
+[ you/PRP ]
+can/MD stand/VB up/IN to/TO 
+[ the/DT next/JJ legislative/JJ session/NN ]
+and/CC defend/VB 
+[ this/DT contract/NN ]
+''/'' ?/. ?/. 
+==================================
+
+==================================
+==================================
+Asked/VBD 
+[ Mrs./NNP Grace/NNP O./NNP Peck/NNP ]
+,/, 
+[ representative/NN ]
+from/IN 
+[ Multnomah/NNP County/NNP ]
+,/, of/IN 
+[ the/DT commission/NN chairman/NN ]
+,/, 
+[ Joseph/NNP E./NNP Harvey/NNP Jr/NNP ]
+../. ``/`` 
+[ My/PRP$ feeling/NN ]
+at/IN 
+[ the/DT moment/NN ]
+''/'' ,/, 
+[ he/PRP ]
+said/VBD ,/, ``/`` is/VBZ that/IN 
+[ we/PRP ]
+have/VBP 
+[ no/DT alternative/NN ]
+,/, irrespective/RB of/IN 
+[ some/DT ]
+of/IN 
+[ the/DT arguments/NNS ]
+about/IN 
+[ him/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT continued/JJ operation/NN ]
+of/IN 
+[ this/DT program/NN ]
+depends/VBZ on/IN having/VBG 
+[ his/PRP$ service/NN ]
+''/'' ./. 
+==================================
+
+[ Harvey/NNP ]
+criticized/VBD 
+[ Mrs./NNP Peck/NNP ]
+,/, later/RB joined/VBN by/IN 
+[ the/DT commission/NN 's/POS vice-chairman/NN ]
+,/, 
+[ Mrs./NNP Lee/NNP Patterson/NNP ]
+,/, took/VBD 
+[ Harvey/NNP ]
+to/TO task/VB for/IN 
+[ comments/NNS ]
+
+[ he/PRP ]
+had/VBD made/VBN to/TO 
+[ the/DT North/NNP Portland/NNP Rotary/NNP Club/NNP Tuesday/NNP ]
+./. 
+==================================
+
+[ A/DT publicity/NN release/NN ]
+from/IN 
+[ Oregon/NNP Physicians/NNP Service/NNP ]
+,/, of/IN 
+[ which/WDT ]
+
+[ Harvey/NNP ]
+is/VBZ 
+[ president/NN ]
+,/, quoted/VBD 
+[ him/PRP ]
+as/IN saying/VBG 
+[ the/DT welfare/NN office/NN move/NN ]
+to/TO 
+[ Salem/NNP ]
+,/, instead/RB of/IN ``/`` 
+[ crippling/VBG ]
+''/'' 
+[ the/DT agency/NN ]
+,/, had/VBD provided/VBN 
+[ an/DT avenue/NN ]
+to/TO correct/VB 
+[ administrative/JJ weaknesses/NNS ]
+,/, with/IN 
+[ the/DT key/NN ]
+being/VBG 
+[ improved/JJ communications/NNS ]
+between/IN 
+[ F/NNP ]
+&/CC 
+[ A/DT ]
+and/CC 
+[ the/DT commission/NN staff/NN ]
+./. 
+==================================
+``/`` 
+[ I/PRP ]
+rather/RB resent/VBP ''/'' ,/, 
+[ she/PRP ]
+said/VBD ,/, ``/`` 
+[ you/PRP ]
+speaking/VBG to/TO 
+[ those/DT groups/NNS ]
+in/IN 
+[ Portland/NNP ]
+as/IN though/IN just/RB 
+[ the/DT move/NN ]
+accomplished/VBD 
+[ this/DT ]
+./. 
+==================================
+
+[ I/PRP ]
+think/VBP 
+[ you/PRP ]
+fell/VBD short/RB of/IN 
+[ the/DT real/JJ truth/NN ]
+in/IN 
+[ the/DT matter/NN ]
+:/: That/IN 
+[ the/DT move/NN ]
+is/VBZ working/VBG out/RB through/IN 
+[ the/DT fine/JJ cooperation/NN ]
+of/IN 
+[ the/DT staff/NN ]
+and/CC 
+[ all/PDT the/DT people/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT staff/NN ]
+deserves/VBZ 
+[ a/DT lot/NN ]
+of/IN 
+[ credit/NN ]
+working/VBG down/IN here/RB under/IN 
+[ real/JJ obstacles/NNS ]
+''/'' ./. 
+==================================
+
+[ Harvey/NNP ]
+said/VBD 
+[ his/PRP$ objective/NN ]
+was/VBD to/TO create/VB 
+[ a/DT better/JJR public/JJ image/NN ]
+for/IN 
+[ welfare/NN ]
+''/'' ./. 
+==================================
+
+[ The/DT wife/NN ]
+of/IN 
+[ convicted/VBN bank/NN robber/NN Lawrence/NNP G./NNP Huntley/NNP ]
+was/VBD arrested/VBN in/IN 
+[ Phoenix/NNP ]
+,/, 
+[ Ariz./NNP ]
+,/, 
+[ last/JJ week/NN ]
+and/CC will/MD be/VB returned/VBN to/TO 
+[ Portland/NNP ]
+to/TO face/VB 
+[ charges/NNS ]
+of/IN 
+[ assault/NN ]
+and/CC 
+[ robbery/NN ]
+,/, 
+[ Portland/NNP detectives/NNS ]
+said/VBD 
+[ Friday/NNP ]
+./. 
+==================================
+
+[ Mrs./NNP Lavaughn/NNP Huntley/NNP ]
+is/VBZ accused/VBN of/IN driving/VBG 
+[ the/DT getaway/NN car/NN ]
+used/VBN in/IN 
+[ a/DT robbery/NN ]
+of/IN 
+[ the/DT Woodyard/NNP Bros/NNP ]
+./. 
+==================================
+'/'' 
+[ Grocery/NNP ]
+,/, 
+[ 2825/CD E./NNP Burnside/NNP St./NNP ]
+,/, in/IN 
+[ April/NNP ]
+of/IN 
+[ 1959/CD ]
+./. 
+==================================
+
+[ Her/PRP$ husband/NN ]
+,/, 
+[ who/WP ]
+was/VBD sentenced/VBN to/TO 
+[ 15/CD years/NNS ]
+in/IN 
+[ the/DT federal/JJ prison/NN ]
+at/IN 
+[ McNeil/NNP Island/NNP last/JJ April/NNP ]
+for/IN 
+[ robbery/NN ]
+of/IN 
+[ the/DT Hillsdale/NNP branch/NN ]
+of/IN 
+[ Multnomah/NNP Bank/NNP ]
+,/, also/RB was/VBD charged/VBN with/IN 
+[ the/DT store/NN holdup/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Secret/JJ Grand/NNP Jury/NNP indictments/NNS ]
+were/VBD returned/VBN against/IN 
+[ the/DT pair/NN last/JJ week/NN ]
+,/, 
+[ Detective/NNP Murray/NNP Logan/NNP ]
+reported/VBD ./. 
+==================================
+
+[ The/DT Phoenix/NNP arrest/NN ]
+culminates/VBZ more/RBR than/IN 
+[ a/DT year/NN 's/POS investigation/NN ]
+by/IN 
+[ Detective/NNP William/NNP Taylor/NNP ]
+and/CC 
+[ other/JJ officers/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Taylor/NNP ]
+said/VBD 
+[ Mrs./NNP Huntley/NNP ]
+and/CC 
+[ her/PRP$ husband/NN ]
+also/RB will/MD be/VB questioned/VBN about/IN 
+[ a/DT series/NN ]
+of/IN 
+[ 15/CD Portland/NNP robberies/NNS ]
+in/IN 
+[ spring/NN ]
+of/IN 
+[ 1959/CD ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT holdup/NN men/NNS ]
+bound/VBD 
+[ their/PRP$ victims/NNS ]
+with/IN 
+[ tape/NN ]
+before/IN fleeing/VBG ./. 
+==================================
+
+[ Mrs./NNP Huntley/NNP ]
+was/VBD held/VBN on/IN 
+[ $/$ 20,000/CD bond/NN ]
+in/IN 
+[ Phoenix/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ She/PRP ]
+was/VBD arrested/VBN by/IN 
+[ Phoenix/NNP Police/NNP ]
+after/IN 
+[ they/PRP ]
+received/VBD 
+[ the/DT indictment/NN papers/NNS ]
+from/IN 
+[ Portland/NNP detectives/NNS ]
+./. 
+==================================
+
+[ A/DT 12-year-old/CD girl/NN ]
+,/, 
+[ Susan/NNP Elaine/NNP Smith/NNP ]
+,/, 
+[ 9329/CD NE/NNP Schuyler/NNP St./NNP ]
+was/VBD in/IN 
+[ serious/JJ condition/NN Friday/NNP ]
+at/IN 
+[ Bess/NNP Kaiser/NNP Hospital/NNP ]
+,/, 
+[ victim/NN ]
+of/IN 
+[ a/DT bicycle-auto/JJ collision/NN ]
+in/IN 
+[ the/DT Gateway/NNP Shopping/NNP Center/NNP ]
+,/, parking/NN 
+[ area/NN ]
+,/, 
+[ Deputy/NNP Sheriff/NNP W.H./NNP Forsyth/NNP ]
+reported/VBD ./. 
+==================================
+
+[ Funeral/NNP ]
+for/IN 
+[ William/NNP Joseph/NNP Brett/NNP ]
+,/, 
+[ 1926/CD NE/NNP 50th/JJ Ave./NNP ]
+,/, 
+[ who/WP ]
+died/VBD 
+[ Thursday/NNP ]
+in/IN 
+[ Portland/NNP ]
+,/, will/MD be/VB 
+[ Monday/NNP 1/CD p.m./RB ]
+at/IN 
+[ the/DT Riverview/NNP Abbey/NNP ]
+./. 
+==================================
+
+[ Mr./NNP Brett/NNP ]
+,/, born/VBN in/IN 
+[ Brooklyn/NNP ]
+,/, 
+[ N.Y./NNP ]
+,/, 
+[ Dec./NNP 15/CD ]
+,/, 
+[ 1886/CD ]
+,/, came/VBD to/TO 
+[ Portland/NNP ]
+in/IN 
+[ 1920/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+owned/VBD 
+[ a/DT logging/NN equipment/NN business/NN ]
+here/RB from/IN 
+[ 1923/CD ]
+to/TO 
+[ 1928/CD ]
+,/, and/CC later/RB became/VBD 
+[ Northwest/NNP district/NN manager/NN ]
+for/IN 
+[ Macwhyte/NNP Co/NNP ]
+../. 
+[ He/PRP ]
+retired/VBD in/IN 
+[ 1958/CD ]
+./. 
+==================================
+
+[ Survivors/NNS ]
+are/VBP 
+[ his/PRP$ widow/NN ]
+,/, 
+[ Alice/NN ]
+;/: ;/: 
+[ a/DT son/NN ]
+,/, 
+[ William/NNP ]
+,/, 
+[ Seattle/NNP ]
+,/, 
+[ Wash./NNP ]
+;/: ;/: 
+[ three/CD sisters/NNS ]
+,/, 
+[ Mrs./NNP Eugene/NNP Horstman/NNP ]
+,/, 
+[ Los/NNP Angeles/NNP ]
+,/, 
+[ Mrs./NNP Lucy/NNP Brett/NNP Andrew/NNP ]
+,/, 
+[ New/NNP York/NNP City/NNP ]
+,/, and/CC 
+[ Mrs./NNP Beatrice/NNP Kiefferm/NNP ]
+,/, 
+[ New/NNP York/NNP City/NNP ]
+,/, and/CC 
+[ five/CD grandchildren/NNS ]
+./. 
+==================================
+
+[ Employes/NNS ]
+of/IN 
+[ Montgomery/NNP Ward/NNP ]
+&/CC 
+[ Co./NNP ]
+at/IN 
+[ The/DT Dalles/NNP ]
+,/, in/IN 
+[ a/DT National/NNP Labor/NNP Relations/NNP Board/NNP election/NN Thursday/NNP ]
+voted/VBD to/TO decertify/VB 
+[ Local/NNP 1565/CD ]
+,/, 
+[ Retail/NNP Clerks/NNP International/NNP Association/NNP ]
+,/, 
+[ AFL-CIO/NNP ]
+,/, as/IN 
+[ their/PRP$ collective/JJ bargaining/NN agent/NN ]
+./. 
+==================================
+
+[ The/DT NLRB/NNP ]
+said/VBD that/IN of/IN 
+[ 11/CD ]
+potentially/RB 
+[ eligible/JJ voters/NNS eight/CD ]
+voted/VBD against/IN 
+[ the/DT union/NN ]
+,/, 
+[ two/CD ]
+voted/VBD for/IN 
+[ it/PRP ]
+,/, and/CC 
+[ one/CD vote/NN ]
+was/VBD challenged/VBN ./. 
+==================================
+
+[ Monte/NNP Brooks/NNP ]
+,/, 
+[ 67/CD ]
+,/, 
+[ theatrical/JJ producer/NN ]
+and/CC 
+[ band/NN leader/NN ]
+,/, collapsed/VBD and/CC died/VBD 
+[ Thursday/NNP ]
+in/IN 
+[ a/DT Lloyd/NNP Center/NNP restaurant/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+lived/VBD at/IN 
+[ 6124/CD N./NNP Willamette/NNP Blvd/NNP ]
+../. For/IN 
+[ many/JJ years/NNS ]
+
+[ he/PRP ]
+had/VBD provided/VBN 
+[ music/NN ]
+and/CC 
+[ entertainment/NN ]
+for/IN 
+[ functions/NNS ]
+throughout/IN 
+[ the/DT Northwest/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT ]
+included/VBD 
+[ Oregon/NNP State/NNP Fair/NNP ]
+,/, for/IN 
+[ which/WDT ]
+
+[ he/PRP ]
+had/VBD been/VBN booked/VBN on/RB and/CC off/RB ,/, for/IN 
+[ 30/CD years/NNS ]
+./. 
+==================================
+
+[ He/PRP ]
+collaborated/VBD with/IN 
+[ many/JJ ]
+of/IN 
+[ the/DT big/JJ name/NN entertainers/NNS ]
+visiting/VBG 
+[ Portland/NNP ]
+,/, among/IN 
+[ the/DT most/RBS recent/JJ ]
+being/VBG 
+[ Jimmy/NNP Durante/NNP ]
+and/CC 
+[ Phil/NNP Silvers/NNP ]
+./. 
+==================================
+
+[ He/PRP ]
+had/VBD conducted/VBN 
+[ the/DT 20-piece/JJ band/NN ]
+in/IN 
+[ a/DT series/NN ]
+of/IN 
+[ concerts/NNS ]
+at/IN 
+[ Blue/NNP Lake/NNP park/NN ]
+during/IN 
+[ the/DT summer/NN months/NNS ]
+./. 
+==================================
+
+[ Mr./NNP Brooks/NNP ]
+was/VBD born/VBN in/IN 
+[ New/NNP York/NNP ]
+,/, and/CC came/VBD to/TO 
+[ Portland/NNP ]
+in/IN 
+[ 1920/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+planned/VBD at/IN 
+[ one/CD time/NN ]
+to/TO enter/VB 
+[ the/DT legal/JJ profession/NN ]
+,/, but/CC gave/VBD up/RP 
+[ the/DT plan/NN ]
+in/IN 
+[ favor/NN ]
+of/IN 
+[ the/DT entertainment/NN field/NN ]
+./. 
+==================================
+
+[ He/PRP ]
+was/VBD 
+[ a/DT member/NN ]
+of/IN 
+[ Harmony/NNP lodge/NN ]
+,/, 
+[ No./NN 12/CD ]
+,/, 
+[ AF/NNP ]
+&/CC AM/NNP ,/, 
+[ Scottish/NNP Rite/NNP ]
+;/: ;/: 
+[ Al/NNP Kader/NNP Temple/NNP ]
+of/IN 
+[ the/DT Shrine/NNP ]
+;/: ;/: 
+[ Order/NNP ]
+of/IN 
+[ Elks/NNP ]
+,/, 
+[ Lodge/NNP No./NN 142/CD ]
+;/: ;/: 
+[ 40/CD ]
+&/CC 
+[ 8/CD Voiture/NNP ]
+,/, 
+[ No./NN 25/CD ]
+,/, 
+[ Musician/NN 's/POS Union/NNP ]
+,/, 
+[ Local/NNP 99/CD ]
+./. 
+==================================
+
+[ He/PRP ]
+was/VBD 
+[ a/DT former/JJ commander/NN ]
+of/IN 
+[ Willamette/NNP Heights/NNP ]
+,/, 
+[ Post/NNP ]
+,/, and/CC 
+[ a/DT member/NN ]
+of/IN 
+[ Nevah/NNP Sholom/NNP Congregation/NNP ]
+./. 
+==================================
+
+[ Survivors/NNS ]
+are/VBP 
+[ his/PRP$ widow/NN ]
+,/, 
+[ Tearle/NNP ]
+;/: ;/: 
+[ a/DT son/NN ]
+,/, 
+[ Sheldon/NNP Brooks/NNP ]
+;/: ;/: 
+[ a/DT daughter/NN ]
+,/, 
+[ Mrs./NNP Sidney/NNP S./NNP Stein/NNP Jr./NNP ]
+,/, 
+[ Dorenzo/NNP ]
+,/, 
+[ Calif./NNP ]
+;/: ;/: 
+[ a/DT sister/NN ]
+,/, 
+[ Mrs./NNP Birdie/NNP Gevurtz/NNP ]
+;/: ;/: 
+[ two/CD brothers/NNS ]
+,/, 
+[ Charley/NNP ]
+and/CC 
+[ Aaron/NNP Cohn/NNP ]
+,/, 
+[ San/NNP Francisco/NNP ]
+;/: ;/: and/CC 
+[ five/CD grandchildren/NNS ]
+./. 
+==================================
+
+[ Services/NNS ]
+will/MD be/VB at/IN 
+[ 30/CD p.m./RB Monday/NNP ]
+at/IN 
+[ Holman/NNP ]
+&/CC 
+[ Son/NNP Funeral/NNP Home/NNP ]
+,/, with/IN 
+[ interment/NN ]
+in/IN 
+[ Neveh/NNP Zebek/NNP cemetery/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT family/NN ]
+requests/VBZ that/IN 
+[ flowers/NNS ]
+be/VB omitted/VBN ./. 
+==================================
+
+[ A/DT 16-year-old/JJ Portland/NNP businessman/NN ]
+and/CC 
+[ his/PRP$ Junior/NNP Achievement/NNP company/NN ]
+,/, have/VBP been/VBN judged/VBN 
+[ the/DT ]
+``/`` 
+[ Company/NNP ]
+of/IN 
+[ the/DT Year/NN ]
+''/'' in/IN 
+[ national/JJ competition/NN ]
+completed/VBN 
+[ this/DT week/NN ]
+at/IN 
+[ Ohio/NNP State/NNP University/NNP ]
+,/, 
+[ Columbus/NNP ]
+,/, 
+[ Ohio/NNP ]
+./. 
+==================================
+
+[ Tim/NNP Larson/NNP ]
+,/, 
+[ a/DT junior/NN ]
+at/IN 
+[ Wilson/NNP High/NNP School/NNP ]
+and/CC 
+[ president/NN ]
+of/IN 
+[ Spice-Nice/NNP ]
+,/, is/VBZ 
+[ the/DT young/JJ executive/NN ]
+
+[ who/WP ]
+guided/VBD 
+[ his/PRP$ firm/NN ]
+to/TO 
+[ the/DT top-ranking/JJ position/NN ]
+over/IN 
+[ the/DT 4,500/CD other/JJ Junior/NNP Achievement/NNP companies/NNS ]
+in/IN 
+[ the/DT United/NNP States/NNP ]
+and/CC 
+[ Canada/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT award/NN ]
+is/VBZ 
+[ the/DT ]
+first/RB 
+[ such/DT honor/NN ]
+in/IN 
+[ the/DT 11-year/JJ history/NN ]
+of/IN 
+[ JA/NNP activities/NNS ]
+in/IN 
+[ Portland/NNP ]
+,/, according/VBG to/TO 
+[ Ralph/NNP Scolatti/NNP ]
+,/, 
+[ local/JJ executive/NN director/NN ]
+for/IN 
+[ Junior/NNP Achievement/NNP ]
+./. 
+==================================
+
+[ Spice-Nice/NNP ]
+,/, counseled/VBN by/IN 
+[ Georgia-Pacific/NNP Corp./NNP ]
+,/, had/VBD previously/RB taken/VBN 
+[ first-place/JJ honors/NNS ]
+in/IN 
+[ both/DT local/JJ competition/NN ]
+and/CC 
+[ the/DT regional/JJ conference/NN ]
+at/IN 
+[ San/NNP Francisco/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT ]
+``/`` 
+[ pocket-size/JJ ]
+''/'' 
+[ company/NN ]
+set/VBD 
+[ records/NNS ]
+with/IN 
+[ $/$ 2,170/CD ]
+in/IN 
+[ sales/NNS ]
+of/IN 
+[ its/PRP$ products/NNS ]
+,/, 
+[ a/DT selection/NN ]
+of/IN 
+[ barbecue/NN spices/NNS ]
+,/, and/CC paid/VBD 
+[ stockholders/NNS ]
+
+[ a/DT 20/CD ]
+per/IN 
+[ cent/NN dividend/NN ]
+on/IN 
+[ their/PRP$ investment/NN ]
+./. 
+==================================
+
+[ Youngsters/NNS ]
+do/VBP 
+[ business/NN ]
+
+[ The/DT Junior/NNP Achievement/NNP program/NN ]
+is/VBZ designed/VBN to/TO give/VB 
+[ teenagers/NNS practical/JJ experience/NN ]
+in/IN 
+[ business/NN ]
+by/IN allowing/VBG 
+[ them/PRP ]
+actually/RB to/TO form/VB 
+[ small/JJ companies/NNS ]
+,/, under/IN 
+[ the/DT guidance/NN ]
+and/CC 
+[ sponsorship/NN ]
+of/IN 
+[ business/NN firms/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT youngsters/NNS ]
+sell/VBP 
+[ stock/NN ]
+,/, produce/NN and/CC sell/VBP 
+[ a/DT product/NN ]
+,/, 
+[ pay/VBP taxes/NNS ]
+,/, and/CC show/VBP 
+[ a/DT profit/NN ]
+or/CC 
+[ loss/NN ]
+just/RB like/IN 
+[ full-scale/JJ businesses/NNS ]
+./. 
+==================================
+
+[ National/JJ competition/NN ]
+was/VBD 
+[ the/DT culmination/NN ]
+of/IN 
+[ work/NN ]
+
+[ which/WDT ]
+began/VBD with/IN 
+[ the/DT school/NN year/NN last/JJ fall/NN ]
+and/CC continued/VBD until/IN just/RB before/IN 
+[ summer/NN vacation/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Participants/NNS ]
+in/IN 
+[ the/DT 27/CD Portland/NNP companies/NNS ]
+worked/VBD 
+[ one/CD night/NN ]
+
+[ a/DT week/NN ]
+through/IN 
+[ the/DT school/NN year/NN ]
+,/, guided/VBN and/CC counseled/VBN by/IN 
+[ adult/NN advisors/NNS ]
+drawn/VBN from/IN 
+[ local/JJ business/NN ]
+and/CC 
+[ industry/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Over/IN 
+[ 400/CD Portland/NNP firms/NNS ]
+contributed/VBD 
+[ funds/NNS ]
+for/IN 
+[ the/DT maintenance/NN ]
+of/IN 
+[ Junior/NNP Achievement/NNP headquarters/NNS ]
+here/RB ./. 
+==================================
+For/IN winning/VBG 
+[ Larson/NNP ]
+will/MD receive/VB 
+[ a/DT $/$ 100/CD U.S./NNP Savings/NNP Bond/NNP ]
+from/IN 
+[ the/DT Junior/NNP Achievement/NNP national/JJ organization/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ His/PRP$ company/NN ]
+,/, 
+[ Spice-Nice/NNP ]
+,/, will/MD receive/VB 
+[ a/DT $/$ 250/CD award/NN ]
+,/, 
+[ which/WDT ]
+will/MD be/VB distributed/VBN among/IN 
+[ the/DT 16/CD charter/NN members/NNS ]
+./. 
+==================================
+
+[ g-p/NN men/NNS ]
+served/VBN 
+[ Advisors/NNS ]
+for/IN 
+[ the/DT ]
+``/`` 
+[ national/JJ champion/NN ]
+''/'' 
+[ company/NN ]
+were/VBD 
+[ John/NNP K./NNP Morgan/NNP ]
+,/, 
+[ William/NNP H./NNP Baker/NNP ]
+,/, 
+[ Leonard/NNP Breuer/NNP ]
+and/CC 
+[ William/NNP F./NNP Stephenson/NNP ]
+,/, 
+[ all/DT ]
+of/IN 
+[ Georgia-Pacific/NNP Corp/NNP ]
+../. 
+[ Young/NNP Larson/NNP ]
+is/VBZ 
+[ the/DT son/NN ]
+of/IN 
+[ Mr./NNP ]
+and/CC 
+[ Mrs./NNP Lawrence/NNP Larson/NNP ]
+,/, 
+[ 5847/CD SW/NNP Nevada/NNP Ct./NNP ]
+,/, 
+[ Portland/NNP ]
+./. 
+==================================
+
+[ Other/JJ members/NNS ]
+of/IN 
+[ the/DT Portland/NNP delegation/NN ]
+attending/VBG 
+[ the/DT conference/NN ]
+in/IN 
+[ Columbus/NNP ]
+are/VBP :/: 
+[ Kathleen/NNP Mason/NNP ]
+,/, 
+[ Jefferson/NNP high/JJ school/NN ]
+;/: ;/: 
+[ Phil/NNP Reifenrath/NNP ]
+,/, 
+[ Madison/NNP high/JJ school/NN ]
+;/: ;/: 
+[ Ann/NNP Wegener/NNP ]
+,/, 
+[ Madison/NNP ]
+;/: ;/: 
+[ Richard/NNP E./NNP Cohn/NNP ]
+,/, 
+[ Grant/NNP ]
+;/: ;/: 
+[ Karen/NNP Kolb/NNP ]
+,/, 
+[ Franklin/NNP ]
+;/: ;/: and/CC 
+[ Shelby/NNP Carlson/NNP ]
+,/, 
+[ Cleveland/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Hillsboro/NNP ]
+(/( special/JJ )/) --/: 
+[ Washington/NNP County/NNP 's/POS 36th/JJ annual/JJ fair/NN ]
+will/MD close/VB 
+[ Saturday/NNP evening/NN ]
+with/IN 
+[ 4-H/NNP ]
+and/CC 
+[ FFA/NNP awards/NNS program/NN ]
+at/IN 
+[ 7/CD ]
+,/, 
+[ public/JJ dance/NN ]
+at/IN 
+[ 8/CD ]
+and/CC 
+[ variety/NN show/NN ]
+at/IN 
+[ 8:30/CD ]
+./. 
+==================================
+On/IN 
+[ the/DT day/NN 's/POS schedule/NN ]
+are/VBP 
+[ a/DT flower/NN show/NN ]
+,/, 
+[ 4-H/NNP horsemanship/NN contest/NN ]
+and/CC 
+[ clown/NN shows/NNS ]
+,/, 
+[ the/DT latter/NN ]
+at/IN 
+[ 11/CD a.m./RB ]
+and/CC 
+[ 3/CD ]
+p.m/RB ../. 
+[ Attendance/NN ]
+continued/VBD to/TO run/VB ahead/RB of/IN 
+[ last/JJ year/NN ]
+'s/VBZ during/IN 
+[ the/DT five-day/JJ show/NN ]
+,/, with/IN 
+[ clear/JJ skies/NNS ]
+helping/VBG attract/VB 
+[ fairgoers/NNS ]
+./. 
+==================================
+
+[ Exhibition/NN ballroom/NN dancers/NNS ]
+from/IN 
+[ the/DT studio/NN ]
+of/IN 
+[ Helen/NNP Wick/NNP Walters/NNP ]
+of/IN 
+[ Hillsboro/NNP ]
+won/VBD 
+[ the/DT all-county/JJ talent/NN contest/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Bill/NNP Davis/NNP quartet/NN ]
+of/IN 
+[ Hillsboro/NNP ]
+was/VBD 
+[ second/JJ ]
+and/CC 
+[ baton/NN twirler/NN Sue/NNP Ann/NNP Nuttall/NNP ]
+of/IN 
+[ Reedville/NNP third/JJ ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Finalists/NNS ]
+from/IN 
+[ the/DT county/NN 's/POS east/JJ end/NN ]
+failed/VBD to/TO place/VB ./. 
+==================================
+
+[ Results/NNS ]
+:/: 
+[ Janet/NNP Jossy/NNP ]
+of/IN 
+[ North/NNP Plains/NNP ]
+won/VBD 
+[ grand/JJ champion/NN honors/NNS ]
+of/IN 
+[ the/DT 4-H/NNP sheep/NN showman/NN contest/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Blue/JJ ribbons/NNS ]
+went/VBD to/TO 
+[ Stephanie/NNP Shaw/NNP ]
+of/IN 
+[ Hillsboro/NNP ]
+,/, 
+[ Larry/NNP Hinton/NNP ]
+of/IN 
+[ Beaverton/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Joan/NNP Zurcher/NNP ]
+of/IN 
+[ Hillsboro/NNP ]
+,/, 
+[ Phyllis/NNP Jossy/NNP ]
+of/IN 
+[ North/NNP Plains/NNP ]
+,/, 
+[ Jane/NNP Cox/NNP ]
+of/IN 
+[ North/NNP Plains/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Kathy/NNP Jossy/NNP ]
+of/IN 
+[ Hillsboro/NNP ]
+,/, 
+[ Carol/NNP Jossy/NNP ]
+of/IN 
+[ North/NNP Plains/NNP ]
+and/CC 
+[ Lorlyn/NNP ]
+and/CC 
+[ Tom/NNP Zurcher/NNP ]
+of/IN 
+[ Hillsboro/NNP ]
+./. 
+==================================
+
+[ Tom/NNP Day/NNP ]
+of/IN 
+[ Beaverton/NNP ]
+exhibited/VBD 
+[ the/DT grand/JJ champion/NN 4-H/NNP market/NN hog/NN ]
+,/, 
+[ a/DT Chester/NNP White/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+Also/RB winning/VBG 
+[ blue/JJ ribbons/NNS ]
+were/VBD 
+[ Bob/NNP Day/NNP ]
+of/IN 
+[ Beaverton/NNP ]
+,/, 
+[ Tony/NNP Traxel/NNP ]
+of/IN 
+[ Beaverton/NNP ]
+and/CC 
+[ Steve/NNP Hutchins/NNP ]
+of/IN 
+[ Banks/NNP ]
+./. 
+==================================
+
+[ Swine/JJ showmanship/NN championship/NN ]
+went/VBD to/TO 
+[ Bob/NNP Day/NNP ]
+,/, with/IN 
+[ Tom/NNP Day/NNP ]
+and/CC 
+[ Hutchins/NNP ]
+winning/VBG 
+[ other/JJ blues/NNS ]
+./. 
+==================================
+
+[ Charles/NNP Reynolds/NNP ]
+of/IN 
+[ Pumpkin/NNP Ridge/NNP ]
+was/VBD 
+[ rabbit/NN showmanship/NN champion/NN ]
+./. 
+==================================
+In/IN 
+[ poultry/NN ]
+judging/NN ,/, 
+[ blues/NNS ]
+were/VBD won/VBN by/IN 
+[ John/NNP Nyberg/NNP ]
+of/IN 
+[ Tualatin/NNP ]
+,/, 
+[ Anne/NNP Batchelder/NNP ]
+of/IN 
+[ Hillsboro/NNP ]
+,/, 
+[ Jim/NNP Shaw/NNP ]
+of/IN 
+[ Hillsboro/NNP ]
+,/, 
+[ Stephanie/NNP Shaw/NNP ]
+of/IN 
+[ Hillsboro/NNP ]
+and/CC 
+[ Lynn/NNP Robinson/NNP ]
+of/IN 
+[ Tigard/NNP ]
+./. 
+==================================
+
+[ Blue/JJ ribbon/NN ]
+for/IN 
+[ one/CD dozen/NN white/JJ eggs/NNS ]
+was/VBD taken/VBN by/IN 
+[ Nyberg/NNP ]
+./. 
+==================================
+In/IN 
+[ open/JJ class/NN poultry/NN ]
+,/, 
+[ Donald/NNP Wacklin/NNP ]
+of/IN 
+[ Sherwood/NNP ]
+had/VBD 
+[ the/DT champion/NN male/JJ ]
+and/CC 
+[ female/JJ bird/NN ]
+and/CC 
+[ grand/JJ champion/NN bird/NN ]
+./. 
+==================================
+
+[ John/NNP Haase/NNP ]
+&/CC 
+[ Son/NNP ]
+of/IN 
+[ Corneilus/NNP ]
+was/VBD 
+[ the/DT only/JJ entrant/NN ]
+in/IN 
+[ open/JJ class/NN swine/NNS ]
+and/CC swept/VBD 
+[ all/DT championships/NNS ]
+./. 
+==================================
+
+[ Carol/NNP Strong/NNP ]
+,/, 
+[ 13/CD ]
+,/, of/IN 
+[ Cedar/NNP Mill/NNP ]
+cooked/VBD 
+[ the/DT championship/NN junior/JJ dollar/NN dinner/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Millie/NNP Jansen/NNP ]
+,/, 
+[ high/JJ school/NN senior/NN ]
+from/IN 
+[ Verboort/NN ]
+,/, had/VBD 
+[ the/DT championship/NN dollar/NN dinner/NN ]
+,/, and/CC 
+[ Jody/NNP Jaross/NNP ]
+of/IN 
+[ Hillsboro/NNP ]
+also/RB won/VBD 
+[ a/DT blue/JJ ribbon/NN ]
+./. 
+==================================
+
+[ Barbara/NNP Borland/NNP ]
+of/IN 
+[ Tigard/NNP ]
+took/VBD 
+[ top/JJ senior/JJ individual/JJ home/NN economics/NNS honors/NNS ]
+with/IN 
+[ a/DT demonstration/NN ]
+called/VBD 
+[ filbert/JJ hats/NNS ]
+./. 
+==================================
+==================================
+==================================

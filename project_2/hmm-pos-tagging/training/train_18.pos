@@ -1,0 +1,1520 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ City/NNP Controller/NNP Alexander/NNP Hemphill/NNP ]
+charged/VBD 
+[ Tuesday/NNP ]
+that/IN 
+[ the/DT bids/NNS ]
+on/IN 
+[ the/DT Frankford/NNP Elevated/NNP repair/NN project/NN ]
+were/VBD rigged/VBN to/TO 
+[ the/DT advantage/NN ]
+of/IN 
+[ a/DT private/JJ contracting/NN company/NN ]
+
+[ which/WDT ]
+had/VBD ``/`` 
+[ an/DT inside/JJ track/NN ]
+''/'' with/IN 
+[ the/DT city/NN ]
+./. 
+==================================
+
+[ Estimates/NNS ]
+of/IN 
+[ the/DT city/NN 's/POS loss/NN ]
+in/IN 
+[ the/DT $/$ 344,000/CD job/NN ]
+have/VBP ranged/VBN as/RB high/JJ as/IN 
+[ $/$ 200,000/CD ]
+./. 
+==================================
+
+[ Shortcuts/NNS unnoticed/JJ Hemphill/NNP ]
+said/VBD that/IN 
+[ the/DT Hughes/NNP Steel/NNP Erection/NNP Co./NNP ]
+contracted/VBD to/TO do/VB 
+[ the/DT work/NN ]
+at/IN 
+[ an/DT ]
+impossibly/RB 
+[ low/JJ cost/NN ]
+with/IN 
+[ a/DT bid/NN ]
+
+[ that/WP ]
+was/VBD far/RB less/JJR than/IN 
+[ the/DT ]
+``/`` 
+[ legitimate/JJ ]
+''/'' 
+[ bids/NNS ]
+of/IN competing/VBG 
+[ contractors/NNS ]
+./. 
+==================================
+
+[ The/DT Hughes/NNP concern/NN ]
+then/RB took/VBD ``/`` 
+[ shortcuts/NNS ]
+''/'' on/IN 
+[ the/DT project/NN ]
+but/CC got/VBD paid/VBN anyway/RB ,/, 
+[ Hemphill/NNP ]
+said/VBD ./. 
+==================================
+
+[ The/DT Controller/NNP 's/POS charge/NN ]
+of/IN 
+[ rigging/NN ]
+was/VBD 
+[ the/DT latest/JJS development/NN ]
+in/IN 
+[ an/DT investigation/NN ]
+
+[ which/WDT ]
+also/RB brought/VBD 
+[ these/DT disclosures/NNS Tuesday/NNP ]
+:/: 
+[ The/DT city/NN ]
+has/VBZ sued/VBN for/IN 
+[ the/DT full/JJ amount/NN ]
+of/IN 
+[ the/DT $/$ 172,400/CD performance/NN bond/NN ]
+covering/VBG 
+[ the/DT contract/NN ]
+./. 
+==================================
+
+[ The/DT Philadelphia/NNP Transportation/NNP Co./NNP ]
+is/VBZ investigating/VBG 
+[ the/DT part/NN its/PRP$ organization/NN ]
+played/VBN in/IN reviewing/VBG 
+[ the/DT project/NN ]
+./. 
+==================================
+
+[ The/DT signature/NN ]
+of/IN 
+[ Harold/NNP V./NNP Varani/NNP ]
+,/, 
+[ former/JJ director/NN ]
+of/IN 
+[ architecture/NN ]
+and/CC engineering/NN in/IN 
+[ the/DT Department/NNP ]
+of/IN 
+[ Public/NNP Property/NNP ]
+,/, appeared/VBD on/IN 
+[ payment/NN vouchers/NNS ]
+certifying/VBG 
+[ work/NN ]
+on/IN 
+[ the/DT project/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Varani/NNP ]
+has/VBZ been/VBN fired/VBN on/IN 
+[ charges/NNS ]
+of/IN accepting/VBG 
+[ gifts/NNS ]
+from/IN 
+[ the/DT contractor/NN ]
+./. 
+==================================
+
+[ Managing/NNP Director/NNP Donald/NNP C./NNP Wagner/NNP ]
+has/VBZ agreed/VBN to/TO cooperate/VB fully/RB with/IN 
+[ Hemphill/NNP ]
+after/IN 
+[ a/DT period/NN ]
+of/IN 
+[ sharp/JJ disagreement/NN ]
+on/IN 
+[ the/DT matter/NN ]
+./. 
+==================================
+
+[ The/DT announcement/NN ]
+that/IN 
+[ the/DT city/NN ]
+would/MD sue/VB for/IN 
+[ recovery/NN ]
+on/IN 
+[ the/DT performance/NN bond/NN ]
+was/VBD made/VBN by/IN 
+[ City/NNP Solicitor/NNP David/NNP Berger/NNP ]
+at/IN 
+[ a/DT press/NN conference/NN ]
+following/VBG 
+[ a/DT meeting/NN ]
+in/IN 
+[ the/DT morning/NN ]
+with/IN 
+[ Wagner/NNP ]
+and/CC 
+[ other/JJ officials/NNS ]
+of/IN 
+[ the/DT city/NN ]
+and/CC 
+[ the/DT PTC/NNP ]
+as/RB well/RB as/IN 
+[ representatives/NNS ]
+of/IN 
+[ an/DT engineering/VBG firm/NN ]
+
+[ that/WP ]
+was/VBD pulled/VBN off/RP 
+[ the/DT El/NNP project/NN ]
+before/IN 
+[ its/PRP$ completion/NN ]
+in/IN 
+[ 1959/CD ]
+./. 
+==================================
+
+[ Concern/NN ]
+bankrupt/JJ 
+[ The/DT Hughes/NNP company/NN ]
+and/CC 
+[ the/DT Consolidated/NNP Industries/NNP ]
+,/, 
+[ Inc./NNP ]
+,/, 
+[ both/DT ]
+of/IN 
+[ 3646/CD N./JJ 2d/JJ St./NN ]
+,/, filed/VBN for/IN 
+[ reorganization/NN ]
+under/IN 
+[ the/DT Federal/JJ bankruptcy/NN law/NN ]
+./. 
+==================================
+
+==================================
+==================================
+On/IN 
+[ Monday/NNP ]
+,/, 
+[ the/DT Hughes/NNP concern/NN ]
+was/VBD formally/RB declared/VBN 
+[ bankrupt/JJ ]
+after/IN 
+[ its/PRP$ directors/NNS ]
+indicated/VBD 
+[ they/PRP ]
+could/MD not/RB draw/VB up/RP 
+[ a/DT plan/NN ]
+for/IN 
+[ reorganization/NN ]
+./. 
+==================================
+
+[ Business/NN relations/NNS ]
+between/IN 
+[ the/DT companies/NNS ]
+and/CC 
+[ city/NN ]
+have/VBP been/VBN under/IN 
+[ investigation/NN ]
+by/IN 
+[ Hemphill/NNP ]
+and/CC 
+[ District/NNP Attorney/NNP James/NNP C./NNP Crumlish/NNP ]
+,/, 
+[ Jr/NNP ]
+../. 
+[ Intervenes/VBZ ]
+in/IN 
+[ case/NN ]
+
+[ The/DT suit/NN ]
+was/VBD filed/VBN later/RB in/IN 
+[ the/DT day/NN ]
+in/IN 
+[ Common/NNP Pleas/NNP Court/NNP 7/CD ]
+against/IN 
+[ the/DT Hughes/NNP company/NN ]
+and/CC 
+[ two/CD bonding/VBG firms/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Travelers/NNP Indemnity/NNP Co./NNP ]
+and/CC 
+[ the/DT Continental/NNP Casualty/NNP Co/NNP ]
+../. At/IN 
+[ Berger/NNP 's/POS direction/NN ]
+,/, 
+[ the/DT city/NN ]
+also/RB intervened/VBD in/IN 
+[ the/DT Hughes/NNP bankruptcy/NN case/NN ]
+in/IN 
+[ U.S./NNP District/NNP Court/NNP ]
+in/IN 
+[ a/DT move/NN ]
+preliminary/JJ to/TO filing/VBG 
+[ a/DT claim/NN ]
+there/RB ./. 
+==================================
+``/`` 
+[ I/PRP ]
+am/VBP taking/VBG 
+[ the/DT position/NN ]
+that/IN 
+[ the/DT contract/NN ]
+was/VBD clearly/RB violated/VBN ''/'' ,/, 
+[ Berger/NNP ]
+said/VBD ./. 
+==================================
+
+[ The/DT contract/NN violations/NNS ]
+mostly/RB involve/VBP 
+[ failure/NN ]
+to/TO perform/VB 
+[ rehabilitation/NN work/NN ]
+on/IN 
+[ expansion/NN joints/NNS ]
+along/IN 
+[ the/DT El/NNP track/NN ]
+./. 
+==================================
+
+[ The/DT contract/NN ]
+called/VBN for/IN overhauling/VBG of/IN 
+[ 102/CD joints/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT city/NN ]
+paid/VBD for/IN 
+[ work/NN ]
+on/IN 
+[ 75/CD ]
+,/, of/IN 
+[ which/WDT ]
+
+[ no/DT more/NN ]
+than/IN 
+[ 21/CD ]
+were/VBD repaired/VBN ,/, 
+[ Hemphill/NNP ]
+charged/VBD ./. 
+==================================
+
+[ Wide/JJ range/NN ]
+in/IN 
+[ bids/NNS Hemphill/NNP ]
+said/VBD 
+[ the/DT Hughes/NNP concern/NN ]
+contracted/VBD to/TO do/VB 
+[ the/DT repairs/NNS ]
+at/IN 
+[ a/DT cost/NN ]
+of/IN 
+[ $/$ 500/CD ]
+for/IN 
+[ each/DT joint/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT bid/NN ]
+from/IN 
+[ A./NNP Belanger/NNP ]
+and/CC 
+[ Sons/NNP ]
+of/IN 
+[ Cambridge/NNP ]
+,/, 
+[ Mass./NNP ]
+,/, 
+[ which/WDT ]
+listed/VBD 
+[ the/DT same/JJ officers/NNS ]
+as/IN 
+[ Hughes/NNP ]
+,/, was/VBD 
+[ $/$ 600/CD ]
+per/IN 
+[ joint/NN ]
+./. 
+==================================
+But/CC ,/, 
+[ Hemphill/NNP ]
+added/VBD ,/, 
+[ bids/NNS ]
+from/IN 
+[ other/JJ contractors/NNS ]
+ranged/VBD from/IN 
+[ $/$ 2400/CD ]
+to/TO 
+[ $/$ 3100/CD ]
+per/IN 
+[ joint/NN ]
+./. 
+==================================
+
+[ Berger/NNP 's/POS decision/NN ]
+to/TO sue/VB for/IN 
+[ the/DT full/JJ amount/NN ]
+of/IN 
+[ the/DT performance/NN bond/NN ]
+was/VBD questioned/VBN by/IN 
+[ Wagner/NNP ]
+in/IN 
+[ the/DT morning/NN press/NN conference/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Wagner/NNP ]
+said/VBD 
+[ the/DT city/NN ]
+paid/VBD only/RB 
+[ $/$ 37,500/CD ]
+to/TO 
+[ the/DT Hughes/NNP company/NN ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ We/PRP ]
+wo/MD n't/RB know/VB 
+[ the/DT full/JJ amount/NN ]
+until/IN 
+[ we/PRP ]
+get/VBP 
+[ a/DT full/JJ report/NN ]
+''/'' ,/, 
+[ Wagner/NNP ]
+said/VBD ./. 
+==================================
+``/`` 
+[ We/PRP ]
+can/MD claim/VB on/IN 
+[ the/DT maximum/JJ amount/NN ]
+of/IN 
+[ the/DT bond/NN ]
+''/'' ,/, 
+[ Berger/NNP ]
+said/VBD ./. 
+==================================
+
+[ Wagner/NNP ]
+replied/VBD ,/, ``/`` Ca/MD n't/RB 
+[ you/PRP ]
+just/RB see/VB 
+[ the/DT headline/NN ]
+:/: '/'' 
+[ City/NNP ]
+Hooked/VBD for/IN 
+[ $/$ 172,000/CD ]
+'/'' ''/'' ?/. ?/. 
+==================================
+'/'' know/VBP enough/RB to/TO sue/VB '/'' 
+[ Berger/NNP ]
+insisted/VBD that/IN ``/`` 
+[ we/PRP ]
+know/VBP enough/RB to/TO sue/VB for/IN 
+[ the/DT full/JJ amount/NN ]
+''/'' ./. 
+==================================
+
+[ Douglas/NNP M./NNP Pratt/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ the/DT PTC/NNP ]
+,/, 
+[ who/WP ]
+attended/VBD 
+[ the/DT meeting/NN ]
+,/, said/VBD 
+[ the/DT transit/NN company/NN ]
+is/VBZ reviewing/VBG 
+[ the/DT work/NN ]
+on/IN 
+[ the/DT El/NNP ]
+./. 
+==================================
+``/`` 
+[ We/PRP ]
+want/VBP to/TO find/VB out/RP 
+[ who/WP ]
+knew/VBD about/IN 
+[ it/PRP ]
+''/'' ,/, 
+[ Pratt/NNP ]
+said/VBD ./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ Certain/JJ people/NNS ]
+must/MD have/VB known/VBN about/IN 
+[ it/PRP ]
+''/'' ./. 
+==================================
+``/`` 
+[ The/DT PTC/NNP ]
+is/VBZ investigating/VBG 
+[ the/DT whole/JJ matter/NN ]
+''/'' ,/, 
+[ Pratt/NNP ]
+said/VBD ./. 
+==================================
+
+[ Samuel/NNP D./NNP Goodis/NNP ]
+,/, representing/VBG 
+[ the/DT Philadelphia/NNP Hotel/NNP Association/NNP ]
+,/, objected/VBD on/IN 
+[ Tuesday/NNP ]
+to/TO 
+[ a/DT proposed/VBN boost/NN ]
+by/IN 
+[ the/DT city/NN ]
+in/IN licensing/JJ 
+[ fees/NNS ]
+,/, saying/VBG that/IN 
+[ occupancy/NN rates/NNS ]
+in/IN 
+[ major/JJ hotels/NNS ]
+here/RB ranged/VBD from/IN 
+[ 48/CD ]
+to/TO 
+[ 74/CD percent/NN last/JJ year/NN ]
+./. 
+==================================
+
+[ Goodis/NNP ]
+voiced/VBD 
+[ his/PRP$ objection/NN ]
+before/IN 
+[ City/NNP Council/NNP 's/POS Finance/NNP Committee/NNP ]
+./. 
+==================================
+For/IN 
+[ hotels/NNS ]
+with/IN 
+[ 1000/CD rooms/NNS ]
+,/, 
+[ the/DT increased/VBN license/NN fee/NN ]
+would/MD mean/VB 
+[ an/DT expense/NN ]
+of/IN 
+[ $/$ 5000/CD ]
+
+[ a/DT year/NN ]
+,/, 
+[ Goodis/NNP ]
+said/VBD ./. 
+==================================
+Testifies/VBZ at/IN hearing/VBG 
+[ His/PRP$ testimony/NN ]
+came/VBD during/IN 
+[ a/DT hearing/NN ]
+on/IN 
+[ a/DT bill/NN ]
+raising/VBG 
+[ fees/NNS ]
+for/IN 
+[ a/DT wide/JJ variety/NN ]
+of/IN 
+[ licenses/NNS ]
+,/, 
+[ permits/NNS ]
+and/CC 
+[ city/NN services/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT new/JJ fees/NNS ]
+are/VBP expected/VBN to/TO raise/VB 
+[ an/DT additional/JJ $/$ 740,000/CD ]
+in/IN 
+[ the/DT remainder/NN ]
+of/IN 
+[ 1961/CD ]
+and/CC 
+[ $/$ 2,330,000/CD more/JJR a/DT year/NN ]
+after/IN 
+[ that/DT ]
+./. 
+==================================
+
+[ The/DT ordinance/NN ]
+would/MD increase/VB 
+[ the/DT fee/NN ]
+for/IN rooming/VBG 
+[ houses/NNS ]
+,/, 
+[ hotels/NNS ]
+and/CC 
+[ multi-family/JJ dwellings/NNS ]
+to/TO 
+[ $/$ 5/CD ]
+
+[ a/DT room/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT cost/NN ]
+of/IN 
+[ a/DT license/NN ]
+now/RB is/VBZ 
+[ $/$ 2/CD ]
+,/, with/IN 
+[ an/DT annual/JJ renewal/NN fee/NN ]
+of/IN 
+[ $/$ 1/CD ]
+./. 
+==================================
+
+[ Goodis/NNP ]
+said/VBD that/IN 
+[ single/JJ rooms/NNS account/VBP ]
+for/IN 
+[ 95/CD percent/NN ]
+of/IN 
+[ the/DT accomodations/NNS ]
+in/IN 
+[ some/DT hotels/NNS ]
+./. 
+==================================
+
+[ Revenue/NN ]
+estimated/VBN 
+[ The/DT city/NN ]
+expects/VBZ 
+[ the/DT higher/JJR rooming/VBG house/NN ]
+,/, 
+[ hotel/NN ]
+and/CC 
+[ apartment/NN house/NN fees/NNS ]
+to/TO bring/VB in/IN 
+[ an/DT additional/JJ $/$ 457,000/CD ]
+
+[ a/DT year/NN ]
+./. 
+==================================
+
+[ The/DT increase/NN ]
+also/RB was/VBD opposed/VBN by/IN 
+[ Leonard/NNP Kaplan/NNP ]
+,/, 
+[ spokesman/NN ]
+for/IN 
+[ the/DT Home/NNP Builders/NNP Association/NNP ]
+of/IN 
+[ Philadelphia/NNP ]
+,/, on/IN 
+[ behalf/NN ]
+of/IN 
+[ association/NN members/NNS ]
+
+[ who/WP ]
+operate/VBP 
+[ apartment/NN houses/NNS ]
+./. 
+==================================
+
+[ A/DT proposal/NN ]
+to/TO raise/VB 
+[ dog/NN license/NN fees/NNS ]
+drew/VBD 
+[ an/DT objection/NN ]
+from/IN 
+[ Councilwoman/NNP Virginia/NNP Knauer/NNP ]
+,/, 
+[ who/WP ]
+formerly/RB raised/VBD pedigreed/VBN 
+[ dogs/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT ordinance/NN ]
+would/MD increase/VB 
+[ fees/NNS ]
+from/IN 
+[ $/$ 1/CD ]
+for/IN 
+[ males/NNS ]
+and/CC 
+[ $/$ 2/CD ]
+for/IN 
+[ females/NNS ]
+to/TO 
+[ a/DT flat/JJ $/$ 5/CD ]
+
+[ a/DT dog/NN ]
+./. 
+==================================
+
+[ Commissioner/NNP ]
+replies/VBZ 
+[ Mrs./NNP Knauer/NNP ]
+said/VBD 
+[ she/PRP ]
+did/VBD not/RB think/VB 
+[ dog/NN owners/NNS ]
+should/MD be/VB penalized/VBN for/IN 
+[ the/DT city/NN 's/POS services/NNS ]
+to/TO 
+[ animal/NN care/NN ]
+./. 
+==================================
+In/IN 
+[ reply/NN ]
+,/, 
+[ Deputy/NNP Police/NNP Commissioner/NNP Howard/NNP R./NNP Leary/NNP ]
+said/VBD that/IN 
+[ the/DT city/NN ]
+spends/VBZ more/RBR than/IN 
+[ $/$ 115,000/CD ]
+annually/RB to/TO license/VB and/CC regulate/VB 
+[ dogs/NNS ]
+but/CC collects/VBZ only/RB 
+[ $/$ 43,000/CD ]
+in/IN 
+[ fees/NNS ]
+./. 
+==================================
+
+[ He/PRP ]
+reported/VBD that/IN 
+[ the/DT city/NN 's/POS contributions/NNS ]
+for/IN 
+[ animal/NN care/NN ]
+included/VBD 
+[ $/$ 67,000/CD ]
+to/TO 
+[ the/DT Women/NNS 's/POS S.P.C.A./NN ]
+;/: ;/: 
+[ $/$ 15,000/CD ]
+to/TO pay/VB 
+[ six/CD policemen/NNS ]
+assigned/VBN as/IN 
+[ dog/NN catchers/NNS ]
+and/CC 
+[ $/$ 15,000/CD ]
+to/TO investigate/VB 
+[ dog/NN bites/NNS ]
+./. 
+==================================
+
+[ Backs/VBZ ]
+higher/JJR fees/NNS  
+[ City/NNP Finance/NNP Director/NNP Richard/NNP J./NNP McConnell/NNP ]
+indorsed/VBD 
+[ the/DT higher/JJR fees/NNS ]
+,/, 
+[ which/WDT ]
+,/, 
+[ he/PRP ]
+said/VBD ,/, had/VBD been/VBN under/IN 
+[ study/NN ]
+for/IN more/JJR than/IN 
+[ a/DT year/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT city/NN ]
+is/VBZ not/RB adequately/RB compensated/VBN for/IN 
+[ the/DT services/NNS ]
+covered/VBN by/IN 
+[ the/DT fees/NNS ]
+,/, 
+[ he/PRP ]
+said/VBD ./. 
+==================================
+
+[ The/DT new/JJ fee/NN schedule/NN ]
+also/RB was/VBD supported/VBN by/IN 
+[ Commissioner/NNP ]
+of/IN 
+[ Licenses/NNP ]
+and/CC 
+[ Inspections/NNP Barnet/NNP Lieberman/NNP ]
+and/CC 
+[ Health/NNP Commissioner/NNP Eugene/NNP A./NNP Gillis/NNP ]
+./. 
+==================================
+
+[ Petitions/NNS ]
+asking/VBG for/IN 
+[ a/DT jail/NN term/NN ]
+for/IN 
+[ Norristown/NNP attorney/NN Julian/NNP W./NNP Barnard/NNP ]
+will/MD be/VB presented/VBN to/TO 
+[ the/DT Montgomery/NNP County/NNP Court/NNP Friday/NNP ]
+,/, 
+[ it/PRP ]
+was/VBD disclosed/VBN 
+[ Tuesday/NNP ]
+by/IN 
+[ Horace/NNP A./NNP Davenport/NNP ]
+,/, 
+[ counsel/NN ]
+for/IN 
+[ the/DT widow/NN ]
+of/IN 
+[ the/DT man/NN ]
+killed/VBD 
+[ last/JJ Nov./NN 1/CD ]
+by/IN 
+[ Barnard/NNP 's/POS hit-run/NN car/NN ]
+./. 
+==================================
+
+[ The/DT petitions/NNS ]
+will/MD be/VB presented/VBN in/IN 
+[ open/JJ court/NN ]
+to/TO 
+[ President/NNP Judge/NNP William/NNP F./NNP Dannehower/NNP ]
+,/, 
+[ Davenport/NNP ]
+said/VBD ./. 
+==================================
+
+[ Barnard/NNP ]
+,/, 
+[ who/WP ]
+pleaded/VBD 
+[ no/DT defense/NN ]
+to/TO 
+[ manslaughter/NN ]
+and/CC 
+[ hit-run/NN charges/NNS ]
+,/, was/VBD fined/VBN 
+[ $/$ 500/CD ]
+by/IN 
+[ Judge/NNP Warren/NNP K./NNP Hess/NNP ]
+,/, and/CC placed/VBN on/IN 
+[ two/CD years/NNS '/POS probation/NN ]
+providing/IN 
+[ he/PRP ]
+does/VBZ not/RB drive/VB during/IN 
+[ that/DT time/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+was/VBD caught/VBN driving/VBG 
+[ the/DT day/NN ]
+after/IN 
+[ the/DT sentence/NN ]
+was/VBD pronounced/VBN and/CC given/VBN 
+[ a/DT warning/NN ]
+./. 
+==================================
+
+[ Victim/NN ]
+of/IN 
+[ the/DT accident/NN ]
+was/VBD 
+[ Robert/NNP Lee/NNP Stansbery/NNP ]
+,/, 
+[ 39/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ His/PRP$ widow/NN ]
+started/VBD 
+[ the/DT circulation/NN ]
+of/IN 
+[ petitions/NNS ]
+after/IN 
+[ Barnard/NNP ]
+was/VBD reprimanded/VBN for/IN violating/VBG 
+[ the/DT probation/NN ]
+./. 
+==================================
+
+[ The/DT City/NNP Planning/NNP Commission/NNP ]
+on/IN 
+[ Tuesday/NNP ]
+approved/VBD 
+[ agreements/NNS ]
+between/IN 
+[ two/CD redevelopers/NNS ]
+and/CC 
+[ the/DT Redevelopment/NNP Authority/NNP ]
+for/IN 
+[ the/DT purchase/NN ]
+of/IN 
+[ land/NN ]
+in/IN 
+[ the/DT $/$ 300,000,000/CD Eastwick/NNP Redevelopment/NNP Area/NNP project/NN ]
+./. 
+==================================
+
+[ The/DT commission/NN ]
+also/RB approved/VBD 
+[ a/DT novel/JJ plan/NN ]
+
+[ that/WP ]
+would/MD eliminate/VB 
+[ traffic/NN hazards/NNS ]
+for/IN 
+[ pedestrians/NNS ]
+in/IN 
+[ the/DT project/NN ]
+./. 
+==================================
+
+[ One/CD ]
+of/IN 
+[ the/DT agreements/NNS ]
+calls/VBZ for/IN 
+[ the/DT New/NNP Eastwick/NNP Corp./NNP ]
+to/TO purchase/VB 
+[ a/DT 1311/CD acre/NN tract/NN ]
+for/IN 
+[ $/$ 12,192,865/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT tract/NN ]
+is/VBZ bounded/VBN by/IN 
+[ Island/NNP Ave./NNP ]
+,/, 
+[ Dicks/NNP Ave./NNP ]
+,/, 
+[ 61st/CD St./NNP ]
+,/, and/CC 
+[ Eastwick/NNP Ave/NNP ]
+../. 
+[ Four/CD parks/NNS ]
+planned/VBN 
+[ It/PRP ]
+is/VBZ designated/VBN as/IN 
+[ Stage/NNP 1/CD Residential/NNP ]
+on/IN 
+[ the/DT Redevelopment/NNP Authority/NNP 's/POS master/NN plan/NN ]
+and/CC will/MD feature/VB 
+[ row/NN houses/NNS ]
+,/, 
+[ garden/NN apartments/NNS ]
+,/, 
+[ four/CD small/JJ parks/NNS ]
+,/, 
+[ schools/NNS ]
+,/, 
+[ churches/NNS ]
+,/, 
+[ a/DT shopping/VBG center/NN ]
+and/CC 
+[ several/JJ small/JJ clusters/NNS ]
+of/IN 
+[ stores/NNS ]
+./. 
+==================================
+
+[ The/DT corporation/NN ]
+was/VBD formed/VBN by/IN 
+[ the/DT Reynolds/NNP Metal/NNP Co./NNP ]
+and/CC 
+[ the/DT Samuel/NNP A./NNP ]
+and/CC 
+[ Henry/NNP A./NNP Berger/NNP firm/NN ]
+,/, 
+[ a/DT Philadelphia/NNP builder/NN ]
+,/, for/IN 
+[ work/NN ]
+in/IN 
+[ the/DT project/NN ]
+./. 
+==================================
+
+[ The/DT second/JJ agreement/NN ]
+permits/VBZ 
+[ the/DT authority/NN ]
+to/TO sell/VB 
+[ a/DT 520-acre/CD tract/NN west/NN ]
+of/IN 
+[ Stage/NNP 1/CD Residential/NNP ]
+to/TO 
+[ Philadelphia/NNP Builders/NNP Eastwick/NNP Corp./NNP ]
+,/, 
+[ a/DT firm/NN ]
+composed/VBN of/IN 
+[ 10/CD Philadelphia/NNP area/NN builders/NNS ]
+,/, 
+[ which/WDT ]
+is/VBZ interested/JJ in/IN 
+[ developing/VBG part/NN ]
+of/IN 
+[ the/DT project/NN ]
+./. 
+==================================
+Would/MD 
+[ bar/VB ]
+vehicles/NNS 
+[ The/DT plan/NN ]
+for/IN 
+[ eliminating/VBG traffic/NN hazards/NNS ]
+for/IN 
+[ pedestrians/NNS ]
+was/VBD developed/VBN by/IN 
+[ Dr./NNP Constantinos/NNP A./NNP Doxiadis/NNP ]
+,/, 
+[ former/JJ Minister/NNP ]
+of/IN 
+[ Reconstruction/NNP ]
+in/IN 
+[ Greece/NNP ]
+and/CC 
+[ a/DT consulting/JJ planner/NN ]
+for/IN 
+[ the/DT New/NNP Eastwick/NNP Corp/NNP ]
+../. 
+[ The/DT plan/NN ]
+calls/VBZ for/IN dividing/VBG 
+[ the/DT project/NN ]
+into/IN 
+[ 16/CD sectors/NNS ]
+
+[ which/WDT ]
+would/MD be/VB barred/VBN to/TO 
+[ vehicular/JJ traffic/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+provides/VBZ for/IN 
+[ a/DT series/NN ]
+of/IN 
+[ landscaped/VBN walkways/NNS ]
+and/CC 
+[ a/DT central/JJ esplanade/NN ]
+
+[ that/WP ]
+would/MD eventually/RB run/VB through/IN 
+[ the/DT center/NN ]
+of/IN 
+[ the/DT entire/NN two-and-a-half-mile/JJ length/NN ]
+of/IN 
+[ the/DT project/NN ]
+./. 
+==================================
+
+[ The/DT esplanade/NN ]
+eliminates/VBZ 
+[ Grovers/NNP Ave./NNP ]
+,/, 
+[ which/WDT ]
+on/IN 
+[ original/JJ plans/NNS ]
+ran/VBD through/IN 
+[ the/DT center/NN ]
+of/IN 
+[ the/DT development/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT esplanade/NN ]
+would/MD feature/VB 
+[ pedestrian/JJ bridges/NNS ]
+over/IN 
+[ roads/NNS ]
+in/IN 
+[ the/DT project/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Kansas/NNP City/NNP ]
+,/, 
+[ Mo./NNP ]
+,/, 
+[ Feb./NNP 9/CD ]
+(/( 
+[ UPI/NNP ]
+)/) --/: 
+[ The/DT president/NN ]
+of/IN 
+[ the/DT Kansas/NNP City/NNP local/JJ ]
+of/IN 
+[ the/DT International/NNP Association/NNP ]
+of/IN 
+[ Fire/NNP Fighters/NNP ]
+was/VBD severly/RB injured/VBN 
+[ today/NN ]
+when/WRB 
+[ a/DT bomb/NN ]
+tore/VBD 
+[ his/PRP$ car/NN ]
+apart/RB as/IN 
+[ he/PRP ]
+left/VBD 
+[ home/NN ]
+for/IN 
+[ work/NN ]
+./. 
+==================================
+
+[ Battalion/NNP Chief/NNP Stanton/NNP M./NNP Gladden/NNP ]
+,/, 
+[ 42/CD ]
+,/, 
+[ the/DT central/NN figure/NN ]
+in/IN 
+[ a/DT representation/NN dispute/NN ]
+between/IN 
+[ the/DT fire/NN fighters/NNS association/NN ]
+and/CC 
+[ the/DT teamsters/NNS union/NN ]
+,/, suffered/VBD 
+[ multiple/JJ fractures/NNS ]
+of/IN 
+[ both/DT ]
+
+[ ankles/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+was/VBD in/IN 
+[ Baptist/NNP Memorial/NNP hospital/NN ]
+./. 
+==================================
+
+[ Ignition/NN sets/VBZ ]
+off/RP 
+[ blast/NN ]
+
+[ The/DT battalion/NN chief/NN ]
+said/VBD 
+[ he/PRP ]
+had/VBD just/RB gotten/VBN into/IN 
+[ his/PRP$ 1958/CD model/NN automobile/NN ]
+to/TO move/VB 
+[ it/PRP ]
+from/IN 
+[ the/DT driveway/NN ]
+of/IN 
+[ his/PRP$ home/NN ]
+so/RB that/IN 
+[ he/PRP ]
+could/MD take/VB 
+[ his/PRP$ other/JJ car/NN ]
+to/TO work/NN ./. 
+==================================
+``/`` 
+[ I/PRP ]
+'d/MD just/RB turned/VBN on/IN 
+[ the/DT ignition/NN ]
+when/WRB 
+[ there/EX ]
+was/VBD 
+[ a/DT big/JJ flash/NN ]
+and/CC 
+[ I/PRP ]
+was/VBD lying/VBG on/IN 
+[ the/DT driveway/NN ]
+''/'' ,/, 
+[ he/PRP ]
+said/VBD ./. 
+==================================
+
+[ Gladden/NNP 's/POS wife/NN ]
+and/CC 
+[ two/CD ]
+of/IN 
+[ his/PRP$ sons/NNS ]
+,/, 
+[ John/NNP ]
+,/, 
+[ 17/CD ]
+,/, and/CC 
+[ Jim/NNP ]
+,/, 
+[ 13/CD ]
+,/, were/VBD inside/IN 
+[ the/DT house/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT younger/JJR boy/NN ]
+said/VBD 
+[ the/DT blast/NN ]
+knocked/VBD 
+[ him/PRP ]
+out/IN of/IN 
+[ bed/NN ]
+and/CC against/IN 
+[ the/DT wall/NN ]
+./. 
+==================================
+
+[ Hood/NN flies/NNS ]
+over/IN 
+[ house/NN ]
+
+[ The/DT explosion/NN ]
+sent/VBD 
+[ the/DT hood/NN ]
+of/IN 
+[ the/DT car/NN ]
+flying/VBG over/IN 
+[ the/DT roof/NN ]
+of/IN 
+[ the/DT house/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT left/JJ front/JJ wheel/NN ]
+landed/VBD 
+[ 100/CD feet/NNS ]
+away/RB ./. 
+==================================
+
+[ Police/NNP laboratory/NN technicians/NNS ]
+said/VBD 
+[ the/DT explosive/JJ device/NN ]
+,/, containing/VBG 
+[ either/DT TNT/NNP ]
+or/CC 
+[ nitroglycerine/NN ]
+,/, was/VBD apparently/RB placed/VBN under/IN 
+[ the/DT left/JJ front/NN wheel/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD first/RB believed/VBN 
+[ the/DT bomb/NN ]
+was/VBD rigged/VBN to/TO 
+[ the/DT car/NN 's/POS starter/NN ]
+./. 
+==================================
+
+[ Gladden/NNP ]
+had/VBD been/VBN 
+[ the/DT target/NN ]
+of/IN 
+[ threatening/VBG telephone/NN calls/NNS ]
+in/IN 
+[ recent/JJ months/NNS ]
+and/CC reportedly/RB received/VBD 
+[ one/NN ]
+
+[ last/JJ night/NN ]
+./. 
+==================================
+
+[ The/DT fire/NN department/NN ]
+here/RB has/VBZ been/VBN torn/VBN for/IN 
+[ months/NNS ]
+by/IN 
+[ dissension/NN ]
+involving/VBG 
+[ top/JJ personnel/NNS ]
+and/CC 
+[ the/DT fight/NN ]
+between/IN 
+[ the/DT fire/NN fighters/NNS association/NN ]
+and/CC 
+[ the/DT teamsters/NNS union/NN ]
+./. 
+==================================
+Led/VBD 
+[ fight/NN ]
+on/IN 
+[ teamsters/NNS Gladden/NNP ]
+has/VBZ been/VBN 
+[ an/DT outspoken/JJ critic/NN ]
+of/IN 
+[ the/DT present/JJ city/NN administration/NN ]
+and/CC led/VBD 
+[ his/PRP$ union/NN 's/POS battle/NN ]
+against/IN 
+[ the/DT teamsters/NNS ]
+,/, 
+[ which/WDT ]
+began/VBD organizing/VBG 
+[ city/NN firemen/NNS ]
+in/IN 
+[ 1959/CD ]
+./. 
+==================================
+
+[ The/DT fire/NN fighters/NNS association/NN ]
+here/RB offered/VBD 
+[ a/DT $/$ 5,000/CD reward/NN ]
+for/IN 
+[ information/NN ]
+leading/VBG to/TO 
+[ the/DT arrest/NN ]
+of/IN 
+[ the/DT person/NN ]
+or/CC 
+[ persons/NNS ]
+responsible/JJ for/IN 
+[ the/DT bombing/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT $/$ 500/CD reward/NN ]
+was/VBD offered/VBN by/IN 
+[ the/DT association/NN ]
+'s/POS local/NN in/IN 
+[ Kansas/NNP City/NNP ]
+,/, 
+[ Kas/NNP ]
+../. 
+[ The/DT association/NN ]
+said/VBD 
+[ it/PRP ]
+would/MD post/VB 
+[ 24/CD hour/NN guards/NNS ]
+at/IN 
+[ Gladden/NNP 's/POS home/NN ]
+and/CC at/IN 
+[ those/DT ]
+of/IN 
+[ James/NNP Mining/NNP ]
+and/CC 
+[ Eugene/NNP Shiflett/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Mining/NNP ]
+is/VBZ 
+[ secretary-treasurer/NN ]
+of/IN 
+[ the/DT local/NN ]
+and/CC 
+[ Shiflett/NNP ]
+is/VBZ 
+[ a/DT member/NN ]
+of/IN 
+[ its/PRP$ executive/NN committee/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Both/DT ]
+have/VBP been/VBN active/JJ in/IN 
+[ the/DT association/NN ]
+./. 
+==================================
+
+[ Ankara/NNP ]
+,/, 
+[ Turkey/NNP ]
+,/, 
+[ Oct./NNP 24/CD ]
+(/( 
+[ AP/NNP ]
+)/) --/: 
+[ Turkish/JJ political/JJ leaders/NNS ]
+bowed/VBD 
+[ today/NN ]
+to/TO 
+[ military/JJ pressure/NN ]
+and/CC agreed/VBD to/TO form/VB 
+[ an/DT emergency/NN national/JJ front/NN government/NN ]
+with/IN 
+[ Gen./NNP Cemal/NNP Gursel/NNP ]
+as/IN 
+[ president/NN ]
+./. 
+==================================
+
+[ An/DT agreement/NN ]
+between/IN 
+[ the/DT leaders/NNS ]
+of/IN 
+[ four/CD parties/NNS ]
+
+[ which/WDT ]
+contested/VBD 
+[ indecisive/JJ elections/NNS ]
+on/IN 
+[ Oct./NNP 15/CD ]
+was/VBD reached/VBN after/IN almost/RB 
+[ 18/CD hours/NNS ]
+of/IN 
+[ political/JJ bargaining/NN ]
+under/IN 
+[ the/DT threat/NN ]
+of/IN 
+[ an/DT army/NN coup/FW d'etat/FW ]
+./. 
+==================================
+By-passing/VBG 
+[ the/DT military/JJ junta/NN ]
+
+[ which/WDT ]
+has/VBZ ruled/VBN 
+[ Turkey/NNP ]
+since/IN 
+[ the/DT overthrow/NN ]
+of/IN 
+[ Premier/NNP Adnan/NNP Menderes/NNP 17/CD months/NNS ]
+ago/RB ,/, 
+[ the/DT army/NN general/JJ staff/NN ]
+,/, led/VBN by/IN 
+[ Gen./NNP Cedvet/NNP Sunay/NNP ]
+,/, had/VBD set/VBN 
+[ a/DT deadline/NN ]
+for/IN 
+[ the/DT parties/NNS ]
+to/TO join/VB in/IN 
+[ a/DT national/JJ coalition/NN government/NN ]
+./. 
+==================================
+
+[ The/DT army/NN leaders/NNS ]
+threatened/VBD to/TO form/VB 
+[ a/DT new/JJ military/JJ government/NN ]
+if/IN 
+[ the/DT parties/NNS ]
+failed/VBD to/TO sign/VB 
+[ an/DT eight/CD point/NN protocol/NN ]
+agreeing/VBG on/IN 
+[ Gen./NNP Gursel/NNP ]
+as/IN 
+[ president/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Gen./NNP Gursel/NNP ]
+has/VBZ headed/VBN 
+[ the/DT military/JJ junta/NN ]
+
+[ the/DT last/JJ 17/CD months/NNS ]
+./. 
+==================================
+
+[ The/DT military/NN ]
+also/RB had/VBD demanded/VBN 
+[ pledges/NNS ]
+that/IN 
+[ there/EX ]
+would/MD be/VB 
+[ no/DT changes/NNS ]
+in/IN 
+[ the/DT laws/NNS ]
+passed/VBN by/IN 
+[ the/DT junta/NN ]
+and/CC 
+[ no/DT leaders/NNS ]
+of/IN 
+[ the/DT Menderes/NNP regime/NN ]
+now/RB in/IN 
+[ prison/NN ]
+would/MD be/VB pardoned/VBN ./. 
+==================================
+
+[ Party/NN leaders/NNS ]
+came/VBD out/IN of/IN 
+[ the/DT final/JJ meeting/NN ]
+apparently/RB satisfied/JJ and/CC stated/VBN that/IN 
+[ complete/JJ agreement/NN ]
+had/VBD been/VBN reached/VBN on/IN 
+[ a/DT solution/NN ]
+to/TO 
+[ the/DT crisis/NN ]
+created/VBN by/IN 
+[ the/DT elections/NNS ]
+
+[ which/WDT ]
+left/VBD 
+[ no/DT party/NN ]
+with/IN 
+[ enough/JJ strength/NN ]
+to/TO form/VB 
+[ a/DT government/NN ]
+on/IN 
+[ its/PRP$ own/JJ ]
+./. 
+==================================
+==================================
+==================================

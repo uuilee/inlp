@@ -1,0 +1,1438 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ The/DT Fulton/NNP County/NNP Grand/NNP Jury/NNP ]
+said/VBD 
+[ Friday/NNP ]
+
+[ an/DT investigation/NN ]
+of/IN 
+[ Atlanta/NNP 's/POS recent/JJ primary/JJ election/NN ]
+produced/VBD ``/`` 
+[ no/DT evidence/NN ]
+''/'' that/IN 
+[ any/DT irregularities/NNS ]
+took/VBD 
+[ place/NN ]
+./. 
+==================================
+
+[ The/DT jury/NN ]
+further/RB said/VBD in/IN 
+[ term-end/JJ presentments/NNS ]
+that/IN 
+[ the/DT City/NNP Executive/NNP Committee/NNP ]
+,/, 
+[ which/WDT ]
+had/VBD 
+[ over-all/JJ charge/NN ]
+of/IN 
+[ the/DT election/NN ]
+,/, ``/`` deserves/VBZ 
+[ the/DT praise/NN ]
+and/CC 
+[ thanks/NNS ]
+of/IN 
+[ the/DT City/NNP ]
+of/IN 
+[ Atlanta/NNP ]
+''/'' for/IN 
+[ the/DT manner/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT election/NN ]
+was/VBD conducted/VBN ./. 
+==================================
+
+[ The/DT September-October/NNP term/NN jury/NN ]
+had/VBD been/VBN charged/VBN by/IN 
+[ Fulton/NNP Superior/NNP Court/NNP Judge/NNP Durwood/NNP Pye/NNP ]
+to/TO investigate/VB 
+[ reports/NNS ]
+of/IN 
+[ possible/JJ ]
+``/`` 
+[ irregularities/NNS ]
+''/'' in/IN 
+[ the/DT hard-fought/JJ primary/NN ]
+
+[ which/WDT ]
+was/VBD won/VBN by/IN 
+[ Mayor-nominate/NNP Ivan/NNP Allen/NNP Jr/NNP ]
+../. ``/`` Only/RB 
+[ a/DT relative/JJ handful/NN ]
+of/IN 
+[ such/JJ reports/NNS ]
+was/VBD received/VBN ''/'' ,/, 
+[ the/DT jury/NN ]
+said/VBD ,/, ``/`` considering/VBG 
+[ the/DT widespread/JJ interest/NN ]
+in/IN 
+[ the/DT election/NN ]
+,/, 
+[ the/DT number/NN ]
+of/IN 
+[ voters/NNS ]
+and/CC 
+[ the/DT size/NN ]
+of/IN 
+[ this/DT city/NN ]
+''/'' ./. 
+==================================
+
+[ The/DT jury/NN ]
+said/VBD 
+[ it/PRP ]
+did/VBD find/VB that/IN 
+[ many/JJ ]
+of/IN 
+[ Georgia/NNP 's/POS registration/NN ]
+and/CC 
+[ election/NN laws/NNS ]
+``/`` are/VBP outmoded/JJ or/CC 
+[ inadequate/JJ ]
+and/CC often/RB 
+[ ambiguous/JJ ]
+''/'' ./. 
+==================================
+
+[ It/PRP ]
+recommended/VBD that/IN 
+[ Fulton/NNP legislators/NNS ]
+act/VB ``/`` to/TO have/VB 
+[ these/DT laws/NNS ]
+studied/VBN and/CC revised/VBN to/TO 
+[ the/DT end/NN ]
+of/IN modernizing/VBG and/CC improving/VBG 
+[ them/PRP ]
+''/'' ./. 
+==================================
+
+[ The/DT grand/JJ jury/NN ]
+commented/VBD on/IN 
+[ a/DT number/NN ]
+of/IN 
+[ other/JJ topics/NNS ]
+,/, among/IN 
+[ them/PRP ]
+
+[ the/DT Atlanta/NNP ]
+and/CC 
+[ Fulton/NNP County/NNP ]
+purchasing/VBG 
+[ departments/NNS ]
+
+[ which/WDT ]
+
+[ it/PRP ]
+said/VBD ``/`` are/VBP well/RB operated/VBN and/CC follow/VBP generally/RB accepted/VBN 
+[ practices/NNS ]
+
+[ which/WDT ]
+inure/VBP to/TO 
+[ the/DT best/JJS interest/NN ]
+of/IN 
+[ both/DT ]
+
+[ governments/NNS ]
+''/'' ./. 
+==================================
+
+[ Merger/NNP ]
+proposed/VBD However/RB ,/, 
+[ the/DT jury/NN ]
+said/VBD 
+[ it/PRP ]
+believes/VBZ ``/`` 
+[ these/DT two/CD offices/NNS ]
+should/MD be/VB combined/VBN to/TO achieve/VB 
+[ greater/JJR efficiency/NN ]
+and/CC reduce/VB 
+[ the/DT cost/NN ]
+of/IN 
+[ administration/NN ]
+''/'' ./. 
+==================================
+
+[ The/DT City/NNP Purchasing/NNP Department/NNP ]
+,/, 
+[ the/DT jury/NN ]
+said/VBD ,/, ``/`` is/VBZ lacking/VBG in/IN 
+[ experienced/VBN clerical/JJ personnel/NNS ]
+as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ city/NN personnel/NNS policies/NNS ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+ 
+[ It/PRP ]
+urged/VBD that/IN 
+[ the/DT city/NN ]
+``/`` take/VB 
+[ steps/NNS ]
+to/TO remedy/VB ''/'' 
+[ this/DT problem/NN ]
+./. 
+==================================
+
+[ Implementation/NN ]
+of/IN 
+[ Georgia/NNP 's/POS automobile/NN title/NN law/NN ]
+was/VBD also/RB recommended/VBN by/IN 
+[ the/DT outgoing/JJ jury/NN ]
+./. 
+==================================
+
+[ It/PRP ]
+urged/VBD that/IN 
+[ the/DT next/JJ Legislature/NNP ]
+``/`` provide/VB enabling/VBG 
+[ funds/NNS ]
+and/CC 
+[ re-set/VB ]
+
+[ the/DT effective/JJ date/NN ]
+so/RB that/IN 
+[ an/DT orderly/JJ implementation/NN ]
+of/IN 
+[ the/DT law/NN ]
+may/MD be/VB effected/VBN ''/'' ./. 
+==================================
+
+[ The/DT grand/JJ jury/NN ]
+took/VBD 
+[ a/DT swipe/NN ]
+at/IN 
+[ the/DT State/NNP Welfare/NNP Department/NNP 's/POS handling/NN ]
+of/IN 
+[ federal/JJ funds/NNS ]
+granted/VBN for/IN 
+[ child/NN welfare/NN services/NNS ]
+in/IN 
+[ foster/JJ homes/NNS ]
+./. 
+==================================
+``/`` 
+[ This/DT ]
+is/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT major/NN items/NNS ]
+in/IN 
+[ the/DT Fulton/NNP County/NNP general/NN assistance/NN program/NN ]
+''/'' ,/, 
+[ the/DT jury/NN ]
+said/VBD ,/, but/CC 
+[ the/DT State/NNP Welfare/NNP Department/NNP ]
+``/`` has/VBZ seen/VBN 
+[ fit/NN ]
+to/TO distribute/VB 
+[ these/DT funds/NNS ]
+through/IN 
+[ the/DT welfare/NN departments/NNS ]
+of/IN 
+[ all/PDT  counties/NNS ]
+in/IN 
+[ the/DT state/NN ]
+with/IN  
+[ the/DT exception/NN ]
+of/IN 
+[ Fulton/NNP County/NNP ]
+,/, 
+[ which/WDT ]
+receives/VBZ 
+[ none/NN ]
+of/IN 
+[ this/DT money/NN ]
+./. 
+==================================
+
+[ The/DT jurors/NNS ]
+said/VBD 
+[ they/PRP ]
+realize/VB ``/`` 
+[ a/DT proportionate/JJ distribution/NN ]
+of/IN 
+[ these/DT funds/NNS ]
+might/MD disable/VB 
+[ this/DT program/NN ]
+in/IN 
+[ our/PRP$ less/JJR populous/JJ counties/NNS ]
+''/'' ./. 
+==================================
+Nevertheless/RB ,/, ``/`` 
+[ we/PRP ]
+feel/VBP that/IN in/IN 
+[ the/DT future/NN Fulton/NNP County/NNP ]
+should/MD receive/VB 
+[ some/DT portion/NN ]
+of/IN 
+[ these/DT available/JJ funds/NNS ]
+''/'' ,/, 
+[ the/DT jurors/NNS ]
+said/VBD ./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ Failure/NN ]
+to/TO do/VB 
+[ this/DT ]
+will/MD continue/VB to/TO place/VB 
+[ a/DT disproportionate/JJ burden/NN ]
+''/'' on/IN 
+[ Fulton/NNP taxpayers/NNS ]
+./. 
+==================================
+
+[ The/DT jury/NN ]
+also/RB commented/VBD on/IN 
+[ the/DT Fulton/NNP ordinary/NN 's/POS court/NN ]
+
+[ which/WDT ]
+has/VBZ been/VBN under/IN 
+[ fire/NN ]
+for/IN 
+[ its/PRP$ practices/NNS ]
+in/IN 
+[ the/DT appointment/NN ]
+of/IN 
+[ appraisers/NNS ]
+,/, 
+[ guardians/NNS ]
+and/CC 
+[ administrators/NNS ]
+and/CC 
+[ the/DT awarding/VBG ]
+of/IN 
+[ fees/NNS ]
+and/CC 
+[ compensation/NN ]
+./. 
+==================================
+
+[ Wards/NNS ]
+protected/VBD 
+[ The/DT jury/NN ]
+said/VBD 
+[ it/PRP ]
+found/VBD 
+[ the/DT court/NN ]
+``/`` has/VBZ incorporated/VBN into/IN 
+[ its/PRP$ operating/VBG procedures/NNS ]
+
+[ the/DT recommendations/NNS ]
+''/'' of/IN 
+[ two/CD previous/JJ grand/JJ juries/NNS ]
+,/, 
+[ the/DT Atlanta/NNP Bar/NNP Association/NNP ]
+and/CC 
+[ an/DT interim/JJ citizens/NNS committee/NN ]
+./. 
+==================================
+``/`` 
+[ These/DT actions/NNS ]
+should/MD serve/VB to/TO protect/VB in/IN 
+[ fact/NN ]
+and/CC in/IN 
+[ effect/NN ]
+
+[ the/DT court/NN 's/POS wards/NNS ]
+from/IN 
+[ undue/JJ costs/NNS ]
+and/CC 
+[ its/PRP$ ]
+appointed/VBN and/CC elected/VBN 
+[ servants/NNS ]
+from/IN 
+[ unmeritorious/JJ criticisms/NNS ]
+''/'' ,/, 
+[ the/DT jury/NN ]
+said/VBD ./. 
+==================================
+Regarding/VBG 
+[ Atlanta/NNP 's/POS new/JJ multi-million-dollar/JJ airport/NN ]
+,/, 
+[ the/DT jury/NN ]
+recommended/VBN ``/`` that/IN when/WRB 
+[ the/DT new/JJ management/NN ]
+takes/VBZ 
+[ charge/NN Jan./NNP 1/CD ]
+
+[ the/DT airport/NN ]
+be/VB operated/VBN in/IN 
+[ a/DT manner/NN ]
+
+[ that/WP ]
+will/MD eliminate/VB 
+[ political/JJ influences/NNS ]
+''/'' ./. 
+==================================
+
+[ The/DT jury/NN ]
+did/VBD not/RB 
+[ elaborate/VB ]
+,/, but/CC 
+[ it/PRP ]
+added/VBD that/IN ``/`` 
+[ there/EX ]
+should/MD be/VB 
+[ periodic/JJ surveillance/NN ]
+of/IN 
+[ the/DT pricing/VBG practices/NNS ]
+of/IN 
+[ the/DT concessionaires/NNS ]
+for/IN 
+[ the/DT purpose/NN ]
+of/IN keeping/VBG 
+[ the/DT prices/NNS ]
+reasonable/JJ ''/'' ./. 
+==================================
+Ask/VB 
+[ jail/NN deputies/NNS ]
+On/IN 
+[ other/JJ matters/NNS ]
+,/, 
+[ the/DT jury/NN ]
+recommended/VBD that/IN :/: (/( 
+[ 1/LS ]
+)/) 
+[ Four/CD additional/JJ deputies/NNS ]
+be/VB employed/VBN at/IN 
+[ the/DT Fulton/NNP County/NNP Jail/NNP ]
+and/CC ``/`` 
+[ a/DT doctor/NN ]
+,/, 
+[ medical/JJ intern/NN ]
+or/CC 
+[ extern/NN ]
+be/VB employed/VBN for/IN 
+[ night/NN ]
+and/CC 
+[ weekend/NN duty/NN ]
+at/IN 
+[ the/DT jail/NN ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+(/( 
+[ 2/LS ]
+)/) 
+[ Fulton/NNP legislators/NNS ]
+``/`` work/VB with/IN 
+[ city/NN officials/NNS ]
+to/TO pass/VB 
+[ enabling/VBG legislation/NN ]
+
+[ that/WP ]
+will/MD permit/VB 
+[ the/DT establishment/NN ]
+of/IN 
+[ a/DT fair/JJ ]
+and/CC 
+[ equitable/JJ ]
+''/'' 
+[ pension/NN plan/NN ]
+for/IN 
+[ city/NN employes/NNS ]
+./. 
+==================================
+
+[ The/DT jury/NN ]
+praised/VBD 
+[ the/DT administration/NN ]
+and/CC 
+[ operation/NN ]
+of/IN 
+[ the/DT Atlanta/NNP Police/NNP Department/NNP ]
+,/, 
+[ the/DT Fulton/NNP Tax/NNP Commissioner/NNP 's/POS Office/NNP ]
+,/, 
+[ the/DT Bellwood/NNP ]
+and/CC 
+[ Alpharetta/NNP prison/NN farms/NNS ]
+,/, 
+[ Grady/NNP Hospital/NNP ]
+and/CC 
+[ the/DT Fulton/NNP Health/NNP Department/NNP ]
+./. 
+==================================
+
+[ Mayor/NNP William/NNP B./NNP Hartsfield/NNP ]
+filed/VBD 
+[ suit/NN ]
+for/IN 
+[ divorce/NN ]
+from/IN 
+[ his/PRP$ wife/NN ]
+,/, 
+[ Pearl/NNP Williams/NNP Hartsfield/NNP ]
+,/, in/IN 
+[ Fulton/NNP Superior/NNP Court/NNP Friday/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ His/PRP$ petition/NN ]
+charged/VBD 
+[ mental/JJ cruelty/NN ]
+./. 
+==================================
+
+[ The/DT couple/NN ]
+was/VBD married/VBN 
+[ Aug./NNP 2/CD ]
+,/, 
+[ 1913/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+have/VBP 
+[ a/DT son/NN ]
+,/, 
+[ William/NNP Berry/NNP Jr./NNP ]
+,/, and/CC 
+[ a/DT daughter/NN ]
+,/, 
+[ Mrs./NNP J.M./NNP Cheshire/NNP ]
+of/IN 
+[ Griffin/NNP ]
+./. 
+==================================
+
+[ Attorneys/NNS ]
+for/IN 
+[ the/DT mayor/NN ]
+said/VBD that/IN 
+[ an/DT amicable/JJ property/NN settlement/NN ]
+has/VBZ been/VBN agreed/VBN upon/IN ./. 
+==================================
+
+[ The/DT petition/NN ]
+listed/VBD 
+[ the/DT mayor/NN 's/POS occupation/NN ]
+as/IN ``/`` 
+[ attorney/NN ]
+''/'' and/CC 
+[ his/PRP$ age/NN ]
+as/IN 
+[ 71/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+listed/VBD 
+[ his/PRP$ wife/NN 's/POS age/NN ]
+as/IN 
+[ 74/CD ]
+and/CC 
+[ place/NN ]
+of/IN 
+[ birth/NN ]
+as/IN 
+[ Opelika/NNP ]
+,/, 
+[ Ala/NNP ]
+../. 
+[ The/DT petition/NN ]
+said/VBD that/IN 
+[ the/DT couple/NN ]
+has/VBZ not/RB lived/VBN together/RB as/IN 
+[ man/NN ]
+and/CC 
+[ wife/NN ]
+for/IN more/JJR than/IN 
+[ a/DT year/NN ]
+./. 
+==================================
+
+[ The/DT Hartsfield/NNP home/NN ]
+is/VBZ at/IN 
+[ 637/CD E./NNP Pelham/NNP Rd./NNP A[fj]/SYM ]
+./. 
+==================================
+
+[ Henry/NNP L./NNP Bowden/NNP ]
+was/VBD listed/VBN on/IN 
+[ the/DT petition/NN ]
+as/IN 
+[ the/DT mayor/NN 's/POS attorney/NN ]
+./. 
+==================================
+
+[ Hartsfield/NNP ]
+has/VBZ been/VBN 
+[ mayor/NN ]
+of/IN 
+[ Atlanta/NNP ]
+,/, with/IN 
+[ exception/NN ]
+of/IN 
+[ one/CD brief/JJ interlude/NN ]
+,/, since/IN 
+[ 1937/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ His/PRP$ political/JJ career/NN ]
+goes/VBZ back/RB to/TO 
+[ his/PRP$ election/NN ]
+to/TO 
+[ city/NN council/NN ]
+in/IN 
+[ 1923/CD ]
+./. 
+==================================
+
+[ The/DT mayor/NN 's/POS present/JJ term/NN ]
+of/IN 
+[ office/NN ]
+expires/VBZ 
+[ Jan./NNP 1/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+will/MD be/VB succeeded/VBN by/IN 
+[ Ivan/NNP Allen/NNP Jr./NNP ]
+,/, 
+[ who/WP ]
+became/VBD 
+[ a/DT candidate/NN ]
+in/IN 
+[ the/DT Sept./NNP 13/CD primary/NN ]
+after/IN 
+[ Mayor/NNP Hartsfield/NNP ]
+announced/VBD that/IN 
+[ he/PRP ]
+would/MD not/RB run/VB for/IN 
+[ reelection/NN ]
+./. 
+==================================
+
+[ Georgia/NNP Republicans/NNP ]
+are/VBP getting/VBG 
+[ strong/JJ encouragement/NN ]
+to/TO enter/VB 
+[ a/DT candidate/NN ]
+in/IN 
+[ the/DT 1962/CD governor/NN 's/POS race/NN ]
+,/, 
+[ a/DT top/NN official/NN ]
+said/VBD 
+[ Wednesday/NNP ]
+./. 
+==================================
+
+[ Robert/NNP Snodgrass/NNP ]
+,/, 
+[ state/NN GOP/NNP chairman/NN ]
+,/, said/VBD 
+[ a/DT meeting/NN ]
+held/VBN 
+[ Tuesday/NNP night/NN ]
+in/IN 
+[ Blue/NNP Ridge/NNP ]
+brought/VBD 
+[ enthusiastic/JJ responses/NNS ]
+from/IN 
+[ the/DT audience/NN ]
+./. 
+==================================
+
+[ State/NNP Party/NNP Chairman/NNP James/NNP W./NNP Dorsey/NNP ]
+added/VBD 
+[ that/DT enthusiasm/NN ]
+was/VBD picking/VBG up/IN for/IN 
+[ a/DT state/NN ]
+rally/VB to/TO be/VB held/VBN 
+[ Sept./NNP 8/CD ]
+in/IN 
+[ Savannah/NN ]
+at/IN 
+[ which/WDT ]
+newly/RB elected/VBD 
+[ Texas/NNP Sen./NNP John/NNP Tower/NNP ]
+will/MD be/VB 
+[ the/DT featured/JJ speaker/NN ]
+./. 
+==================================
+In/IN 
+[ the/DT Blue/NNP Ridge/NNP meeting/NN ]
+,/, 
+[ the/DT audience/NN ]
+was/VBD warned/VBN that/IN entering/VBG 
+[ a/DT candidate/NN ]
+for/IN 
+[ governor/NN ]
+would/MD force/VB 
+[ it/PRP ]
+to/TO take/VB 
+[ petitions/NNS ]
+out/IN into/IN voting/VBG 
+[ precincts/NNS ]
+to/TO obtain/VB 
+[ the/DT signatures/NNS ]
+of/IN 
+[ registered/JJ voters/NNS ]
+./. 
+==================================
+Despite/IN 
+[ the/DT warning/NN ]
+,/, 
+[ there/EX ]
+was/VBD 
+[ a/DT unanimous/JJ vote/NN ]
+to/TO enter/VB 
+[ a/DT candidate/NN ]
+,/, according/VBG to/TO 
+[ Republicans/NNP ]
+
+[ who/WP ]
+attended/VBD ./. 
+==================================
+When/WRB 
+[ the/DT crowd/NN ]
+was/VBD asked/VBN whether/IN 
+[ it/PRP ]
+wanted/VBD to/TO wait/VB 
+[ one/CD more/JJR term/NN ]
+to/TO make/VB 
+[ the/DT race/NN ]
+,/, 
+[ it/PRP ]
+voted/VBD no/RB --/: and/CC 
+[ there/EX ]
+were/VBD 
+[ no/DT dissents/NNS ]
+./. 
+==================================
+
+[ The/DT largest/JJS hurdle/NN ]
+
+[ the/DT Republicans/NNP ]
+would/MD have/VB to/TO face/VB is/VBZ 
+[ a/DT state/NN law/NN ]
+
+[ which/WDT ]
+says/VBZ that/IN before/IN making/VBG 
+[ a/DT first/JJ race/NN ]
+,/, 
+[ one/CD ]
+of/IN 
+[ two/CD alternative/JJ courses/NNS ]
+must/MD be/VB taken/VBG :/: 
+[ 1/CD Five/CD ]
+per/RP 
+[ cent/NN ]
+of/IN 
+[ the/DT voters/NNS ]
+in/IN 
+[ each/DT county/NN ]
+must/MD sign/VBP 
+[ petitions/NNS ]
+requesting/VBG that/IN 
+[ the/DT Republicans/NNP ]
+be/VB allowed/VBN to/TO place/VB 
+[ names/NNS ]
+of/IN 
+[ candidates/NNS ]
+on/IN 
+[ the/DT general/NN election/NN ballot/NN ]
+,/, or/CC 
+[ 2/CD ]
+
+[ The/DT Republicans/NNP ]
+must/MD hold/VBP 
+[ a/DT primary/NN ]
+under/IN 
+[ the/DT county/NN unit/NN system/NN ]
+--/: 
+[ a/DT system/NN ]
+
+[ which/WDT ]
+
+[ the/DT party/NN ]
+opposes/VBZ in/IN 
+[ its/PRP$ platform/NN ]
+./. 
+==================================
+
+[ Sam/NNP Caldwell/NNP ]
+,/, 
+[ State/NNP Highway/NNP Department/NNP public/NN relations/NNS director/NN ]
+,/, resigned/VBD 
+[ Tuesday/NNP ]
+to/TO work/VB for/IN 
+[ Lt./NNP Gov./NNP Garland/NNP Byrd/NNP 's/POS campaign/NN ]
+./. 
+==================================
+
+[ Caldwell/NNP 's/POS resignation/NN ]
+had/VBD been/VBN expected/VBN for/IN 
+[ some/DT time/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+will/MD be/VB succeeded/VBN by/IN 
+[ Rob/NNP Ledford/NNP ]
+of/IN 
+[ Gainesville/NNP ]
+,/, 
+[ who/WP ]
+has/VBZ been/VBN 
+[ an/DT assistant/NN ]
+more/RBR than/IN 
+[ three/CD years/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+When/WRB 
+[ the/DT gubernatorial/JJ campaign/NN starts/VBZ ]
+,/, 
+[ Caldwell/NNP ]
+is/VBZ expected/VBN to/TO become/VB 
+[ a/DT campaign/NN coordinator/NN ]
+for/IN 
+[ Byrd/NNP ]
+./. 
+==================================
+
+[ The/DT Georgia/NNP Legislature/NNP ]
+will/MD wind/VB up/IN 
+[ its/PRP$ 1961/CD session/NN Monday/NNP ]
+and/CC 
+[ head/NN ]
+for/IN 
+[ home/NN ]
+--/: where/WRB 
+[ some/DT ]
+of/IN 
+[ the/DT highway/NN bond/NN money/NN ]
+
+[ it/PRP ]
+approved/VBD will/MD follow/VB shortly/RB ./. 
+==================================
+Before/IN 
+[ adjournment/NN Monday/NNP afternoon/NN ]
+,/, 
+[ the/DT Senate/NNP ]
+is/VBZ expected/VBN to/TO approve/VB 
+[ a/DT study/NN ]
+of/IN 
+[ the/DT number/NN ]
+of/IN 
+[ legislators/NNS ]
+allotted/VBN to/TO 
+[ rural/JJ ]
+and/CC 
+[ urban/JJ areas/NNS ]
+to/TO determine/VB 
+[ what/WDT adjustments/NNS ]
+should/MD be/VB made/VBN ./. 
+==================================
+
+[ Gov./NNP Vandiver/NNP ]
+is/VBZ expected/VBN to/TO make/VB 
+[ the/DT traditional/JJ visit/NN ]
+to/TO 
+[ both/DT ]
+
+[ chambers/NNS ]
+as/IN 
+[ they/PRP ]
+work/VBP toward/IN 
+[ adjournment/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Vandiver/NNP ]
+likely/RB will/MD mention/VB 
+[ the/DT $/$ 100/CD million/CD highway/NN bond/NN issue/NN ]
+approved/VBD earlier/RB in/IN 
+[ the/DT session/NN ]
+as/IN 
+[ his/PRP$ first/JJ priority/NN item/NN ]
+./. 
+==================================
+
+[ Construction/NN bonds/NNS ]
+Meanwhile/RB ,/, 
+[ it/PRP ]
+was/VBD learned/VBN 
+[ the/DT State/NNP Highway/NNP Department/NNP ]
+is/VBZ very/JJ near/IN being/VBG 
+[ ready/JJ ]
+to/TO issue/VB 
+[ the/DT first/JJ $/$ 30/CD million/CD worth/NN ]
+of/IN 
+[ highway/NN reconstruction/NN bonds/NNS ]
+./. 
+==================================
+
+[ The/DT bond/NN issue/NN ]
+will/MD go/VB to/TO 
+[ the/DT state/NN courts/NNS ]
+for/IN 
+[ a/DT friendly/JJ test/NN suit/NN ]
+to/TO test/VB 
+[ the/DT validity/NN ]
+of/IN 
+[ the/DT act/NN ]
+,/, and/CC then/RB 
+[ the/DT sales/NNS ]
+will/MD begin/VB and/CC 
+[ contracts/NNS ]
+let/VB for/IN 
+[ repair/NN work/NN ]
+on/IN 
+[ some/DT ]
+of/IN 
+[ Georgia/NNP 's/POS ]
+most/RBS heavily/RB traveled/JJ 
+[ highways/JJ ]
+./. 
+==================================
+
+[ A/DT Highway/NNP Department/NNP source/NN ]
+said/VBD 
+[ there/EX ]
+also/RB is/VBZ 
+[ a/DT plan/NN ]
+there/RB to/TO issue/VB 
+[ some/DT $/$ 3/CD million/CD ]
+to/TO 
+[ $/$ 4/CD million/CD worth/NN ]
+of/IN 
+[ Rural/NNP Roads/NNP Authority/NNP bonds/NNS ]
+for/IN 
+[ rural/JJ road/NN construction/NN work/NN ]
+./. 
+==================================
+
+[ A/DT revolving/VBG fund/NN ]
+
+[ The/DT department/NN ]
+apparently/RB intends/VBZ to/TO make/VB 
+[ the/DT Rural/NNP Roads/NNP Authority/NNP ]
+
+[ a/DT revolving/VBG fund/NN ]
+under/IN 
+[ which/WDT ]
+
+[ new/JJ bonds/NNS ]
+would/MD be/VB issued/VBN 
+[ every/DT time/NN ]
+
+[ a/DT portion/NN ]
+of/IN 
+[ the/DT old/JJ ones/NNS ]
+are/VBP paid/VBN off/IN by/IN 
+[ tax/NN authorities/NNS ]
+./. 
+==================================
+
+[ Vandiver/NNP ]
+opened/VBD 
+[ his/PRP$ race/NN ]
+for/IN 
+[ governor/NN ]
+in/IN 
+[ 1958/CD ]
+with/IN 
+[ a/DT battle/NN ]
+in/IN 
+[ the/DT Legislature/NNP ]
+against/IN 
+[ the/DT issuance/NN ]
+of/IN 
+[ $/$ 50/CD million/CD worth/NN ]
+of/IN 
+[ additional/JJ rural/JJ roads/NNS bonds/NNS ]
+proposed/VBN by/IN 
+[ then/JJ Gov./NNP Marvin/NNP Griffin/NNP ]
+./. 
+==================================
+
+[ The/DT Highway/NNP Department/NNP source/NN ]
+told/VBD 
+[ The/DT Constitution/NNP ]
+,/, however/RB ,/, that/IN 
+[ Vandiver/NNP ]
+has/VBZ not/RB been/VBN consulted/VBN yet/RB about/IN 
+[ the/DT plans/NNS ]
+to/TO issue/VB 
+[ the/DT new/JJ rural/JJ roads/NNS bonds/NNS ]
+./. 
+==================================
+
+[ Schley/NNP County/NNP Rep./NNP B.D./NNP Pelham/NNP ]
+will/MD offer/VB 
+[ a/DT resolution/NN Monday/NNP ]
+in/IN 
+[ the/DT House/NNP ]
+to/TO rescind/VB 
+[ the/DT body/NN 's/POS action/NN ]
+of/IN 
+[ Friday/NNP ]
+in/IN voting/VBG 
+[ itself/PRP ]
+
+[ a/DT $/$ 10/CD ]
+per/IN 
+[ day/NN increase/NN ]
+in/IN 
+[ expense/NN allowances/NNS ]
+./. 
+==================================
+
+[ Pelham/NNP ]
+said/VBD 
+[ Sunday/NNP night/NN ]
+
+[ there/EX ]
+was/VBD 
+[ research/NN ]
+being/VBG done/VBN on/IN whether/IN 
+[ the/DT ]
+``/`` 
+[ quickie/JJ ]
+''/'' 
+[ vote/NN ]
+on/IN 
+[ the/DT increase/NN ]
+can/MD be/VB repealed/VBN outright/RB or/CC whether/IN 
+[ notice/NN ]
+would/MD have/VB to/TO first/RB be/VB given/VBN 
+[ that/RP reconsideration/NN ]
+of/IN 
+[ the/DT action/NN ]
+would/MD be/VB sought/VBN ./. 
+==================================
+While/IN emphasizing/VBG that/IN 
+[ technical/JJ details/NNS ]
+were/VBD not/RB fully/RB worked/VBD out/RB ,/, 
+[ Pelham/NNP ]
+said/VBD 
+[ his/PRP$ resolution/NN ]
+would/MD seek/VB to/TO set/VB aside/RB 
+[ the/DT privilege/NN resolution/NN ]
+
+[ which/WDT ]
+
+[ the/DT House/NNP ]
+voted/VBD through/IN 
+[ 87-31/CD ]
+./. 
+==================================
+
+[ A/DT similar/JJ resolution/NN ]
+passed/VBD in/IN 
+[ the/DT Senate/NNP ]
+by/IN 
+[ a/DT vote/NN ]
+of/IN 
+[ 29-5/CD ]
+./. 
+==================================
+As/IN of/IN 
+[ Sunday/NNP night/NN ]
+,/, 
+[ there/EX ]
+was/VBD 
+[ no/DT word/NN ]
+of/IN 
+[ a/DT resolution/NN ]
+being/VBG offered/VBD there/RB to/TO rescind/VB 
+[ the/DT action/NN ]
+./. 
+==================================
+
+[ Pelham/NNP ]
+pointed/VBD out/IN that/IN 
+[ Georgia/NNP voters/NNS last/JJ November/NNP ]
+rejected/VBD 
+[ a/DT constitutional/JJ amendment/NN ]
+to/TO allow/VB 
+[ legislators/NNS ]
+to/TO vote/VB on/IN 
+[ pay/NN raises/NNS ]
+for/IN 
+[ future/JJ Legislature/NNP sessions/NNS ]
+./. 
+==================================
+
+[ A/DT veteran/NN Jackson/NNP County/NNP legislator/NN ]
+will/MD ask/VB 
+[ the/DT Georgia/NNP House/NNP Monday/NNP ]
+to/TO back/VB 
+[ federal/JJ aid/NN ]
+to/TO 
+[ education/NN ]
+,/, 
+[ something/NN ]
+
+[ it/PRP ]
+has/VBZ consistently/RB opposed/VBN in/IN 
+[ the/DT past/NN ]
+./. 
+==================================
+
+[ Rep./NNP Mac/NNP Barber/NNP ]
+of/IN 
+[ Commerce/NNP ]
+is/VBZ asking/VBG 
+[ the/DT House/NNP ]
+in/IN 
+[ a/DT privilege/NN resolution/NN ]
+to/TO ``/`` endorse/VB increased/VBN 
+[ federal/JJ support/NN ]
+for/IN 
+[ public/JJ education/NN ]
+,/, provided/VBD that/IN 
+[ such/JJ funds/NNS ]
+be/VB received/VBN and/CC expended/VBN ''/'' as/IN 
+[ state/NN funds/NNS ]
+./. 
+==================================
+
+[ Barber/NNP ]
+,/, 
+[ who/WP ]
+is/VBZ in/IN 
+[ his/PRP$ 13th/JJ year/NN ]
+as/IN 
+[ a/DT legislator/NN ]
+,/, said/VBD 
+[ there/EX ]
+``/`` are/VBP 
+[ some/DT members/NNS ]
+of/IN 
+[ our/PRP$ congressional/JJ delegation/NN ]
+in/IN 
+[ Washington/NNP ]
+
+[ who/WP ]
+would/MD like/VB to/TO see/VB 
+[ it/PRP ]
+(/( 
+[ the/DT resolution/NN ]
+)/) passed/VBN ''/'' ./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ he/PRP ]
+added/VBD that/IN 
+[ none/NN ]
+of/IN 
+[ Georgia/NNP 's/POS congressmen/NNS ]
+specifically/RB asked/VBD 
+[ him/PRP ]
+to/TO offer/VB 
+[ the/DT resolution/NN ]
+./. 
+==================================
+
+[ The/DT resolution/NN ]
+,/, 
+[ which/WDT ]
+
+[ Barber/NNP ]
+tossed/VBD into/IN 
+[ the/DT House/NNP hopper/NN Friday/NNP ]
+,/, will/MD be/VB formally/RB read/VBN 
+[ Monday/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+says/VBZ that/IN ``/`` in/IN 
+[ the/DT event/NN Congress/NNP ]
+does/VBZ provide/VB 
+[ this/DT increase/NN ]
+in/IN 
+[ federal/JJ funds/NNS ]
+''/'' ,/, 
+[ the/DT State/NNP Board/NNP ]
+of/IN 
+[ Education/NNP ]
+should/MD be/VB directed/VBN to/TO ``/`` give/VB 
+[ priority/NN ]
+''/'' to/TO 
+[ teacher/NN pay/NN raises/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Colquitt/NNP ]
+--/: After/IN 
+[ a/DT long/JJ ]
+,/, 
+[ hot/JJ controversy/NN ]
+,/, 
+[ Miller/NNP County/NNP ]
+has/VBZ 
+[ a/DT new/JJ school/NN superintendent/NN ]
+,/, elected/VBN ,/, as/IN 
+[ a/DT policeman/NN ]
+put/VBD 
+[ it/PRP ]
+,/, in/IN 
+[ the/DT ]
+``/`` 
+[ coolest/JJS election/NN ]
+
+[ I/PRP ]
+ever/RP saw/VBD in/IN 
+[ this/DT county/NN ]
+''/'' ./. 
+==================================
+
+[ The/DT new/JJ school/NN superintendent/NN ]
+is/VBZ 
+[ Harry/NNP Davis/NNP ]
+,/, 
+[ a/DT veteran/NN agriculture/NN teacher/NN ]
+,/, 
+[ who/WP ]
+defeated/VBD 
+[ Felix/NNP Bush/NNP ]
+,/, 
+[ a/DT school/NN principal/NN ]
+and/CC 
+[ chairman/NN ]
+of/IN 
+[ the/DT Miller/NNP County/NNP Democratic/NNP Executive/NNP Committee/NNP ]
+./. 
+==================================
+
+[ Davis/NNP ]
+received/VBD 
+[ 1,119/CD votes/NNS ]
+in/IN 
+[ Saturday/NNP 's/POS election/NN ]
+,/, and/CC 
+[ Bush/NNP ]
+got/VBD 
+[ 402/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Ordinary/NNP Carey/NNP Williams/NNP ]
+,/, armed/VBN with/IN 
+[ a/DT pistol/NN ]
+,/, stood/VBD by/IN at/IN 
+[ the/DT polls/NNS ]
+to/TO insure/VB 
+[ order/NN ]
+./. 
+==================================
+``/`` 
+[ This/DT ]
+was/VBD 
+[ the/DT coolest/JJS ]
+,/, 
+[ calmest/JJS election/NN ]
+
+[ I/PRP ]
+ever/RP saw/VBD ''/'' ,/, 
+[ Colquitt/NNP Policeman/NNP Tom/NNP Williams/NNP ]
+said/VBD ./. 
+==================================
+
+==================================
+==================================
+``/`` Being/VBG at/IN 
+[ the/DT polls/NNS ]
+was/VBD just/RP like/IN being/VBG at/IN 
+[ church/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ I/PRP ]
+did/VBD n't/RB smell/VB 
+[ a/DT drop/NN ]
+of/IN 
+[ liquor/NN ]
+,/, and/CC 
+[ we/PRP ]
+did/VBD n't/RB have/VB 
+[ a/DT bit/NN ]
+of/IN 
+[ trouble/NN ]
+''/'' ./. 
+==================================
+
+[ The/DT campaign/NN ]
+leading/VBG to/TO 
+[ the/DT election/NN ]
+was/VBD not/RB so/RB quiet/JJ ,/, however/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD marked/VBN by/IN 
+[ controversy/NN ]
+,/, 
+[ anonymous/JJ midnight/NN phone/NN calls/NNS ]
+and/CC veiled/JJ 
+[ threats/NNS ]
+of/IN 
+[ violence/NN ]
+./. 
+==================================
+
+[ The/DT former/JJ county/NN school/NN superintendent/NN ]
+,/, 
+[ George/NNP P./NNP Callan/NNP ]
+,/, shot/VBD 
+[ himself/PRP ]
+to/TO 
+[ death/NN March/NNP 18/CD ]
+,/, 
+[ four/CD days/NNS ]
+after/IN 
+[ he/PRP ]
+resigned/VBD 
+[ his/PRP$ post/NN ]
+in/IN 
+[ a/DT dispute/NN ]
+with/IN 
+[ the/DT county/NN school/NN board/NN ]
+./. 
+==================================
+During/IN 
+[ the/DT election/NN campaign/NN ]
+,/, 
+[ both/DT ]
+
+[ candidates/NNS ]
+,/, 
+[ Davis/NNP ]
+and/CC 
+[ Bush/NNP ]
+,/, reportedly/RB received/VBD 
+[ anonymous/JJ telephone/NN calls/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Ordinary/NNP Williams/NNP ]
+said/VBD 
+[ he/PRP ]
+,/, too/RB ,/, was/VBD subjected/VBN to/TO 
+[ anonymous/JJ calls/NNS ]
+soon/RB after/IN 
+[ he/PRP ]
+scheduled/VBD 
+[ the/DT election/NN ]
+./. 
+==================================
+
+[ Many/JJ local/JJ citizens/NNS ]
+feared/VBD that/IN 
+[ there/EX ]
+would/MD be/VB 
+[ irregularities/NNS ]
+at/IN 
+[ the/DT polls/NNS ]
+,/, and/CC 
+[ Williams/NNP ]
+got/VBD 
+[ himself/PRP ]
+
+[ a/DT ]
+permit/NN to/TO carry/VB 
+[ a/DT gun/NN ]
+and/CC promised/VBD 
+[ an/DT orderly/JJ election/NN ]
+./. 
+==================================
+
+[ Sheriff/NNP Felix/NNP Tabb/NNP ]
+said/VBD 
+[ the/DT ordinary/NN ]
+apparently/RB made/VBD 
+[ good/JJ his/PRP$ promise/NN ]
+./. 
+==================================
+``/`` 
+[ Everything/NN ]
+went/VBD real/RB smooth/JJ ''/'' ,/, 
+[ the/DT sheriff/NN ]
+said/VBD ./. 
+==================================
+
+==================================
+==================================
+``/`` There/RB was/VBD n't/RB 
+[ a/DT bit/NN ]
+of/IN 
+[ trouble/NN ]
+''/'' ./. 
+==================================
+==================================
+==================================

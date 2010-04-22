@@ -1,0 +1,1611 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Thirty-three/NNP Scotty/NNP ]
+did/VBD not/RB go/VB back/RB to/TO 
+[ school/NN ]
+./. 
+
+[ His/PRP$ parents/NNS ]
+talked/VBD seriously/RB and/CC lengthily/RB to/TO 
+[ their/PRP$ own/JJ doctor/NN ]
+and/CC to/TO 
+[ a/DT specialist/NN ]
+at/IN 
+[ the/DT University/NNP Hospital/NNP ]
+--/: 
+[ Mr./NNP McKinley/NNP ]
+was/VBD entitled/VBN to/TO 
+[ a/DT discount/NN ]
+for/IN 
+[ members/NNS ]
+of/IN 
+[ his/PRP$ family/NN ]
+--/: and/CC 
+[ it/PRP ]
+was/VBD decided/VBN 
+[ it/PRP ]
+would/MD be/VB best/JJS for/IN 
+[ him/PRP ]
+to/TO take/VB 
+[ the/DT remainder/NN ]
+of/IN 
+[ the/DT term/NN ]
+off/IN ,/, spend/VB 
+[ a/DT lot/NN ]
+of/IN 
+[ time/NN ]
+in/IN 
+[ bed/NN ]
+and/CC ,/, for/IN 
+[ the/DT rest/NN ]
+,/, do/VB pretty/RB much/RB as/IN 
+[ he/PRP ]
+chose/VBD --/: provided/VBN ,/, of/IN 
+[ course/NN ]
+,/, 
+[ he/PRP ]
+chose/VBD to/TO do/VB 
+[ nothing/NN ]
+too/RB exciting/JJ or/CC too/RB debilitating/JJ ./. 
+
+[ His/PRP$ teacher/NN ]
+and/CC 
+[ his/PRP$ school/NN principal/NN ]
+were/VBD conferred/VBN with/IN and/CC 
+[ everyone/NN ]
+agreed/VBD that/IN ,/, if/IN 
+[ he/PRP ]
+kept/VBD up/IN with/IN 
+[ a/DT certain/JJ amount/NN ]
+of/IN 
+[ work/NN ]
+at/IN 
+[ home/NN ]
+,/, 
+[ there/EX ]
+was/VBD 
+[ little/JJ danger/NN ]
+of/IN 
+[ his/PRP$ ]
+losing/VBG 
+[ a/DT term/NN ]
+./. 
+
+======================================
+
+[ Scotty/NN ]
+accepted/VBD 
+[ the/DT decision/NN ]
+with/IN 
+[ indifference/NN ]
+and/CC did/VBD not/RB enter/VB 
+[ the/DT arguments/NNS ]
+./. 
+
+======================================
+
+[ He/PRP ]
+was/VBD discharged/VBN from/IN 
+[ the/DT hospital/NN ]
+after/IN 
+[ a/DT two-day/JJ checkup/NN ]
+and/CC 
+[ he/PRP ]
+and/CC 
+[ his/PRP$ parents/NNS ]
+had/VBD 
+[ what/WP ]
+
+[ Mr./NNP McKinley/NNP ]
+described/VBD as/IN 
+[ a/DT ]
+``/`` 
+[ celebration/NN lunch/NN ]
+''/'' at/IN 
+[ the/DT cafeteria/NN ]
+on/IN 
+[ the/DT campus/NN ]
+./. 
+
+[ Rachel/NN ]
+wore/VBD 
+[ a/DT smart/JJ hat/NN ]
+and/CC ,/, because/IN 
+[ she/PRP ]
+had/VBD been/VBN warned/VBN recently/RB about/IN smoking/VBG ,/, puffed/VBN at/IN 
+[ her/PRP$ cigarettes/NNS ]
+through/IN 
+[ a/DT long/JJ ivory/NN holder/NN ]
+stained/VBN with/IN 
+[ lipstick/NN ]
+./. 
+
+[ Scotty/NN 's/POS father/NN ]
+sat/VBD sprawled/VBN in/IN 
+[ his/PRP$ chair/NN ]
+,/, 
+[ angular/JJ ]
+,/, alert/JJ as/IN 
+[ a/DT cricket/NN ]
+,/, looking/VBG about/IN at/IN 
+[ the/DT huge/JJ stainless-steel/JJ appointments/NNS ]
+of/IN 
+[ the/DT room/NN ]
+with/IN 
+[ an/DT expression/NN ]
+of/IN 
+[ proprietorship/NN ]
+./. 
+
+======================================
+
+[ Teachers/NNS ]
+--/: 
+[ men/NNS ]
+
+[ who/WP ]
+wore/VBD 
+[ brown/JJ suits/NNS ]
+and/CC had/VBD 
+[ gray/JJ hair/NN ]
+and/CC 
+[ pleasant/JJ smiles/NNS ]
+--/: came/VBD to/TO 
+[ their/PRP$ table/NN ]
+to/TO talk/VB 
+[ shop/NN ]
+and/CC to/TO be/VB introduced/VBN to/TO 
+[ Scotty/NNP ]
+and/CC 
+[ Rachel/NNP ]
+./. 
+
+[ Rachel/NNP ]
+was/VBD polite/JJ ,/, 
+[ Scotty/NNP indifferent/JJ ]
+./. 
+
+[ They/PRP ]
+ate/VBD 
+[ the/DT cafeteria/NN food/NN ]
+with/IN 
+[ its/PRP$ orange/JJ sauces/NNS ]
+and/CC 
+[ Scotty/NNP ]
+gazed/VBD without/IN 
+[ interest/NN ]
+at/IN 
+[ his/PRP$ food/NN ]
+,/, 
+[ the/DT teachers/NNS ]
+,/, 
+[ the/DT heroic/JJ baronial/JJ windows/NNS ]
+,/, and/CC 
+[ the/DT bright/JJ ranks/NNS ]
+of/IN 
+[ college/NN banners/NNS ]
+./. 
+
+[ His/PRP$ father/NN ]
+tried/VBD to/TO make/VB 
+[ the/DT food/NN ]
+
+[ a/DT topic/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT blueberry/NN pie/NN ]
+is/VBZ good/JJ ,/, 
+[ Scotty/NNP ]
+./. 
+
+[ I/PRP ]
+recommend/VB 
+[ it/PRP ]
+''/'' ./. 
+
+[ He/PRP ]
+looked/VBD at/IN 
+[ his/PRP$ son/NN ]
+,/, 
+[ his/PRP$ face/NN ]
+worried/VBD ./. 
+
+[ Scotty/NNP ]
+murmured/VBD ,/, ``/`` No/RB ,/, 
+[ thanks/NNS ]
+''/'' ,/, so/RB softly/RB 
+[ his/PRP$ father/NN ]
+had/VBD to/TO bend/VB 
+[ his/PRP$ gaunt/JJ height/NN ]
+across/IN 
+[ the/DT table/NN ]
+and/CC turn/VB 
+[ a/DT round/JJ brown/JJ ear/NN ]
+to/TO 
+[ him/PRP ]
+./. 
+
+[ Scotty/NNP ]
+regarded/VBD 
+[ the/DT ear/NN ]
+and/CC 
+[ the/DT grizzled/JJ hair/NN ]
+around/IN 
+[ it/PRP ]
+with/IN 
+[ a/DT moment/NN ]
+of/IN 
+[ interest/NN ]
+./. 
+
+[ He/PRP ]
+said/VBD more/RBR loudly/RB ,/, ``/`` 
+[ I/PRP ]
+'m/VBP full/JJ ,/, 
+[ old/JJ Pop/NN ]
+''/'' ./. 
+
+[ He/PRP ]
+had/VBD eaten/VBN almost/RB 
+[ nothing/NN ]
+on/IN 
+[ the/DT crested/JJ ]
+,/, 
+[ three-sectioned/JJ plate/NN ]
+and/CC had/VBD drunk/VBN about/IN 
+[ half/DT the/DT milk/NN ]
+in/IN 
+[ its/PRP$ paper/NN container/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ He/PRP ]
+'s/VBZ all/RB right/JJ ,/, 
+[ Craig/JJ ]
+''/'' ,/, 
+[ Rachel/NN ]
+said/VBD ./. 
+
+``/`` 
+[ I/PRP ]
+can/MD fix/VB 
+[ him/PRP ]
+
+[ something/NN ]
+later/RB in/IN 
+[ the/DT afternoon/NN ]
+when/WRB 
+[ we/PRP ]
+get/VB 
+[ home/NN ]
+''/'' ./. 
+
+======================================
+
+Since/IN 
+[ his/PRP$ seizure/NN ]
+,/, 
+[ Scotty/NN ]
+had/VBD had/VBN 
+[ little/JJ appetite/NN ]
+;/: ;/: yet/CC 
+[ his/PRP$ changed/VBN appearance/NN ]
+,/, surprisingly/RB ,/, was/VBD 
+[ one/CD ]
+of/IN 
+[ plumpness/NN ]
+./. 
+
+[ His/PRP$ face/NN ]
+was/VBD fuller/JJR ;/: ;/: 
+[ his/PRP$ lips/NNS ]
+and/CC 
+[ the/DT ]
+usually/RB 
+[ sharp/JJ lines/NNS ]
+of/IN 
+[ his/PRP$ jaw/NN ]
+had/VBD become/VBN 
+[ swollen-looking/JJ ]
+./. 
+
+[ He/PRP ]
+breathed/VBD now/RB with/IN 
+[ his/PRP$ mouth/NN open/NN ]
+,/, showing/VBG 
+[ a/DT ]
+whitely/RB curving/VBG 
+[ section/NN ]
+of/IN 
+[ lower/JJR teeth/NNS ]
+;/: ;/: 
+[ he/PRP ]
+kept/VBD 
+[ his/PRP$ eyes/NNS ]
+,/, with/IN 
+[ their/PRP$ ]
+puffed/VBN 
+[ blurred/JJ lids/NNS ]
+,/, always/RB lowered/VBN ,/, though/IN not/RB ,/, apparently/RB ,/, focusing/VBG ./. 
+
+Even/RB 
+[ his/PRP$ neck/NN ]
+seemed/VBD thicker/RB and/CC ,/, therefore/RB ,/, 
+[ shorter/JJR ]
+./. 
+
+[ His/PRP$ hands/NNS ]
+,/, 
+[ which/WDT ]
+had/VBD been/VBN as/RB quick/JJ as/IN 
+[ a/DT pair/NN ]
+of/IN fluttering/VBG 
+[ birds/NNS ]
+,/, were/VBD now/RB 
+[ neither/DT active/JJ ]
+nor/CC really/RB relaxed/VBN ./. 
+
+[ They/PRP ]
+lay/VBD on/IN 
+[ his/PRP$ lap/NN ]
+,/, 
+[ palms/NNS ]
+up/IN ,/, 
+[ stiffly/NN motionless/JJ ]
+,/, 
+[ the/DT tapered/VBN fingers/NNS ]
+
+[ a/DT little/RB thick/JJ ]
+at/IN 
+[ the/DT joints/NNS ]
+./. 
+
+Altogether/RB 
+[ he/PRP ]
+had/VBD ,/, since/IN 
+[ the/DT seizure/NN ]
+,/, 
+[ the/DT appearance/NN ]
+of/IN 
+[ a/DT boy/NN ]
+
+[ who/WP ]
+overindulged/VBD in/IN 
+[ food/NN ]
+and/CC took/VBD 
+[ no/DT exercise/NN ]
+./. 
+
+[ He/PRP ]
+looked/VBD 
+[ lazy/JJ ]
+,/, 
+[ spoiled/JJ ]
+,/, 
+[ a/DT little/RB querulous/JJ ]
+./. 
+
+======================================
+
+[ Rachel/NN ]
+had/VBD 
+[ little/JJ ]
+to/TO say/VB ./. 
+
+[ She/PRP ]
+greeted/VBD 
+[ her/PRP$ husband/NN 's/POS colleagues/NNS ]
+with/IN 
+[ smiling/VBG politeness/NN ]
+,/, offering/VBG 
+[ nothing/NN ]
+./. 
+
+[ Mr./NNP McKinley/NNP ]
+,/, for/IN 
+[ all/DT his/PRP$ ]
+sprawling/VBG and/CC 
+[ his/PRP$ easy/JJ familiarity/NN ]
+,/, was/VBD completely/RB alert/JJ to/TO 
+[ his/PRP$ son/NN ]
+,/, 
+[ eyes/NNS ]
+always/RB on/IN 
+[ the/DT still/JJ face/NN ]
+,/, jumping/VBG to/TO anticipate/VB 
+[ Scotty/NN 's/POS desires/NNS ]
+./. 
+
+[ It/PRP ]
+was/VBD 
+[ a/DT strained/JJ ]
+,/, 
+[ silent/JJ lunch/NN ]
+./. 
+
+======================================
+
+[ Rachel/NN ]
+said/VBD ,/, ``/`` 
+[ I/PRP ]
+'d/MD better/RB get/VB 
+[ him/PRP ]
+to/TO 
+[ bed/NN ]
+''/'' ./. 
+
+======================================
+
+[ The/DT doctors/NNS ]
+had/VBD suggested/VBN 
+[ Scotty/NN ]
+remain/VB most/RBS of/IN 
+[ every/DT afternoon/NN ]
+in/IN 
+[ bed/NN ]
+until/IN 
+[ he/PRP ]
+was/VBD stronger/JJR ./. 
+
+======================================
+
+Since/IN 
+[ Mr./NNP McKinley/NNP ]
+had/VBD to/TO give/VB 
+[ a/DT lecture/NN ]
+,/, 
+[ Rachel/NNP ]
+and/CC 
+[ Scotty/NNP ]
+drove/VBD 
+[ home/NN ]
+alone/RB in/IN 
+[ the/DT Plymouth/NN ]
+./. 
+
+[ They/PRP ]
+did/VBD not/RB speak/VB much/RB ./. 
+
+[ Scotty/NNP ]
+gazed/VBD out/IN at/IN 
+[ ugly/JJ gray/JJ slums/NNS ]
+and/CC said/VBD softly/RB ,/, ``/`` Look/VB at/IN 
+[ those/DT stupid/JJ kids/NNS ]
+''/'' ./. 
+
+[ It/PRP ]
+was/VBD 
+[ a/DT Negro/NNP section/NN ]
+of/IN 
+[ peeling/VBG row/NN houses/NNS ]
+,/, 
+[ store-front/JJ churches/NNS ]
+and/CC 
+[ ragged/JJ children/NNS ]
+./. 
+
+[ Rachel/NNP ]
+had/VBD to/TO bend/VB toward/IN 
+[ Scotty/NNP ]
+and/CC ask/VB 
+[ him/PRP ]
+to/TO repeat/VB ./. 
+
+[ He/PRP ]
+said/VBD ,/, ``/`` 
+[ Nothing/NN ]
+''/'' ./. 
+
+And/CC then/RB :/: ``/`` 
+[ There/EX ]
+are/VBP 
+[ lots/NNS ]
+of/IN 
+[ kids/NNS ]
+around/IN here/RB ''/'' ./. 
+
+======================================
+
+[ Scotty/NN ]
+looked/VBD at/IN 
+[ the/DT children/NNS ]
+,/, 
+[ his/PRP$ mouth/NN ]
+slightly/RB opened/VBN ,/, 
+[ his/PRP$ eyes/NNS ]
+dull/JJ ./. 
+
+[ He/PRP ]
+felt/VBD 
+[ tired/JJ ]
+and/CC 
+[ full/JJ ]
+and/CC 
+[ calm/JJ ]
+./. 
+
+======================================
+
+Thirty-four/IN 
+[ the/DT days/NNS ]
+seemed/VBD short/RB ,/, perhaps/RB because/IN 
+[ his/PRP$ routine/NN ]
+was/VBD ,/, 
+[ each/DT day/NN ]
+,/, almost/RB 
+[ the/DT same/JJ ]
+./. 
+
+[ He/PRP ]
+rose/VBD late/RB and/CC went/VBD down/IN in/IN 
+[ his/PRP$ bathrobe/NN ]
+and/CC 
+[ slippers/NNS ]
+to/TO have/VB 
+[ breakfast/NN ]
+
+[ either/DT ]
+alone/RB or/CC with/IN 
+[ Rachel/NN ]
+./. 
+
+[ Virginia/NNP ]
+treated/VBD 
+[ him/PRP ]
+with/IN 
+[ attention/NN ]
+and/CC tried/VBD to/TO tempt/VB 
+[ his/PRP$ appetite/NN ]
+with/IN 
+[ special/JJ food/NN ]
+:/: 
+[ biscuits/NNS ]
+,/, 
+[ cookies/NNS ]
+,/, 
+[ candies/NNS ]
+--/: 
+[ the/DT result/NN ]
+of/IN 
+[ devoted/VBN hours/NNS ]
+in/IN 
+[ the/DT tiled/JJ kitchen/NN ]
+./. 
+
+[ She/PRP ]
+would/MD hover/VB over/IN 
+[ him/PRP ]
+and/CC ,/, looking/VBG like/IN 
+[ her/PRP$ brother/NN ]
+,/, anxiously/RB watch/VB 
+[ the/DT progress/NN ]
+of/IN 
+[ Scotty/NN 's/POS fork/NN ]
+or/CC 
+[ spoon/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ You/PRP ]
+do/VBP n't/RB eat/VB enough/RB ,/, 
+[ honey/NN ]
+./. 
+
+Try/VB to/TO get/VB 
+[ that/DT ]
+down/IN ''/'' ./. 
+
+======================================
+
+[ Rachel/NN ]
+,/, observing/VBG ,/, would/MD say/VB ,/, ``/`` 
+[ He/PRP ]
+has/VBZ to/TO rediscover/VB 
+[ his/PRP$ own/JJ capacity/NN ]
+./. 
+
+[ It/PRP ]
+'ll/MD take/VB 
+[ time/NN ]
+''/'' ./. 
+
+======================================
+
+[ Virginia/NNP ]
+and/CC 
+[ Rachel/NNP ]
+talked/VBD to/TO 
+[ each/DT other/JJ ]
+quietly/RB now/RB ,/, as/IN 
+[ allies/NNS ]
+
+[ who/WP ]
+are/VBP political/JJ rather/RB than/IN 
+[ natural/NN ]
+might/MD in/IN 
+[ a/DT war/NN atmosphere/NN ]
+./. 
+
+[ Both/DT ]
+watched/VBD 
+[ Scotty/NNP ]
+constantly/RB ,/, 
+[ Rachel/NNP ]
+without/IN seeming/VBG to/TO ,/, 
+[ Virginia/NNP ]
+openly/RB ,/, 
+[ her/PRP$ eyes/NNS ]
+filled/VBN with/IN 
+[ concern/NN ]
+./. 
+
+[ Scotty/NNP ]
+was/VBD neutral/JJ ./. 
+
+[ He/PRP ]
+did/VBD not/RB resent/VB 
+[ their/PRP$ supervision/NN ]
+or/CC 
+[ Virginia/NNP ]
+'s/VBZ sometimes/RB tiring/VBG 
+[ sympathy/NN ]
+./. 
+
+[ He/PRP ]
+ate/VBD 
+[ what/WP ]
+
+[ he/PRP ]
+felt/VBD like/IN ,/, slept/VBD as/IN 
+[ much/JJ ]
+or/CC as/RB little/JJ as/IN 
+[ he/PRP ]
+pleased/VBD ,/, and/CC moved/VBD about/IN 
+[ the/DT draughty/JJ rooms/NNS ]
+of/IN 
+[ the/DT house/NN ]
+,/, when/WRB 
+[ he/PRP ]
+was/VBD not/RB in/IN 
+[ bed/NN ]
+,/, with/IN 
+[ slow/JJ ]
+,/, 
+[ dubious/JJ steps/NNS ]
+,/, like/IN 
+[ an/DT elderly/JJ tourist/NN ]
+in/IN 
+[ a/DT cathedral/NN ]
+./. 
+
+[ His/PRP$ energy/NN ]
+was/VBD gone/VBN ./. 
+
+[ He/PRP ]
+was/VBD able/JJ ,/, now/RB ,/, to/TO sit/VB for/IN 
+[ hours/NNS ]
+in/IN 
+[ a/DT chair/NN ]
+in/IN 
+[ the/DT living/VBG room/NN ]
+and/CC stare/VB out/IN at/IN 
+[ the/DT bleak/NN yard/NN ]
+without/IN moving/VBG ./. 
+
+[ His/PRP$ hands/NNS ]
+lay/VBD loosely/RB ,/, yet/RB 
+[ stiffly/NN ]
+--/: 
+[ they/PRP ]
+were/VBD like/IN 
+[ wax/NN hands/NNS ]
+:/: almost/RB lifelike/JJ ,/, not/RB quite/RB --/: folded/VBN in/IN 
+[ his/PRP$ lap/NN ]
+;/: ;/: 
+[ his/PRP$ mouth/NN ]
+hung/VBD slightly/RB open/JJ ./. 
+
+When/WRB 
+[ he/PRP ]
+was/VBD asked/VBN 
+[ a/DT question/NN ]
+or/CC addressed/VBN in/IN 
+[ such/JJ a/DT way/NN ]
+that/IN 
+[ some/DT response/NN ]
+was/VBD inescapable/JJ ,/, 
+[ he/PRP ]
+would/MD answer/VB ;/: ;/: if/IN ,/, as/IN often/RB happened/VBN ,/, 
+[ he/PRP ]
+had/VBD to/TO repeat/VB because/IN 
+[ he/PRP ]
+had/VBD spoken/VBN too/RB softly/RB ,/, 
+[ he/PRP ]
+would/MD repeat/VB 
+[ his/PRP$ words/NNS ]
+in/IN 
+[ the/DT same/JJ way/NN ]
+,/, without/IN 
+[ emphasis/NN ]
+or/CC 
+[ impatience/NN ]
+,/, only/RB 
+[ a/DT little/RB louder/JJR ]
+./. 
+
+======================================
+
+[ He/PRP ]
+had/VBD not/RB mentioned/VBN 
+[ Kate/NN ]
+./. 
+
+[ He/PRP ]
+had/VBD not/RB even/RB thought/VBD about/IN 
+[ her/PRP ]
+much/RB except/IN once/RB or/CC twice/RB at/IN 
+[ night/NN ]
+in/IN 
+[ bed/NN ]
+when/WRB 
+[ his/PRP$ ]
+slowly/RB ranging/VBG 
+[ thoughts/NNS ]
+would/MD abruptly/RB ,/, almost/RB accidentally/RB ,/, encounter/VB 
+[ her/PRP ]
+./. 
+
+At/IN 
+[ these/DT times/NNS ]
+
+[ he/PRP ]
+felt/VBD 
+[ a/DT kind/NN ]
+of/IN 
+[ pain/NN ]
+in/IN 
+[ his/PRP$ upper/JJ chest/NN ]
+,/, but/CC 
+[ it/PRP ]
+was/VBD 
+[ an/DT objective/JJ pain/NN ]
+,/, in/IN 
+[ no/DT way/NN ]
+different/JJ from/IN 
+[ others/NNS ]
+in/IN 
+[ intensity/NN ]
+and/CC not/RB different/JJ in/IN 
+[ kind/NN ]
+;/: ;/: 
+[ it/PRP ]
+was/VBD like/IN 
+[ the/DT bandaged/VBN wound/NN ]
+on/IN 
+[ the/DT back/NN ]
+of/IN 
+[ his/PRP$ head/NN ]
+
+[ which/WDT ]
+occasionally/RB throbbed/VBD ;/: ;/: 
+[ it/PRP ]
+was/VBD merely/RB 
+[ another/DT part/NN ]
+of/IN 
+[ his/PRP$ weakness/NN ]
+./. 
+
+[ He/PRP ]
+was/VBD calm/JJ ,/, drugged/VBN ,/, and/CC 
+[ lazy/JJ ]
+./. 
+
+[ He/PRP ]
+did/VBD not/RB 
+[ care/NN ]
+./. 
+
+======================================
+
+[ Rachel/JJ mentioned/VBN Kate/NN ]
+./. 
+
+[ She/PRP ]
+said/VBD ,/, ``/`` 
+[ I/PRP ]
+notice/VB 
+[ the/DT girl/NN ]
+from/IN across/IN 
+[ the/DT street/NN has/VBZ n't/RB ]
+bothered/VBD to/TO phone/VB or/CC visit/VB ''/'' ./. 
+
+======================================
+
+[ Scotty/NN ]
+said/VBD ,/, ``/`` 
+[ That/DT ]
+'s/VBZ all/RB right/JJ ./. 
+
+[ Kate/NN ]
+'s/VBZ all/RB right/JJ ''/'' ./. 
+
+[ He/PRP ]
+thought/VBD about/IN 
+[ it/PRP ]
+
+[ briefly/NN ]
+,/, then/RB deliberately/RB turned/VBD 
+[ the/DT talk/NN ]
+to/TO 
+[ something/NN ]
+else/RB ./. 
+
+======================================
+
+Once/RB ,/, sitting/VBG at/IN 
+[ the/DT front/JJ window/NN ]
+in/IN 
+[ his/PRP$ parents/NNS '/POS room/NN ]
+,/, 
+[ he/PRP ]
+saw/VBD 
+[ Kate/NNP ]
+come/VB out/IN of/IN 
+[ her/PRP$ house/NN ]
+./. 
+
+[ She/PRP ]
+was/VBD with/IN 
+[ Elizabeth/NNP ]
+./. 
+
+[ They/PRP ]
+were/VBD far/RB off/IN and/CC looked/VBD 
+[ tiny/JJ ]
+./. 
+
+[ The/DT heavy/NN branches/NNS ]
+in/IN 
+[ his/PRP$ front/JJ yard/NN ]
+would/MD hide/VB and/CC then/RB reveal/VB 
+[ them/PRP ]
+./. 
+
+[ They/PRP ]
+turned/VBD at/IN 
+[ the/DT bottom/NN ]
+of/IN 
+[ Kate/NNP 's/POS steps/NNS ]
+and/CC moved/VBD off/IN in/IN 
+[ the/DT direction/NN ]
+of/IN 
+[ the/DT park/NN ]
+./. 
+
+[ He/PRP ]
+thought/VBD 
+[ he/PRP ]
+saw/VBD --/: 
+[ it/PRP ]
+awakened/VBD and/CC ,/, for/IN 
+[ a/DT moment/NN ]
+,/, interested/VBD 
+[ him/PRP ]
+--/: that/IN 
+[ Elizabeth/NNP ]
+held/VBD 
+[ a/DT leash/NN ]
+in/IN 
+[ her/PRP$ hand/NN ]
+and/CC that/IN 
+[ a/DT round/JJ fuzzy/JJ puppy/NN ]
+was/VBD on/IN 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT leash/NN ]
+./. 
+
+Then/RB 
+[ they/PRP ]
+disappeared/VBD and/CC 
+[ Scotty/NN ]
+got/VBD up/IN and/CC went/VBD into/IN 
+[ his/PRP$ own/JJ room/NN ]
+and/CC got/VBD into/IN 
+[ bed/NN ]
+./. 
+
+By/IN 
+[ the/DT time/NN ]
+
+[ he/PRP ]
+was/VBD under/IN 
+[ the/DT covers/NNS ]
+
+[ he/PRP ]
+had/VBD forgotten/VBN about/IN seeing/VBG 
+[ Kate/NNP ]
+./. 
+
+======================================
+
+[ The/DT doctor/NN ]
+,/, since/IN 
+[ Scotty/NNP ]
+was/VBD 
+[ no/DT ]
+longer/RB allowed/VBN to/TO make/VB 
+[ his/PRP$ regular/JJ trips/NNS ]
+into/IN 
+[ town/NN ]
+to/TO see/VB 
+[ him/PRP ]
+,/, came/VBD often/RB and/CC informally/RB to/TO 
+[ the/DT house/NN ]
+./. 
+
+[ He/PRP ]
+would/MD sit/VB ,/, 
+[ slim-waisted/JJ ]
+and/CC 
+[ spare/JJ ]
+,/, on/IN 
+[ the/DT edge/NN ]
+of/IN 
+[ Scotty/NNP 's/POS bed/NN ]
+,/, 
+[ his/PRP$ legs/NNS ]
+crossed/VBD so/RB elaborately/RB that/IN 
+[ the/DT crossed/VBN foot/NN ]
+could/MD tap/VB 
+[ the/DT floor/NN ]
+./. 
+
+[ Scotty/NNP ]
+did/VBD not/RB 
+[ mind/NN ]
+
+[ the/DT doctor/NN 's/POS unsmiling/JJ teasing/NN ]
+as/IN 
+[ he/PRP ]
+used/VBD to/TO ./. 
+
+======================================
+
+``/`` 
+[ Husky/JJ young/JJ man/NN ]
+''/'' ,/, 
+[ he/PRP ]
+said/VBD with/IN 
+[ mock/JJ distaste/NN ]
+./. 
+
+``/`` 
+[ I/PRP ]
+imagine/VB 
+[ you/PRP ]
+'re/VBP always/RB battling/VBG in/IN 
+[ school/NN ]
+''/'' ./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+do/VBP n't/RB go/VB to/TO school/VB 
+[ any/DT more/JJR ]
+''/'' ./. 
+
+======================================
+
+``/`` 
+[ Pardon/NN ]
+''/'' ?/. ?/. 
+
+[ The/DT doctor/NN ]
+had/VBD to/TO bend/VB close/RB to/TO hear/VB ;/: ;/: 
+[ his/PRP$ delicate/JJ hand/NN ]
+,/, as/RB veined/JJ as/IN 
+[ a/DT moth/NN 's/POS wing/NN ]
+,/, rested/VBD absently/RB on/IN 
+[ Scotty/NNP 's/POS chest/NN ]
+./. 
+
+[ Scotty/NNP ]
+said/VBD 
+[ the/DT same/JJ words/NNS ]
+more/RBR loudly/RB ./. 
+
+``/`` Oh/UH ./. 
+
+Well/RB ,/, 
+[ we/PRP ]
+'re/VBP taking/VBG 
+[ a/DT little/JJ vacation/NN ]
+,/, 
+[ that/DT ]
+'s/VBZ 
+[ all/DT ]
+''/'' ./. 
+
+[ He/PRP ]
+turned/VBD unsmilingly/RB to/TO 
+[ Rachel/NN ]
+./. 
+
+``/`` 
+[ I/PRP ]
+think/VB by/IN 
+[ the/DT end/NN ]
+of/IN 
+[ next/JJ week/NN ]
+
+[ he/PRP ]
+could/MD get/VB out/IN in/IN 
+[ the/DT air/NN ]
+
+[ a/DT little/JJ ]
+./. 
+
+[ He/PRP ]
+could/MD now/RB but/CC 
+[ the/DT weakness/NN ]
+is/VBZ very/RB definite/JJ ;/: ;/: 
+[ it/PRP ]
+would/MD exhaust/VB 
+[ him/PRP ]
+further/RB and/CC unnecessarily/RB ./. 
+
+[ He/PRP ]
+'ll/MD be/VB stronger/JJR soon/RB ''/'' ./. 
+
+[ His/PRP$ stethoscope/NN ]
+was/VBD on/IN 
+[ the/DT table/NN ]
+by/IN 
+[ Scotty/NNP 's/POS bed/NN ]
+and/CC 
+[ he/PRP ]
+picked/VBD 
+[ it/PRP ]
+up/IN and/CC wagged/VBD 
+[ it/PRP ]
+at/IN 
+[ Scotty/NNP ]
+./. 
+
+[ He/PRP ]
+said/VBD fussily/RB ,/, ``/`` Just/RB keep/VB 
+[ the/DT cap/NN ]
+on/IN 
+[ those/DT strong/JJ emotions/NNS ]
+''/'' ./. 
+
+[ The/DT stethoscope/NN ]
+glinted/VBD 
+[ silver/NN ]
+in/IN 
+[ the/DT darkening/VBG room/NN ]
+./. 
+
+``/`` 
+[ I/PRP ]
+'ll/MD drop/VB by/IN again/RB in/IN 
+[ a/DT few/JJ days/NNS ]
+''/'' ./. 
+
+======================================
+
+[ Rachel/NN ]
+stayed/VBD on/IN after/IN 
+[ the/DT doctor/NN ]
+had/VBD gone/VBN ./. 
+
+[ She/PRP ]
+smoothed/VBD 
+[ the/DT covers/NNS ]
+on/IN 
+[ Scotty/NNP 's/POS bed/NN ]
+and/CC picked/VBD 
+[ things/NNS ]
+up/IN from/IN 
+[ the/DT floor/NN ]
+./. 
+
+[ She/PRP ]
+did/VBD not/RB touch/VB 
+[ him/PRP ]
+./. 
+
+[ Scotty/NNP ]
+watched/VBD with/IN 
+[ disinterest/NN ]
+./. 
+
+[ He/PRP ]
+did/VBD not/RB speak/VB ./. 
+
+[ He/PRP ]
+had/VBD 
+[ no/DT desire/NN ]
+to/TO ./. 
+
+======================================
+
+[ She/PRP ]
+said/VBD ,/, ``/`` Do/VB 
+[ you/PRP ]
+think/VB 
+[ you/PRP ]
+'ll/MD miss/VB 
+[ school/NN ]
+''/'' ?/. ?/. 
+
+======================================
+
+[ He/PRP ]
+had/VBD noticed/VBN how/WRB formal/JJ and/CC irritably/RB 
+[ exact/JJ Rachel/NN ]
+had/VBD grown/VBN ./. 
+
+[ He/PRP ]
+did/VBD not/RB 
+[ care/NN ]
+./. 
+
+[ He/PRP ]
+felt/VBD 
+[ her/PRP$ irritability/NN ]
+did/VBD not/RB concern/VB 
+[ him/PRP ]
+,/, yet/CC 
+[ he/PRP ]
+knew/VBD 
+[ he/PRP ]
+would/MD not/RB care/VB even/RB if/IN 
+[ it/PRP ]
+did/VBD ./. 
+
+[ He/PRP ]
+shook/VBD 
+[ his/PRP$ head/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+'ve/VB had/VBD 
+[ any/DT number/NN ]
+of/IN 
+[ calls/NNS ]
+about/IN 
+[ you/PRP ]
+./. 
+
+[ You/PRP ]
+could/MD win/VB 
+[ a/DT popularity/NN contest/NN ]
+at/IN 
+[ that/DT school/NN ]
+without/IN 
+[ any/DT trouble/NN ]
+./. 
+
+[ Miss/NNP Estherson/NNP ]
+called/VBN twice/RB ./. 
+
+[ She/PRP ]
+wants/VBZ to/TO pay/VB 
+[ you/PRP ]
+
+[ a/DT visit/NN ]
+./. 
+
+[ She/PRP ]
+says/VBZ 
+[ the/DT children/NNS ]
+miss/VB 
+[ you/PRP ]
+./. 
+
+Apparently/RB 
+[ you/PRP ]
+were/VBD 
+[ the/DT light/NN ]
+of/IN 
+[ their/PRP$ lives/NNS ]
+''/'' ./. 
+
+======================================
+
+[ Scotty/NN ]
+shrugged/VBD slightly/RB ./. 
+
+[ Rachel/NN ]
+came/VBD close/RB to/TO 
+[ the/DT bed/NN ]
+,/, bent/VBD as/IN if/IN 
+[ she/PRP ]
+would/MD kiss/VB 
+[ him/PRP ]
+,/, then/RB moved/VBN away/RB ./. 
+
+[ She/PRP ]
+was/VBD frowning/VBG ./. 
+
+``/`` 
+[ That/DT doctor/NN ]
+annoys/VBZ 
+[ me/PRP ]
+''/'' ./. 
+
+[ She/PRP ]
+seemed/VBD to/TO speak/VB to/TO 
+[ herself/PRP ]
+./. 
+
+``/`` Do/VB 
+[ you/PRP ]
+suppose/VB 
+[ his/PRP$ self-consciousness/NN ]
+is/VBZ characteristic/JJ of/IN 
+[ the/DT new/JJ Negro/NNP professionals/NNS ]
+or/CC merely/RB of/IN 
+[ doctors/NNS ]
+in/IN 
+[ general/JJ ]
+''/'' ?/. ?/. 
+
+======================================
+
+[ She/PRP ]
+turned/VBD to/TO 
+[ him/PRP ]
+again/RB ./. 
+
+``/`` Well/RB ,/, 
+[ Mrs./NNP Charles/NNP ]
+--/: 
+[ Sally/NN ]
+--/: has/VBZ phoned/VBN too/RB ./. 
+
+[ She/PRP ]
+was/VBD very/RB worried/VBN ''/'' ./. 
+
+[ Rachel/NN 's/POS tone/NN ]
+was/VBD dry/JJ ./. 
+
+``/`` 
+[ She/PRP ]
+did/VBD n't/RB really/RB say/VB ''/'' --/: 
+[ She/PRP ]
+glanced/VBD away/RB at/IN 
+[ the/DT floor/NN ]
+,/, then/RB swooped/VBD gracefully/RB and/CC picked/VBD up/IN 
+[ one/CD ]
+of/IN 
+[ Scotty/NN 's/POS slippers/NNS ]
+./. 
+
+``/`` 
+[ I/PRP ]
+mean/VB ,/, do/VB 
+[ you/PRP ]
+feel/VB like/IN seeing/VBG 
+[ Kate/NN ]
+''/'' ?/. ?/. 
+
+======================================
+
+[ Scotty/NN ]
+said/VBD ,/, ``/`` 
+[ I/PRP ]
+do/VBP n't/RB know/VB ''/'' ./. 
+
+[ It/PRP ]
+was/VBD true/JJ ./. 
+
+[ He/PRP ]
+did/VBD not/RB ./. 
+
+[ There/EX ]
+was/VBD 
+[ the/DT slight/JJ pain/NN ]
+,/, but/CC 
+[ it/PRP ]
+was/VBD no/RB different/JJ from/IN 
+[ the/DT throbbing/NN ]
+in/IN 
+[ his/PRP$ head/NN ]
+./. 
+
+======================================
+
+``/`` Well/RB ,/, 
+[ there/EX ]
+'s/VBZ 
+[ time/NN ]
+,/, in/IN 
+[ any/DT case/NN ]
+./. 
+
+[ We/PRP ]
+'ll/MD wait/VB till/IN 
+[ you/PRP ]
+'re/VBP stronger/JJR and/CC then/RB talk/VB about/IN 
+[ it/PRP ]
+''/'' ./. 
+
+[ She/PRP ]
+put/VBD 
+[ the/DT slipper/NN ]
+neatly/RB by/IN 
+[ its/PRP$ mate/NN ]
+at/IN 
+[ the/DT foot/NN ]
+of/IN 
+[ the/DT bed/NN ]
+./. 
+
+======================================
+
+[ Scotty/NN ]
+said/VBD ,/, ``/`` 
+[ Okay/JJ ]
+''/'' ./. 
+
+======================================
+
+[ This/DT time/NN Rachel/NN ]
+kissed/VBD 
+[ him/PRP ]
+lightly/RB on/IN 
+[ the/DT forehead/NN ]
+./. 
+
+[ Scotty/NN ]
+was/VBD pleased/VBN ./. 
+
+======================================
+
+[ His/PRP$ father/NN ]
+was/VBD 
+[ a/DT constant/JJ visitor/NN ]
+./. 
+
+[ Scotty/NN ]
+would/MD hear/VB 
+[ the/DT front/JJ door/NN ]
+in/IN 
+[ the/DT evening/NN ]
+and/CC then/RB 
+[ his/PRP$ father/NN 's/POS deep/JJ slow/JJ voice/NN ]
+;/: ;/: 
+[ it/PRP ]
+floated/VBD up/IN 
+[ the/DT stairs/NNS ]
+./. 
+
+======================================
+
+``/`` How/WRB 
+[ 's/POS Scotty/NN ]
+''/'' ?/. ?/. 
+
+======================================
+
+And/CC 
+[ Rachel/NNP 's/POS ]
+or/CC 
+[ Virginia/NNP 's/POS reply/NN ]
+:/: ``/`` better/RB ./. 
+
+[ He/PRP ]
+
+[ 's/POS getting/VBG plenty/NN ]
+of/IN 
+[ rest/NN ]
+''/'' ./. 
+
+======================================
+
+``/`` Is/VBZ 
+[ his/PRP$ appetite/NN ]
+improved/VBN ''/'' ?/. ?/. 
+
+Or/CC :/: ``/`` Does/VBZ 
+[ he/PRP ]
+get/VB exercise/VB ''/'' ?/. ?/. 
+
+======================================
+
+[ The/DT exchange/NN ]
+was/VBD almost/RB invariable/JJ ,/, and/CC 
+[ Scotty/NNP ]
+,/, in/IN 
+[ his/PRP$ bed/NN ]
+,/, could/MD hear/VB 
+[ every/DT word/NN ]
+of/IN 
+[ it/PRP ]
+./. 
+
+[ He/PRP ]
+never/RB smiled/VBD ./. 
+
+[ It/PRP ]
+required/VBD 
+[ an/DT energy/NN ]
+
+[ he/PRP ]
+no/RB longer/RB possessed/VBN to/TO be/VB satirical/JJ about/IN 
+[ his/PRP$ father/NN ]
+./. 
+
+[ His/PRP$ father/NN ]
+would/MD come/VB 
+[ upstairs/NN ]
+and/CC stand/VB self-consciously/RB at/IN 
+[ the/DT foot/NN ]
+of/IN 
+[ the/DT bed/NN ]
+and/CC 
+[ look/NN ]
+at/IN 
+[ his/PRP$ son/NN ]
+./. 
+
+After/IN 
+[ a/DT pause/NN ]
+,/, during/IN 
+[ which/WDT ]
+
+[ he/PRP ]
+studied/VBD 
+[ Scotty/NNP 's/POS face/NN ]
+as/IN if/IN 
+[ Scotty/NNP ]
+were/VBD not/RB there/RB and/CC could/MD not/RB study/VB 
+[ him/PRP ]
+too/RB ,/, 
+[ Mr./NNP McKinley/NNP ]
+would/MD ask/VB 
+[ the/DT same/JJ questions/NNS ]
+
+[ he/PRP ]
+had/VBD asked/VBN 
+[ downstairs/NN ]
+./. 
+
+======================================
+
+[ Scotty/NN ]
+would/MD reply/VB softly/RB and/CC 
+[ his/PRP$ father/NN ]
+,/, apologetically/RB ,/, would/MD ask/VB 
+[ him/PRP ]
+to/TO repeat/VB ./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+'m/VBP eating/VBG more/RBR ''/'' ,/, 
+[ he/PRP ]
+would/MD say/VB ./. 
+
+Or/CC :/: ``/`` 
+[ I/PRP ]
+walk/VB around/IN 
+[ the/DT house/NN ]
+
+[ a/DT lot/NN ]
+''/'' ./. 
+
+======================================
+
+``/`` Perhaps/RB 
+[ you/PRP ]
+should/MD get/VB out/IN 
+[ a/DT little/JJ ]
+''/'' ./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+'m/VBP not/RB supposed/VBN to/TO yet/RB ''/'' ./. 
+
+[ He/PRP ]
+was/VBD not/RB irritated/VBN ./. 
+
+[ He/PRP ]
+did/VBD not/RB 
+[ mind/NN ]
+
+[ the/DT useless/JJ ]
+,/, 
+[ kindly/JJ questions/NNS ]
+./. 
+
+[ He/PRP ]
+looked/VBD at/IN 
+[ the/DT lined/VBN face/NN ]
+with/IN 
+[ vague/JJ interest/NN ]
+;/: ;/: 
+[ he/PRP ]
+felt/VBD 
+[ he/PRP ]
+was/VBD noting/VBG 
+[ it/PRP ]
+,/, as/IN if/IN 
+[ it/PRP ]
+were/VBD 
+[ something/NN ]
+
+[ he/PRP ]
+might/MD think/VB about/IN when/WRB 
+[ he/PRP ]
+grew/VBD 
+[ stronger/JJR ]
+./. 
+
+======================================
+
+[ Mr./NNP McKinley/NNP ]
+examined/VBD 
+[ everything/NN ]
+with/IN 
+[ critical/JJ care/NN ]
+,/, seeking/VBG 
+[ something/NN ]
+material/JJ to/TO blame/VB for/IN 
+[ his/PRP$ son/NN 's/POS illness/NN ]
+./. 
+
+======================================
+
+``/`` Have/VB 
+[ you/PRP ]
+got/VBD 
+[ enough/JJ blankets/NNS ]
+''/'' ?/. ?/. 
+
+And/CC 
+[ another/DT time/NN ]
+,/, without/IN 
+[ accusation/NN ]
+:/: ``/`` 
+[ You/PRP ]
+never/RB wore/VBD 
+[ that/DT scarf/NN ]
+
+[ I/PRP ]
+bought/VBD 
+[ you/PRP ]
+''/'' ./. 

@@ -1,0 +1,1551 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ Plainfield/NNP ]
+--/: 
+[ James/NNP P./NNP Mitchell/NNP ]
+and/CC 
+[ Sen./NNP Walter/NNP H./NNP Jones/NNP R-Bergen/NNP ]
+,/, 
+[ last/JJ night/NN ]
+disagreed/VBD on/IN 
+[ the/DT value/NN ]
+of/IN using/VBG as/IN 
+[ a/DT campaign/NN issue/NN ]
+
+[ a/DT remark/NN ]
+by/IN 
+[ Richard/NNP J./NNP Hughes/NNP ]
+,/, 
+[ Democratic/NNP gubernatorial/JJ candidate/NN ]
+,/, that/IN 
+[ the/DT GOP/NNP ]
+is/VBZ ``/`` Campaigning/VBG on/IN 
+[ the/DT carcass/NN ]
+of/IN 
+[ Eisenhower/NNP Republicanism/NNP ]
+''/'' ./. 
+==================================
+
+[ Mitchell/NNP ]
+was/VBD for/IN using/VBG 
+[ it/PRP ]
+,/, 
+[ Jones/NNP ]
+against/IN ,/, and/CC 
+[ Sen./NNP Wayne/NNP Dumont/NNP Jr/NNP ]
+./. 
+==================================
+
+[ R-Warren/NNP ]
+did/VBD not/RB mention/VB 
+[ it/PRP ]
+when/WRB 
+[ the/DT three/CD Republican/NNP gubernatorial/JJ candidates/NNS ]
+spoke/VBD at/IN 
+[ staggered/JJ intervals/NNS ]
+before/IN 
+[ 100/CD persons/NNS ]
+at/IN 
+[ the/DT Park/NNP Hotel/NNP ]
+./. 
+==================================
+
+[ The/DT controversial/JJ remark/NN ]
+was/VBD first/RB made/VBN 
+[ Sunday/NNP ]
+by/IN 
+[ Hughes/NNP ]
+at/IN 
+[ a/DT Westfield/NNP Young/NNP Democratic/NNP Club/NNP cocktail/NN party/NN ]
+at/IN 
+[ the/DT Scotch/NNP Plains/NNP Country/NNP Club/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD greeted/VBN with/IN 
+[ a/DT chorus/NN ]
+of/IN 
+[ boos/NNS ]
+by/IN 
+[ 500/CD women/NNS ]
+in/IN 
+[ Trenton/NNP Monday/NNP ]
+at/IN 
+[ a/DT forum/NN ]
+of/IN 
+[ the/DT State/NNP Federation/NNP ]
+of/IN 
+[ Women/NNP 's/POS Clubs/NNS ]
+./. 
+==================================
+
+[ Hughes/NNP ]
+said/VBD 
+[ Monday/NNP ]
+,/, ``/`` 
+[ It/PRP ]
+is/VBZ 
+[ the/DT apparent/JJ intention/NN ]
+of/IN 
+[ the/DT Republican/NNP Party/NNP ]
+to/TO campaign/VB on/IN 
+[ the/DT carcass/NN ]
+of/IN 
+[ what/WP ]
+
+[ they/PRP ]
+call/VBP 
+[ Eisenhower/NNP Republicanism/NNP ]
+,/, but/CC 
+[ the/DT heart/NN ]
+stopped/VBD 
+[ beating/VBG ]
+and/CC 
+[ the/DT lifeblood/NN ]
+congealed/VBD after/IN 
+[ Eisenhower/NNP ]
+retired/VBD ./. 
+==================================
+
+==================================
+==================================
+Now/RB 
+[ he/PRP ]
+'s/VBZ gone/VBN ,/, 
+[ the/DT Republican/NNP Party/NNP ]
+is/VBZ not/RB going/VBG to/TO be/VB able/JJ to/TO sell/VB 
+[ the/DT tattered/JJ remains/NNS ]
+to/TO 
+[ the/DT people/NNS ]
+of/IN 
+[ the/DT state/NN ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ Sunday/NNP ]
+
+[ he/PRP ]
+had/VBD added/VBN ,/, ``/`` 
+[ We/PRP ]
+can/MD love/VB 
+[ Eisenhower/NNP ]
+
+[ the/DT man/NN ]
+,/, even/RB if/IN 
+[ we/PRP ]
+considered/VBD 
+[ him/PRP ]
+
+[ a/DT mediocre/JJ president/NN ]
+but/CC 
+[ there/EX ]
+is/VBZ 
+[ nothing/NN ]
+left/VBN of/IN 
+[ the/DT Republican/NNP Party/NNP ]
+without/IN 
+[ his/PRP$ leadership/NN ]
+''/'' ./. 
+==================================
+
+[ Mitchell/NNP ]
+said/VBD 
+[ the/DT statement/NN ]
+should/MD become/VB 
+[ a/DT major/JJ issue/NN ]
+in/IN 
+[ the/DT primary/NN ]
+and/CC 
+[ the/DT fall/NN campaign/NN ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` How/WRB can/MD 
+[ a/DT man/NN ]
+with/IN 
+[ any/DT degree/NN ]
+of/IN 
+[ common/JJ decency/NN ]
+charge/VB 
+[ this/DT ]
+''/'' ?/. ?/. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+asked/VBD ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT former/JJ secretary/NN ]
+of/IN 
+[ labor/NN ]
+said/VBD 
+[ he/PRP ]
+was/VBD proud/JJ to/TO be/VB 
+[ an/DT Eisenhower/NNP Republican/NNP ]
+``/`` and/CC proud/JJ to/TO have/VB absorbed/VBN 
+[ his/PRP$ philosophy/NN ]
+''/'' while/IN working/VBG in/IN 
+[ his/PRP$ adminstration/NN ]
+./. 
+==================================
+
+[ Mitchell/NNP ]
+said/VBD 
+[ the/DT closeness/NN ]
+of/IN 
+[ the/DT outcome/NN ]
+in/IN 
+[ last/JJ fall/NN 's/POS Presidential/JJ election/NN ]
+did/VBD not/RB mean/VB that/IN 
+[ Eisenhower/NNP Republicanism/NNP ]
+was/VBD 
+[ a/DT dead/JJ issue/NN ]
+./. 
+==================================
+
+[ Regrets/VBZ ]
+attack/NN 
+[ Jones/NNP ]
+said/VBD 
+[ he/PRP ]
+regretted/VBD 
+[ Hughes/NNP ]
+had/VBD made/VBN 
+[ a/DT personal/JJ attack/NN ]
+on/IN 
+[ a/DT past/JJ president/NN ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ He/PRP ]
+is/VBZ wrong/JJ to/TO inject/VB 
+[ Eisenhower/NNP ]
+into/IN 
+[ this/DT campaign/NN ]
+''/'' ,/, 
+[ he/PRP ]
+said/VBD ,/, ``/`` because/IN 
+[ the/DT primary/NN ]
+is/VBZ being/VBG waged/VBN on/IN 
+[ state/NN issues/NNS ]
+and/CC 
+[ I/PRP ]
+will/MD not/RB be/VB forced/VBN into/IN 
+[ re-arguing/VBG ]
+
+[ an/DT old/JJ national/JJ campaign/NN ]
+''/'' ./. 
+==================================
+
+[ The/DT audience/NN last/JJ night/NN ]
+did/VBD not/RB respond/VB with/IN 
+[ either/DT applause/NN ]
+or/CC boos/NNS to/TO mention/NN of/IN 
+[ Hughes/NNP '/POS remark/NN ]
+./. 
+==================================
+
+[ Dumont/NNP ]
+spoke/VBD on/IN 
+[ the/DT merit/NN ]
+of/IN having/VBG 
+[ an/DT open/JJ primary/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+then/RB launched/VBD into/IN 
+[ what/WP ]
+
+[ the/DT issues/NNS ]
+should/MD be/VB in/IN 
+[ the/DT campaign/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ State/NN aid/NN ]
+to/TO 
+[ schools/NNS ]
+,/, 
+[ the/DT continuance/NN ]
+of/IN 
+[ railroad/NN passenger/NN service/NN ]
+,/, 
+[ the/DT proper/JJ uses/NNS ]
+of/IN 
+[ surplus/JJ funds/NNS ]
+of/IN 
+[ the/DT Port/NNP ]
+of/IN 
+[ New/NNP York/NNP Authority/NNP ]
+,/, and/CC making/VBG 
+[ New/NNP Jersey/NNP attractive/JJ ]
+to/TO 
+[ new/JJ industry/NN ]
+./. 
+==================================
+
+[ Decries/VBZ joblessness/NN Mitchell/NNP ]
+decried/VBD 
+[ the/DT high/JJ rate/NN ]
+of/IN 
+[ unemployment/NN ]
+in/IN 
+[ the/DT state/NN ]
+and/CC said/VBD 
+[ the/DT Meyner/NNP administration/NN ]
+and/CC 
+[ the/DT Republican-controlled/JJ State/NNP Senate/NNP ]
+``/`` Must/MD share/VB 
+[ the/DT blame/NN ]
+for/IN 
+[ this/DT ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+Noting/VBG that/IN 
+[ Plainfield/NNP last/JJ year/NN ]
+had/VBD lost/VBN 
+[ the/DT Mack/NNP Truck/NNP Co./NNP plant/NN ]
+,/, 
+[ he/PRP ]
+said/VBD 
+[ industry/NN ]
+will/MD not/RB come/VB into/IN 
+[ this/DT state/NN ]
+until/IN 
+[ there/EX ]
+is/VBZ 
+[ tax/NN reform/NN ]
+./. 
+==================================
+``/`` But/CC 
+[ I/PRP ]
+am/VBP not/RB in/IN 
+[ favor/NN ]
+of/IN 
+[ a/DT sales/NNS ]
+or/CC 
+[ state/NN income/NN tax/NN ]
+at/IN 
+[ this/DT time/NN ]
+''/'' ,/, 
+[ Mitchell/NNP ]
+said/VBD ./. 
+==================================
+
+[ Jones/NNP ]
+,/, unhappy/JJ that/IN 
+[ the/DT candidates/NNS ]
+were/VBD limited/VBN to/TO 
+[ eight/CD minutes/NNS ]
+for/IN 
+[ a/DT speech/NN ]
+and/CC 
+[ no/DT audience/NN questions/NNS ]
+,/, saved/VBD 
+[ his/PRP$ barbs/NNS ]
+for/IN 
+[ Mitchell/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+said/VBD 
+[ Mitchell/NNP ]
+is/VBZ against/IN 
+[ the/DT centralization/NN ]
+of/IN 
+[ government/NN ]
+in/IN 
+[ Washington/NNP ]
+but/CC looks/VBZ to/TO 
+[ the/DT Kennedy/NNP Administration/NNP ]
+for/IN 
+[ aid/NN ]
+to/TO meet/VB 
+[ New/NNP Jersey/NNP school/NN ]
+and/CC 
+[ transportation/NN crises/NNS ]
+./. 
+==================================
+``/`` 
+[ He/PRP ]
+calls/VBZ for/IN 
+[ help/NN ]
+while/IN saying/VBG 
+[ he/PRP ]
+is/VBZ against/IN 
+[ centralization/NN ]
+,/, but/CC 
+[ you/PRP ]
+ca/MD n't/RB have/VB 
+[ it/PRP ]
+
+[ both/DT ]
+
+[ ways/NNS ]
+''/'' ,/, 
+[ Jones/NNP ]
+said/VBD ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT state/NN ]
+is/VBZ now/RB faced/VBN with/IN 
+[ the/DT immediate/JJ question/NN ]
+of/IN raising/VBG 
+[ new/JJ taxes/NNS ]
+whether/IN on/IN 
+[ utilities/NNS ]
+,/, 
+[ real/JJ estate/NN ]
+or/CC 
+[ motor/NN vehicles/NNS ]
+,/, 
+[ he/PRP ]
+said/VBD ,/, ``/`` and/CC 
+[ I/PRP ]
+challenge/VBP 
+[ Mitchell/NNP ]
+to/TO tell/VB 
+[ the/DT people/NNS ]
+where/WRB 
+[ he/PRP ]
+stands/VBZ on/IN 
+[ the/DT tax/NN issue/NN ]
+''/'' ./. 
+==================================
+
+[ Defends/VBZ Ike/NNP ]
+Earlier/RB ,/, 
+[ Mitchell/NNP ]
+said/VBD in/IN 
+[ a/DT statement/NN ]
+:/: ``/`` 
+[ I/PRP ]
+think/VBP that/IN 
+[ all/DT Americans/NNPS ]
+will/MD resent/VB deeply/RB 
+[ the/DT statements/NNS ]
+made/VBN about/IN 
+[ President/NNP Eisenhower/NNP ]
+by/IN 
+[ Richard/NNP J./NNP Hughes/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ His/PRP$ reference/NN ]
+to/TO '/'' discredited/VBN 
+[ carcass/NN '/POS ]
+or/CC '/'' tattered/VBN 
+[ remains/NNS '/POS ]
+of/IN 
+[ the/DT president/NN 's/POS leadership/NN ]
+is/VBZ 
+[ an/DT insult/NN ]
+to/TO 
+[ the/DT man/NN ]
+
+[ who/WP ]
+led/VBD 
+[ our/PRP$ forces/NNS ]
+to/TO 
+[ victory/NN ]
+in/IN 
+[ the/DT greatest/JJS war/NN ]
+in/IN 
+[ all/DT history/NN ]
+,/, to/TO 
+[ the/DT man/NN ]
+
+[ who/WP ]
+was/VBD twice/RB elected/VBN overwhelmingly/RB by/IN 
+[ the/DT American/JJ people/NNS ]
+as/IN 
+[ president/NN ]
+of/IN 
+[ the/DT United/NNP States/NNP ]
+,/, and/CC 
+[ who/WP ]
+has/VBZ been/VBN 
+[ the/DT symbol/NN ]
+to/TO 
+[ the/DT world/NN ]
+of/IN 
+[ the/DT peace-loving/JJ intentions/NNS ]
+of/IN 
+[ the/DT free/JJ nations/NNS ]
+./. 
+==================================
+``/`` 
+[ I/PRP ]
+find/VBP 
+[ it/PRP ]
+hard/JJ to/TO understand/VB how/WRB 
+[ anyone/NN ]
+seeking/VBG 
+[ a/DT position/NN ]
+in/IN 
+[ public/JJ life/NN ]
+could/MD demonstrate/VB 
+[ such/JJ poor/JJ judgment/NN ]
+and/CC 
+[ bad/JJ taste/NN ]
+./. 
+==================================
+``/`` 
+[ Such/JJ a/DT vicious/JJ statement/NN ]
+can/MD only/RB have/VB 
+[ its/PRP$ origin/NN ]
+in/IN 
+[ the/DT desire/NN ]
+of/IN 
+[ a/DT new/JJ political/JJ candidate/NN ]
+to/TO try/VB to/TO make/VB 
+[ his/PRP$ name/NN ]
+known/VBN by/IN condemning/VBG 
+[ a/DT man/NN ]
+of/IN 
+[ world/NN stature/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+can/MD only/RB rebound/VB to/TO 
+[ Mr./NNP Hughes/NNP '/POS discredit/NN ]
+''/'' ./. 
+==================================
+
+[ Sees/VBZ Jones/NNP ]
+ahead/RB 
+[ Sen./NNP Charles/NNP W./NNP Sandman/NNP ]
+,/, 
+[ R-Cape/NNP May/NNP ]
+,/, said/VBD 
+[ today/RB Jones/NNP ]
+will/MD run/VB well/RB ahead/RB of/IN 
+[ his/PRP$ GOP/NNP opponents/NNS ]
+for/IN 
+[ the/DT gubernatorial/JJ nomination/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Sandman/NNP ]
+,/, 
+[ state/NN campaign/NN chairman/NN ]
+for/IN 
+[ Jones/NNP ]
+,/, was/VBD addressing/VBG 
+[ a/DT meeting/NN ]
+in/IN 
+[ the/DT Military/NNP Park/NNP Hotel/NNP ]
+,/, 
+[ Newark/NNP ]
+,/, of/IN 
+[ Essex/NNP County/NNP leaders/NNS ]
+and/CC 
+[ campaign/NN managers/NNS ]
+for/IN 
+[ Jones/NNP ]
+./. 
+==================================
+
+[ Sandman/NNP ]
+told/VBD 
+[ the/DT gathering/NN ]
+that/IN 
+[ reports/NNS ]
+from/IN 
+[ workers/NNS ]
+on/IN 
+[ a/DT local/JJ level/NN ]
+
+[ all/DT ]
+over/IN 
+[ the/DT state/NN ]
+indicate/VBP that/IN 
+[ Jones/NNP ]
+will/MD be/VB chosen/VBN 
+[ the/DT Republican/NNP Party/NNP 's/POS nominee/NN ]
+with/IN 
+[ the/DT largest/JJS majority/NN ]
+given/VBN 
+[ a/DT candidate/NN ]
+in/IN 
+[ recent/JJ years/NNS ]
+./. 
+==================================
+
+[ Sandman/NNP ]
+said/VBD :/: ``/`` 
+[ The/DT announcement/NN ]
+that/IN 
+[ Sen./NNP Clifford/NNP Case/NNP A[fj]/SYM ]
+,/, has/VBZ decided/VBN to/TO spend/VB 
+[ all/DT his/PRP$ available/JJ time/NN ]
+campaigning/VBG for/IN 
+[ Mr./NNP Mitchell/NNP ]
+is/VBZ 
+[ a/DT dead/JJ giveaway/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ 
+[ a/DT desperate/JJ effort/NN ]
+to/TO prop/VB up/IN 
+[ a/DT sagging/VBG candidate/NN ]
+
+[ who/WP ]
+has/VBZ proven/VBN 
+[ he/PRP ]
+can/MD not/RB answer/VB 
+[ any/DT questions/NNS ]
+about/IN 
+[ New/NNP Jersey/NNP 's/POS problems/NNS ]
+./. 
+==================================
+``/`` 
+[ We/PRP ]
+have/VBP witnessed/VBN in/IN 
+[ this/DT campaign/NN ]
+
+[ the/DT effort/NN ]
+to/TO project/VB 
+[ Mr./NNP Mitchell/NNP ]
+as/IN 
+[ the/DT image/NN ]
+of/IN 
+[ a/DT unity/NN candidate/NN ]
+from/IN 
+[ Washington/NNP ]
+./. 
+==================================
+That/IN failed/VBD ./. 
+==================================
+``/`` 
+[ We/PRP ]
+are/VBP now/RB witnessing/VBG 
+[ an/DT effort/NN ]
+to/TO transfer/VB to/TO 
+[ Mr./NNP Mitchell/NNP ]
+
+[ some/DT ]
+of/IN 
+[ the/DT glow/NN ]
+of/IN 
+[ Sen./NNP Case/NNP 's/POS candidacy/NN ]
+of/IN 
+[ last/JJ year/NN ]
+./. 
+==================================
+
+==================================
+==================================
+That/DT ,/, too/RB ,/, will/MD fail/VB ''/'' ./. 
+==================================
+
+[ Sandman/NNP ]
+announced/VBD 
+[ the/DT appointment/NN ]
+of/IN 
+[ Mrs./NNP Harriet/NNP Copeland/NNP Greenfield/NNP ]
+of/IN 
+[ 330/CD Woodland/NNP Ave./NNP ]
+,/, 
+[ Westfield/NNP ]
+,/, as/IN 
+[ state/NN chairman/NN ]
+of/IN 
+[ the/DT Republican/NNP Women/NNP ]
+for/IN 
+[ Jones/NNP Committee/NNP ]
+./. 
+==================================
+
+[ Mrs./NNP Greenfield/NNP ]
+is/VBZ 
+[ president/NN ]
+of/IN 
+[ the/DT Westfield/NNP Women/NNP 's/POS Republican/NNP Club/NNP ]
+and/CC is/VBZ 
+[ a/DT Westfield/NNP county/NN committeewoman/NN ]
+./. 
+==================================
+
+[ County/NNP Supervisor/NNP Weldon/NNP R./NNP Sheets/NNP ]
+,/, 
+[ who/WP ]
+is/VBZ 
+[ a/DT candidate/NN ]
+for/IN 
+[ the/DT Democratic/JJ gubernatorial/JJ nomination/NN ]
+,/, 
+[ today/NN ]
+called/VBD for/IN 
+[ an/DT end/NN ]
+to/TO 
+[ paper/NN ballots/NNS ]
+in/IN 
+[ those/DT counties/NNS ]
+in/IN 
+[ the/DT state/NN ]
+
+[ which/WDT ]
+still/RB use/VBP 
+[ them/PRP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT proposal/NN ]
+,/, 
+[ Sheets/NNP ]
+said/VBD ,/, represents/VBZ 
+[ part/NN ]
+of/IN 
+[ his/PRP$ program/NN ]
+for/IN 
+[ election/NN reforms/NNS ]
+necessary/JJ to/TO make/VB 
+[ democracy/NN ]
+in/IN 
+[ New/NNP Jersey/NNP more/JJR ]
+than/IN 
+[ a/DT ]
+``/`` 
+[ lip/NN service/NN word/NN ]
+''/'' ./. 
+==================================
+
+[ Sheets/NNP ]
+said/VBD that/IN 
+[ his/PRP$ proposed/VBN law/NN ]
+would/MD offer/VB 
+[ state/NN financing/VBG aid/NN ]
+for/IN 
+[ the/DT purchase/NN ]
+of/IN voting/VBG 
+[ machines/NNS ]
+,/, enabling/VBG 
+[ counties/NNS ]
+to/TO repay/VB 
+[ the/DT loan/NN ]
+over/IN 
+[ a/DT 10-year/CD period/NN ]
+without/IN 
+[ interest/NN ]
+or/CC 
+[ charge/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Sheets/NNP ]
+added/VBD that/IN 
+[ he/PRP ]
+would/MD ask/VB for/IN 
+[ exclusive/JJ use/NN ]
+of/IN voting/VBG 
+[ machines/NNS ]
+in/IN 
+[ the/DT state/NN ]
+by/IN 
+[ January/NNP ]
+,/, 
+[ 1964/CD ]
+./. 
+==================================
+Although/IN 
+[ he/PRP ]
+pointed/VBD out/IN 
+[ that/DT mandatory/JJ legislation/NN ]
+impinging/VBG on/IN 
+[ home/NN rule/NN ]
+is/VBZ basically/RB 
+[ distasteful/JJ ]
+,/, 
+[ he/PRP ]
+added/VBD that/IN 
+[ the/DT vital/JJ interest/NN ]
+in/IN 
+[ election/NN results/NNS ]
+transcended/VBD 
+[ county/NN lines/NNS ]
+./. 
+==================================
+
+[ The/DT candidacy/NN ]
+of/IN 
+[ Mayor/NNP James/NNP J./NNP Sheeran/NNP ]
+of/IN 
+[ West/NNP Orange/NNP ]
+,/, for/IN 
+[ the/DT Republican/JJ nomination/NN ]
+for/IN 
+[ sheriff/NN ]
+of/IN 
+[ Essex/NNP County/NNP ]
+,/, was/VBD supported/VBN 
+[ today/NN ]
+by/IN 
+[ Edward/NNP W./NNP Roos/NNP ]
+,/, 
+[ West/NNP Orange/NNP public/JJ safety/NN commissioner/NN ]
+./. 
+==================================
+
+[ Sheeran/NNP ]
+,/, 
+[ a/DT lawyer/NN ]
+and/CC 
+[ former/JJ FBI/NNP man/NN ]
+is/VBZ running/VBG against/IN 
+[ the/DT Republican/NNP organization/NN 's/POS candidate/NN ]
+,/, 
+[ Freeholder/NNP William/NNP MacDonald/NNP ]
+,/, for/IN 
+[ the/DT vacancy/NN ]
+left/VBN by/IN 
+[ the/DT resignation/NN ]
+of/IN 
+[ Neil/NNP Duffy/NNP ]
+,/, now/RB 
+[ a/DT member/NN ]
+of/IN 
+[ the/DT State/NNP Board/NNP ]
+of/IN 
+[ Tax/NNP Appeals/NNP ]
+./. 
+==================================
+``/`` 
+[ My/PRP$ experience/NN ]
+as/IN 
+[ public/JJ safety/NN commissioner/NN ]
+''/'' ,/, 
+[ Roos/NNP ]
+said/VBD ,/, ``/`` has/VBZ shown/VBN 
+[ me/PRP ]
+that/IN 
+[ the/DT office/NN ]
+of/IN 
+[ sheriff/NN ]
+is/VBZ best/RB filled/VBN by/IN 
+[ a/DT man/NN ]
+with/IN 
+[ law/NN enforcement/NN experience/NN ]
+,/, and/CC preferably/RB 
+[ one/NN ]
+
+[ who/WP ]
+is/VBZ 
+[ a/DT lawyer/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Jim/NNP Sheeran/NNP ]
+fits/VBZ 
+[ that/DT description/NN ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ Trenton/NNP ]
+--/: 
+[ William/NNP J./NNP Seidel/NNP ]
+,/, 
+[ state/NN fire/NN warden/NN ]
+in/IN 
+[ the/DT Department/NNP ]
+of/IN 
+[ Conservation/NNP ]
+and/CC 
+[ Economic/NNP Development/NNP ]
+,/, has/VBZ retired/VBN after/IN 
+[ 36/CD years/NNS ]
+of/IN 
+[ service/NN ]
+./. 
+==================================
+
+[ A/DT citation/NN ]
+from/IN 
+[ Conservation/NNP Commissioner/NNP Salvatore/NNP A./NNP Bontempo/NNP ]
+credits/VBZ 
+[ his/PRP$ supervision/NN ]
+with/IN 
+[ a/DT reduction/NN ]
+in/IN 
+[ the/DT number/NN ]
+of/IN 
+[ forest/NN fires/NNS ]
+in/IN 
+[ the/DT state/NN ]
+./. 
+==================================
+
+[ Seidel/NNP ]
+joined/VBD 
+[ the/DT department/NN ]
+in/IN 
+[ 1925/CD ]
+as/IN 
+[ a/DT division/NN fire/NN warden/NN ]
+after/IN 
+[ graduation/NN ]
+in/IN 
+[ 1921/CD ]
+from/IN 
+[ the/DT University/NNP ]
+of/IN 
+[ Michigan/NNP ]
+with/IN 
+[ a/DT degree/NN ]
+in/IN 
+[ forestry/NN ]
+and/CC 
+[ employment/NN ]
+with/IN 
+[ private/JJ lumber/NN companies/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ October/NNP 1944/CD ]
+,/, 
+[ he/PRP ]
+was/VBD appointed/VBN 
+[ state/NN warden/NN ]
+and/CC 
+[ chief/NN ]
+of/IN 
+[ the/DT Forest/NNP Fire/NNP Section/NNP ]
+./. 
+==================================
+Under/IN 
+[ his/PRP$ supervision/NN ]
+,/, 
+[ the/DT state/NN fire-fighting/JJ agency/NN ]
+developed/VBD 
+[ such/JJ techniques/NNS ]
+as/IN plowing/VBG of/IN 
+[ fire/NN lines/NNS ]
+and/CC established/VBD 
+[ a/DT fleet/NN ]
+of/IN 
+[ tractor/NN plows/NNS ]
+and/CC 
+[ tractor/NN units/NNS ]
+for/IN 
+[ fire/NN fighting/NN ]
+./. 
+==================================
+
+[ He/PRP ]
+also/RB expanded/VBD and/CC modernized/VBD 
+[ the/DT radio/NN system/NN ]
+with/IN 
+[ a/DT central/JJ control/NN station/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+introduced/VBD 
+[ regular/JJ briefing/VBG sessions/NNS ]
+for/IN 
+[ district/NN fire/NN wardens/NNS ]
+and/CC 
+[ first/JJ aid/NN training/NN ]
+for/IN 
+[ section/NN wardens/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+is/VBZ credited/VBN with/IN setting/VBG up/IN 
+[ an/DT annual/JJ co-operative/JJ fire/NN prevention/NN program/NN ]
+in/IN 
+[ co-operation/NN ]
+with/IN 
+[ the/DT Red/NNP Cross/NNP ]
+and/CC 
+[ State/NNP Department/NNP ]
+of/IN 
+[ Education/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Boonton/NNP ]
+--/: 
+[ Richard/NNP J./NNP Hughes/NNP ]
+made/VBD 
+[ his/PRP$ Morris/NNP County/NNP debut/NN ]
+in/IN 
+[ his/PRP$ bid/NN ]
+for/IN 
+[ the/DT Democratic/NNP gubernatorial/JJ nomination/NN ]
+here/RB 
+[ last/JJ night/NN ]
+with/IN 
+[ a/DT pledge/NN ]
+``/`` to/TO carry/VB 
+[ the/DT issues/NNS ]
+to/TO 
+[ every/DT corner/NN ]
+of/IN 
+[ the/DT state/NN ]
+''/'' ./. 
+==================================
+
+[ He/PRP ]
+promised/VBD nearly/RB 
+[ 200/CD Democratic/JJ county/NN committee/NN members/NNS ]
+at/IN 
+[ the/DT meeting/NN ]
+in/IN 
+[ the/DT Puddingstone/NNP Inn/NNP ]
+:/: ``/`` When/WRB 
+[ I/PRP ]
+come/VBP back/RB here/RB after/IN 
+[ the/DT November/NNP election/NN ]
+
+[ you/PRP ]
+'ll/MD think/VB ,/, '/'' 
+[ You/PRP ]
+'re/VBP 
+[ my/PRP$ man/NN ]
+--/: 
+[ you/PRP ]
+'re/VBP 
+[ the/DT kind/NN ]
+of/IN 
+[ governor/NN ]
+
+[ we/PRP ]
+'re/VBP glad/JJ 
+[ we/PRP ]
+elected/VBD '/'' ''/'' ./. 
+==================================
+
+[ He/PRP ]
+said/VBD ,/, ``/`` 
+[ We/PRP Democrats/NNPS ]
+must/MD resolve/VB 
+[ our/PRP$ issues/NNS ]
+on/IN 
+[ the/DT test/NN ]
+of/IN 
+[ what/WP ]
+is/VBZ right/JJ and/CC just/JJ ,/, and/CC not/RB 
+[ what/WP ]
+is/VBZ expedient/JJ at/IN 
+[ the/DT time/NN ]
+''/'' ./. 
+==================================
+
+[ Attacks/VBZ Republicans/NNPS ]
+In/IN 
+[ his/PRP$ only/JJ attack/NN ]
+on/IN 
+[ the/DT Republicans/NNPS ]
+,/, 
+[ Hughes/NNP ]
+said/VBD ,/, ``/`` 
+[ The/DT three/CD Republican/NNP candidates/NNS ]
+for/IN 
+[ governor/NN ]
+are/VBP tripping/VBG over/IN 
+[ their/PRP$ feet/NNS ]
+for/IN 
+[ popular/JJ slogans/NNS ]
+to/TO win/VB 
+[ the/DT primary/NN ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ we/PRP ]
+'ll/MD have/VB 
+[ a/DT liberal/NN ]
+,/, well/RB planned/VBN ,/, forward/RB looking/VBG ,/, 
+[ honest/JJ platform/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ We/PRP ]
+'ll/MD not/RB talk/VB out/IN of/IN 
+[ one/CD side/NN ]
+of/IN 
+[ our/PRP$ mouth/NN ]
+in/IN 
+[ Morris/NNP County/NNP ]
+and/CC out/IN of/IN 
+[ the/DT other/JJ side/NN ]
+in/IN 
+[ Hudson/NN ]
+./. 
+==================================
+``/`` 
+[ We/PRP ]
+'ll/MD take/VB 
+[ the/DT truth/NN ]
+to/TO 
+[ the/DT people/NNS ]
+,/, and/CC 
+[ the/DT people/NNS ]
+will/MD like/VB 
+[ the/DT truth/NN ]
+and/CC elect/VB 
+[ their/PRP$ candidate/NN ]
+and/CC 
+[ party/NN ]
+in/IN 
+[ November/NNP ]
+''/'' ./. 
+==================================
+
+[ He/PRP ]
+said/VBD ,/, ``/`` 
+[ You/PRP ]
+can/MD see/VB 
+[ signs/NNS ]
+of/IN 
+[ the/DT Republicans/NNPS '/POS feeble/JJ attack/NN ]
+on/IN 
+[ the/DT Meyner/NNP administration/NN ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ I/PRP ]
+shall/MD campaign/VB on/IN 
+[ the/DT Meyner/NNP record/NN ]
+to/TO meet/VB 
+[ the/DT needs/NNS ]
+of/IN 
+[ the/DT years/NNS ]
+ahead/RB ''/'' ./. 
+==================================
+
+[ He/PRP ]
+urged/VBD 
+[ New/NNP Jersey/NNP ]
+to/TO ``/`` become/VB 
+[ a/DT full/JJ partner/NN ]
+in/IN 
+[ the/DT courageous/JJ actions/NNS ]
+of/IN 
+[ President/NNP Kennedy/NNP ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+called/VBD for/IN 
+[ a/DT greater/JJR attraction/NN ]
+of/IN 
+[ industry/NN ]
+and/CC 
+[ a/DT stop/NN ]
+to/TO 
+[ the/DT piracy/NN ]
+of/IN 
+[ industry/NN ]
+by/IN 
+[ Southern/JJ states/NNS ]
+,/, and/CC 
+[ a/DT strong/JJ fight/NN ]
+against/IN 
+[ discrimination/NN ]
+in/IN 
+[ business/NN ]
+and/CC 
+[ industry/NN ]
+./. 
+==================================
+``/`` 
+[ We/PRP ]
+must/MD keep/VB 
+[ the/DT bloodstream/NN ]
+of/IN 
+[ New/NNP Jersey/NNP ]
+clean/JJ ''/'' ,/, 
+[ the/DT former/JJ Superior/NNP Court/NNP judge/NN ]
+said/VBD ./. 
+==================================
+
+==================================
+==================================
+``/`` To/TO prevent/VB 
+[ hoodlums/NNS ]
+from/IN infiltrating/VBG 
+[ the/DT state/NN ]
+as/IN 
+[ they/PRP ]
+did/VBD in/IN 
+[ the/DT Republican/NNP administration/NN ]
+in/IN 
+[ the/DT early/JJ 1940s/CD ]
+''/'' ./. 
+==================================
+Calling/VBG 
+[ the/DT Democrats/NNP ]
+
+[ the/DT ]
+``/`` 
+[ party/NN ]
+that/IN 
+[ lives/VBZ ]                                                    
+,/, breathes/VBZ and/CC thinks/VBZ for/IN 
+[ the/DT good/NN ]
+of/IN 
+[ the/DT people/NNS ]
+''/'' ,/, 
+[ Hughes/NNP ]
+asked/VBD ,/, ``/`` 
+[ a/DT representative/JJ Democratic/JJ vote/NN ]
+in/IN 
+[ the/DT primary/NN ]
+for/IN 
+[ a/DT springboard/NN ]
+toward/IN 
+[ victory/NN ]
+in/IN 
+[ November/NNP ]
+''/'' ./. 
+==================================
+
+[ Hughes/NNP ]
+supported/VBD 
+[ Gov./NNP Meyner/NNP 's/POS ]
+``/`` 
+[ Green/NNP Acres/NNP ]
+''/'' 
+[ plan/NN ]
+for/IN saving/VBG 
+[ large/JJ tracts/NNS ]
+of/IN 
+[ open/JJ land/NN ]
+from/IN 
+[ the/DT onrush/NN ]
+of/IN 
+[ urban/JJ development/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+said/VBD 
+[ legislation/NN ]
+for/IN 
+[ a/DT $/$ 60/CD million/CD bond/NN issue/NN ]
+to/TO underwrite/VB 
+[ the/DT program/NN ]
+is/VBZ expected/VBN to/TO be/VB introduced/VBN 
+[ Monday/NNP ]
+./. 
+==================================
+
+[ Conservation/NN ]
+plan/NN 
+[ The/DT plan/NN ]
+will/MD provide/VB 
+[ $/$ 45/CD million/CD ]
+for/IN 
+[ purchase/NN ]
+of/IN 
+[ open/JJ land/NN ]
+by/IN 
+[ the/DT state/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT other/JJ $/$ 15/CD million/CD ]
+is/VBZ to/TO be/VB alloted/VBN to/TO 
+[ municipalities/NNS ]
+on/IN 
+[ a/DT matching/VBG fund/NN basis/NN ]
+./. 
+==================================
+
+[ Hughes/NNP ]
+said/VBD ,/, ``/`` 
+[ This/DT ]
+is/VBZ not/RB 
+[ a/DT plan/NN ]
+to/TO conquer/VB 
+[ space/NN ]
+--/: but/CC to/TO conserve/VB 
+[ it/PRP ]
+''/'' ,/, pointing/VBG out/IN 
+[ the/DT state/NN population/NN ]
+has/VBZ increased/VBN 
+[ 125,000/CD each/DT year/NN ]
+since/IN 
+[ 1950/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+said/VBD ``/`` 
+[ Morris/NNP County/NNP ]
+is/VBZ rapidly/RB changing/VBG and/CC unless/IN 
+[ steps/NNS ]
+are/VBP taken/VBN to/TO preserve/VB 
+[ the/DT green/JJ areas/NNS ]
+,/, 
+[ there/EX ]
+will/MD be/VB 
+[ no/DT land/NN ]
+left/VBD to/TO preserve/VB ''/'' ./. 
+==================================
+
+[ Hughes/NNP ]
+would/MD not/RB comment/VB on/IN 
+[ tax/NN reforms/NNS ]
+or/CC 
+[ other/JJ issues/NNS ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT Republican/NNP candidates/NNS ]
+are/VBP involved/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+said/VBD 
+[ no/DT matter/NN ]
+
+[ what/WDT stand/NN ]
+
+[ he/PRP ]
+takes/VBZ 
+[ it/PRP ]
+would/MD be/VB misconstrued/VBN that/IN 
+[ he/PRP ]
+was/VBD sympathetic/JJ to/TO 
+[ one/CD ]
+or/CC 
+[ the/DT other/NN ]
+of/IN 
+[ the/DT Republicans/NNPS ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` After/IN 
+[ the/DT primary/NN ]
+''/'' ,/, 
+[ he/PRP ]
+promised/VBD ,/, ``/`` 
+[ I/PRP ]
+'ll/MD be/VB explicit/JJ on/IN where/WRB 
+[ I/PRP ]
+stand/VB to/TO bring/VB 
+[ you/PRP ]
+
+[ a/DT strong/JJ ]
+,/, 
+[ dynamic/JJ administration/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ I/PRP ]
+'m/VBP not/RB afraid/JJ to/TO tangle/VB with/IN 
+[ the/DT Republican/JJ nominee/NN ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ Trenton/NNP ]
+--/: 
+[ Fifteen/CD members/NNS ]
+of/IN 
+[ the/DT Republican/NNP State/NNP Committee/NNP ]
+
+[ who/WP ]
+are/VBP retiring/VBG --/: voluntarily/RB --/: 
+[ this/DT year/NN ]
+were/VBD honored/VBN yesterday/RB by/IN 
+[ their/PRP$ colleagues/NNS ]
+./. 
+==================================
+
+[ The/DT outgoing/JJ members/NNS ]
+,/, 
+[ whose/WP$ four-year/JJ terms/NNS ]
+will/MD expire/VB 
+[ a/DT week/NN ]
+after/IN 
+[ the/DT April/NNP 18/CD primary/JJ election/NN ]
+,/, received/VBD carved/VBN 
+[ wooden/JJ elephants/NNS ]
+,/, 
+[ complete/JJ ]
+with/IN 
+[ ivory/JJ tusks/NNS ]
+,/, to/TO remember/VB 
+[ the/DT state/NN committee/NN ]
+by/IN ./. 
+==================================
+
+[ There/EX ]
+may/MD be/VB 
+[ other/JJ 1961/CD state/NN committee/NN retirements/NNS ]
+come/VB 
+[ April/NNP 18/CD ]
+,/, but/CC 
+[ they/PRP ]
+will/MD be/VB leaving/VBG by/IN 
+[ choice/NN ]
+of/IN 
+[ the/DT Republican/JJ voters/NNS ]
+./. 
+==================================
+
+[ A/DT special/JJ presentation/NN ]
+was/VBD made/VBN to/TO 
+[ Mrs./NNP Geraldine/NNP Thompson/NNP ]
+of/IN 
+[ Red/NNP Bank/NNP ]
+,/, 
+[ who/WP ]
+is/VBZ stepping/VBG down/IN after/IN 
+[ 35/CD years/NNS ]
+on/IN 
+[ the/DT committee/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ She/PRP ]
+also/RB was/VBD 
+[ the/DT original/JJ GOP/NNP national/JJ committeewoman/NN ]
+from/IN 
+[ New/NNP Jersey/NNP ]
+in/IN 
+[ the/DT early/JJ 1920s/CD following/VBG adoption/NN ]
+of/IN 
+[ the/DT women/NNS 's/POS suffrage/NN amendment/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ She/PRP ]
+served/VBD 
+[ one/CD four-year/JJ term/NN ]
+on/IN 
+[ the/DT national/JJ committee/NN ]
+./. 
+==================================
+==================================
+==================================

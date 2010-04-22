@@ -1,0 +1,1581 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ Austin/NNP ]
+,/, 
+[ Texas/NNP ]
+--/: 
+[ Committee/NN approval/NN ]
+of/IN 
+[ Gov./NNP Price/NNP Daniel/NNP 's/POS ]
+``/`` 
+[ abandoned/VBN property/NN ]
+''/'' 
+[ act/NN ]
+seemed/VBD 
+[ certain/JJ Thursday/NNP ]
+despite/IN 
+[ the/DT adamant/JJ protests/NNS ]
+of/IN 
+[ Texas/NNP bankers/NNS ]
+./. 
+==================================
+
+[ Daniel/NNP ]
+personally/RB led/VBD 
+[ the/DT fight/NN ]
+for/IN 
+[ the/DT measure/NN ]
+,/, 
+[ which/WDT ]
+
+[ he/PRP ]
+had/VBD watered/VBN down/RP considerably/RB since/IN 
+[ its/PRP$ rejection/NN ]
+by/IN 
+[ two/CD previous/JJ Legislatures/NNS ]
+,/, in/IN 
+[ a/DT public/JJ hearing/NN ]
+before/IN 
+[ the/DT House/NNP Committee/NNP ]
+on/IN 
+[ Revenue/NNP ]
+and/CC 
+[ Taxation/NNP ]
+./. 
+==================================
+Under/IN 
+[ committee/NN rules/NNS ]
+,/, 
+[ it/PRP ]
+went/VBD automatically/RB to/TO 
+[ a/DT subcommittee/NN ]
+for/IN 
+[ one/CD week/NN ]
+./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ questions/NNS ]
+with/IN 
+[ which/WDT committee/NN members/NNS ]
+taunted/VBD 
+[ bankers/NNS ]
+appearing/VBG as/IN 
+[ witnesses/NNS ]
+left/VBD 
+[ little/JJ doubt/NN ]
+that/IN 
+[ they/PRP ]
+will/MD recommend/VB 
+[ passage/NN ]
+of/IN 
+[ it/PRP ]
+./. 
+==================================
+
+[ Daniel/NNP ]
+termed/VBD ``/`` extremely/RB 
+[ conservative/JJ ]
+''/'' 
+[ his/PRP$ estimate/NN ]
+that/IN 
+[ it/PRP ]
+would/MD produce/VB 
+[ 17/CD million/CD dollars/NNS ]
+to/TO help/VB erase/VB 
+[ an/DT anticipated/JJ deficit/NN ]
+of/IN 
+[ 63/CD million/CD dollars/NNS ]
+at/IN 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT current/JJ fiscal/NN year/NN ]
+next/IN 
+[ Aug./NNP 31/CD ]
+./. 
+==================================
+
+[ He/PRP ]
+told/VBD 
+[ the/DT committee/NN ]
+
+[ the/DT measure/NN ]
+would/MD merely/RB provide/VB 
+[ means/NNS ]
+of/IN enforcing/VBG 
+[ the/DT escheat/NN law/NN ]
+
+[ which/WDT ]
+has/VBZ been/VBN on/IN 
+[ the/DT books/NNS ]
+``/`` since/IN 
+[ Texas/NNP ]
+was/VBD 
+[ a/DT republic/NN ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+permits/VBZ 
+[ the/DT state/NN ]
+to/TO take/VB over/IN 
+[ bank/NN accounts/NNS ]
+,/, 
+[ stocks/NNS ]
+and/CC 
+[ other/JJ personal/JJ property/NN ]
+of/IN 
+[ persons/NNS ]
+missing/VBG for/IN 
+[ seven/CD years/NNS ]
+or/CC 
+[ more/JJR ]
+./. 
+==================================
+
+[ The/DT bill/NN ]
+,/, 
+[ which/WDT ]
+
+[ Daniel/NNP ]
+said/VBD 
+[ he/PRP ]
+drafted/VBD personally/RB ,/, would/MD force/VB 
+[ banks/NNS ]
+,/, 
+[ insurance/NN firms/NNS ]
+,/, 
+[ pipeline/NN companies/NNS ]
+and/CC 
+[ other/JJ corporations/NNS ]
+to/TO report/VB 
+[ such/DT property/NN ]
+to/TO 
+[ the/DT state/NN treasurer/NN ]
+./. 
+==================================
+
+[ The/DT escheat/NN law/NN ]
+can/MD not/RB be/VB enforced/VBN now/RB because/IN 
+[ it/PRP ]
+is/VBZ almost/RB impossible/JJ to/TO locate/VB 
+[ such/DT property/NN ]
+,/, 
+[ Daniel/NNP ]
+declared/VBD ./. 
+==================================
+
+[ Dewey/NNP Lawrence/NNP ]
+,/, 
+[ a/DT Tyler/NNP lawyer/NN ]
+representing/VBG 
+[ the/DT Texas/NNP Bankers/NNP Association/NNP ]
+,/, sounded/VBD 
+[ the/DT opposition/NN keynote/NN ]
+when/WRB 
+[ he/PRP ]
+said/VBD 
+[ it/PRP ]
+would/MD force/VB 
+[ banks/NNS ]
+to/TO violate/VB 
+[ their/PRP$ contractual/JJ obligations/NNS ]
+with/IN 
+[ depositors/NNS ]
+and/CC undermine/VB 
+[ the/DT confidence/NN ]
+of/IN 
+[ bank/NN customers/NNS ]
+./. 
+==================================
+``/`` If/IN 
+[ you/PRP ]
+destroy/VBP 
+[ confidence/NN ]
+in/IN 
+[ banks/NNS ]
+,/, 
+[ you/PRP ]
+do/VBP 
+[ something/NN ]
+to/TO 
+[ the/DT economy/NN ]
+''/'' ,/, 
+[ he/PRP ]
+said/VBD ./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ You/PRP ]
+take/VBP out/IN of/IN 
+[ circulation/NN many/JJ millions/NNS ]
+of/IN 
+[ dollars/NNS ]
+''/'' ./. 
+==================================
+
+[ Rep./NNP Charles/NNP E./NNP Hughes/NNP ]
+of/IN 
+[ Sherman/NNP ]
+,/, 
+[ sponsor/NN ]
+of/IN 
+[ the/DT bill/NN ]
+,/, said/VBD 
+[ a/DT failure/NN ]
+to/TO enact/VB 
+[ it/PRP ]
+would/MD amount/VB ``/`` to/TO making/VBG 
+[ a/DT gift/NN ]
+out/IN of/IN 
+[ the/DT taxpayers/NNS '/POS pockets/NNS ]
+to/TO 
+[ banks/NNS ]
+,/, 
+[ insurance/NN ]
+and/CC 
+[ pipeline/NN companies/NNS ]
+''/'' ./. 
+==================================
+
+[ His/PRP$ contention/NN ]
+was/VBD denied/VBN by/IN 
+[ several/JJ bankers/NNS ]
+,/, including/VBG 
+[ Scott/NNP Hudson/NNP ]
+of/IN 
+[ Sherman/NNP ]
+,/, 
+[ Gaynor/NNP B./NNP Jones/NNP ]
+of/IN 
+[ Houston/NNP ]
+,/, 
+[ J.B./NNP Brady/NNP ]
+of/IN 
+[ Harlingen/NNP ]
+and/CC 
+[ Howard/NNP Cox/NNP ]
+of/IN 
+[ Austin/NNP ]
+./. 
+==================================
+
+[ Cox/NNP ]
+argued/VBD that/IN 
+[ the/DT bill/NN ]
+is/VBZ ``/`` probably/RB 
+[ unconstitutional/JJ ]
+''/'' since/IN ,/, 
+[ he/PRP ]
+said/VBD ,/, 
+[ it/PRP ]
+would/MD impair/VB 
+[ contracts/NNS ]
+./. 
+==================================
+
+[ He/PRP ]
+also/RB complained/VBD that/IN not/RB 
+[ enough/JJ notice/NN ]
+was/VBD given/VBN on/IN 
+[ the/DT hearing/NN ]
+,/, since/IN 
+[ the/DT bill/NN ]
+was/VBD introduced/VBN only/RB 
+[ last/JJ Monday/NNP ]
+./. 
+==================================
+
+[ Austin/NNP ]
+,/, 
+[ Texas/NNP ]
+--/: 
+[ Senators/NNS ]
+unanimously/RB approved/VBD 
+[ Thursday/NNP ]
+
+[ the/DT bill/NN ]
+of/IN 
+[ Sen./NNP George/NNP Parkhouse/NNP ]
+of/IN 
+[ Dallas/NNP authorizing/VBG establishment/NN ]
+of/IN 
+[ day/NN schools/NNS ]
+for/IN 
+[ the/DT deaf/JJ ]
+in/IN 
+[ Dallas/NNP ]
+and/CC 
+[ the/DT four/CD other/JJ largest/JJS counties/NNS ]
+./. 
+==================================
+
+[ The/DT bill/NN ]
+is/VBZ designed/VBN to/TO provide/VB 
+[ special/JJ schooling/NN ]
+for/IN 
+[ more/JJR deaf/JJ students/NNS ]
+in/IN 
+[ the/DT scholastic/NN age/NN ]
+at/IN 
+[ a/DT reduced/JJ cost/NN ]
+to/TO 
+[ the/DT state/NN ]
+./. 
+==================================
+
+[ There/EX ]
+was/VBD 
+[ no/DT debate/NN ]
+as/IN 
+[ the/DT Senate/NNP ]
+passed/VBD 
+[ the/DT bill/NN ]
+on/IN to/TO 
+[ the/DT House/NNP ]
+./. 
+==================================
+
+[ It/PRP ]
+would/MD authorize/VB 
+[ the/DT Texas/NNP Education/NNP Agency/NNP ]
+to/TO establish/VB 
+[ county-wide/JJ day/NN schools/NNS ]
+for/IN 
+[ the/DT deaf/JJ ]
+in/IN 
+[ counties/NNS ]
+of/IN 
+[ 300,000/CD ]
+or/CC 
+[ more/JJR population/NN ]
+,/, require/VB 
+[ deaf/JJ children/NNS ]
+between/IN 
+[ 6/CD ]
+and/CC 
+[ 13/CD years/NNS ]
+of/IN 
+[ age/NN ]
+to/TO attend/VB 
+[ the/DT day/NN schools/NNS ]
+,/, permitting/VBG 
+[ older/JJR ones/NNS ]
+to/TO attend/VB 
+[ the/DT residential/JJ Texas/NNP School/NNP ]
+for/IN 
+[ the/DT Deaf/NNP ]
+here/RB ./. 
+==================================
+Operating/VBG 
+[ budget/NN ]
+for/IN 
+[ the/DT day/NN schools/NNS ]
+in/IN 
+[ the/DT five/CD counties/NNS ]
+of/IN 
+[ Dallas/NNP ]
+,/, 
+[ Harris/NNP ]
+,/, 
+[ Bexar/NNP ]
+,/, 
+[ Tarrant/NNP ]
+and/CC 
+[ El/NNP Paso/NNP ]
+would/MD be/VB 
+[ $/$ 451,500/CD ]
+,/, 
+[ which/WDT ]
+would/MD be/VB 
+[ a/DT savings/NN ]
+of/IN 
+[ $/$ 157,460/CD ]
+yearly/RB after/IN 
+[ the/DT first/JJ year/NN 's/POS capital/NN outlay/NN ]
+of/IN 
+[ $/$ 88,000/CD ]
+was/VBD absorbed/VBN ,/, 
+[ Parkhouse/NNP ]
+told/VBD 
+[ the/DT Senate/NNP ]
+./. 
+==================================
+
+[ The/DT TEA/NNP ]
+estimated/VBD 
+[ there/EX ]
+would/MD be/VB 
+[ 182/CD scholastics/NNS ]
+to/TO attend/VB 
+[ the/DT day/NN school/NN ]
+in/IN 
+[ Dallas/NNP County/NNP ]
+,/, saving/VBG 
+[ them/PRP ]
+from/IN coming/VBG to/TO 
+[ Austin/NNP ]
+to/TO live/VB in/IN 
+[ the/DT state/NN deaf/JJ school/NN ]
+./. 
+==================================
+
+[ Dallas/NNP ]
+may/MD get/VB to/TO hear/VB 
+[ a/DT debate/NN ]
+on/IN 
+[ horse/NN race/NN parimutuels/NNS ]
+soon/RB between/IN 
+[ Reps./NNP V.E./NNP ]
+(/( Red/NNP )/) 
+[ Berry/NNP ]
+and/CC 
+[ Joe/NNP Ratcliff/NNP ]
+./. 
+==================================
+While/IN 
+[ details/NNS ]
+are/VBP still/RB to/TO be/VB worked/VBN out/RP ,/, 
+[ Ratcliff/NNP ]
+said/VBD 
+[ he/PRP ]
+expects/VBZ to/TO tell/VB 
+[ home/NN folks/NNS ]
+in/IN 
+[ Dallas/NNP ]
+why/WRB 
+[ he/PRP ]
+thinks/VBZ 
+[ Berry/NNP 's/POS proposed/VBN constitutional/JJ amendment/NN ]
+should/MD be/VB rejected/VBN ./. 
+==================================
+``/`` 
+[ We/PRP ]
+'re/VBP getting/VBG 
+[ more/RBR ]
+'/'' 
+[ pro/JJ ]
+'/'' 
+[ letters/NNS ]
+than/IN '/'' con/JJ '/'' on/IN 
+[ horse/NN race/NN ]
+betting/VBG ''/'' ,/, said/VBD 
+[ Ratcliff/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` But/CC 
+[ I/PRP ]
+believe/VBP if/IN 
+[ people/NNS ]
+were/VBD better/RBR informed/VBN on/IN 
+[ this/DT question/NN ]
+,/, most/JJS of/IN 
+[ them/PRP ]
+would/MD oppose/VB 
+[ it/PRP ]
+also/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ I/PRP ]
+'m/VBP willing/JJ to/TO stake/VB 
+[ my/PRP$ political/JJ career/NN ]
+on/IN 
+[ it/PRP ]
+''/'' ./. 
+==================================
+
+[ Rep./NNP Berry/NNP ]
+,/, 
+[ an/DT ex-gambler/NN ]
+from/IN 
+[ San/NNP Antonio/NNP ]
+,/, got/VBD elected/VBN on/IN 
+[ his/PRP$ advocacy/NN ]
+of/IN betting/VBG on/IN 
+[ the/DT ponies/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT House/NNP committee/NN ]
+
+[ which/WDT ]
+heard/VBD 
+[ his/PRP$ local/JJ option/NN proposal/NN ]
+is/VBZ expected/VBN to/TO give/VB 
+[ it/PRP ]
+
+[ a/DT favorable/JJ report/NN ]
+,/, although/IN 
+[ the/DT resolution/NN ]
+faces/VBZ 
+[ hard/JJ sledding/NN ]
+later/RB ./. 
+==================================
+
+[ The/DT house/NN ]
+passed/VBD finally/RB ,/, and/CC sent/VBD to/TO 
+[ the/DT Senate/NNP ]
+,/, 
+[ a/DT bill/NN ]
+extending/VBG 
+[ the/DT State/NNP Health/NNP Department/NNP 's/POS authority/NN ]
+to/TO give/VB 
+[ planning/NN assistance/NN ]
+to/TO 
+[ cities/NNS ]
+./. 
+==================================
+
+[ The/DT senate/NN ]
+quickly/RB whipped/VBD through/IN 
+[ its/PRP$ meager/JJ fare/NN ]
+of/IN 
+[ House/NNP bills/NNS ]
+approved/VBN by/IN 
+[ committees/NNS ]
+,/, passing/VBG 
+[ the/DT three/CD ]
+on/IN 
+[ the/DT calendar/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ One/PRP validated/VBN acts/NNS ]
+of/IN 
+[ school/NN districts/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Another/DT enlarged/JJ authority/NN ]
+of/IN 
+[ the/DT Beaumont/NNP Navigation/NNP District/NNP ]
+./. 
+==================================
+
+[ The/DT third/JJ ]
+amended/VBD 
+[ the/DT enabling/VBG act/NN ]
+for/IN 
+[ creation/NN ]
+of/IN 
+[ the/DT Lamar/NNP county/NN Hospital/NNP District/NNP ]
+,/, for/IN 
+[ which/WDT ]
+
+[ a/DT special/JJ constitutional/JJ amendment/NN ]
+previously/RB was/VBD adopted/VBN ./. 
+==================================
+Without/IN 
+[ dissent/NN ]
+,/, 
+[ senators/NNS ]
+passed/VBD 
+[ a/DT bill/NN ]
+by/IN 
+[ Sen./NNP A.R./NNP Schwartz/NNP ]
+of/IN 
+[ Galveston/NNP authorizing/VBG establishment/NN ]
+in/IN 
+[ the/DT future/NN ]
+of/IN 
+[ a/DT school/NN ]
+for/IN 
+[ the/DT ]
+mentally/NN retarded/NN in/IN 
+[ the/DT Gulf/NNP Coast/NNP district/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Money/NN ]
+for/IN 
+[ its/PRP$ construction/NN ]
+will/MD be/VB sought/VBN later/RB on/RP but/CC in/IN 
+[ the/DT meantime/NN ]
+
+[ the/DT State/NNP Hospital/NNP board/NN ]
+can/MD accept/VB 
+[ gifts/NNS ]
+and/CC 
+[ donations/NNS ]
+of/IN 
+[ a/DT site/NN ]
+./. 
+==================================
+
+[ Two/CD tax/NN revision/NN bills/NNS ]
+were/VBD passed/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ One/PRP ]
+,/, by/IN 
+[ Sen./NNP Louis/NNP Crump/NNP ]
+of/IN 
+[ San/NNP Saba/NNP ]
+,/, would/MD aid/VB more/JJR than/IN 
+[ 17,000/CD retailers/NNS ]
+
+[ who/WP ]
+pay/VBP 
+[ a/DT group/NN ]
+of/IN 
+[ miscellaneous/JJ excise/JJ taxes/NNS ]
+by/IN eliminating/VBG 
+[ the/DT requirement/NN ]
+that/IN 
+[ each/DT return/NN ]
+be/VB notarized/VBN ./. 
+==================================
+
+==================================
+==================================
+Instead/RB ,/, 
+[ retailers/NNS ]
+would/MD sign/VB 
+[ a/DT certificate/NN ]
+of/IN 
+[ correctness/NN ]
+,/, 
+[ violation/NN ]
+of/IN 
+[ which/WDT ]
+would/MD carry/VB 
+[ a/DT penalty/NN ]
+of/IN 
+[ one/CD ]
+to/TO 
+[ five/CD years/NNS ]
+in/IN 
+[ prison/NN ]
+,/, plus/CC 
+[ a/DT $/$ 1,000/CD fine/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD 
+[ one/CD ]
+of/IN 
+[ a/DT series/NN ]
+of/IN 
+[ recommendations/NNS ]
+by/IN 
+[ the/DT Texas/NNP Research/NNP League/NNP ]
+./. 
+==================================
+
+[ The/DT other/JJ bill/NN ]
+,/, by/IN 
+[ Sen./NNP A.M./NNP Aikin/NNP Jr./NNP ]
+of/IN 
+[ Paris/NNP ]
+,/, would/MD relieve/VB 
+[ real/NN estate/NN brokers/NNS ]
+,/, 
+[ who/WP ]
+pay/VBP 
+[ their/PRP$ own/JJ annual/JJ licensing/NN fee/NN ]
+,/, from/IN 
+[ the/DT $/$ 12/CD annual/JJ occupation/NN license/NN ]
+on/IN 
+[ brokers/NNS ]
+in/IN 
+[ such/DT ]
+as/IN 
+[ stocks/NNS ]
+and/CC 
+[ bonds/NNS ]
+./. 
+==================================
+
+[ Natural/NN gas/NN public/JJ utility/NN companies/NNS ]
+would/MD be/VB given/VBN 
+[ the/DT right/NN ]
+of/IN 
+[ eminent/JJ domain/NN ]
+,/, under/IN 
+[ a/DT bill/NN ]
+by/IN 
+[ Sen./NNP Frank/NNP Owen/NNP 3/CD ]
+,/, of/IN 
+[ El/NNP Paso/NNP ]
+,/, to/TO acquire/VB 
+[ sites/NNS ]
+for/IN 
+[ underground/JJ storage/NN reservoirs/NNS ]
+for/IN 
+[ gas/NN ]
+./. 
+==================================
+
+[ Marshall/NNP Formby/NNP ]
+of/IN 
+[ Plainview/NNP ]
+,/, 
+[ former/JJ chairman/NN ]
+of/IN 
+[ the/DT Texas/NNP Highway/NNP Commission/NNP ]
+,/, suggested/VBD 
+[ a/DT plan/NN ]
+to/TO fill/VB by/IN 
+[ appointment/NN future/NN vacancies/NNS ]
+in/IN 
+[ the/DT Legislature/NNP ]
+and/CC 
+[ Congress/NNP ]
+,/, eliminating/VBG 
+[ the/DT need/NN ]
+for/IN 
+[ costly/JJ special/JJ elections/NNS ]
+./. 
+==================================
+Under/IN 
+[ Formby/NNP 's/POS plan/NN ]
+,/, 
+[ an/DT appointee/NN ]
+would/MD be/VB selected/VBN by/IN 
+[ a/DT board/NN ]
+composed/VBN of/IN 
+[ the/DT governor/NN ]
+,/, 
+[ lieutenant/NN governor/NN ]
+,/, 
+[ speaker/NN ]
+of/IN 
+[ the/DT House/NNP ]
+,/, 
+[ attorney/NN ]
+general/NN and/CC 
+[ chief/NN justice/NN ]
+of/IN 
+[ the/DT Texas/NNP Supreme/NNP Court/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Austin/NNP ]
+,/, 
+[ Texas/NNP ]
+--/: 
+[ State/NNP representatives/NNS ]
+decided/VBD 
+[ Thursday/NNP ]
+against/IN taking/VBG 
+[ a/DT poll/NN ]
+on/IN 
+[ what/WDT kind/NN ]
+of/IN 
+[ taxes/NNS Texans/NNPS ]
+would/MD prefer/VB to/TO pay/VB ./. 
+==================================
+
+[ An/DT adverse/JJ vote/NN ]
+of/IN 
+[ 81/CD ]
+to/TO 
+[ 65/CD ]
+kept/VBD in/IN 
+[ the/DT State/NNP Affairs/NNP Committee/NNP ]
+
+[ a/DT bill/NN ]
+
+[ which/WDT ]
+would/MD order/VB 
+[ the/DT referendum/NN ]
+on/IN 
+[ the/DT April/NNP 4/CD ballot/NN ]
+,/, when/WRB 
+[ Texas/NNP votes/NNS ]
+on/IN 
+[ a/DT U.S./NNP senator/NN ]
+./. 
+==================================
+
+[ Rep./NNP Wesley/NNP Roberts/NNP ]
+of/IN 
+[ Seminole/NNP ]
+,/, 
+[ sponsor/NN ]
+of/IN 
+[ the/DT poll/NN idea/NN ]
+,/, said/VBD 
+[ that/DT further/JJ  delay/NN ]
+in/IN 
+[ the/DT committee/NN ]
+can/MD kill/VB 
+[ the/DT bill/NN ]
+./. 
+==================================
+
+[ The/DT West/NNP Texan/NNP ]
+reported/VBD that/IN 
+[ he/PRP ]
+had/VBD finally/RB gotten/VBN 
+[ Chairman/NNP Bill/NNP Hollowell/NNP ]
+of/IN 
+[ the/DT committee/NN ]
+to/TO set/VB 
+[ it/PRP ]
+for/IN 
+[ public/JJ hearing/NN ]
+on/IN 
+[ Feb./NN 22/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT proposal/NN ]
+would/MD have/VB to/TO receive/VB 
+[ final/JJ legislative/JJ approval/NN ]
+,/, by/IN 
+[ two-thirds/NN majorities/NNS ]
+,/, before/IN 
+[ March/NNP 1/CD ]
+to/TO be/VB printed/VBN on/IN 
+[ the/DT April/NNP 4/CD ballot/NN ]
+,/, 
+[ Roberts/NNP ]
+said/VBD ./. 
+==================================
+
+[ Opponents/NNS ]
+generally/RB argued/VBD that/IN 
+[ the/DT ballot/NN ]
+could/MD n't/RB give/VB 
+[ enough/JJ information/NN ]
+about/IN 
+[ tax/NN proposals/NNS ]
+for/IN 
+[ the/DT voters/NNS ]
+to/TO make/VB 
+[ an/DT intelligent/JJ choice/NN ]
+./. 
+==================================
+
+[ All/DT Dallas/NNP members/NNS ]
+voted/VBD with/IN 
+[ Roberts/NNP ]
+,/, except/IN 
+[ Rep./NNP Bill/NNP Jones/NNP ]
+,/, 
+[ who/WP ]
+was/VBD absent/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ Austin/NNP ]
+,/, 
+[ Texas/NNP ]
+--/: 
+[ Paradise/NNP ]
+lost/VBD to/TO 
+[ the/DT alleged/VBN water/NN needs/NNS ]
+of/IN 
+[ Texas/NNP '/POS big/JJ cities/NNS Thursday/NNP ]
+./. 
+==================================
+
+[ Rep./NNP James/NNP Cotten/NNP ]
+of/IN 
+[ Weatherford/NNP ]
+insisted/VBD that/IN 
+[ a/DT water/NN development/NN bill/NN ]
+passed/VBN by/IN 
+[ the/DT Texas/NNP House/NNP ]
+of/IN 
+[ Representatives/NNP ]
+was/VBD 
+[ an/DT effort/NN ]
+by/IN 
+[ big/JJ cities/NNS ]
+like/IN 
+[ Dallas/NNP ]
+and/CC 
+[ Fort/NNP Worth/NNP ]
+to/TO cover/VB up/IN 
+[ places/NNS ]
+like/IN 
+[ Paradise/NNP ]
+,/, 
+[ a/DT Wise/NNP County/NNP hamlet/NN ]
+of/IN 
+[ 250/CD people/NNS ]
+./. 
+==================================
+When/WRB 
+[ the/DT shouting/NN ]
+ended/VBD ,/, 
+[ the/DT bill/NN ]
+passed/VBD ,/, 
+[ 114/CD ]
+to/TO 
+[ 4/CD ]
+,/, sending/VBG 
+[ it/PRP ]
+to/TO 
+[ the/DT Senate/NNP ]
+,/, where/WRB 
+[ a/DT similar/JJ proposal/NN ]
+is/VBZ being/VBG sponsored/VBN by/IN 
+[ Sen./NNP George/NNP Parkhouse/NNP ]
+of/IN 
+[ Dallas/NNP ]
+./. 
+==================================
+Most/RBS of/IN 
+[ the/DT fire/NN ]
+was/VBD directed/VBN by/IN 
+[ Cotten/NNP ]
+against/IN 
+[ Dallas/NNP ]
+and/CC 
+[ Sen./NNP Parkhouse/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT bill/NN ]
+would/MD increase/VB from/IN 
+[ $/$ 5,000,000/CD ]
+to/TO 
+[ $/$ 15,000,000/CD ]
+
+[ the/DT maximum/JJ loan/NN ]
+
+[ the/DT state/NN ]
+could/MD make/VB to/TO 
+[ a/DT local/JJ water/NN project/NN ]
+./. 
+==================================
+
+[ Cotten/NNP ]
+construed/VBD 
+[ this/DT ]
+as/IN 
+[ a/DT veiled/VBN effort/NN ]
+by/IN 
+[ Parkhouse/NNP ]
+to/TO help/VB 
+[ Dallas/NNP ]
+and/CC 
+[ other/JJ large/JJ cities/NNS ]
+get/VB 
+[ money/NN ]
+
+[ which/WDT ]
+
+[ Cotten/NNP ]
+felt/VBD could/MD better/RBR be/VB spent/VBN 
+[ providing/VBG water/NN ]
+for/IN 
+[ rural/JJ Texas/NNP ]
+./. 
+==================================
+
+[ Statements/NNS ]
+by/IN 
+[ other/JJ legislators/NNS ]
+that/IN 
+[ Dallas/NNP ]
+is/VBZ paying/VBG for/IN 
+[ all/DT its/PRP$ water/NN program/NN ]
+by/IN 
+[ local/JJ bonds/NNS ]
+,/, and/CC that/IN 
+[ less/RBR populous/JJ places/NNS ]
+would/MD benefit/VB most/RBS by/IN 
+[ the/DT pending/VBG bill/NN ]
+,/, did/VBD not/RB sway/VB 
+[ Cotten/NNP 's/POS attack/NN ]
+./. 
+==================================
+
+[ The/DT bill/NN 's/POS defenders/NNS ]
+were/VBD mostly/RB 
+[ small-town/JJ legislators/NNS ]
+like/IN 
+[ J.W./NNP Buchanan/NNP ]
+of/IN 
+[ Dumas/NNP ]
+,/, 
+[ Eligio/NNP ]
+(/( 
+[ Kika/NNP ]
+)/) 
+[ De/NNP La/NNP Garza/NNP ]
+of/IN 
+[ Mission/NNP ]
+,/, 
+[ Sam/NNP F./NNP Collins/NNP ]
+of/IN 
+[ Newton/NNP ]
+and/CC 
+[ Joe/NNP Chapman/NNP ]
+of/IN 
+[ Sulphur/NNP Springs/NNP ]
+./. 
+==================================
+``/`` 
+[ This/DT ]
+is/VBZ 
+[ a/DT poor/JJ boy/NN 's/POS bill/NN ]
+''/'' ,/, said/VBD 
+[ Chapman/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ Dallas/NNP ]
+and/CC 
+[ Fort/NNP Worth/NNP ]
+can/MD vote/VB 
+[ bonds/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+would/MD help/VB 
+[ the/DT little/JJ peanut/NN districts/NNS ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ Austin/NNP ]
+,/, 
+[ Texas/NNP ]
+--/: 
+[ A/DT Houston/NNP teacher/NN ]
+,/, now/RB serving/VBG in/IN 
+[ the/DT Legislature/NNP ]
+,/, proposed/VBD 
+[ Thursday/NNP ]
+
+[ a/DT law/NN ]
+reducing/VBG 
+[ the/DT time/NN ]
+spent/VBN learning/VBG ``/`` 
+[ educational/JJ methods/NNS ]
+''/'' ./. 
+==================================
+
+[ Rep./NNP Henry/NNP C./NNP Grover/NNP ]
+,/, 
+[ who/WP ]
+teaches/VBZ 
+[ history/NN ]
+in/IN 
+[ the/DT Houston/NNP public/NN schools/NNS ]
+,/, would/MD reduce/VB from/IN 
+[ 24/CD ]
+to/TO 
+[ 12/CD semester/NN ]
+hours/NNS 
+[ the/DT so-called/JJ ]
+``/`` 
+[ teaching/NN methods/NNS ]
+''/'' 
+[ courses/NNS ]
+required/VBN to/TO obtain/VB 
+[ a/DT junior/NN ]
+or/CC 
+[ senior/NN high/JJ school/NN teaching/NN certificate/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT normal/JJ year/NN 's/POS work/NN ]
+in/IN 
+[ college/NN ]
+is/VBZ 
+[ 30/CD semester/NN hours/NNS ]
+./. 
+==================================
+
+[ Grover/NNP ]
+also/RB would/MD require/VB 
+[ junior-senior/JJ high/JJ teachers/NNS ]
+to/TO have/VB at/IN 
+[ least/JJS 24/CD semester/NN ]
+hours/NNS 
+[ credit/NN ]
+in/IN 
+[ the/DT subject/NN ]
+
+[ they/PRP ]
+are/VBP teaching/VBG ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT remainder/NN ]
+of/IN 
+[ the/DT 4-year/CD college/NN requirement/NN ]
+would/MD be/VB in/IN 
+[ general/JJ subjects/NNS ]
+./. 
+==================================
+``/`` 
+[ A/DT person/NN ]
+with/IN 
+[ a/DT master/NN 's/POS degree/NN ]
+in/IN 
+[ physics/NN ]
+,/, 
+[ chemistry/NN ]
+,/, 
+[ math/NN ]
+or/CC 
+[ English/NNP ]
+,/, yet/CC 
+[ who/WP ]
+has/VBZ not/RB taken/VBN 
+[ Education/NNP courses/NNS ]
+,/, is/VBZ not/RB permitted/VBN to/TO teach/VB in/IN 
+[ the/DT public/JJ schools/NNS ]
+''/'' ,/, said/VBD 
+[ Grover/NNP ]
+./. 
+==================================
+
+[ College/NN teachers/NNS ]
+in/IN 
+[ Texas/NNP ]
+are/VBP not/RB required/VBN to/TO have/VB 
+[ the/DT Education/NNP courses/NNS ]
+./. 
+==================================
+
+[ Fifty-three/JJ ]
+of/IN 
+[ the/DT 150/CD representatives/NNS ]
+immediately/RB joined/VBD 
+[ Grover/NNP ]
+as/IN 
+[ co-signers/NN ]
+of/IN 
+[ the/DT proposal/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Paris/NNP ]
+,/, 
+[ Texas/NNP ]
+(/( 
+[ sp/NN ]
+./. 
+==================================
+)/) --/: 
+[ The/DT board/NN ]
+of/IN 
+[ regents/NNS ]
+of/IN 
+[ Paris/NNP Junior/NNP College/NNP ]
+has/VBZ named/VBN 
+[ Dr./NNP Clarence/NNP Charles/NNP Clark/NNP ]
+of/IN 
+[ Hays/NNP ]
+,/, 
+[ Kan./NNP ]
+as/IN 
+[ the/DT school/NN 's/POS new/JJ president/NN ]
+./. 
+==================================
+
+[ Dr./NNP Clark/NNP ]
+will/MD succeed/VB 
+[ Dr./NNP J.R./NNP McLemore/NNP ]
+,/, 
+[ who/WP ]
+will/MD retire/VB at/IN 
+[ the/DT close/NN ]
+of/IN 
+[ the/DT present/JJ school/NN term/NN ]
+./. 
+==================================
+
+[ Dr./NNP Clark/NNP ]
+holds/VBZ 
+[ an/DT earned/VBN Doctor/NNP ]
+of/IN 
+[ Education/NNP degree/NN ]
+from/IN 
+[ the/DT University/NNP ]
+of/IN 
+[ Oklahoma/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+also/RB received/VBD 
+[ a/DT Master/NNP ]
+of/IN 
+[ Science/NNP degree/NN ]
+from/IN 
+[ Texas/NNP ]
+
+[ A/DT ]
+&/CC 
+[ I/PRP College/NNP ] 
+and/CC 
+[ a/DT Bachelor/NNP ]
+of/IN 
+[ Science/NNP degree/NN ]
+from/IN 
+[ Southwestern/NNP State/NNP College/NNP ]
+,/, 
+[ Weatherford/NNP ]
+,/, 
+[ Okla/NNP ]
+../. In/IN 
+[ addition/NN ]
+,/, 
+[ Dr./NNP Clark/NNP ]
+has/VBZ studied/VBN at/IN 
+[ Rhode/NNP Island/NNP State/NNP College/NNP ]
+and/CC 
+[ Massachusetts/NNP Institute/NNP ]
+of/IN 
+[ Technology/NNP ]
+./. 
+==================================
+During/IN 
+[ his/PRP$ college/NN career/NN ]
+,/, 
+[ Dr./NNP Clark/NNP ]
+was/VBD 
+[ captain/NN ]
+of/IN 
+[ his/PRP$ basketball/NN team/NN ]
+and/CC was/VBD 
+[ a/DT football/NN letterman/NN ]
+./. 
+==================================
+
+[ Dr./NNP Clark/NNP ]
+has/VBZ served/VBN as/IN 
+[ teacher/NN ]
+and/CC 
+[ principal/NN ]
+in/IN 
+[ Oklahoma/NNP high/JJ schools/NNS ]
+,/, as/IN 
+[ teacher/NN ]
+and/CC 
+[ athletic/JJ director/NN ]
+at/IN 
+[ Raymondville/NNP ]
+,/, 
+[ Texas/NNP ]
+,/, 
+[ High/NNP School/NNP ]
+,/, as/IN 
+[ an/DT instructor/NN ]
+at/IN 
+[ the/DT University/NNP ]
+of/IN 
+[ Oklahoma/NNP ]
+,/, and/CC as/IN 
+[ an/DT associate/JJ professor/NN ]
+of/IN 
+[ education/NN ]
+at/IN 
+[ Fort/NNP Hays/NNP ]
+,/, 
+[ Kan./NNP ]
+,/, 
+[ State/NNP College/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+has/VBZ served/VBN as/IN 
+[ a/DT border/NN patrolman/NN ]
+and/CC was/VBD in/IN 
+[ the/DT Signal/NNP Corps/NNP ]
+of/IN 
+[ the/DT U.S./NNP Army/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Denton/NNP ]
+,/, 
+[ Texas/NNP ]
+(/( 
+[ sp/NN ]
+./. 
+==================================
+)/) --/: 
+[ Principals/NNS ]
+of/IN 
+[ the/DT 13/CD schools/NNS ]
+in/IN 
+[ the/DT Denton/NNP Independent/NNP School/NNP District/NNP ]
+have/VB been/VBN 
+[ re-elected/VBN ]
+for/IN 
+[ the/DT 1961-62/CD session/NN ]
+upon/IN 
+[ the/DT recommendation/NN ]
+of/IN 
+[ Supt./NNP Chester/NNP O./NNP Strickland/NNP ]
+./. 
+==================================
+
+[ State/NN ]
+and/CC 
+[ federal/JJ legislation/NN ]
+against/IN 
+[ racial/JJ discrimination/NN ]
+in/IN 
+[ employment/NN ]
+was/VBD called/VBN for/IN 
+[ yesterday/NN ]
+in/IN 
+[ a/DT report/NN ]
+of/IN 
+[ a/DT ]
+``/`` 
+[ blue/JJ ribbon/NN ]
+''/'' 
+[ citizens/NNS committee/NN ]
+on/IN 
+[ the/DT aid/NN ]
+to/TO 
+[ dependent/JJ children/NNS program/NN ]
+./. 
+==================================
+
+[ The/DT report/NN ]
+,/, culminating/VBG 
+[ a/DT year/JJ long/JJ study/NN ]
+of/IN 
+[ the/DT ADC/NNP program/NN ]
+in/IN 
+[ Cook/NN county/NN ]
+by/IN 
+[ a/DT New/NNP York/NNP City/NNP welfare/NN consulting/VBG firm/NN ]
+,/, listed/VBD 
+[ 10/CD long/JJ range/JJ recommendations/NNS ]
+designed/VBN to/TO reduce/VB 
+[ the/DT ]
+soaring/VBG 
+[ ADC/NNP case/NN load/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT report/NN ]
+called/VBD 
+[ racial/JJ discrimination/NN ]
+in/IN 
+[ employment/NN ]
+``/`` 
+[ one/NN ]
+of/IN 
+[ the/DT most/RBS serious/JJ causes/NNS ]
+of/IN 
+[ family/NN breakdown/NN ]
+,/, 
+[ desertion/NN ]
+,/, and/CC 
+[ ADC/NNP dependency/NN ]
+''/'' ./. 
+==================================
+``/`` Must/MD solve/VB 
+[ problem/NN ]
+''/'' 
+[ The/DT monthly/JJ cost/NN ]
+of/IN 
+[ ADC/NNP ]
+to/TO 
+[ more/JJR ]
+than/IN 
+[ 100,000/CD recipients/NNS ]
+in/IN 
+[ the/DT county/NN ]
+is/VBZ 
+[ 4.4/CD million/CD dollars/NNS ]
+,/, said/VBD 
+[ C./NNP Virgil/NNP Martin/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ Carson/NNP Pirie/NNP Scott/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, 
+[ committee/NN chairman/NN ]
+./. 
+==================================
+``/`` 
+[ We/PRP ]
+must/MD solve/VB 
+[ the/DT problems/NNS ]
+
+[ which/WDT ]
+have/VB forced/VBN 
+[ these/DT people/NNS ]
+to/TO depend/VB upon/IN 
+[ ADC/NNP ]
+for/IN 
+[ subsistence/NN ]
+''/'' ,/, 
+[ Martin/NNP ]
+said/VBD ./. 
+==================================
+
+[ The/DT volume/NN ]
+of/IN 
+[ ADC/NNP cases/NNS ]
+will/MD decrease/VB ,/, 
+[ Martin/NNP ]
+reported/VBD ,/, when/WRB 
+[ the/DT community/NN ]
+is/VBZ able/JJ to/TO deal/VB effectively/RB with/IN 
+[ two/CD problems/NNS ]
+:/: Relatively/RB limited/VBN 
+[ skills/NNS ]
+and/CC 
+[ discrimination/NN ]
+in/IN 
+[ employment/NN ]
+because/IN of/IN 
+[ color/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ These/DT ]
+,/, 
+[ he/PRP ]
+said/VBD ,/, are/VBP ``/`` 
+[ two/CD ]
+of/IN 
+[ the/DT principal/JJ underlying/VBG causes/NNS ]
+for/IN 
+[ family/NN breakups/NNS ]
+leading/VBG to/TO 
+[ ADC/NNP ]
+''/'' ./. 
+==================================
+
+[ Calls/NNS ]
+for/IN 
+[ extension/NN Other/JJ recommendations/NNS ]
+made/VBN by/IN 
+[ the/DT committee/NN ]
+are/VBP :/: 
+[ Extension/NN ]
+of/IN 
+[ the/DT ADC/NNP program/NN ]
+to/TO 
+[ all/DT children/NNS ]
+in/IN 
+[ need/NN ]
+living/VBG with/IN 
+[ any/DT relatives/NNS ]
+,/, including/VBG 
+[ both/DT ]
+
+[ parents/NNS ]
+,/, as/IN 
+[ a/DT means/NN ]
+of/IN 
+[ preserving/VBG family/NN unity/NN ]
+./. 
+==================================
+
+[ Research/NNP projects/NNS ]
+as/RB soon/RB as/IN 
+[ possible/JJ ]
+on/IN 
+[ the/DT causes/NNS ]
+and/CC 
+[ prevention/NN ]
+of/IN 
+[ dependency/NN ]
+and/CC 
+[ illegitimacy/NN ]
+./. 
+==================================
+==================================
+==================================

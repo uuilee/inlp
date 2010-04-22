@@ -1,0 +1,1584 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+Probably/RB 
+[ the/DT hottest/JJS thing/NN ]
+
+[ that/WDT ]
+has/VBZ hit/VBN 
+[ the/DT Dallas/NNP investment/NN community/NN ]
+in/IN 
+[ years/NNS ]
+was/VBD 
+[ the/DT Morton/NNP Foods/NNP stock/NN issue/NN ]
+,/, 
+[ which/WDT ]
+was/VBD sold/VBN to/TO 
+[ the/DT public/NN ]
+during/IN 
+[ the/DT past/JJ week/NN ]
+./. 
+==================================
+For/IN 
+[ many/JJ reasons/NNS ]
+,/, 
+[ the/DT demand/NN ]
+to/TO buy/VB 
+[ shares/NNS ]
+in/IN 
+[ the/DT Dallas-headquartered/JJ company/NN ]
+was/VBD tremendous/JJ ./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD not/RB 
+[ a/DT case/NN ]
+of/IN 
+[ the/DT investment/NN bankers/NNS ]
+having/VBG to/TO sell/VB 
+[ the/DT stock/NN ]
+;/: ;/: 
+[ it/PRP ]
+was/VBD more/RBR 
+[ one/CD ]
+of/IN allotting/VBG 
+[ a/DT few/JJ shares/NNS ]
+to/TO 
+[ a/DT number/NN ]
+of/IN 
+[ customers/NNS ]
+and/CC explaining/VBG to/TO 
+[ others/NNS ]
+why/WRB 
+[ they/PRP ]
+had/VBD no/RB more/NN to/TO sell/VB ./. 
+==================================
+
+[ Investors/NNS ]
+
+[ who/WP ]
+wanted/VBD 
+[ 100/CD shares/NNS ]
+in/IN 
+[ many/JJ cases/NNS ]
+ended/VBD up/IN with/IN 
+[ 25/CD ]
+,/, and/CC 
+[ customers/NNS ]
+
+[ who/WP ]
+had/VBD put/VBN in/IN 
+[ a/DT bid/NN ]
+to/TO buy/VB 
+[ 400/CD shares/NNS ]
+found/VBD 
+[ themselves/PRP ]
+with/IN 
+[ 100/CD ]
+and/CC counted/VBD 
+[ themselves/PRP ]
+lucky/JJ to/TO get/VB that/IN 
+[ many/JJ ]
+./. 
+==================================
+In/IN 
+[ fact/NN ]
+,/, 
+[ very/RB few/JJ customers/NNS ]
+,/, anywhere/RB in/IN 
+[ the/DT nation/NN ]
+,/, were/VBD able/JJ to/TO get/VB more/JJR than/IN 
+[ 100/CD shares/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Some/DT Dallas/NNP investment/NN firms/NNS ]
+got/VBD only/RB 
+[ 100/CD shares/NNS ]
+,/, for/IN 
+[ all/DT ]
+of/IN 
+[ their/PRP$ customers/NNS ]
+./. 
+==================================
+
+[ A/DT measure/NN ]
+of/IN how/WRB 
+[ hot/JJ the/DT stock/NN ]
+was/VBD ,/, can/MD be/VB found/VBN in/IN 
+[ what/WP ]
+happened/VBD to/TO 
+[ it/PRP ]
+on/IN 
+[ the/DT market/NN ]
+as/RB soon/RB as/IN trading/NN began/VBD ./. 
+==================================
+
+[ The/DT stock/NN ]
+was/VBD sold/VBN in/IN 
+[ the/DT underwriting/NN ]
+at/IN 
+[ a/DT price/NN ]
+of/IN 
+[ $/$ 12.50/CD ]
+
+[ a/DT share/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT first/JJ over-the-counter/JJ trade/NN Wednesday/NNP afternoon/NN ]
+at/IN 
+[ Eppler/NNP ]
+,/, 
+[ Guerin/NNP ]
+&/CC 
+[ Turner/NNP ]
+,/, 
+[ the/DT managing/NN underwriter/NN ]
+,/, was/VBD at/IN 
+[ $/$ 17/CD ]
+
+[ a/DT share/NN ]
+./. 
+==================================
+
+==================================
+==================================
+And/CC from/IN that/IN 
+[ the/DT stock/NN ]
+moved/VBD right/RB on/IN up/RB until/IN 
+[ it/PRP ]
+was/VBD trading/VBG 
+[ Thursday/NNP morning/NN ]
+at/IN around/IN 
+[ $/$ 22/CD ]
+
+[ a/DT share/NN ]
+./. 
+==================================
+But/CC 
+[ the/DT Morton/NNP Foods/NNP issue/NN ]
+was/VBD hot/JJ long/RB before/IN 
+[ it/PRP ]
+was/VBD on/IN 
+[ the/DT market/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Indeed/RB ,/, from/IN 
+[ the/DT moment/NN ]
+
+[ the/DT reports/NNS ]
+of/IN 
+[ the/DT coming/VBG issue/NN ]
+first/RB started/VBD circulating/VBG in/IN 
+[ Dallas/NNP last/JJ January/NNP ]
+,/, 
+[ the/DT inquiries/NNS ]
+and/CC 
+[ demand/NN ]
+for/IN 
+[ the/DT stock/NN ]
+started/VBD building/VBG up/RB ./. 
+==================================
+
+[ Letters/NNS ]
+by/IN 
+[ the/DT reams/NNS ]
+came/VBD in/RB from/IN 
+[ investment/NN firms/NNS all/DT ]
+over/IN 
+[ the/DT nation/NN ]
+,/, 
+[ all/DT ]
+of/IN 
+[ them/PRP ]
+wanting/VBG to/TO get/VB 
+[ a/DT part/NN ]
+of/IN 
+[ the/DT shares/NNS ]
+
+[ that/WDT ]
+would/MD be/VB sold/VBN (/( 
+[ 185,000/CD ]
+to/TO 
+[ the/DT public/NN ]
+at/IN 
+[ $/$ 12.50/CD ]
+,/, with/IN 
+[ another/DT 5,000/CD ]
+reserved/VBN for/IN 
+[ Morton/NNP Foods/NNP ]
+employes/NNS at/IN 
+[ $/$ 11.50/CD ]
+
+[ a/DT share/NN ]
+)/) ./. 
+==================================
+
+[ There/EX ]
+was/VBD even/RB 
+[ a/DT cable/NN ]
+in/IN 
+[ French/NNP ]
+from/IN 
+[ a/DT bank/NN ]
+in/IN 
+[ Switzerland/NN ]
+
+[ that/WDT ]
+had/VBD somehow/RB learned/VBN about/IN 
+[ the/DT Dallas/NNP stock/NN offering/NN ]
+./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ We/PRP ]
+subscribe/VBP 
+[ 500/CD shares/NNS ]
+of/IN 
+[ Morton/NNP Foods/NNP ]
+of/IN 
+[ Texas/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Cable/NN confirmation/NN ]
+''/'' ,/, 
+[ it/PRP ]
+said/VBD translated/VBN ./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ E.G.T./NNP ]
+could/MD not/RB let/VB 
+[ the/DT Swiss/NNP bank/NN ]
+have/VB even/RB 
+[ 10/CD shares/NNS ]
+./. 
+==================================
+After/IN 
+[ it/PRP ]
+allotted/VBD 
+[ shares/NNS ]
+to/TO 
+[ 41/CD underwriters/NNS ]
+and/CC 
+[ 52/CD selling/JJ group/NN members/NNS ]
+from/IN 
+[ coast/NN ]
+to/TO 
+[ coast/NN ]
+
+[ there/EX ]
+were/VBD not/RB 
+[ many/JJ shares/NNS ]
+for/IN 
+[ anyone/NN ]
+./. 
+==================================
+But/CC 
+[ the/DT result/NN ]
+of/IN 
+[ it/PRP ]
+
+[ all/DT ]
+was/VBD ,/, 
+[ E.G.T./NNP partner/NN Dean/NNP Guerin/NNP ]
+believes/VBZ ,/, 
+[ an/DT effective/JJ distribution/NN ]
+of/IN 
+[ the/DT stock/NN ]
+to/TO 
+[ owners/NNS all/DT ]
+over/IN 
+[ the/DT nation/NN ]
+./. 
+==================================
+``/`` 
+[ I/PRP ]
+feel/VBP 
+[ confident/JJ the/DT stock/NN ]
+will/MD qualify/VB for/IN 
+[ the/DT ]
+'/'' 
+[ national/JJ list/NN ]
+'/'' ''/'' ,/, 
+[ he/PRP ]
+said/VBD ,/, meaning/VBG 
+[ its/PRP$ market/NN price/NN ]
+would/MD be/VB quoted/VBN regularly/RB in/IN 
+[ newspapers/NNS all/DT ]
+over/IN 
+[ the/DT country/NN ]
+./. 
+==================================
+
+[ He/PRP ]
+was/VBD also/RB pleased/VBN with/IN 
+[ the/DT wide/JJ distribution/NN ]
+because/IN 
+[ he/PRP ]
+thought/VBD 
+[ it/PRP ]
+proved/VBD again/RB 
+[ his/PRP$ argument/NN ]
+that/IN 
+[ Dallas/NNP investment/NN men/NNS ]
+can/MD do/VB just/RB as/RB good/JJ 
+[ a/DT job/NN ]
+as/IN 
+[ the/DT big/JJ New/NNP York/NNP investment/NN bankers/NNS ]
+claim/VBP only/RB 
+[ they/PRP ]
+can/MD do/VB ./. 
+==================================
+But/CC 
+[ what/WP ]
+made/VBD 
+[ the/DT Morton/NNP Foods/NNP stock/NN ]
+issue/VB 
+[ such/DT a/DT hot/JJ one/CD ]
+?/. ?/. 
+==================================
+
+[ The/DT answer/NN ]
+is/VBZ that/IN 
+[ it/PRP ]
+was/VBD 
+[ a/DT combination/NN ]
+of/IN 
+[ circumstances/NNS ]
+./. 
+==================================
+First/RB ,/, 
+[ the/DT general/JJ stock/NN market/NN ]
+has/VBZ been/VBN boiling/VBG upward/RB for/IN 
+[ the/DT last/JJ few/JJ months/NNS ]
+,/, driving/VBG 
+[ stocks/NNS ]
+of/IN 
+[ all/DT kinds/NNS ]
+up/RP ./. 
+==================================
+
+==================================
+==================================
+As/IN 
+[ a/DT result/NN ]
+,/, 
+[ it/PRP ]
+is/VBZ not/RB easy/JJ to/TO find/VB 
+[ a/DT stock/NN ]
+priced/VBN as/IN 
+[ the/DT Morton/NNP issue/NN ]
+was/VBD priced/VBN (/( at/IN roughly/RB 
+[ 10/CD times/CC 1960/CD earnings/NNS ]
+,/, to/TO yield/VB 
+[ a/DT little/JJ ]
+over/IN 
+[ 5/CD ]
+per/IN 
+[ cent/NN ]
+on/IN 
+[ the/DT 64-cent/JJ anticipated/JJ dividend/NN ]
+)/) ./. 
+==================================
+
+[ Second/JJ ]
+,/, 
+[ the/DT ]
+``/`` 
+[ potato/NN chip/NN industry/NN ]
+''/'' has/VBZ caught/VBN 
+[ the/DT fancy/NN ]
+of/IN 
+[ investors/NNS ]
+lately/RB ,/, and/CC until/IN 
+[ Morton/NNP Foods/NNP ]
+came/VBD along/RB 
+[ there/EX ]
+were/VBD only/RB 
+[ two/CD potato/NN chip/NN stocks/NNS ]
+--/: 
+[ Frito/NNP ]
+and/CC 
+[ H.W./NNP Lay/NNP ]
+--/: on/IN 
+[ the/DT market/NN ]
+./. 
+==================================
+
+[ Both/DT ]
+of/IN 
+[ those/DT ]
+have/VBP had/VBD 
+[ dynamic/JJ run-ups/NNS ]
+in/IN 
+[ price/NN ]
+on/IN 
+[ the/DT market/NN ]
+in/IN 
+[ recent/JJ months/NNS ]
+,/, 
+[ both/DT ]
+were/VBD selling/VBG at/IN 
+[ higher/JJR price-earnings/NN ]
+and/CC 
+[ yield/NN bases/NNS ]
+than/IN 
+[ Morton/NNP ]
+was/VBD coming/VBG to/TO market/VB at/IN ,/, and/CC 
+[ everyone/NN ]
+
+[ who/WP ]
+knew/VBD 
+[ anything/NN ]
+about/IN 
+[ it/PRP ]
+expected/VBD 
+[ the/DT Morton/NNP stock/NN ]
+to/TO have/VB 
+[ a/DT fast/JJ run-up/NN ]
+./. 
+==================================
+And/CC 
+[ third/JJ ]
+,/, 
+[ the/DT potato/NN chip/NN industry/NN ]
+has/VBZ taken/VBN on/IN 
+[ the/DT flavor/NN ]
+of/IN 
+[ a/DT ]
+``/`` 
+[ growth/NN ]
+''/'' 
+[ industry/NN ]
+in/IN 
+[ the/DT public/JJ mind/NN ]
+of/IN late/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ Foods/NNS ]
+,/, 
+[ which/WDT ]
+long/RB had/VBD been/VBN considered/VBN ``/`` 
+[ recession/NN resistant/NN ]
+''/'' but/CC hardly/RB 
+[ dynamic/JJ stocks/NNS ]
+,/, have/VBP been/VBN acting/VBG like/IN 
+[ growth/NN stocks/NNS ]
+,/, going/VBG to/TO 
+[ higher/JJR price-earnings/NNS ratios/NNS ]
+./. 
+==================================
+
+[ The/DT potato/NN chip/NN industry/NN these/DT days/NNS ]
+is/VBZ growing/VBG ,/, not/RB only/RB as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ population/NN increase/NN ]
+and/CC 
+[ public/JJ acceptance/NN ]
+of/IN 
+[ convenience/NN foods/NNS ]
+,/, but/CC also/RB because/IN of/IN 
+[ a/DT combination/NN ]
+of/IN 
+[ circumstances/NNS ]
+
+[ that/WDT ]
+has/VBZ led/VBN to/TO 
+[ growth/NN ]
+by/IN 
+[ merger/NN ]
+./. 
+==================================
+
+[ The/DT history/NN ]
+of/IN 
+[ the/DT U.S./NNP potato/NN chip/NN industry/NN ]
+is/VBZ that/IN 
+[ many/JJ ]
+of/IN 
+[ today/NN 's/POS successful/JJ companies/NNS ]
+got/VBD started/VBN during/IN 
+[ the/DT deep/JJ depression/NN days/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Those/DT ]
+
+[ that/WDT ]
+remain/VBP are/VBP 
+[ those/DT ]
+
+[ that/WDT ]
+were/VBD headed/VBN by/IN 
+[ strong/JJ executives/NNS ]
+,/, 
+[ men/NNS ]
+with/IN 
+[ the/DT abilities/NNS ]
+to/TO last/VB almost/RB 
+[ 30/CD years/NNS ]
+in/IN 
+[ the/DT competitive/JJ survival/NN ]
+of/IN 
+[ the/DT fittest/JJS ]
+./. 
+==================================
+But/CC 
+[ today/NN ]
+many/JJ of/IN 
+[ those/DT men/NNS ]
+are/VBP reaching/VBG 
+[ retirement/NN age/NN ]
+and/CC suddenly/RB realizing/VBG that/IN 
+[ they/PRP ]
+face/VBP 
+[ an/DT estate/NN tax/NN problem/NN ]
+with/IN 
+[ their/PRP$ ]
+closely/RB held/VBN 
+[ companies/NNS ]
+and/CC also/RB that/IN 
+[ they/PRP ]
+have/VBP 
+[ no/DT second-echelon/JJ management/NN ]
+in/IN 
+[ their/PRP$ firms/NNS ]
+./. 
+==================================
+So/IN 
+[ they/PRP ]
+go/VBP looking/VBG for/IN 
+[ mergers/NNS ]
+with/IN 
+[ other/JJ firms/NNS ]
+
+[ that/WDT ]
+have/VBP publicly/RB quoted/VBN 
+[ stock/NN ]
+,/, and/CC almost/RB daily/RB 
+[ they/PRP ]
+pound/VBP on/IN 
+[ the/DT doors/NNS ]
+of/IN 
+[ firms/NNS ]
+like/IN 
+[ Frito/NNP ]
+./. 
+==================================
+
+[ All/PDT those/DT things/NNS ]
+combined/VBD to/TO make/VB 
+[ the/DT Morton/NNP Foods/NNP ]
+stock/NN 
+[ the/DT hot/JJ issue/NN ]
+that/IN 
+[ it/PRP ]
+was/VBD and/CC is/VBZ ./. 
+==================================
+Now/RB ,/, if/IN 
+[ Morton/NNP 's/POS newest/JJS product/NN ]
+,/, 
+[ a/DT corn/NN chip/NN ]
+known/VBN as/IN 
+[ Chip-o/NNP 's/POS ]
+,/, turns/VBZ out/RB to/TO sell/VB as/RB well/RB as/IN 
+[ its/PRP$ stock/NN ]
+did/VBD ,/, 
+[ the/DT stock/NN ]
+may/MD turn/VB out/RB to/TO be/VB worth/JJ 
+[ every/DT cent/NN ]
+of/IN 
+[ the/DT prices/NNS ]
+that/IN 
+[ the/DT avid/JJ buyers/NNS ]
+bid/VB 
+[ it/PRP ]
+up/IN to/TO ./. 
+==================================
+
+==================================
+==================================
+
+[ Dallas/NNP ]
+and/CC 
+[ North/NNP Texas/NNP ]
+is/VBZ known/VBN world-wide/JJ as/IN 
+[ the/DT manufacturing/NN ]
+and/CC 
+[ distribution/NN center/NN ]
+of/IN 
+[ cotton/NN gin/NN machinery/NN ]
+and/CC 
+[ supplies/NNS ]
+,/, valued/VBN in/IN 
+[ the/DT millions/NNS ]
+of/IN 
+[ dollars/NNS ]
+./. 
+==================================
+More/RBR than/IN 
+[ 10/CD companies/NNS ]
+maintain/VBP 
+[ facilities/NNS ]
+in/IN 
+[ Dallas/NNP ]
+and/CC 
+[ one/CD large/JJ manufacturer/NN ]
+is/VBZ located/VBN to/TO 
+[ the/DT north/NN ]
+at/IN 
+[ Sherman/NNP ]
+./. 
+==================================
+
+[ It/PRP ]
+is/VBZ 
+[ no/DT coincidence/NN ]
+that/IN 
+[ the/DT Texas/NNP Cotton/NNP Ginner/NNP 's/POS Association/NNP ]
+is/VBZ meeting/VBG here/RB 
+[ this/DT week/NN ]
+for/IN 
+[ the/DT 46th/CD time/NN ]
+in/IN 
+[ their/PRP$ 52-year/JJ history/NN ]
+./. 
+==================================
+
+[ The/DT exhibition/NN ]
+of/IN 
+[ cotton/NN ginning/NN machinery/NN ]
+at/IN 
+[ the/DT State/NNP Fair/NNP grounds/NNS ]
+is/VBZ valued/VBN at/IN more/RBR than/IN 
+[ a/DT million/CD dollars/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+weighs/VBZ in/IN 
+[ the/DT tons/NNS ]
+,/, so/CC 
+[ the/DT proximity/NN ]
+of/IN 
+[ factory/NN ]
+and/CC 
+[ exhibition/NN area/NN ]
+makes/VBZ 
+[ it/PRP ]
+possible/JJ for/IN 
+[ an/DT outstanding/JJ exhibit/NN ]
+
+[ each/DT year/NN ]
+./. 
+==================================
+
+[ A/DT modern/NN cotton/NN gin/NN plant/NN costs/VBZ ]
+in/IN 
+[ the/DT neighborhood/NN ]
+of/IN 
+[ $/$ 250,000/CD ]
+,/, and/CC 
+[ it/PRP ]
+'s/VBZ 
+[ a/DT safe/JJ assumption/NN ]
+that/IN 
+[ a/DT large/JJ percentage/NN ]
+of/IN 
+[ new/JJ gins/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+and/CC 
+[ foreign/JJ countries/NNS ]
+contain/VBP 
+[ machinery/NN ]
+made/VBN in/IN 
+[ this/DT area/NN ]
+./. 
+==================================
+
+[ The/DT Murray/NNP Co./NNP ]
+of/IN 
+[ Texas/NNP ]
+,/, 
+[ Inc./NNP ]
+,/, originated/VBD in/IN 
+[ Dallas/NNP ]
+in/IN 
+[ 1896/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+'ve/VBP occupied/VBN 
+[ a/DT 22-acre/JJ site/NN ]
+since/IN 
+[ the/DT early/JJ 1900/CD 's/POS ]
+./. 
+==================================
+More/JJR than/IN 
+[ 700/CD employees/NNS ]
+make/VBP 
+[ gin/NN machinery/NN ]
+
+[ that/WDT ]
+'s/VBZ sold/VBN anywhere/RB 
+[ cotton/NN ]
+is/VBZ grown/VBN ./. 
+==================================
+
+[ Murray/NNP ]
+makes/VBZ 
+[ a/DT complete/JJ line/NN ]
+of/IN 
+[ ginning/NN equipment/NN ]
+except/IN for/IN 
+[ driers/NNS ]
+and/CC 
+[ cleaners/NNS ]
+,/, and/CC 
+[ this/DT machinery/NN ]
+is/VBZ purchased/VBN from/IN 
+[ a/DT Dallas-based/JJ firm/NN ]
+./. 
+==================================
+
+[ The/DT Continental/NNP Gin/NNP Co./NNP ]
+began/VBD 
+[ operations/NNS ]
+in/IN 
+[ Dallas/NNP ]
+in/IN 
+[ 1899/CD ]
+./. 
+==================================
+
+[ The/DT present/JJ company/NN ]
+is/VBZ 
+[ a/DT combination/NN ]
+of/IN 
+[ several/JJ smaller/JJR ones/NNS ]
+
+[ that/WDT ]
+date/VBP back/RB to/TO 
+[ 1834/CD ]
+./. 
+==================================
+
+[ Headquarters/NN ]
+is/VBZ in/IN 
+[ Birmingham/NNP ]
+,/, 
+[ Ala/NNP ]
+../. 
+[ Factories/NNS ]
+are/VBP located/VBN here/RB and/CC in/IN 
+[ Prattville/NNP ]
+,/, 
+[ Ala/NNP ]
+../. About/IN 
+[ 40/CD ]
+per/IN 
+[ cent/NN ]
+of/IN 
+[ the/DT manufacturing/NN ]
+is/VBZ done/VBN at/IN 
+[ the/DT Dallas/NNP plant/NN ]
+by/IN more/RBR than/IN 
+[ 200/CD employes/NNS ]
+./. 
+==================================
+
+[ The/DT company/NN ]
+sells/VBZ 
+[ a/DT complete/JJ line/NN ]
+of/IN 
+[ gin/NN machinery/NN ]
+
+[ all/DT ]
+over/IN 
+[ the/DT cotton-growing/JJ world/NN ]
+./. 
+==================================
+
+[ Hardwicke-Etter/NNP Co./NNP ]
+of/IN 
+[ Sherman/NNP ]
+makes/VBZ 
+[ a/DT full/JJ line/NN ]
+of/IN 
+[ gin/NN machinery/NN ]
+and/CC 
+[ equipment/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT firm/NN ]
+recently/RB expanded/VBD 
+[ domestic/JJ sales/NNS ]
+into/IN 
+[ the/DT Southeastern/JJ states/NNS ]
+as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ an/DT agreement/NN ]
+with/IN 
+[ Cen-Tennial/NNP Gin/NNP Co/NNP ]
+../. 
+[ They/PRP ]
+export/VBP also/RB ./. 
+==================================
+
+[ The/DT company/NN ]
+began/VBD 
+[ operation/NN ]
+in/IN 
+[ 1900/CD ]
+with/IN 
+[ hardware/NN ]
+and/CC 
+[ oil/NN mill/NN supplies/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ 1930/CD ]
+,/, 
+[ they/PRP ]
+began/VBD making/VBG 
+[ cotton/NN processing/NN equipment/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Presently/RB ,/, 
+[ Hardwicke-Etter/NNP ]
+employs/VBZ 
+[ 300-450/CD people/NNS ]
+,/, depending/VBG on/IN 
+[ the/DT season/NN ]
+of/IN 
+[ the/DT year/NN ]
+./. 
+==================================
+
+[ The/DT Lummus/NNP Cotton/NNP Gin/NNP Co./NNP ]
+has/VBZ had/VBD 
+[ a/DT sales/NNS ]
+and/CC 
+[ service/NN office/NN ]
+in/IN 
+[ Dallas/NNP ]
+since/IN 
+[ 1912/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Factory/NN operations/NNS ]
+are/VBP in/IN 
+[ Columbus/NNP ]
+,/, 
+[ Ga/NNP ]
+./. 
+==================================
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT district/NN office/NN ]
+here/RB employs/VBZ about/IN 
+[ 65/CD ]
+./. 
+==================================
+
+[ The/DT Moss/NNP Gordin/NNP Lint/NNP Cleaner/NNP Co./NNP ]
+and/CC 
+[ Gordin/NNP Unit/NNP System/NNP ]
+of/IN 
+[ Ginning/NNP ]
+have/VBP 
+[ joint/JJ headquarters/NN ]
+here/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT cleaner/JJR equipment/NN firm/NN ]
+began/VBD 
+[ operations/NNS ]
+in/IN 
+[ 1953/CD ]
+and/CC 
+[ the/DT unit/NN system/NN ]
+,/, 
+[ which/WDT ]
+turns/VBZ out/RP 
+[ a/DT complete/JJ ginning/NN system/NN ]
+,/, began/VBD 
+[ operations/NNS ]
+in/IN 
+[ 1959/CD ]
+./. 
+==================================
+
+[ Gordin/NNP ]
+manufacturing/NN 
+[ operations/NNS ]
+are/VBP in/IN 
+[ Lubbock/NNP ]
+./. 
+==================================
+
+[ The/DT John/NNP E./NNP Mitchell/NNP Co./NNP ]
+began/VBD 
+[ work/NN ]
+in/IN 
+[ Dallas/NNP ]
+in/IN 
+[ 1928/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT firm/NN ]
+is/VBZ prominent/JJ in/IN 
+[ making/VBG equipment/NN ]
+for/IN 
+[ cleaning/VBG seed/NN cotton/NN ]
+,/, 
+[ driers/NNS ]
+,/, and/CC 
+[ heaters/NNS ]
+,/, and/CC 
+[ they/PRP ]
+lay/VBD 
+[ claim/NN ]
+to/TO being/VBG 
+[ the/DT first/JJ maker/NN ]
+(/( 
+[ 1910/CD ]
+)/) of/IN 
+[ boil/NN extraction/NN equipment/NN ]
+./. 
+==================================
+
+[ The/DT increase/NN ]
+in/IN 
+[ mechanical/JJ harvesting/NN ]
+of/IN 
+[ cotton/NN ]
+makes/VBZ cleaning/NN and/CC 
+[ drying/NN equipment/NN ]
+
+[ a/DT must/JJ ]
+for/IN 
+[ modern/JJ gin/NN operation/NN ]
+./. 
+==================================
+
+[ Mitchell/NNP ]
+employs/VBZ 
+[ a/DT total/NN ]
+of/IN about/IN 
+[ 400/CD people/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+export/VBP 
+[ cotton/NN ginning/NN machinery/NN ]
+./. 
+==================================
+
+[ The/DT Hinckley/NNP Gin/NNP Supply/NNP Co./NNP ]
+is/VBZ 
+[ a/DT maker/NN ]
+of/IN ``/`` 
+[ overhead/JJ equipment/NN ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+includes/VBZ 
+[ driers/NNS ]
+,/, 
+[ cleaners/NNS ]
+,/, 
+[ burr/NN extractors/NNS ]
+,/, 
+[ separators/NNS ]
+and/CC 
+[ piping/NN ]
+
+[ that/WDT ]
+'s/VBZ located/VBN above/IN 
+[ gin/NN stands/NNS ]
+in/IN 
+[ a/DT complete/JJ gin/NN ]
+./. 
+==================================
+
+[ The/DT firm/NN ]
+began/VBD 
+[ operations/NNS ]
+back/RB in/IN 
+[ 1925/CD ]
+and/CC sells/VBZ 
+[ equipment/NN ]
+in/IN 
+[ the/DT central/JJ cotton/NN belt/NN ]
+,/, including/VBG 
+[ the/DT Mississippi/NNP Delta/NNP ]
+./. 
+==================================
+
+[ The/DT Cen-Tennial/NNP Gin/NNP Supply/NNP Co./NNP ]
+has/VBZ 
+[ home/NN offices/NNS ]
+and/CC 
+[ factory/NN facilities/NNS ]
+here/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+make/VBP 
+[ gin/NN saws/NNS ]
+and/CC 
+[ deal/VBP ]
+in/IN 
+[ parts/NNS ]
+,/, 
+[ supplies/NNS ]
+and/CC 
+[ some/DT used/JJ gin/NN machinery/NN ]
+./. 
+==================================
+
+[ The/DT Stacy/NNP Co./NNP ]
+makes/VBZ cleaning/NN and/CC 
+[ drying/NN equipment/NN ]
+for/IN 
+[ sale/NN ]
+largely/RB in/IN 
+[ Texas/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+'ve/VBP been/VBN in/IN 
+[ Dallas/NNP ]
+since/IN 
+[ 1921/CD ]
+./. 
+==================================
+
+[ Cotton/NNP Belt/NNP Gin/NNP Service/NNP ]
+,/, 
+[ Inc./NNP ]
+of/IN 
+[ Dallas/NNP ]
+makes/VBZ 
+[ gin/NN saws/NNS ]
+and/CC started/VBD here/RB 
+[ 14/CD years/NNS ]
+ago/RB ./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+distribute/VBP 
+[ equipment/NN ]
+in/IN 
+[ 11/CD states/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT firm/NN ]
+also/RB handles/VBZ 
+[ gin/NN ]
+and/CC 
+[ oil/NN mill/NN supplies/NNS ]
+such/DT as/IN 
+[ belting/NN ]
+,/, 
+[ bearings/NNS ]
+,/, 
+[ etc/FW ]
+../. 
+[ Cotton/NN processing/NN equipment/NN ]
+is/VBZ 
+[ a/DT sizable/JJ segment/NN ]
+of/IN 
+[ Dallas/NNP business/NN economy/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ New/JJ car/NN sales/NNS ]
+in/IN 
+[ Dallas/NNP County/NNP ]
+during/IN 
+[ March/NNP ]
+showed/VBD 
+[ slight/JJ signs/NNS ]
+of/IN recovering/VBG from/IN 
+[ the/DT doldrums/NNS ]
+
+[ which/WDT ]
+have/VBP characterized/VBN 
+[ sales/NNS ]
+
+[ this/DT year/NN ]
+./. 
+==================================
+
+[ Registrations/NNS ]
+of/IN 
+[ new/JJ cars/NNS ]
+in/IN 
+[ Dallas/NNP County/NNP ]
+cracked/VBD 
+[ the/DT 3,000/CD mark/NN ]
+in/IN 
+[ March/NNP ]
+for/IN 
+[ the/DT first/JJ time/NN ]
+
+[ this/DT year/NN ]
+./. 
+==================================
+Totaling/VBG 
+[ 3,399/CD ]
+,/, 
+[ sales/NNS ]
+jumped/VBD 
+[ 14/CD ]
+per/IN 
+[ cent/NN ]
+over/IN 
+[ February/NNP 's/POS 2,963/CD ]
+./. 
+==================================
+
+==================================
+==================================
+However/RB ,/, compared/VBN with/IN 
+[ March/NNP 1960/CD new/JJ car/NN sales/NNS ]
+of/IN 
+[ 4,441/CD ]
+,/, 
+[ this/DT March/NNP ]
+was/VBD off/IN 
+[ 23/CD ]
+per/IN 
+[ cent/NN ]
+./. 
+==================================
+On/IN 
+[ a/DT quarter-to-quarter/JJ comparison/NN ]
+,/, 
+[ the/DT first/JJ quarter/NN ]
+of/IN 
+[ 1961/CD total/NN ]
+of/IN 
+[ 9,273/CD cars/NNS ]
+was/VBD 
+[ 21/CD ]
+per/IN 
+[ cent/NN ]
+behind/IN 
+[ the/DT previous/JJ year/NN 's/POS 3-month/JJ total/NN ]
+of/IN 
+[ 11,744/CD ]
+./. 
+==================================
+
+[ This/DT year-to-year/JJ decline/NN ]
+for/IN 
+[ Dallas/NNP County/NNP ]
+closely/RB follows/VBZ 
+[ the/DT national/JJ trend/NN ]
+--/: estimated/VBN 
+[ sales/NNS ]
+of/IN 
+[ domestic/JJ cars/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+for/IN 
+[ first/JJ three/CD months/NNS ]
+of/IN 
+[ 1961/CD ]
+were/VBD about/IN 
+[ 1,212,000/CD ]
+or/CC 
+[ 80/CD ]
+per/IN 
+[ cent/NN ]
+of/IN 
+[ the/DT total/NN ]
+in/IN 
+[ the/DT first/JJ quarter/NN ]
+
+[ a/DT year/NN ]
+earlier/RB ./. 
+==================================
+With/IN 
+[ the/DT March/NNP pickup/NN ]
+,/, 
+[ dealers/NNS ]
+are/VBP optimistic/JJ that/IN 
+[ the/DT April-June/NNP quarter/NN ]
+will/MD equal/VB or/CC top/VB 
+[ last/JJ year/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT March/NNP gain/NN ]
+plus/IN 
+[ this/DT optimism/NN ]
+has/VBZ been/VBN encouraging/VBG enough/RB to/TO prompt/VB 
+[ auto/NN makers/NNS ]
+to/TO boost/VB 
+[ production/NN schedules/NNS ]
+for/IN 
+[ the/DT next/JJ quarter/NN ]
+./. 
+==================================
+On/IN 
+[ the/DT local/JJ level/NN ]
+,/, 
+[ compacts/NNS ]
+continue/VBP to/TO grab/VB 
+[ a/DT larger/JJR share/NN ]
+of/IN 
+[ the/DT market/NN ]
+at/IN 
+[ the/DT expense/NN ]
+of/IN 
+[ lower-priced/JJ standard/JJ models/NNS ]
+and/CC 
+[ foreign/JJ cars/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Only/RB 
+[ three/CD standard/JJ models/NNS ]
+--/: 
+[ Buick/NNP ]
+,/, 
+[ Chrysler/NNP ]
+,/, and/CC 
+[ Mercury/NNP ]
+--/: had/VBD 
+[ slight/JJ year-to-year/JJ gains/NNS ]
+in/IN 
+[ March/NNP sales/NNS ]
+in/IN 
+[ the/DT county/NN ]
+./. 
+==================================
+
+[ The/DT top/JJ 3/CD students/NNS ]
+from/IN 
+[ 11/CD ]
+participating/VBG 
+[ Dallas/NNP County/NNP high/JJ schools/NNS ]
+will/MD be/VB honored/VBN by/IN 
+[ the/DT Dallas/NNP Sales/NNP Executives/NNP Club/NNP ]
+at/IN 
+[ a/DT banquet/NN ]
+at/IN 
+[ 6/CD p.m./RB Tuesday/NNP ]
+in/IN 
+[ the/DT Sam/NNP Houston/NNP Room/NNP ]
+of/IN 
+[ the/DT Sheraton-Dallas/NNP Hotel/NNP ]
+as/IN 
+[ the/DT club/NN ]
+winds/VBZ up/RP 
+[ its/PRP$ annual/JJ Distributive/NNP Education/NNP project/NN ]
+./. 
+==================================
+Now/RB in/IN 
+[ its/PRP$ third/JJ year/NN ]
+,/, 
+[ the/DT program/NN ]
+is/VBZ designed/VBN to/TO provide/VB 
+[ a/DT laboratory/NN ]
+for/IN 
+[ those/DT youngsters/NNS ]
+seeking/VBG 
+[ careers/NNS ]
+in/IN 
+[ marketing/NN ]
+and/CC 
+[ salesmanship/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Business/NN firms/NNS ]
+provide/VBP 
+[ 20/CD weeks/NNS ]
+of/IN 
+[ practical/JJ employment/NN ]
+to/TO supplement/VB 
+[ classroom/NN instruction/NN ]
+in/IN 
+[ these/DT fields/NNS ]
+./. 
+==================================
+More/RBR than/IN 
+[ 500/CD juniors/NNS ]
+and/CC 
+[ seniors/NNS ]
+are/VBP taking/VBG 
+[ part/NN ]
+in/IN 
+[ the/DT program/NN ]
+and/CC 
+[ 100/CD firms/NNS ]
+offer/VBP 
+[ jobs/NNS ]
+on/IN 
+[ an/DT educational/JJ ]
+rather/RB than/IN 
+[ a/DT need/NN basis/NN ]
+./. 
+==================================
+
+[ Principal/JJ address/NN ]
+will/MD be/VB delivered/VBN by/IN 
+[ Gerald/NNP T./NNP Owens/NNP ]
+,/, 
+[ national/JJ sales/NNS manager/NN ]
+for/IN 
+[ Isodine/NNP Pharmical/NNP Corp./NNP ]
+of/IN 
+[ New/NNP York/NNP ]
+./. 
+==================================
+
+[ The/DT 33/CD honored/VBN students/NNS ]
+are/VBP :/: 
+[ Mike/NNP Trigg/NNP ]
+,/, 
+[ Raymond/NNP Arrington/NNP ]
+,/, and/CC 
+[ Ronald/NNP Kaminsky/NNP ]
+of/IN 
+[ Bryan/NNP Adams/NNP ]
+,/, 
+[ Janice/NNP Whitney/NNP ]
+,/, 
+[ Fil/NNP Terral/NNP ]
+,/, and/CC 
+[ Carl/NNP David/NNP Page/NNP ]
+of/IN 
+[ W.H./NNP Adamson/NNP ]
+;/: ;/: 
+[ Bill/NNP Burke/NNP ]
+,/, 
+[ Tommie/NNP Freeman/NNP ]
+,/, and/CC 
+[ Lawrence/NNP Paschall/NNP ]
+of/IN 
+[ N.R./NNP Crozier/NNP Tech/NNP ]
+./. 
+==================================
+
+[ Paulah/NNP Thompson/NNP ]
+,/, 
+[ Gerald/NNP Kestner/NNP ]
+,/, and/CC 
+[ Nancy/NNP Stephenson/NNP ]
+of/IN 
+[ Hillcrest/NNP ]
+;/: ;/: 
+[ Arnold/NNP Hayes/NNP ]
+,/, 
+[ Mary/NNP Ann/NNP Shay/NNP ]
+,/, and/CC 
+[ Lloyd/NNP Satterfield/NNP ]
+of/IN 
+[ Thomas/NNP Jefferson/NNP ]
+;/: ;/: 
+[ William/NNP Cluck/NNP ]
+,/, 
+[ Deloris/NNP Carrel/NNP Carty/NNP ]
+,/, and/CC 
+[ Edna/NNP Earl/NNP Eaton/NNP ]
+of/IN 
+[ North/NNP Dallas/NNP ]
+;/: ;/: 
+[ Patricia/NNP Ann/NNP Neal/NNP ]
+,/, 
+[ Johnny/NNP Carruthers/NNP ]
+,/, and/CC 
+[ David/NNP McLauchlin/NNP ]
+of/IN 
+[ Rylie/NNP ]
+of/IN 
+[ Seagoville/NNP ]
+;/: ;/: 
+[ David/NNP Wolverton/NNP ]
+,/, 
+[ Sharon/NNP Flanagan/NNP ]
+,/, and/CC 
+[ James/NNP Weaver/NNP ]
+of/IN 
+[ W.W./NNP Samuels/NNP ]
+;/: ;/: 
+[ William/NNP Austin/NNP ]
+,/, 
+[ Gary/NNP Hammond/NNP ]
+,/, and/CC 
+[ Ronnie/NNP Davis/NNP ]
+of/IN 
+[ South/NNP Oak/NNP Cliff/NNP ]
+;/: ;/: 
+[ Bill/NNP Eaton/NNP ]
+,/, 
+[ Carolyn/NNP Milton/NNP ]
+,/, and/CC 
+[ Ronnie/NNP Bert/NNP Stone/NNP ]
+of/IN 
+[ Sunset/NNP ]
+;/: ;/: and/CC 
+[ Charles/NNP Potter/NNP ]
+,/, 
+[ Ronnie/NNP Moore/NNP ]
+,/, and/CC 
+[ Robert/NNP Bailey/NNP ]
+of/IN 
+[ Woodrow/NNP Wilson/NNP ]
+./. 
+==================================
+
+[ The/DT Kennedy/NNP administration/NN 's/POS new/JJ housing/NN ]
+and/CC 
+[ urban/JJ renewal/NN proposals/NNS ]
+,/, particularly/RB 
+[ their/PRP$ effect/NN ]
+on/IN 
+[ the/DT Federal/NNP Housing/NNP Administration/NNP ]
+,/, came/VBD under/IN 
+[ fire/NN ]
+in/IN 
+[ Dallas/NNP last/JJ week/NN ]
+./. 
+==================================
+
+[ The/DT Administration/NNP 's/POS proposals/NNS ]
+,/, 
+[ complex/JJ ]
+and/CC sweeping/VBG as/IN 
+[ they/PRP ]
+are/VBP ,/, 
+[ all/DT deal/NN ]
+with/IN 
+[ fringe/JJ areas/NNS ]
+of/IN 
+[ the/DT housing/NN market/NN ]
+rather/RB than/IN 
+[ its/PRP$ core/NN ]
+,/, stated/VBD 
+[ Caron/NNP S./NNP Stallard/NNP ]
+,/, 
+[ first/JJ vice-president/NN ]
+of/IN 
+[ the/DT Mortgage/NNP Bankers/NNP Association/NNP ]
+of/IN 
+[ America/NNP ]
+./. 
+==================================
+==================================
+==================================

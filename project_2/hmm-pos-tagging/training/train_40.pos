@@ -1,0 +1,1480 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ London/NNP ]
+,/, 
+[ Feb./NNP 9/CD ]
+--/: 
+[ Vital/JJ secrets/NNS ]
+of/IN 
+[ Britain/NNP 's/POS first/JJ atomic/JJ submarine/NN ]
+,/, 
+[ the/DT Dreadnought/NNP ]
+,/, and/CC ,/, by/IN 
+[ implication/NN ]
+,/, of/IN 
+[ the/DT entire/JJ United/NNP States/NNP navy/NN 's/POS still-building/JJ nuclear/JJ sub/NN fleet/NN ]
+,/, were/VBD stolen/VBN by/IN 
+[ a/DT London-based/JJ soviet/JJ spy/NN ring/NN ]
+,/, 
+[ secret/JJ service/NN agents/NNS ]
+testified/VBD 
+[ today/NN ]
+./. 
+==================================
+
+[ The/DT Dreadnought/NNP ]
+was/VBD built/VBN on/IN 
+[ designs/NNS ]
+supplied/VBN by/IN 
+[ the/DT United/NNP States/NNP ]
+in/IN 
+[ 1959/CD ]
+and/CC was/VBD launched/VBN 
+[ last/JJ year/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+is/VBZ 
+[ a/DT killer/NN sub/NN ]
+--/: 
+[ that/DT ]
+is/VBZ ,/, 
+[ a/DT hunter/NN ]
+of/IN 
+[ enemy/NN subs/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+has/VBZ 
+[ a/DT hull/NN ]
+patterned/VBN on/IN 
+[ that/DT ]
+of/IN 
+[ the/DT United/NNP States/NNP navy/NN 's/POS Nautilus/NNP ]
+,/, 
+[ the/DT world/NN 's/POS first/JJ atomic/JJ submarine/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Its/PRP$ power/NN unit/NN ]
+,/, however/RB ,/, was/VBD derived/VBN from/IN 
+[ the/DT reactor/NN ]
+of/IN 
+[ the/DT more/JJR modern/JJ American/JJ nuclear/JJ submarine/NN Skipjack/NNP ]
+./. 
+==================================
+
+[ Five/CD ]
+held/VBN for/IN 
+[ trial/NN ]
+
+[ The/DT announcement/NN ]
+that/IN 
+[ the/DT secrets/NNS ]
+of/IN 
+[ the/DT Dreadnought/NNP ]
+had/VBD been/VBN stolen/VBN was/VBD made/VBN in/IN 
+[ Bow/NNP St./NNP police/NN court/NN ]
+here/RB at/IN 
+[ the/DT end/NN ]
+of/IN 
+[ a/DT three/CD day/NN hearing/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT full/JJ trial/NN ]
+was/VBD ordered/VBN for/IN :/: 
+[ Two/CD British/JJ civil/JJ servants/NNS ]
+,/, 
+[ Miss/NNP Ethel/NNP Gee/NNP ]
+,/, 
+[ 46/CD ]
+,/, and/CC 
+[ her/PRP$ ]
+newly/RB devoted/VBN 
+[ friend/NN ]
+,/, 
+[ Harry/NNP Houghton/NNP ]
+,/, 
+[ 55/CD ]
+,/, and/CC divorced/VBN ./. 
+==================================
+
+[ They/PRP ]
+are/VBP accused/VBN of/IN whisking/VBG 
+[ secrets/NNS ]
+out/IN of/IN 
+[ naval/JJ strongrooms/NNS ]
+over/IN 
+[ which/WDT ]
+
+[ they/PRP ]
+kept/VBD 
+[ guard/NN ]
+./. 
+==================================
+
+[ Gordon/NNP A./NNP Lonsdale/NNP ]
+,/, 
+[ 37/CD ]
+,/, 
+[ a/DT mystery/NN man/NN ]
+presumed/VBN to/TO be/VB 
+[ Russian/JJ ]
+although/IN 
+[ he/PRP ]
+carries/VBZ 
+[ a/DT Canadian/JJ passport/NN ]
+./. 
+==================================
+
+==================================
+==================================
+When/WRB arrested/VBN ,/, 
+[ he/PRP ]
+had/VBD 
+[ the/DT submarine/JJ secrets/NNS ]
+on/IN 
+[ a/DT roll/NN ]
+of/IN 
+[ candid/JJ camera/NN film/NN ]
+as/RB well/RB as/IN 
+[ anti-submarine/JJ secrets/NNS ]
+in/IN 
+[ Christmas/NNP gift/NN wrapping/NN ]
+,/, 
+[ it/PRP ]
+was/VBD testified/VBN ./. 
+==================================
+Flashed/VBN to/TO 
+[ Moscow/NNP ]
+
+[ A/DT shadowy/JJ couple/NN ]
+
+[ who/WP ]
+call/VBP 
+[ themselves/PRP ]
+
+[ Peter/NNP Kroger/NNP ]
+,/, 
+[ bookseller/NN ]
+,/, and/CC 
+[ wife/NN ]
+,/, 
+[ Joyce/NNP ]
+./. 
+==================================
+(/( In/IN 
+[ Washington/NNP ]
+,/, 
+[ the/DT Federal/NNP Bureau/NNP ]
+of/IN 
+[ Investigation/NNP ]
+identified/VBD 
+[ the/DT Krogers/NNPS ]
+as/IN 
+[ Morris/NNP ]
+and/CC 
+[ Lola/NNP Cohen/NNP ]
+,/, 
+[ an/DT American/JJ couple/NN ]
+formerly/RB of/IN 
+[ New/NNP York/NNP City/NNP ]
+)/) ./. 
+==================================
+In/IN 
+[ their/PRP$ suburban/JJ cottage/NN ]
+
+[ the/DT crown/NN charges/VBZ ]
+,/, 
+[ the/DT Krogers/NNPS ]
+received/VBD 
+[ secrets/NNS ]
+from/IN 
+[ the/DT mystery/NN man/NN ]
+,/, usually/RB on/IN 
+[ the/DT first/JJ Saturday/NNP evening/NN ]
+of/IN 
+[ each/DT month/NN ]
+,/, and/CC spent/VBD much/RB of/IN 
+[ the/DT week-end/NN ]
+getting/VBG 
+[ the/DT secrets/NNS ]
+off/RP to/TO 
+[ Moscow/NNP ]
+,/, either/CC on/IN 
+[ a/DT powerful/JJ transmitter/NN ]
+buried/VBN under/IN 
+[ the/DT kitchen/NN floor/NN ]
+or/CC as/IN 
+[ dots/NNS ]
+posted/VBN over/IN 
+[ period/NN marks/NNS ]
+in/IN 
+[ used/VBN books/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Each/DT dot/NN ]
+on/IN 
+[ magnification/NN ]
+resumed/VBD 
+[ its/PRP$ original/JJ condition/NN ]
+as/IN 
+[ a/DT drawing/NN ]
+,/, 
+[ a/DT printed/VBN page/NN ]
+,/, or/CC 
+[ a/DT manuscript/NN ]
+./. 
+==================================
+
+[ All/DT five/CD ]
+pleaded/VBD 
+[ innocent/JJ ]
+./. 
+==================================
+
+==================================
+==================================
+Only/RB 
+[ Miss/NNP Gee/NNP ]
+asked/VBD for/IN 
+[ bail/NN ]
+./. 
+==================================
+
+[ Her/PRP$ young/JJ British/JJ lawyer/NN ]
+,/, 
+[ James/NNP Dunlop/NNP ]
+,/, pleaded/VBD that/IN 
+[ she/PRP ]
+was/VBD sorely/RB needed/VBN at/IN 
+[ her/PRP$ Portland/NNP home/NN ]
+by/IN 
+[ her/PRP$ widowed/VBN mother/NN ]
+,/, 
+[ 80/CD ]
+,/, 
+[ her/PRP$ maiden/NN aunt/NN ]
+,/, also/RB 
+[ 80/CD ]
+and/CC 
+[ bedridden/JJ ]
+for/IN 
+[ 20/CD years/NNS ]
+,/, and/CC 
+[ her/PRP$ uncle/NN ]
+,/, 
+[ 76/CD ]
+,/, 
+[ who/WP ]
+once/RB ran/VBD 
+[ a/DT candy/NN shop/NN ]
+./. 
+==================================
+Refuses/VBZ to/TO grant/VB 
+[ bail/NN ]
+``/`` 
+[ I/PRP ]
+am/VBP not/RB prepared/VBN to/TO grant/VB 
+[ bail/NN ]
+to/TO 
+[ any/DT ]
+of/IN 
+[ them/PRP ]
+''/'' ,/, said/VBD 
+[ the/DT magistrate/NN ]
+,/, 
+[ K.J.P./NNP Baraclough/NNP ]
+./. 
+==================================
+
+[ The/DT trial/NN ]
+will/MD be/VB held/VBN ,/, probably/RB 
+[ the/DT first/JJ week/NN ]
+of/IN 
+[ March/NNP ]
+,/, in/IN 
+[ the/DT famous/JJ Old/NNP Bailey/NNP central/JJ criminal/NN court/NN ]
+where/WRB 
+[ Klaus/NNP Fuchs/NNP ]
+,/, 
+[ the/DT naturalized/VBN British/JJ German/NNP ]
+born/VBN 
+[ scientist/NN ]
+
+[ who/WP ]
+succeeded/VBD in/IN giving/VBG 
+[ American/JJ ]
+and/CC 
+[ British/JJ atomic/JJ bomb/NN secrets/NNS ]
+to/TO 
+[ Russia/NNP ]
+and/CC thereby/RB changed/VBD 
+[ world/NN history/NN ]
+during/IN 
+[ the/DT 1950s/NNS ]
+,/, was/VBD sentenced/VBN to/TO 
+[ 14/CD years/NNS ]
+in/IN 
+[ prison/NN ]
+./. 
+==================================
+
+[ Fourteen/CD years/NNS ]
+is/VBZ 
+[ the/DT maximum/JJ penalty/NN ]
+now/RB faced/VBN by/IN 
+[ the/DT new/JJ five/CD ]
+,/, 
+[ who/WP ]
+may/MD have/VB altered/VBN 
+[ history/NN ]
+in/IN 
+[ the/DT 1960s/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Fuchs/NNP ]
+,/, after/IN 
+[ nine/CD ]
+and/CC 
+[ a/DT half/DT years/NNS ]
+,/, was/VBD released/VBN ,/, being/VBG 
+[ given/VBN time/NN ]
+off/RP for/IN 
+[ good/JJ behavior/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+promptly/RB went/VBD to/TO 
+[ communist/JJ East/NNP Germany/NNP ]
+./. 
+==================================
+
+[ The/DT magistrate/NN ]
+tonight/RB refused/VBD to/TO return/VB to/TO 
+[ the/DT five/CD $/$ 29,000/CD ]
+in/IN 
+[ American/JJ ]
+and/CC 
+[ British/JJ currency/NN ]
+,/, mostly/RB 
+[ $/$ 20/CD bills/NNS ]
+,/, and/CC in/IN 
+[ British/JJ government/NN bonds/NNS ]
+and/CC 
+[ stocks/NNS ]
+./. 
+==================================
+``/`` 
+[ This/DT ]
+is/VBZ 
+[ Russian/JJ money/NN ]
+''/'' ,/, said/VBD 
+[ Mervin/NNP Griffith-Jones/NNP ]
+for/IN 
+[ the/DT attorney/NN general/NN 's/POS office/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+asserted/VBD that/IN 
+[ the/DT Krogers/NNPS ]
+were/VBD 
+[ the/DT bankers/NNS ]
+for/IN 
+[ Moscow/NNP ]
+,/, 
+[ Lonsdale/NNP ]
+
+[ the/DT Red/NNP paymaster/NN ]
+,/, and/CC 
+[ the/DT two/CD civil/JJ servants/NNS ]
+
+[ the/DT recipients/NNS ]
+for/IN selling/VBG 
+[ their/PRP$ country/NN 's/POS secrets/NNS ]
+./. 
+==================================
+``/`` Of/IN 
+[ highest/JJS value/NN ]
+''/'' 
+[ The/DT fact/NN ]
+that/IN 
+[ secrets/NNS ]
+of/IN 
+[ the/DT Dreadnought/NNP ]
+,/, and/CC thereby/RB of/IN 
+[ the/DT American/JJ undersea/JJ fleet/NN ]
+,/, were/VBD involved/VBN in/IN 
+[ the/DT spy/NN case/NN ]
+had/VBD been/VBN hinted/VBN at/IN earlier/RB ./. 
+==================================
+But/CC just/RB before/IN 
+[ luncheon/NN today/NN ]
+
+[ the/DT fact/NN ]
+was/VBD announced/VBN grimly/RB by/IN 
+[ the/DT British/JJ navy/NN 's/POS chief/JJ adviser/NN ]
+to/TO 
+[ the/DT cabinet/NN ]
+on/IN 
+[ underwater/JJ warfare/NN ]
+,/, 
+[ Capt./NNP George/NNP Symonds/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+said/VBD that/IN 
+[ drawings/NNS ]
+of/IN 
+[ the/DT Dreadnought/NNP ]
+and/CC printed/VBN 
+[ details/NNS ]
+about/IN 
+[ the/DT ship/NN ]
+were/VBD found/VBN reproduced/VBN in/IN 
+[ an/DT undeveloped/JJ roll/NN ]
+of/IN 
+[ film/NN ]
+taken/VBN from/IN 
+[ Lonsdale/NNP ]
+when/WRB 
+[ he/PRP ]
+was/VBD arrested/VBN with/IN 
+[ the/DT two/CD civil/JJ servants/NNS ]
+outside/IN 
+[ the/DT Old/NNP Vic/NNP theater/NN Saturday/NNP afternoon/NN ]
+,/, 
+[ Jan./NNP 7/CD ]
+./. 
+==================================
+
+[ The/DT information/NN ]
+,/, 
+[ he/PRP ]
+said/VBD ,/, would/MD have/VB been/VBN of/IN 
+[ the/DT highest/JJS value/NN ]
+to/TO 
+[ a/DT potential/JJ enemy/NN ]
+./. 
+==================================
+
+[ Court/NN ]
+cleared/VBD Just/RB how/WRB 
+[ many/JJ sub/NN secrets/NNS ]
+were/VBD being/VBG handed/VBD over/RP when/WRB 
+[ the/DT ring/NN ]
+,/, watched/VBN for/IN 
+[ six/CD months/NNS ]
+,/, was/VBD broken/VBN remained/VBN 
+[ untold/JJ ]
+./. 
+==================================
+
+[ The/DT British/JJ ]
+defending/VBG 
+[ lawyers/NNS ]
+,/, 
+[ who/WP ]
+
+[ today/RB ]
+increased/VBD from/IN 
+[ three/CD ]
+to/TO 
+[ four/CD ]
+,/, demanded/VBD to/TO know/VB if/IN 
+[ they/PRP ]
+could/MD make/VB 
+[ the/DT information/NN ]
+involved/VBN seem/VB of/IN 
+[ little/JJ value/NN ]
+to/TO 
+[ a/DT jury/NN ]
+,/, 
+[ the/DT chances/NNS ]
+of/IN 
+[ their/PRP$ clients/NNS ]
+would/MD improve/VB ./. 
+==================================
+
+==================================
+==================================
+So/RB in/IN 
+[ the/DT name/NN ]
+of/IN 
+[ justice/NN ]
+
+[ the/DT magistrate/NN ]
+cleared/VBD 
+[ the/DT court/NN ]
+of/IN 
+[ all/DT ]
+except/IN 
+[ officials/NNS ]
+to/TO allow/VB 
+[ the/DT captain/NN ]
+to/TO elaborate/VB for/IN almost/RB 
+[ an/DT hour/NN ]
+./. 
+==================================
+Almost/RB 
+[ any/DT information/NN ]
+about/IN 
+[ the/DT Dreadnought/NNP ]
+would/MD also/RB reveal/VB 
+[ secrets/NNS ]
+about/IN 
+[ the/DT American/JJ underwater/JJ fleet/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Britain/NNP ]
+began/VBD designing/VBG 
+[ the/DT ship/NN ]
+in/IN 
+[ 1956/CD ]
+but/CC got/VBD nowhere/RB until/IN 
+[ the/DT American/JJ government/NN ]
+decided/VBD to/TO end/VB 
+[ a/DT ban/NN ]
+on/IN sharing/VBG 
+[ military/JJ secrets/NNS ]
+with/IN 
+[ Britain/NNP ]
+
+[ that/WDT ]
+had/VBD been/VBN imposed/VBN after/IN 
+[ Fuchs/NNP ]
+blabbed/VBD ./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT United/NNP States/NNP ]
+offered/VBD to/TO supply/VB 
+[ a/DT complete/JJ set/NN ]
+of/IN 
+[ propelling/VBG equipment/NN ]
+like/IN that/DT used/VBN in/IN 
+[ the/DT Skipjack/NNP ]
+./. 
+==================================
+With/IN 
+[ the/DT machinery/NN ]
+went/VBD 
+[ a/DT complete/JJ design/NN ]
+for/IN 
+[ the/DT hull/NN ]
+./. 
+==================================
+
+[ The/DT Skipjack/NNP ]
+was/VBD 
+[ a/DT second/JJ generation/NN atomic/JJ sub/NN ]
+,/, much/RB advanced/VBN on/IN 
+[ the/DT Nautilus/NNP ]
+and/CC 
+[ the/DT other/JJ four/CD ]
+
+[ which/WDT ]
+preceded/VBD 
+[ it/PRP ]
+./. 
+==================================
+
+[ Navy/NNP 's/POS future/NN ]
+involved/VBN ``/`` Much/RB of/IN 
+[ the/DT navy/NN 's/POS future/NN ]
+depends/VBZ upon/IN 
+[ her/PRP ]
+''/'' ,/, 
+[ an/DT American/JJ naval/JJ announcement/NN ]
+said/VBD on/IN 
+[ the/DT Skipjack/NNP 's/POS first/JJ arrival/NN ]
+in/IN 
+[ British/JJ waters/NNS ]
+in/IN 
+[ August/NNP ]
+,/, 
+[ 1959/CD ]
+,/, for/IN 
+[ exhibition/NN ]
+to/TO 
+[ selected/VBN high/JJ officers/NNS ]
+at/IN 
+[ Portland/NNP underwater/JJ research/NN station/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD there/RB that/IN 
+[ the/DT two/CD ]
+accused/VBN 
+[ civil/JJ servants/NNS ]
+were/VBD at/IN 
+[ work/NN ]
+./. 
+==================================
+``/`` 
+[ Her/PRP$ basic/JJ hull/NN form/NN ]
+(/( 
+[ a/DT teardrop/NN ]
+)/) and/CC 
+[ her/PRP$ nuclear/JJ power/NN plant/NN ]
+will/MD be/VB used/VBN for/IN almost/RB 
+[ all/DT new/JJ submarines/NNS ]
+,/, including/VBG 
+[ the/DT potent/JJ Polaris/NNP missile/NN submarines/NNS ]
+''/'' ,/, 
+[ the/DT statement/NN ]
+went/VBD on/RP ./. 
+==================================
+
+[ The/DT atom/NN reactor/NN ]
+,/, 
+[ water/NN ]
+cooled/VBN ,/, was/VBD 
+[ the/DT result/NN ]
+of/IN almost/RB 
+[ a/DT decade/NN ]
+of/IN 
+[ research/NN ]
+at/IN 
+[ the/DT naval/JJ reactors/NNS branch/NN ]
+of/IN 
+[ the/DT atomic/JJ energy/NN commission/NN ]
+and/CC 
+[ Westinghouse/NNP Electric/NNP Corp/NNP ]
+../. 
+[ Thru/IN development/NN ]
+,/, 
+[ the/DT reactor/NN ]
+and/CC 
+[ its/PRP$ steam/NN turbines/NNS ]
+had/VBD been/VBN reduced/VBN greatly/RB in/IN 
+[ size/NN ]
+,/, and/CC also/RB in/IN 
+[ complexity/NN ]
+,/, allowing/VBG 
+[ a/DT single/JJ propeller/NN ]
+to/TO be/VB used/VBN ,/, 
+[ the/DT navy/NN ]
+said/VBD ./. 
+==================================
+
+[ The/DT hull/NN ]
+was/VBD also/RB 
+[ a/DT result/NN ]
+of/IN almost/RB 
+[ a/DT decade/NN ]
+of/IN 
+[ work/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD first/RB tried/VBN out/RP on/IN 
+[ a/DT conventional/JJ submarine/NN ]
+,/, 
+[ the/DT Albacore/NNP ]
+,/, in/IN 
+[ 1954/CD ]
+./. 
+==================================
+
+[ The/DT Skipjack/NNP ]
+became/VBD 
+[ the/DT fastest/JJS submarine/NN ]
+ever/RB built/VBN ./. 
+==================================
+Reputedly/RB 
+[ it/PRP ]
+could/MD outrun/VB ,/, underwater/RB ,/, 
+[ the/DT fastest/JJS destroyers/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+could/MD ,/, reputedly/RB ,/, go/VB 
+[ 70,000/CD miles/NNS ]
+without/IN refueling/VBG and/CC stay/VB down/RB more/RBR than/IN 
+[ a/DT month/NN ]
+./. 
+==================================
+
+[ It/PRP ]
+was/VBD of/IN 
+[ the/DT hunter-killer/JJ type/NN ]
+,/, designed/VBN to/TO seek/VB out/RP 
+[ ships/NNS ]
+and/CC 
+[ other/JJ submarines/NNS ]
+with/IN 
+[ its/PRP$ most/JJS advanced/VBN gear/NN ]
+and/CC destroy/VB 
+[ them/PRP ]
+with/IN 
+[ torpedoes/NNS ]
+./. 
+==================================
+
+[ The/DT navy/NN captain/NN ]
+disclosed/VBD also/RB that/IN 
+[ a/DT list/NN ]
+of/IN 
+[ questions/NNS ]
+found/VBN in/IN 
+[ Miss/NNP Gee/NNP 's/POS purse/NN ]
+would/MD ,/, if/IN completed/VBN and/CC handed/VBN back/RB ,/, have/VB given/VBN 
+[ the/DT Kremlin/NNP ]
+
+[ a/DT complete/JJ picture/NN ]
+``/`` of/IN 
+[ our/PRP$ current/JJ anti-submarine/JJ effort/NN ]
+and/CC would/MD have/VB shown/VBN 
+[ what/WP ]
+
+[ we/PRP ]
+are/VBP doing/VBG in/IN 
+[ research/NN ]
+and/CC 
+[ development/NN ]
+for/IN 
+[ the/DT future/NN ]
+''/'' ./. 
+==================================
+Interested/VBN in/IN 
+[ detector/NN ]
+
+[ The/DT spy/NN ring/NN ]
+also/RB was/VBD particularly/RB interested/VBN in/IN 
+[ ASDIC/NNP ]
+,/, 
+[ the/DT underwater/JJ equipment/NN ]
+for/IN detecting/VBG 
+[ submarines/NNS ]
+,/, 
+[ it/PRP ]
+was/VBD testified/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ Range/NN ]
+was/VBD 
+[ a/DT vital/JJ detail/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Designs/NNS ]
+of/IN 
+[ parts/NNS ]
+were/VBD sought/VBN ./. 
+==================================
+
+[ Six/CD radiomen/NNS ]
+told/VBD how/WRB ,/, twice/RB on/IN 
+[ two/CD days/NNS ]
+after/IN 
+[ the/DT ring/NN ]
+was/VBD nabbed/VBN ,/, 
+[ a/DT transmitter/NN ]
+near/IN 
+[ Moscow/NNP ]
+was/VBD heard/VBN calling/VBG ,/, using/VBG 
+[ signals/NNS ]
+,/, 
+[ times/NNS ]
+and/CC 
+[ wavelengths/NNS ]
+specified/VBN on/IN 
+[ codes/NNS ]
+found/VBN hidden/VBN in/IN 
+[ cigaret/NN lighters/NNS ]
+in/IN 
+[ Lonsdale/NNP 's/POS apartment/NN ]
+and/CC 
+[ the/DT Krogers/NNPS '/POS house/NN ]
+and/CC also/RB fastened/VBN to/TO 
+[ the/DT transmitter/NN lid/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Oddly/RB ,/, 
+[ the/DT calls/NNS ]
+were/VBD still/RB heard/VBN 
+[ 11/CD days/NNS ]
+after/IN 
+[ the/DT five/CD ]
+were/VBD arrested/VBN ./. 
+==================================
+
+[ The/DT charge/NN ]
+that/IN 
+[ the/DT federal/JJ indictment/NN ]
+of/IN 
+[ three/CD Chicago/NNP narcotics/NNS detail/NN detectives/NNS ]
+``/`` is/VBZ 
+[ the/DT product/NN ]
+of/IN 
+[ rumor/NN ]
+,/, combined/VBN with/IN 
+[ malice/NN ]
+,/, and/CC 
+[ individual/JJ enmity/NN ]
+''/'' on/IN 
+[ the/DT part/NN ]
+of/IN 
+[ the/DT federal/JJ narcotics/NNS unit/NN ]
+here/RB was/VBD made/VBN yesterday/RB in/IN 
+[ their/PRP$ conspiracy/NN trial/NN ]
+before/IN 
+[ Judge/NNP Joseph/NNP Sam/NNP Perry/NNP ]
+in/IN 
+[ federal/JJ District/NN court/NN ]
+./. 
+==================================
+
+[ The/DT three/CD ]
+--/: 
+[ Miles/NNP J./NNP Cooperman/NNP ]
+,/, 
+[ Sheldon/NNP Teller/NNP ]
+,/, and/CC 
+[ Richard/NNP Austin/NNP ]
+--/: and/CC 
+[ eight/CD other/JJ defendants/NNS ]
+are/VBP charged/VBN in/IN 
+[ six/CD indictments/NNS ]
+with/IN 
+[ conspiracy/NN ]
+to/TO violate/VB 
+[ federal/JJ narcotic/JJ laws/NNS ]
+./. 
+==================================
+In/IN 
+[ his/PRP$ opening/VBG statement/NN ]
+to/TO 
+[ a/DT jury/NN ]
+of/IN 
+[ eight/CD women/NNS ]
+and/CC 
+[ four/CD men/NNS ]
+,/, 
+[ Bernard/NNP H./NNP Sokol/NNP ]
+,/, 
+[ attorney/NN ]
+for/IN 
+[ the/DT detectives/NNS ]
+,/, said/VBD 
+[ that/DT evidence/NN ]
+would/MD show/VB that/IN 
+[ his/PRP$ clients/NNS ]
+were/VBD ``/`` entirely/RB 
+[ innocent/JJ ]
+''/'' ./. 
+==================================
+'/'' had/VBD to/TO know/VB 
+[ peddlers/NNS '/POS  ]
+``/`` When/WRB 
+[ they/PRP ]
+became/VBD 
+[ members/NNS ]
+of/IN 
+[ the/DT city/NN police/NN narcotics/NNS unit/NN ]
+''/'' ,/, 
+[ Sokol/NNP ]
+said/VBD ,/, ``/`` 
+[ they/PRP ]
+were/VBD told/VBN 
+[ they/PRP ]
+would/MD have/VB to/TO get/VB to/TO know/VB 
+[ certain/JJ areas/NNS ]
+of/IN 
+[ Chicago/NNP ]
+in/IN 
+[ which/WDT narcotics/NNS ]
+were/VBD sold/VBN and/CC 
+[ they/PRP ]
+would/MD have/VB to/TO get/VB to/TO know/VB 
+[ people/NNS ]
+in/IN 
+[ the/DT narcotics/NNS racket/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+,/, on/IN 
+[ occasion/NN ]
+,/, posed/VBD as/IN 
+[ addicts/NNS ]
+and/CC 
+[ peddlers/NNS ]
+''/'' ./. 
+==================================
+Although/IN 
+[ federal/JJ ]
+and/CC 
+[ city/NN narcotic/JJ agents/NNS ]
+sometimes/RB worked/VBD together/RB ,/, 
+[ Sokol/NNP ]
+continued/VBD ,/, 
+[ rivalries/NNS ]
+developed/VBD when/WRB 
+[ they/PRP ]
+were/VBD ``/`` aiming/VBG at/IN 
+[ the/DT same/JJ criminals/NNS ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ This/DT ]
+,/, 
+[ he/PRP ]
+added/VBD ,/, brought/VBD about/RP ``/`` 
+[ petty/JJ jealousies/NNS ]
+''/'' and/CC ``/`` 
+[ petty/JJ personal/JJ grievances/NNS ]
+''/'' ./. 
+==================================
+``/`` In/IN 
+[ the/DT same/JJ five/CD year/NN period/NN ]
+that/IN 
+[ the/DT United/NNP States/NNP ]
+says/VBZ 
+[ they/PRP ]
+(/( 
+[ the/DT detectives/NNS ]
+)/) were/VBD engaged/VBN in/IN 
+[ this/DT conspiracy/NN ]
+''/'' ,/, 
+[ Sokol/NNP ]
+continued/VBD ,/, ``/`` 
+[ these/DT three/CD young/JJ men/NNS ]
+received/VBD 
+[ a/DT total/NN ]
+of/IN 
+[ 26/CD creditable/JJ mentions/NNS ]
+and/CC 
+[ many/JJ special/JJ compensations/NNS ]
+,/, and/CC were/VBD nominated/VBN for/IN 
+[ the/DT Lambert/NNP Tree/NNP award/NN ]
+and/CC 
+[ the/DT mayor/NN 's/POS medal/NN ]
+''/'' ./. 
+==================================
+
+[ No/DT comments/NNS ]
+by/IN 
+[ U.S/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+In/IN 
+[ opening/VBG ]
+,/, 
+[ D./NNP Arthur/NNP Connelly/NNP ]
+,/, 
+[ assistant/NN United/NNP States/NNP attorney/NN ]
+,/, read/VBD 
+[ the/DT indictment/NN ]
+,/, but/CC made/VBD 
+[ no/DT comments/NNS ]
+./. 
+==================================
+
+[ Attorneys/NNS ]
+for/IN 
+[ the/DT eight/CD other/JJ defendants/NNS ]
+said/VBD only/RB that/IN 
+[ there/EX ]
+was/VBD 
+[ no/DT proof/NN ]
+of/IN 
+[ their/PRP$ clients/NNS '/POS guilt/NN ]
+./. 
+==================================
+
+[ Cooperman/NNP ]
+and/CC 
+[ Teller/NNP ]
+are/VBP accused/VBN of/IN selling/VBG 
+[ $/$ 4,700/CD worth/NN ]
+of/IN 
+[ heroin/NN ]
+to/TO 
+[ a/DT convicted/VBD narcotics/NNS peddler/NN ]
+,/, 
+[ Otis/NNP Sears/NNP ]
+,/, 
+[ 45/CD ]
+,/, of/IN 
+[ 6934/CD Indiana/NNP Av/NNP ]
+../. Among/IN 
+[ other/JJ acts/NNS ]
+,/, 
+[ Teller/NNP ]
+and/CC 
+[ Austin/NNP ]
+are/VBP accused/VBN of/IN paying/VBG 
+[ $/$ 800/CD ]
+to/TO 
+[ Sears/NNP ]
+./. 
+==================================
+
+[ The/DT first/JJ witness/NN ]
+,/, 
+[ Moses/NNP Winston/NNP Mardis/NNP ]
+,/, 
+[ 5835/CD Michigan/NNP Av./NNP ]
+,/, 
+[ a/DT real/JJ estate/NN agent/NN ]
+and/CC 
+[ former/JJ bail/NN bondsman/NN ]
+,/, took/VBD 
+[ the/DT stand/NN ]
+after/IN opening/VBG 
+[ statements/NNS ]
+had/VBD been/VBN made/VBN ./. 
+==================================
+
+==================================
+==================================
+But/CC 
+[ court/NN ]
+adjourned/VBD after/IN 
+[ he/PRP ]
+testified/VBD 
+[ he/PRP ]
+introduced/VBD 
+[ James/NNP White/NNP ]
+and/CC 
+[ Jeremiah/NNP Hope/NNP Pullings/NNP ]
+,/, 
+[ two/CD ]
+of/IN 
+[ the/DT defendants/NNS ]
+,/, and/CC also/RB introduced/VBN 
+[ Pullings/NNP ]
+to/TO 
+[ Jessy/NNP Maroy/NNP ]
+,/, 
+[ a/DT man/NN ]
+mentioned/VBN in/IN 
+[ the/DT indictment/NN ]
+but/CC not/RB indicted/VBN ./. 
+==================================
+
+[ Buaford/NNP Robinson/NNP ]
+,/, 
+[ 23/CD ]
+,/, of/IN 
+[ 7026/CD Stewart/NNP Av./NNP ]
+,/, 
+[ a/DT CTA/NNP bus/NN driver/NN ]
+,/, was/VBD slugged/VBN and/CC robbed/VBN 
+[ last/JJ night/NN ]
+by/IN 
+[ a/DT group/NN ]
+of/IN 
+[ youths/NNS ]
+at/IN 
+[ 51st/CD Street/NNP ]
+and/CC 
+[ South/NNP Park/NNP Way/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Robinson/NNP ]
+was/VBD treated/VBN at/IN 
+[ a/DT physician/NN 's/POS office/NN ]
+for/IN 
+[ a/DT cut/NN ]
+over/IN 
+[ his/PRP$ left/JJ eyebrow/NN ]
+and/CC 
+[ a/DT possible/JJ sprained/VBN knee/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ His/PRP$ losses/NNS ]
+included/VBD 
+[ his/PRP$ money/NN bag/NN ]
+,/, containing/VBG 
+[ $/$ 40/CD ]
+to/TO 
+[ $/$ 50/CD ]
+and/CC 
+[ his/PRP$ $/$ 214/CD paycheck/NN ]
+./. 
+==================================
+
+[ Robinson/NNP ]
+told/VBD 
+[ Policemen/NNS James/NNP Jones/NNP ]
+and/CC 
+[ Morgan/NNP Lloyd/NNP ]
+of/IN 
+[ the/DT Wabash/NNP Avenue/NNP district/NN ]
+that/IN 
+[ 10/CD youths/NNS ]
+boarded/VBD 
+[ his/PRP$ ]
+south/RB bound/VBN 
+[ express/JJ bus/NN ]
+in/IN 
+[ front/NN ]
+of/IN 
+[ Dunbar/NNP Vocational/NNP High/NNP School/NNP ]
+,/, 
+[ 30th/JJ Street/NNP ]
+and/CC 
+[ South/NNP Park/NNP Way/NN ]
+,/, and/CC began/VBD ``/`` skylarking/VBG ''/'' ./. 
+==================================
+When/WRB 
+[ 51st/CD Street/NNP ]
+was/VBD reached/VBN ,/, 
+[ Robinson/NNP ]
+related/VBD ,/, 
+[ he/PRP ]
+stopped/VBD 
+[ the/DT bus/NN ]
+and/CC told/VBD 
+[ the/DT youths/NNS ]
+
+[ he/PRP ]
+was/VBD going/VBG to/TO call/VB 
+[ the/DT CTA/NNP supervisor/NN ]
+./. 
+==================================
+
+==================================
+==================================
+As/IN 
+[ he/PRP ]
+left/VBD 
+[ the/DT bus/NN ]
+with/IN 
+[ his/PRP$ money/NN bag/NN ]
+,/, 
+[ Robinson/NNP ]
+added/VBD ,/, 
+[ the/DT largest/JJS youth/NN ]
+accosted/VBD 
+[ him/PRP ]
+,/, 
+[ a/DT quarrel/NN ]
+ensued/VBD ,/, and/CC 
+[ the/DT youth/NN ]
+knocked/VBD 
+[ him/PRP ]
+down/RP ./. 
+==================================
+
+==================================
+==================================
+Then/RB 
+[ the/DT youths/NNS ]
+fled/VBD with/IN 
+[ his/PRP$ money/NN ]
+./. 
+==================================
+
+[ Mrs./NNP Blanche/NNP Dunkel/NNP ]
+,/, 
+[ 60/CD ]
+,/, 
+[ who/WP ]
+has/VBZ spent/VBN 
+[ 25/CD years/NNS ]
+in/IN 
+[ the/DT Dwight/NNP reformatory/NN ]
+for/IN 
+[ women/NNS ]
+for/IN 
+[ the/DT murder/NN ]
+in/IN 
+[ 1935/CD ]
+of/IN 
+[ her/PRP ]
+
+[ son-in-law/NN ]
+,/, 
+[ Ervin/NNP Lang/NNP ]
+,/, then/RB 
+[ 28/CD ]
+,/, appealed/VBN for/IN 
+[ a/DT parole/NN ]
+at/IN 
+[ a/DT hearing/NN ]
+yesterday/RB before/IN 
+[ two/CD Illinois/NNP pardon/NN ]
+and/CC 
+[ parole/NN board/NN members/NNS ]
+,/, 
+[ John/NNP M./NNP Bookwalter/NNP ]
+and/CC 
+[ Joseph/NNP Carpentier/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ She/PRP ]
+had/VBD been/VBN sentenced/VBN to/TO 
+[ 180/CD years/NNS ]
+in/IN 
+[ prison/NN ]
+,/, but/CC 
+[ former/JJ Gov./NNP Stratton/NNP ]
+commuted/VBD 
+[ her/PRP$ term/NN ]
+to/TO 
+[ 75/CD years/NNS ]
+,/, making/VBG 
+[ her/PRP$ eligible/NN ]
+for/IN 
+[ parole/NN ]
+,/, as/IN 
+[ one/CD ]
+of/IN 
+[ his/PRP$ last/JJ acts/NNS ]
+in/IN 
+[ office/NN ]
+./. 
+==================================
+
+[ Mrs./NNP Dunkel/NNP ]
+admitted/VBD 
+[ the/DT slaying/NN ]
+and/CC said/VBD that/IN 
+[ the/DT son-in-law/NN ]
+became/VBD 
+[ her/PRP$ lover/NN ]
+after/IN 
+[ the/DT death/NN ]
+of/IN 
+[ her/PRP$ daughter/NN ]
+in/IN 
+[ 1934/CD ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+was/VBD when/WRB 
+[ he/PRP ]
+attempted/VBD to/TO end/VB 
+[ the/DT relationship/NN ]
+that/IN 
+[ the/DT murder/NN ]
+took/VBD 
+[ place/NN ]
+./. 
+==================================
+
+[ The/DT son/NN ]
+of/IN 
+[ a/DT wealthy/JJ Evanston/NNP executive/NN ]
+was/VBD fined/VBN 
+[ $/$ 100/CD yesterday/NN ]
+and/CC forbidden/VBN to/TO drive/VB for/IN 
+[ 60/CD days/NNS ]
+for/IN leading/VBG 
+[ an/DT Evanston/NNP policeman/NN ]
+on/IN 
+[ a/DT high/JJ speed/NN chase/NN ]
+over/IN 
+[ icy/JJ Evanston/NNP ]
+and/CC 
+[ Wilmette/NNP streets/NNS Jan./NNP 20/CD ]
+./. 
+==================================
+
+[ The/DT defendant/NN ]
+,/, 
+[ William/NNP L./NNP Stickney/NNP 3/CD ]
+,/, 
+[ 23/CD ]
+,/, of/IN 
+[ 3211/CD Park/NNP pl./NNP ]
+,/, 
+[ Evanston/NNP ]
+,/, 
+[ who/WP ]
+pleaded/VBD guilty/JJ to/TO 
+[ reckless/JJ ]
+driving/VBG ,/, also/RB was/VBD ordered/VBN by/IN 
+[ Judge/NNP James/NNP Corcoran/NNP ]
+to/TO attend/VB 
+[ the/DT Evanston/NNP traffic/NN school/NN ]
+
+[ each/DT Tuesday/NNP night/NN ]
+for/IN 
+[ one/CD month/NN ]
+./. 
+==================================
+
+[ Stickney/NNP ]
+is/VBZ 
+[ a/DT salesman/NN ]
+for/IN 
+[ Plee-Zing/NNP ]
+,/, 
+[ Inc./NNP ]
+,/, 
+[ 2544/CD Green/NNP Bay/NNP Rd./NNP ]
+,/, 
+[ Evanston/NNP ]
+,/, 
+[ a/DT food/NN brokerage/NN ]
+and/CC 
+[ grocery/NN chain/NN firm/NN ]
+,/, of/IN 
+[ which/WDT ]
+
+[ his/PRP$ father/NN ]
+,/, 
+[ William/NNP L./NNP Jr./NNP ]
+,/, is/VBZ 
+[ president/NN ]
+./. 
+==================================
+
+[ Patrolman/NNP James/NNP F./NNP Simms/NNP ]
+said/VBD 
+[ he/PRP ]
+started/VBD in/IN 
+[ pursuit/NN ]
+when/WRB 
+[ he/PRP ]
+saw/VBD 
+[ young/JJ Stickney/NNP speeding/VBG north/RB ]
+in/IN 
+[ Stewart/NNP Avenue/NNP ]
+at/IN 
+[ Central/NNP Street/NNP ]
+./. 
+==================================
+At/IN 
+[ Jenks/NNP Street/NNP ]
+,/, 
+[ Simms/NNP ]
+said/VBD ,/, 
+[ the/DT car/NN ]
+skidded/VBD completely/RB around/RB ,/, just/RB missed/VBD 
+[ two/CD parked/VBN cars/NNS ]
+,/, and/CC sped/VBD 
+[ east/JJ ]
+in/IN 
+[ Jenks/NNP ]
+./. 
+==================================
+
+[ The/DT car/NN ]
+spun/VBD around/RB again/RB ,/, 
+[ Simms/NNP ]
+said/VBD ,/, before/IN 
+[ Stickney/NNP ]
+could/MD turn/VB north/RB in/IN 
+[ Prairie/NNP Avenue/NNP ]
+,/, and/CC then/RB violated/VBD 
+[ two/CD stop/NN lights/NNS ]
+as/IN 
+[ he/PRP ]
+traveled/VBD 
+[ north/RB ]
+into/IN 
+[ Wilmette/NNP ]
+in/IN 
+[ Prairie/NNP ]
+./. 
+==================================
+==================================
+==================================

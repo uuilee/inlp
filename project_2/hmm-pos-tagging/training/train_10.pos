@@ -1,0 +1,1424 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+==================================
+
+[ East/NNP Providence/NNP ]
+should/MD organize/VB 
+[ its/PRP$ civil/JJ defense/NN setup/NN ]
+and/CC begin/VB by/IN appointing/VBG 
+[ a/DT full-time/JJ director/NN ]
+,/, 
+[ Raymond/NNP H./NNP Hawksley/NNP ]
+,/, 
+[ the/DT present/JJ city/NN CD/NNP head/NN ]
+,/, believes/VBZ ./. 
+==================================
+
+[ Mr./NNP Hawksley/NNP ]
+said/VBD yesterday/RB 
+[ he/PRP ]
+would/MD be/VB willing/JJ to/TO go/VB before/IN 
+[ the/DT city/NN council/NN ]
+``/`` or/CC 
+[ anyone/NN ]
+else/RB locally/RB ''/'' to/TO outline/VB 
+[ his/PRP$ proposal/NN ]
+at/IN 
+[ the/DT earliest/JJS possible/JJ time/NN ]
+./. 
+==================================
+
+[ East/NNP Providence/NNP ]
+now/RB has/VBZ 
+[ no/DT civil/JJ defense/NN program/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Mr./NNP Hawksley/NNP ]
+,/, 
+[ the/DT state/NN 's/POS general/JJ treasurer/NN ]
+,/, has/VBZ been/VBN 
+[ a/DT part-time/JJ CD/NNP director/NN ]
+in/IN 
+[ the/DT city/NN ]
+for/IN 
+[ the/DT last/JJ nine/CD years/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+is/VBZ not/RB interested/JJ in/IN being/VBG named/VBN 
+[ a/DT full-time/JJ director/NN ]
+./. 
+==================================
+Noting/VBG that/IN 
+[ President/NNP Kennedy/NNP ]
+has/VBZ handed/VBN 
+[ the/DT Defense/NNP Department/NNP ]
+
+[ the/DT major/JJ responsibility/NN ]
+for/IN 
+[ the/DT nation/NN 's/POS civil/JJ defense/NN program/NN ]
+,/, 
+[ Mr./NNP Hawksley/NNP ]
+said/VBD 
+[ the/DT federal/JJ government/NN ]
+would/MD pay/VB 
+[ half/DT the/DT salary/NN ]
+of/IN 
+[ a/DT full-time/JJ local/JJ director/NN ]
+./. 
+==================================
+
+[ He/PRP ]
+expressed/VBD 
+[ the/DT opinion/NN ]
+
+[ the/DT city/NN ]
+could/MD hire/VB 
+[ a/DT CD/NNP director/NN ]
+for/IN about/IN 
+[ $/$ 3,500/CD ]
+
+[ a/DT year/NN ]
+and/CC would/MD only/RB have/VB to/TO put/VB up/IN 
+[ half/DT that/DT amount/NN ]
+on/IN 
+[ a/DT matching/VBG fund/NN basis/NN ]
+to/TO defray/VB 
+[ the/DT salary/NN costs/NNS ]
+./. 
+==================================
+
+[ Mr./NNP Hawksley/NNP ]
+said/VBD 
+[ he/PRP ]
+believed/VBD 
+[ there/EX ]
+are/VBP 
+[ a/DT number/NN ]
+of/IN 
+[ qualified/JJ city/NN residents/NNS ]
+
+[ who/WP ]
+would/MD be/VB willing/JJ to/TO take/VB 
+[ the/DT full-time/JJ CD/NNP job/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ One/CD ]
+of/IN 
+[ these/DT men/NNS ]
+is/VBZ 
+[ former/JJ Fire/NNP Chief/NNP John/NNP A./NNP Laughlin/NNP ]
+,/, 
+[ he/PRP ]
+said/VBD ./. 
+==================================
+Along/IN with/IN 
+[ a/DT director/NN ]
+,/, 
+[ the/DT city/NN ]
+should/MD provide/VB 
+[ a/DT CD/NNP headquarters/NN ]
+so/RB that/IN 
+[ pertinent/JJ information/NN ]
+about/IN 
+[ the/DT local/JJ organization/NN ]
+would/MD be/VB centralized/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ Mr./NNP Hawksley/NNP ]
+said/VBD ./. 
+==================================
+
+[ One/CD advantage/NN ]
+
+[ that/WP ]
+would/MD come/VB to/TO 
+[ the/DT city/NN ]
+in/IN having/VBG 
+[ a/DT full-time/JJ director/NN ]
+,/, 
+[ he/PRP ]
+said/VBD ,/, is/VBZ that/IN 
+[ East/NNP Providence/NNP ]
+would/MD become/VB 
+[ eligible/JJ ]
+to/TO apply/VB to/TO 
+[ the/DT federal/JJ government/NN ]
+for/IN 
+[ financial/JJ aid/NN ]
+in/IN 
+[ purchasing/VBG equipment/NN ]
+needed/VBN for/IN 
+[ a/DT sound/JJ civil/JJ defense/NN program/NN ]
+./. 
+==================================
+Matching/VBG 
+[ funds/NNS ]
+also/RB can/MD be/VB obtained/VBN for/IN 
+[ procurement/NN ]
+of/IN 
+[ such/JJ items/NNS ]
+as/IN 
+[ radios/NNS ]
+,/, 
+[ sirens/NNS ]
+and/CC 
+[ rescue/NN trucks/NNS ]
+,/, 
+[ he/PRP ]
+said/VBD ./. 
+==================================
+
+[ Mr./NNP Hawksley/NNP ]
+believes/VBZ that/IN 
+[ East/NNP Providence/NNP ]
+could/MD use/VB 
+[ two/CD more/JJR rescue/NN trucks/NNS ]
+,/, similar/JJ to/TO 
+[ the/DT CD/NNP vehicle/NN ]
+obtained/VBD 
+[ several/JJ years/NNS ]
+ago/RB and/CC now/RB detailed/VBN to/TO 
+[ the/DT Central/NNP Fire/NNP Station/NNP ]
+./. 
+==================================
+
+[ He/PRP ]
+would/MD assign/VB 
+[ one/NN ]
+of/IN 
+[ the/DT rescue/NN trucks/NNS ]
+to/TO 
+[ the/DT Riverside/NNP section/NN ]
+of/IN 
+[ the/DT city/NN ]
+and/CC 
+[ the/DT other/JJ ]
+to/TO 
+[ the/DT Rumford/NNP area/NN ]
+./. 
+==================================
+Speaking/VBG of/IN 
+[ the/DT present/JJ status/NN ]
+of/IN 
+[ civil/JJ defense/NN ]
+in/IN 
+[ the/DT city/NN ]
+,/, 
+[ Mr./NNP Hawksley/NNP ]
+said/VBD 
+[ he/PRP ]
+would/MD be/VB willing/JJ to/TO bet/VB that/IN not/RB more/RBR than/IN 
+[ one/CD person/NN ]
+in/IN 
+[ a/DT hundred/CD ]
+would/MD know/VB 
+[ what/WP ]
+to/TO do/VB or/CC where/WRB to/TO go/VB in/IN 
+[ the/DT event/NN ]
+of/IN 
+[ an/DT enemy/NN attack/NN ]
+./. 
+==================================
+
+[ The/DT Narragansett/NNP Race/NNP Track/NNP grounds/NNS ]
+is/VBZ 
+[ one/CD assembly/NN point/NN ]
+,/, 
+[ he/PRP ]
+said/VBD ,/, and/CC 
+[ a/DT drive-in/NN theater/NN ]
+in/IN 
+[ Seekonk/NNP ]
+would/MD be/VB 
+[ another/DT ]
+./. 
+==================================
+
+[ Riverside/NNP residents/NNS ]
+would/MD go/VB to/TO 
+[ the/DT Seekonk/NNP assembly/NN point/NN ]
+./.
+==================================
+
+[ Mr./NNP Hawksley/NNP ]
+said/VBD 
+[ he/PRP ]
+was/VBD not/RB critical/JJ of/IN 
+[ city/NN residents/NNS ]
+for/IN not/RB knowing/VBG 
+[ what/WP ]
+to/TO do/VB or/CC where/WRB to/TO assemble/VB in/IN 
+[ case/NN ]
+of/IN 
+[ an/DT air/NN attack/NN ]
+./. 
+==================================
+
+[ Such/JJ vital/JJ information/NN ]
+,/, 
+[ he/PRP ]
+said/VBD ,/, has/VBZ to/TO be/VB made/VBN available/JJ to/TO 
+[ the/DT public/NN ]
+frequently/RB and/CC at/IN 
+[ regular/JJ intervals/NNS ]
+for/IN 
+[ residents/NNS ]
+to/TO know/VB ./. 
+==================================
+If/IN 
+[ the/DT city/NN council/NN ]
+fails/VBZ to/TO consider/VB 
+[ appointment/NN ]
+of/IN 
+[ a/DT full-time/JJ CD/NNP director/NN ]
+,/, 
+[ Mr./NNP Hawksley/NNP ]
+said/VBD ,/, then/RB 
+[ he/PRP ]
+plans/VBZ to/TO call/VB 
+[ a/DT meeting/NN ]
+early/RB in/IN 
+[ September/NNP ]
+so/IN that/IN 
+[ a/DT civil/JJ defense/NN organization/NN ]
+will/MD be/VB developed/VBN locally/RB ./. 
+==================================
+
+[ One/CD ]
+of/IN 
+[ the/DT first/JJ things/NNS ]
+he/PRP would/MD do/VB ,/, 
+[ he/PRP ]
+said/VBD ,/, would/MD be/VB to/TO organize/VB 
+[ classes/NNS ]
+in/IN 
+[ first/JJ aid/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Other/JJ steps/NNS ]
+would/MD be/VB developed/VBN after/IN 
+[ information/NN ]
+drifts/VBZ down/IN to/TO 
+[ the/DT local/JJ level/NN ]
+from/IN 
+[ the/DT federal/JJ government/NN ]
+./. 
+==================================
+
+[ Rhode/NNP Island/NNP ]
+is/VBZ going/VBG to/TO examine/VB 
+[ its/PRP$ Sunday/NNP sales/NNS law/NN ]
+with/IN 
+[ possible/JJ revisions/NNS ]
+in/IN 
+[ mind/NN ]
+./. 
+==================================
+
+[ Governor/NNP Notte/NNP ]
+said/VBD 
+[ last/JJ night/NN ]
+
+[ he/PRP ]
+plans/VBZ to/TO name/VB 
+[ a/DT committee/NN ]
+to/TO make/VB 
+[ the/DT study/NN ]
+and/CC come/VB up/IN with/IN 
+[ recommendations/NNS ]
+for/IN 
+[ possible/JJ changes/NNS ]
+in/IN 
+[ time/NN ]
+for/IN 
+[ the/DT next/JJ session/NN ]
+of/IN 
+[ the/DT General/NNP Assembly/NNP ]
+./. 
+==================================
+
+[ The/DT governor/NN 's/POS move/NN ]
+into/IN 
+[ the/DT so-called/JJ ]
+``/`` 
+[ blue/JJ law/NN ]
+''/'' 
+[ controversy/NN ]
+came/VBD in/IN 
+[ the/DT form/NN ]
+of/IN 
+[ a/DT letter/NN ]
+to/TO 
+[ Miss/NNP Mary/NNP R./NNP Grant/NNP ]
+,/, 
+[ deputy/NN city/NN clerk/NN ]
+of/IN 
+[ Central/NNP Falls/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ A/DT copy/NN ]
+was/VBD released/VBN to/TO 
+[ the/DT press/NN ]
+./. 
+==================================
+
+[ Mr./NNP Notte/NNP ]
+was/VBD responding/VBG to/TO 
+[ a/DT resolution/NN ]
+adopted/VBN by/IN 
+[ the/DT Central/NNP Falls/NNP City/NNP Council/NNP ]
+on/IN 
+[ July/NNP 10/CD ]
+and/CC sent/VBD to/TO 
+[ the/DT state/NN house/NN ]
+by/IN 
+[ Miss/NNP Grant/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT resolution/NN ]
+urges/VBZ 
+[ the/DT governor/NN ]
+to/TO have/VB 
+[ a/DT complete/JJ study/NN ]
+of/IN 
+[ the/DT Sunday/NNP sales/NNS laws/NNS ]
+made/VBN with/IN 
+[ an/DT eye/NN ]
+to/TO 
+[ their/PRP$ revision/NN ]
+at/IN 
+[ the/DT next/JJ session/NN ]
+of/IN 
+[ the/DT legislature/NN ]
+./. 
+==================================
+While/IN 
+[ the/DT city/NN council/NN ]
+suggested/VBD that/IN 
+[ the/DT Legislative/NNP Council/NNP ]
+might/MD perform/VB 
+[ the/DT review/NN ]
+,/, 
+[ Mr./NNP Notte/NNP ]
+said/VBD that/IN instead/RB 
+[ he/PRP ]
+will/MD take/VB up/IN 
+[ the/DT matter/NN ]
+with/IN 
+[ Atty./NNP Gen./NNP J./NNP Joseph/NNP Nugent/NNP ]
+to/TO get/VB ``/`` 
+[ the/DT benefit/NN ]
+of/IN 
+[ his/PRP$ views/NNS ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+will/MD then/RB appoint/VB 
+[ the/DT study/NN committee/NN ]
+with/IN 
+[ Mr./NNP Nugent/NNP 's/POS cooperation/NN ]
+,/, 
+[ the/DT governor/NN ]
+said/VBD ./. 
+==================================
+``/`` 
+[ I/PRP ]
+would/MD expect/VB 
+[ the/DT proposed/VBN committee/NN ]
+to/TO hold/VB 
+[ public/JJ hearings/NNS ]
+''/'' ,/, 
+[ Mr./NNP Notte/NNP ]
+said/VBD ,/, ``/`` to/TO obtain/VB 
+[ the/DT views/NNS ]
+of/IN 
+[ the/DT general/JJ public/NN ]
+and/CC 
+[ religious/NN ]
+,/, 
+[ labor/NN ]
+and/CC 
+[ special-interest/JJ groups/NNS ]
+affected/VBN by/IN 
+[ these/DT laws/NNS ]
+''/'' ./. 
+==================================
+
+[ The/DT governor/NN ]
+wrote/VBD 
+[ Miss/NNP Grant/NNP ]
+that/IN 
+[ he/PRP ]
+has/VBZ been/VBN concerned/VBN for/IN 
+[ some/DT time/NN ]
+``/`` with/IN 
+[ the/DT continuous/JJ problem/NN ]
+
+[ which/WDT ]
+confronts/VBZ 
+[ our/PRP$ local/NN ]
+and/CC 
+[ state/NN law/NN enforcement/NN officers/NNS ]
+as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ the/DT laws/NNS ]
+regulating/VBG 
+[ Sunday/NNP sales/NNS ]
+''/'' ./. 
+==================================
+
+[ The/DT attorney/NN general/NN ]
+has/VBZ advised/VBN 
+[ local/JJ police/NN ]
+that/IN 
+[ it/PRP ]
+is/VBZ 
+[ their/PRP$ duty/NN ]
+to/TO enforce/VB 
+[ the/DT blue/JJ laws/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+Should/MD there/RB be/VB 
+[ evidence/NN ]
+
+[ they/PRP ]
+are/VBP shirking/VBG ,/, 
+[ he/PRP ]
+has/VBZ said/VBD ,/, 
+[ the/DT state/NN police/NN ]
+will/MD step/VB into/IN 
+[ the/DT situation/NN ]
+./. 
+==================================
+
+[ There/EX ]
+has/VBZ been/VBN 
+[ more/JJR activity/NN ]
+across/IN 
+[ the/DT state/NN line/NN ]
+in/IN 
+[ Massachusetts/NNP ]
+than/IN in/IN 
+[ Rhode/NNP Island/NNP ]
+in/IN 
+[ recent/JJ weeks/NNS ]
+toward/IN 
+[ enforcement/NN ]
+of/IN 
+[ the/DT Sunday/NNP sales/NNS laws/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT statutes/NNS ]
+,/, 
+[ similar/JJ ]
+in/IN 
+[ both/DT ]
+
+[ the/DT Bay/NNP State/NNP ]
+and/CC 
+[ Rhode/NNP Island/NNP ]
+and/CC dating/VBG back/RB in/IN 
+[ some/DT instances/NNS ]
+to/TO 
+[ colonial/JJ times/NNS ]
+,/, severely/RB limit/VBP 
+[ the/DT types/NNS ]
+of/IN 
+[ merchandise/NN ]
+
+[ that/WP ]
+may/MD be/VB sold/VBN on/IN 
+[ the/DT Sabbath/NNP ]
+./. 
+==================================
+
+[ The/DT Central/NNP Falls/NNP City/NNP Council/NNP ]
+expressed/VBD 
+[ concern/NN ]
+especially/RB that/IN 
+[ more/JJR foods/NNS ]
+be/VB placed/VBN on/IN 
+[ the/DT eligible/NN list/NN ]
+and/CC 
+[ that/IN neighborhood/NN grocery/NN ]
+and/CC 
+[ variety/NN stores/NNS ]
+be/VB allowed/VBN to/TO do/VB 
+[ business/NN ]
+on/IN 
+[ Sunday/NNP ]
+./. 
+==================================
+
+[ The/DT only/JJ day/NN ]
+
+[ they/PRP ]
+``/`` have/VBP 
+[ a/DT chance/NN ]
+to/TO compete/VB with/IN 
+[ large/JJ supermarkets/NNS ]
+is/VBZ on/IN 
+[ Sunday/NNP ]
+''/'' ,/, 
+[ the/DT council/NN 's/POS resolution/NN ]
+said/VBD ./. 
+==================================
+
+[ The/DT small/JJ shops/NNS ]
+``/`` must/MD be/VB retained/VBN ,/, for/IN 
+[ they/PRP ]
+provide/VBP 
+[ essential/JJ service/NN ]
+to/TO 
+[ the/DT community/NN ]
+''/'' ,/, according/VBG to/TO 
+[ the/DT resolution/NN ]
+,/, 
+[ which/WDT ]
+added/VBD that/IN 
+[ they/PRP ]
+``/`` also/RB are/VBP 
+[ the/DT source/NN ]
+of/IN 
+[ livelihood/NN ]
+for/IN 
+[ thousands/NNS ]
+of/IN 
+[ our/PRP$ neighbors/NNS ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ It/PRP ]
+declares/VBZ that/IN 
+[ Sunday/NNP sales/NNS licenses/NNS ]
+provide/VBP ``/`` 
+[ great/JJ revenue/NN ]
+''/'' to/TO 
+[ the/DT local/JJ government/NN ]
+./. 
+==================================
+
+[ The/DT council/NN ]
+advised/VBD 
+[ the/DT governor/NN ]
+that/IN ``/`` 
+[ large/JJ supermarkets/NNS ]
+,/, 
+[ factory/NN outlets/NNS ]
+and/CC 
+[ department/NN stores/NNS ]
+not/RB be/VB allowed/VBN to/TO do/VB 
+[ business/NN ]
+''/'' on/IN 
+[ Sunday/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ They/PRP ]
+``/`` operate/VB on/IN 
+[ a/DT volume/NN basis/NN ]
+''/'' ,/, 
+[ it/PRP ]
+was/VBD contended/VBN ,/, ``/`` and/CC are/VBP not/RB essential/JJ to/TO provide/VB 
+[ the/DT more/RBR ]
+limited/JJ but/CC 
+[ vital/JJ shopping/VBG needs/NNS ]
+of/IN 
+[ the/DT community/NN ]
+''/'' ./. 
+==================================
+
+[ Liberals/NNS ]
+and/CC 
+[ conservatives/NNS ]
+in/IN 
+[ both/DT ]
+
+[ parties/NNS ]
+--/: 
+[ Democratic/JJ ] 
+and/CC 
+[ Republican/JJ ]
+--/: should/MD divorce/VB 
+[ themselves/PRP ]
+and/CC form/VB 
+[ two/CD independent/JJ parties/NNS ]
+,/, 
+[ George/NNP H./NNP Reama/NNP ]
+,/, nationally/RB known/VBN 
+[ labor-management/NN expert/NN ]
+,/, said/VBD here/RB yesterday/RB ./. 
+==================================
+
+[ Mr./NNP Reama/NNP ]
+told/VBD 
+[ the/DT Rotary/NNP Club/NNP ]
+of/IN 
+[ Providence/NNP ]
+at/IN 
+[ its/PRP$ luncheon/NN ]
+at/IN 
+[ the/DT Sheraton-Biltmore/NNP Hotel/NNP ]
+that/IN about/IN 
+[ half/NN ]
+of/IN 
+[ the/DT people/NNS ]
+in/IN 
+[ the/DT country/NN ]
+want/VBP 
+[ the/DT ]
+``/`` 
+[ welfare/NN ]
+''/'' 
+[ type/NN ]
+of/IN 
+[ government/NN ]
+and/CC 
+[ the/DT other/JJ half/NN ]
+want/VBP 
+[ a/DT free/JJ enterprise/NN system/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+suggested/VBD that/IN 
+[ a/DT regrouping/NN ]
+of/IN 
+[ forces/NNS ]
+might/MD allow/VB 
+[ the/DT average/JJ voter/NN ]
+
+[ a/DT better/JJR pull/NN ]
+at/IN 
+[ the/DT right/JJ lever/NN ]
+for/IN 
+[ him/PRP ]
+on/IN 
+[ election/NN day/NN ]
+./. 
+==================================
+
+[ He/PRP ]
+said/VBD 
+[ he/PRP ]
+was/VBD ``/`` confessing/VBG that/IN 
+[ I/PRP ]
+was/VBD 
+[ a/DT member/NN ]
+of/IN 
+[ the/DT Socialist/NNP Party/NNP ]
+in/IN 
+[ 1910/CD ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ That/DT ]
+,/, 
+[ he/PRP ]
+added/VBD ,/, was/VBD when/WRB 
+[ he/PRP ]
+was/VBD ``/`` 
+[ a/DT very/RB young/JJ man/NN ]
+,/, 
+[ a/DT machinist/NN ]
+and/CC 
+[ toolmaker/NN ]
+by/IN 
+[ trade/NN ]
+./. 
+==================================
+``/`` 
+[ That/DT ]
+was/VBD before/IN 
+[ I/PRP ]
+studied/VBD 
+[ law/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Some/DT ]
+of/IN 
+[ my/PRP$ fellow/NN workers/NNS ]
+were/VBD grooming/VBG 
+[ me/PRP ]
+for/IN 
+[ an/DT office/NN ]
+in/IN 
+[ the/DT Socialist/NNP Party/NNP ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ The/DT lawyer/NN ]
+with/IN 
+[ whom/WP ]
+
+[ I/PRP ]
+studied/VBD 
+[ law/NN ]
+steered/VBD 
+[ me/PRP ]
+off/IN 
+[ the/DT Socialist/NNP track/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+steered/VBD 
+[ me/PRP ]
+to/TO 
+[ the/DT right/JJ track/NN ]
+--/: 
+[ the/DT free/JJ enterprise/NN track/NN ]
+''/'' ./. 
+==================================
+
+[ He/PRP ]
+said/VBD that/IN when/WRB 
+[ he/PRP ]
+was/VBD 
+[ a/DT Socialist/NNP ]
+in/IN 
+[ 1910/CD ]
+,/, 
+[ the/DT party/NN ]
+called/VBN for/IN 
+[ government/NN operation/NN ]
+of/IN 
+[ all/DT utilities/NNS ]
+and/CC 
+[ the/DT ]
+pooling/VBG of/IN 
+[ all/DT resources/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+suggested/VBD that/IN without/IN 
+[ the/DT Socialist/NNP Party/NNP ]
+ever/RB gaining/VBG 
+[ a/DT national/JJ victory/NN ]
+,/, most/RBS of/IN 
+[ its/PRP$ original/JJ program/NN ]
+has/VBZ come/VBN to/TO pass/VB under/IN 
+[ both/DT major/JJ parties/NNS ]
+./. 
+==================================
+
+[ Mr./NNP Reama/NNP ]
+,/, 
+[ who/WP ]
+retired/VBD as/IN 
+[ vice/JJ president/NN ]
+of/IN 
+[ the/DT American/NNP Screw/NNP Co./NNP ]
+in/IN 
+[ 1955/CD ]
+said/VBD ,/, ``/`` 
+[ Both/DT ]
+
+[ parties/NNS ]
+in/IN 
+[ the/DT last/JJ election/NN ]
+told/VBD 
+[ us/PRP ]
+that/IN 
+[ we/PRP ]
+need/VBP 
+[ a/DT five/CD ]
+per/IN 
+[ cent/NN growth/NN ]
+in/IN 
+[ the/DT gross/JJ national/JJ product/NN ]
+--/: but/CC neither/DT told/VBD 
+[ us/PRP ]
+how/WRB to/TO achieve/VB 
+[ it/PRP ]
+''/'' ./. 
+==================================
+
+[ He/PRP ]
+said/VBD 
+[ he/PRP ]
+favors/VBZ 
+[ wage/NN increases/NNS ]
+for/IN 
+[ workers/NNS ]
+--/: ``/`` but/CC 
+[ manufacturers/NNS ]
+are/VBP caught/VBN in/IN 
+[ a/DT profit/NN squeeze/NN ]
+''/'' --/: and/CC 
+[ raises/NNS ]
+should/MD only/RB come/VB when/WRB 
+[ the/DT public/NN ]
+is/VBZ conditioned/VBN to/TO 
+[ higher/JJR prices/NNS ]
+,/, 
+[ he/PRP ]
+added/VBD ./. 
+==================================
+Indicating/VBG 
+[ the/DT way/NN ]
+in/IN 
+[ which/WDT ]
+
+[ he/PRP ]
+has/VBZ turned/VBN 
+[ his/PRP$ back/NN ]
+on/IN 
+[ his/PRP$ 1910/CD philosophy/NN ]
+,/, 
+[ Mr./NNP Reama/NNP ]
+said/VBD :/: ``/`` 
+[ A/DT Socialist/NNP ]
+is/VBZ 
+[ a/DT person/NN ]
+
+[ who/WP ]
+believes/VBZ in/IN dividing/VBG 
+[ everything/NN ]
+
+[ he/PRP ]
+does/VBZ not/RB 
+[ own/JJ ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ Mr./NNP Reama/NNP ]
+,/, far/RB from/IN really/RB being/VBG retired/VBN ,/, is/VBZ engaged/VBN in/IN 
+[ industrial/JJ relations/NNS counseling/NN ]
+./. 
+==================================
+
+[ A/DT petition/NN ]
+bearing/VBG 
+[ the/DT signatures/NNS ]
+of/IN more/RBR than/IN 
+[ 1,700/CD Johnston/NNP taxpayers/NNS ]
+was/VBD presented/VBN to/TO 
+[ the/DT town/NN council/NN last/JJ night/NN ]
+as/IN 
+[ what/WP ]
+is/VBZ hoped/VBN will/MD be/VB 
+[ the/DT first/JJ step/NN ]
+in/IN obtaining/VBG 
+[ a/DT home/NN rule/NN charter/NN ]
+for/IN 
+[ the/DT town/NN ]
+./. 
+==================================
+
+[ William/NNP A./NNP Martinelli/NNP ]
+,/, 
+[ chairman/NN ]
+of/IN 
+[ the/DT Citizens/NNP Group/NNP ]
+of/IN 
+[ Johnston/NNP ]
+,/, transferred/VBD 
+[ the/DT petitions/NNS ]
+from/IN 
+[ his/PRP$ left/JJ hand/NN ]
+to/TO 
+[ his/PRP$ right/JJ hand/NN ]
+after/IN 
+[ the/DT council/NN ]
+voted/VBD to/TO accept/VB 
+[ them/PRP ]
+at/IN 
+[ the/DT suggestion/NN ]
+of/IN 
+[ Council/NNP President/NNP Raymond/NNP Fortin/NNP Sr/NNP ]
+../. 
+[ The/DT law/NN ]
+
+[ which/WDT ]
+governs/VBZ 
+[ home/NN rule/NN charter/NN ]
+petitions/VBZ 
+[ states/NNS ]
+that/IN 
+[ they/PRP ]
+must/MD be/VB referred/VBN to/TO 
+[ the/DT chairman/NN ]
+of/IN 
+[ the/DT board/NN ]
+of/IN 
+[ canvassers/NNS ]
+for/IN 
+[ verification/NN ]
+of/IN 
+[ the/DT signatures/NNS ]
+within/IN 
+[ 10/CD days/NNS ]
+and/CC 
+[ Mr./NNP Martinelli/NNP ]
+happens/VBZ to/TO hold/VB 
+[ that/DT post/NN ]
+./. 
+==================================
+
+[ Mr./NNP Martinelli/NNP ]
+explained/VBD that/IN 
+[ there/EX ]
+should/MD be/VB more/JJR than/IN 
+[ enough/JJ signatures/NNS ]
+to/TO assure/VB 
+[ the/DT scheduling/NN ]
+of/IN 
+[ a/DT vote/NN ]
+on/IN 
+[ the/DT home/NN rule/NN charter/NN ]
+and/CC 
+[ possible/JJ election/NN ]
+of/IN 
+[ a/DT nine/CD member/NN charter/NN commission/NN ]
+within/IN 
+[ 70/CD days/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+explained/VBD that/IN by/IN 
+[ law/NN ]
+
+[ the/DT council/NN ]
+must/MD establish/VB 
+[ procedures/NNS ]
+for/IN 
+[ a/DT vote/NN ]
+on/IN 
+[ the/DT issue/NN ]
+within/IN 
+[ 60/CD days/NNS ]
+after/IN 
+[ the/DT board/NN ]
+of/IN 
+[ canvassers/NNS ]
+completes/VBZ 
+[ its/PRP$ work/NN ]
+./. 
+==================================
+
+[ A/DT difference/NN ]
+of/IN 
+[ opinion/NN ]
+arose/VBD between/IN 
+[ Mr./NNP Martinelli/NNP ]
+and/CC 
+[ John/NNP P./NNP Bourcier/NNP ]
+,/, 
+[ town/NN solicitor/NN ]
+,/, over/IN 
+[ the/DT exact/JJ manner/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT vote/NN ]
+is/VBZ handled/VBN ./. 
+==================================
+
+==================================
+==================================
+
+[ Mr./NNP Martinelli/NNP ]
+has/VBZ ,/, in/IN 
+[ recent/JJ weeks/NNS ]
+,/, been/VBN of/IN 
+[ the/DT opinion/NN ]
+that/IN 
+[ a/DT special/JJ town/NN meeting/NN ]
+would/MD be/VB called/VBN for/IN 
+[ the/DT vote/NN ]
+,/, while/IN 
+[ Mr./NNP Bourcier/NNP ]
+said/VBD that/IN 
+[ a/DT special/JJ election/NN ]
+might/MD be/VB called/VBN instead/RB ./. 
+==================================
+
+[ Mr./NNP Bourcier/NNP ]
+said/VBD that/IN 
+[ he/PRP ]
+had/VBD consulted/VBN 
+[ several/JJ Superior/NNP Court/NNP justices/NNS ]
+in/IN 
+[ the/DT last/JJ week/NN ]
+and/CC received/VBN 
+[ opinions/NNS ]
+favoring/VBG 
+[ both/DT ]
+
+[ procedures/NNS ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+assured/VBD 
+[ Mr./NNP Martinelli/NNP ]
+and/CC 
+[ the/DT council/NN ]
+that/IN 
+[ he/PRP ]
+would/MD study/VB 
+[ the/DT correct/JJ method/NN ]
+and/CC 
+[ report/VB ]
+back/RB to/TO 
+[ the/DT council/NN ]
+as/RB soon/RB as/IN 
+[ possible/JJ ]
+./. 
+==================================
+
+[ Mr./NNP Martinelli/NNP ]
+said/VBD yesterday/RB that/IN 
+[ the/DT Citizens/NNP Group/NNP ]
+of/IN 
+[ Johnston/NNP ]
+will/MD meet/VB again/RB 
+[ July/NNP 24/CD ]
+to/TO plan/VB 
+[ further/JJ strategy/NN ]
+in/IN 
+[ the/DT charter/NN movement/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+said/VBD that/IN 
+[ the/DT group/NN ]
+has/VBZ 
+[ no/DT candidates/NNS ]
+for/IN 
+[ the/DT charter/NN commission/NN ]
+in/IN 
+[ mind/NN ]
+at/IN 
+[ present/NN ]
+,/, but/CC that/IN 
+[ it/PRP ]
+will/MD undoubtedly/RB endorse/VB 
+[ candidates/NNS ]
+when/WRB 
+[ the/DT time/NN ]
+comes/VBZ ./. 
+==================================
+``/`` After/IN inspiring/VBG 
+[ this/DT ]
+,/, 
+[ I/PRP ]
+think/VBP 
+[ we/PRP ]
+should/MD certainly/RB follow/VB through/RP on/IN 
+[ it/PRP ]
+''/'' ,/, 
+[ he/PRP ]
+declared/VBD ./. 
+==================================
+
+==================================
+==================================
+``/`` 
+[ It/PRP ]
+has/VBZ become/VBN 
+[ our/PRP$ responsibility/NN ]
+and/CC 
+[ I/PRP ]
+hope/VBP that/IN 
+[ the/DT Citizens/NNP Group/NNP ]
+will/MD spearhead/VB 
+[ the/DT movement/NN ]
+''/'' ./. 
+==================================
+ 
+[ He/PRP ]
+said/VBD 
+[ he/PRP ]
+would/MD not/RB be/VB surprised/JJ if/IN 
+[ some/DT ]
+of/IN 
+[ the/DT more/JJR ]
+than/IN 
+[ 30/CD members/NNS ]
+of/IN 
+[ the/DT group/NN ]
+are/VBP interested/VBN in/IN running/VBG on/IN 
+[ the/DT required/VBN non-partisan/JJ ballot/NN ]
+for/IN 
+[ posts/NNS ]
+on/IN 
+[ the/DT charter/NN commission/NN ]
+./. 
+==================================
+``/`` 
+[ Our/PRP$ most/JJS immediate/JJ goal/NN ]
+is/VBZ to/TO increase/VB 
+[ public/JJ awareness/NN ]
+of/IN 
+[ the/DT movement/NN ]
+''/'' ,/, 
+[ he/PRP ]
+indicated/VBD ,/, ``/`` and/CC to/TO tell/VB 
+[ them/PRP ]
+
+[ what/WP ]
+
+[ this/DT ]
+will/MD mean/VB for/IN 
+[ the/DT town/NN ]
+''/'' ./. 
+==================================
+
+==================================
+==================================
+
+[ He/PRP ]
+expects/VBZ that/IN if/IN 
+[ the/DT present/JJ timetable/NN ]
+is/VBZ followed/VBN 
+[ a/DT vote/NN ]
+will/MD be/VB scheduled/VBN during/IN 
+[ the/DT last/JJ week/NN ]
+in/IN 
+[ September/NNP ]
+./. 
+==================================
+
+[ Some/DT opposition/NN ]
+to/TO 
+[ the/DT home/NN rule/NN movement/NN ]
+started/VBD to/TO be/VB heard/VBN yesterday/RB ,/, with/IN 
+[ spokesmen/NNS ]
+for/IN 
+[ the/DT town/NN 's/POS insurgent/JJ Democratic/NNP leadership/NN ]
+speaking/VBG out/RB against/IN 
+[ the/DT home/NN rule/NN charter/NN ]
+in/IN 
+[ favor/NN ]
+of/IN 
+[ the/DT model/JJ municipal/JJ league/NN charter/NN ]
+./. 
+==================================
+
+==================================
+==================================
+Increasing/VBG 
+[ opposition/NN ]
+can/MD be/VB expected/VBN in/IN coming/VBG 
+[ weeks/NNS ]
+,/, 
+[ it/PRP ]
+was/VBD indicated/VBN ./. 
+==================================
+Misunderstanding/NN of/IN 
+[ the/DT real/JJ meaning/NN ]
+of/IN 
+[ a/DT home/NN rule/NN charter/NN ]
+was/VBD cited/VBN as/IN 
+[ a/DT factor/NN ]
+
+[ which/WDT ]
+has/VBZ caused/VBN 
+[ the/DT Citizens/NNP Group/NNP ]
+to/TO obtain/VB 
+[ signatures/NNS ]
+under/IN 
+[ what/WP ]
+were/VBD termed/VBN ``/`` 
+[ false/JJ pretenses/NNS ]
+''/'' ./. 
+==================================
+
+[ Several/JJ signers/NNS ]
+affixed/VBN 
+[ their/PRP$ names/NNS ]
+,/, 
+[ it/PRP ]
+was/VBD learned/VBN ,/, after/IN being/VBG told/VBD that/IN 
+[ no/DT tax/NN increase/NN ]
+would/MD be/VB possible/JJ without/IN 
+[ consent/NN ]
+of/IN 
+[ the/DT General/NNP Assembly/NNP ]
+and/CC that/IN 
+[ a/DT provision/NN ]
+could/MD be/VB included/VBN in/IN 
+[ the/DT charter/NN ]
+to/TO have/VB 
+[ the/DT town/NN ]
+take/VB over/IN 
+[ the/DT Johnston/NNP Sanitary/NNP District/NNP sewer/NN system/NN ]
+./. 
+==================================
+
+[ Action/NN ]
+on/IN 
+[ a/DT new/JJ ordinance/NN ]
+permitting/VBG 
+[ motorists/NNS ]
+
+[ who/WP ]
+plead/VBP guilty/JJ to/TO 
+[ minor/JJ traffic/NN offenses/NNS ]
+to/TO pay/VB 
+[ fines/NNS ]
+at/IN 
+[ the/DT local/JJ police/NN station/NN ]
+may/MD be/VB taken/VBN at/IN 
+[ Monday/NNP 's/POS special/JJ North/NNP Providence/NNP Town/NNP Council/NNP meeting/NN ]
+./. 
+==================================
+
+[ Council/NNP president/NN Frank/NNP SanAntonio/NNP ]
+said/VBD yesterday/RB 
+[ he/PRP ]
+may/MD ask/VB 
+[ the/DT council/NN ]
+to/TO formally/RB request/VB 
+[ Town/NNP Solicitor/NNP Michael/NNP ]
+A./NNP 
+[ Abatuno/NNP ]
+to/TO draft/VB 
+[ the/DT ordinance/NN ]
+./. 
+==================================
+At/IN 
+[ the/DT last/JJ session/NN ]
+of/IN 
+[ the/DT General/NNP Assembly/NNP ]
+,/, 
+[ the/DT town/NN ]
+was/VBD authorized/VBN to/TO adopt/VB 
+[ such/JJ an/DT ordinance/NN ]
+as/IN 
+[ a/DT means/NN ]
+of/IN 
+[ making/VBG enforcement/NN ]
+of/IN 
+[ minor/JJ offenses/NNS more/JJR effective/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Nothing/NN ]
+has/VBZ been/VBN done/VBN yet/RB to/TO take/VB 
+[ advantage/NN ]
+of/IN 
+[ the/DT enabling/VBG legislation/NN ]
+./. 
+==================================
+At/IN present/RB 
+[ all/DT offenses/NNS ]
+must/MD be/VB taken/VBN to/TO 
+[ Sixth/NNP District/NNP Court/NNP ]
+for/IN 
+[ disposition/NN ]
+./. 
+==================================
+
+==================================
+==================================
+
+[ Local/JJ police/NNS ]
+have/VBP hesitated/VBN to/TO prosecute/VB 
+[ them/PRP ]
+because/IN of/IN 
+[ the/DT heavy/JJ court/NN costs/NNS ]
+involved/VBN even/RB for/IN 
+[ the/DT simplest/JJS offense/NN ]
+./. 
+==================================
+==================================
+==================================
