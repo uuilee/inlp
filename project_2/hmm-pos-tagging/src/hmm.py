@@ -125,15 +125,32 @@ def forward_algorithm(sentence):
 		return (transition_probability(END, START), forward)
 	# initialization step
 	for si, s in enumerate(filter(filter_start_end_states, c.keys()), 1):
-		forward[0][si] = transition_probability(s, START) * observation_probability(len(unknown_words), sentence[0], s)
+		if (transition_probability(s, START) > 0 and observation_probability(len(unknown_words), sentence[0], s) > 0):
+			forward[0][si] = log(transition_probability(s, START)) + log(observation_probability(len(unknown_words), sentence[0], s))			
 	# recursion step
 	for t in range(1, T):
 		for si, s in enumerate(filter(filter_start_end_states, c.keys()), 1):
+			cell_initialized = False # This flag is needed in order to use log scale probabilities. The cell is initialized to 0.0 which is undefined for log.
 			for si_, s_ in enumerate(c.keys(), 1):
-				forward[t][si] = forward[t][si] + forward[t-1][si_] * transition_probability(s, s_) * observation_probability(len(unknown_words), sentence[t], s)  
+				if not cell_initialized:
+					if (forward[t-1][si_] != 0 and transition_probability(s, s_) > 0 and observation_probability(len(unknown_words), sentence[t], s) > 0):
+						forward[t][si] = forward[t-1][si_] + log(transition_probability(s, s_)) + log(observation_probability(len(unknown_words), sentence[t], s))
+						cell_initialized = True
+				else:
+					if (forward[t-1][si_] != 0 and transition_probability(s, s_) > 0 and observation_probability(len(unknown_words), sentence[t], s) > 0):
+						forward[t][si] = forward[t][si] + log(1 + exp((forward[t-1][si_] + log(transition_probability(s, s_)) + log(observation_probability(len(unknown_words), sentence[t], s))) - forward[t][si]))  
+					
+	show(forward)
 	# termination step
+	cell_initialized = False
 	for si, s in enumerate(filter(filter_start_end_states, c.keys()), 1):
-		forward[T-1][N-1] = forward[T-1][N-1] + forward[T-1][si] * transition_probability(END, s)
+		if not cell_initialized:
+			if (forward[T-1][si] != 0 and transition_probability(END, s) > 0):
+				forward[T-1][N-1] = forward[T-1][si] + log(transition_probability(END, s))
+		else:
+			if (forward[T-1][si] != 0 and transition_probability(END, s) > 0):
+				forward[T-1][N-1] = forward[T-1][N-1] + log(1 + exp((forward[T-1][si] + log(transition_probability(END, s))) - forward[T-1][N-1]))
+	show(forward)
 	return (forward[T-1][N-1], forward)
 
 def viterbi_algorithm(sentence):
@@ -159,26 +176,29 @@ def viterbi_algorithm(sentence):
 		return (transition_probability(END, START), viterbi)
 	# initialization step
 	for si, s in enumerate(filter(filter_start_end_states, c.keys()), 1):
-		viterbi[0][si] = transition_probability(s, START) * observation_probability(len(unknown_words), sentence[0], s)
-		backpointer[0][si] = EMPTY
+		if (transition_probability(s, START) != 0 and observation_probability(len(unknown_words), sentence[0], s) > 0):
+			viterbi[0][si] = log(transition_probability(s, START)) + log(observation_probability(len(unknown_words), sentence[0], s))
+			backpointer[0][si] = EMPTY
 	# recursion step
 	for t in range(1, T):
 		for si, s in enumerate(filter(filter_start_end_states, c.keys()), 1):
-			current_max = 0.0
+			current_max = float('-infinity')
 			for si_, s_ in enumerate(c.keys(), 1):
-				current_prob = viterbi[t-1][si_] * transition_probability(s, s_) * observation_probability(len(unknown_words), sentence[t], s)
-				if current_prob > current_max:
-					viterbi[t][si] = current_prob
-					backpointer[t][si] = (si_, s_)
-					current_max = current_prob
+				if (viterbi[t-1][si_] != 0 and transition_probability(s, s_) > 0 and observation_probability(len(unknown_words), sentence[t], s) > 0):
+					current_prob = viterbi[t-1][si_] + log(transition_probability(s, s_)) + log(observation_probability(len(unknown_words), sentence[t], s))
+					if current_prob > current_max:
+						viterbi[t][si] = current_prob
+						backpointer[t][si] = (si_, s_)
+						current_max = current_prob
 	# termination step
-	current_max = 0.0
+	current_max = float('-infinity')
 	for si, s in enumerate(filter(filter_start_end_states, c.keys()), 1):
-		current_prob = viterbi[T-1][si] * transition_probability(END, s)
-		if current_prob > current_max:
-			viterbi[T-1][N-1] = current_prob
-			backpointer[T-1][N-1] = (si, s)
-			current_max = current_prob
+		if (viterbi[T-1][si] != 0 and transition_probability(END, s) > 0):
+			current_prob = viterbi[T-1][si] * transition_probability(END, s)
+			if current_prob > current_max:
+				viterbi[T-1][N-1] = current_prob
+				backpointer[T-1][N-1] = (si, s)
+				current_max = current_prob
 	# trace back
 	pointer = backpointer[T-1][N-1]
 	while not pointer == EMPTY:
@@ -253,7 +273,7 @@ if __name__ == '__main__':
 						match_count = match_count + 1.0
 				total_count = total_count + max(len(human_sequence), len(tagger_sequence))
 				viterbi_file.write('%s\n%s\nProbability: %f\n\n' % (human_sequence, tagger_sequence, p))
-	print('likelihood computed.')
+	print('most likely tag sequence computed.')
 	print('accuracy of tagger is: %f' % (match_count / total_count, ))
 	viterbi_file.close()
 #	print(c.keys())

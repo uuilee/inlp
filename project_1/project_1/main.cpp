@@ -1,3 +1,4 @@
+#include <vector>
 #include <map>
 #include <deque>
 #include <iostream>
@@ -12,8 +13,8 @@ e.g. n = 3, DELIM = #: hello#fst#world#
 word:
 a string representating a single word
 
-DESING IMPROVEMENTS:
-Extract ngm as a own class with its own interface.
+Author: Willy Lai
+Contact: laiw@student.ethz.ch
 */
 
 /* typedefs */
@@ -22,6 +23,7 @@ typedef std::map<std::string, std::pair<double, wordCounts> > nGramModel;
 
 /* function signatures */
 void parse_input(string filename, nGramModel& ngm, std::map<std::string, int>& statemap, std::map<std::string, int>& arcmap);
+void eval(string filename);
 fst::StdVectorFst write_fst(nGramModel ngm, std::map<std::string, int> statemap, std::map<std::string, int> arcmap);
 void write_syms(std::map<std::string, int> arcmap);
 std::string generatePrefix(std::deque<std::string>& q);
@@ -35,6 +37,7 @@ void print_ngm(nGramModel ngm);
 const std::string START = "<s>";
 const std::string END = "</s>";
 const std::string DELIM = "#";
+const std::string TOKEN_DELIM = " ";
 
 /* global variables */
 nGramModel model;
@@ -58,7 +61,7 @@ int main() {
 		cin >> n;
 		N = n;
 		while(true) {
-			cout << "Choose\n  1: Train\n  2: Generate\n  3: Fun\n  4: Quit" << endl;
+			cout << "Choose\n  1: Train\n  2: FST\n  3: Evaluate\n  4: Quit" << endl;
 			int choice;
 			string input;
 			cin >> choice;
@@ -84,66 +87,142 @@ int main() {
 			}
 		}
 	} else {
-		parse_input("resources/test1.in", model, statemap, arcmap);
-		parse_input("resources/test2.in", model, statemap, arcmap);
-		parse_input("resources/test3.in", model, statemap, arcmap);
+		parse_input("resources/a.train", model, statemap, arcmap);
+		eval("resources/a.eval");
+		
 		print_ngm(model);
-		print_map(statemap);
-		write_fst(model, statemap, arcmap);
-		write_syms(arcmap);
+		//print_map(statemap);
+		//write_fst(model, statemap, arcmap);
+		//write_syms(arcmap);
 	}
+
 	return 0;
 }
 
 void parse_input(string filename, nGramModel& ngm, std::map<std::string, int>& statemap, std::map<std::string, int>& arcmap) {
 	/* parses training data */
 	using namespace std;
-	string key;
-	string word;
 	ifstream inputFile (filename.c_str());
 	if (inputFile.is_open())
 	{	
 		deque<string> wordQueue;
-		// append start symbol queue
-		for (int i = 1; i < N; ++i) {
-			wordQueue.push_back(START);
-		}
-		// filling up the queue with the first prefix
-		while (wordQueue.size() < N-1 && !inputFile.eof()) {
-			inputFile >> word; noWords++;
-			wordQueue.push_back(word);
-			print_list(wordQueue);
-		}
-		// pushing next symbol to the queue, generate prefix out of the n-1 last element in the queue and store that prefix with the newly pushed word in model
-		// repeat until EOF
-		while (inputFile >> word) {
-			noWords++;
-			wordQueue.push_back(word);
-			print_list(wordQueue);
-			key = generatePrefix(wordQueue);
-			ngm[key].second[word]++;
-			ngm[key].first++;
-			if (statemap.find(key) == statemap.end()) {
-				statemap[key] = state++;
+		string line;
+		string key;
+		string word;
+		while (getline(inputFile, line)) {
+			if (line.size() > 0) {
+				cout << "Reading line: " << line << endl;
+				vector<string> tokens = splitString(line, TOKEN_DELIM);
+				vector<string>::iterator it = tokens.begin();
+				vector<string>::iterator end = tokens.end();
+				// append start symbol queue
+				for (int i = 1; i < N; ++i) {
+					wordQueue.push_back(START);
+				}
+				// filling up the queue with the first prefix		
+				while (wordQueue.size() < N-1 && it != end) {				
+					noWords++;
+					wordQueue.push_back(*it);
+					it++;
+					print_list(wordQueue);
+				}
+				// pushing next symbol to the queue, generate prefix out of the n-1 last element in the queue and store that prefix with the newly pushed word in model
+				// repeat until EOF
+				while (it != end) {
+					noWords++;
+					wordQueue.push_back(*it);
+					print_list(wordQueue);
+					key = generatePrefix(wordQueue);
+					ngm[key].second[*it]++;
+					ngm[key].first++;
+					if (statemap.find(key) == statemap.end()) {
+						statemap[key] = state++;
+					}
+					if (arcmap.find(word) == arcmap.end()) {
+						arcmap[*it] = arc++;
+					}
+					wordQueue.pop_front();
+					it++;
+				}
+				// append end symbol and store (prefix, END) pair in model
+				wordQueue.push_back(END);
+				print_list(wordQueue);
+				key = generatePrefix(wordQueue);
+				ngm[key].second[END]++;
+				ngm[key].first++;
+				if (statemap.find(key) == statemap.end()) {
+					statemap[key] = state++;
+				}
+				wordQueue.clear();
+			} else {
+				cout << "skip empty line..." << endl;
 			}
-			if (arcmap.find(word) == arcmap.end()) {
-				arcmap[word] = arc++;
-			}
-			wordQueue.pop_front();	
-		}
-		// append end symbol and store (prefix, END) pair in model
-		wordQueue.push_back(END);
-		print_list(wordQueue);
-		key = generatePrefix(wordQueue);
-		ngm[key].second[END]++;
-		ngm[key].first++;
-		if (statemap.find(key) == statemap.end()) {
-			statemap[key] = state++;
 		}
 		// closing file
 		inputFile.close();
+	} else {
+		cout << "Unable to open file\n"; 
 	}
-	else cout << "Unable to open file\n"; 
+}
+
+void eval(string filename) {
+	using namespace std;
+	ifstream inputFile (filename.c_str());
+	ofstream outputFile;
+	outputFile.open("results.txt");
+	if (inputFile.is_open()) {
+		deque<string> wordQueue;
+		string line;
+		string key;
+		string word;
+		while (getline(inputFile, line)) {
+			if (line.size() > 0) {
+				double probability = 1;
+				outputFile << "Reading line: " << line << endl;
+				vector<string> tokens = splitString(line, TOKEN_DELIM);
+				vector<string>::iterator it = tokens.begin();
+				vector<string>::iterator end = tokens.end();
+				// append start symbol queue
+				for (int i = 1; i < N; ++i) {
+					wordQueue.push_back(START);
+				}
+				// filling up the queue with the first prefix		
+				while (wordQueue.size() < N-1 && it != end) {				
+					noWords++;
+					wordQueue.push_back(*it);
+					it++;
+				}
+				// pushing next symbol to the queue, generate prefix out of the n-1 last element in the queue and store that prefix with the newly pushed word in model
+				// repeat until EOF
+				while (it != end) {
+					wordQueue.push_back(*it);
+					key = generatePrefix(wordQueue);
+					if (model[key].second.count(*it) > 0) {
+						probability *= model[key].second[*it] / model[key].first;
+					} else {
+						probability = 0;
+						break;
+					}
+					wordQueue.pop_front();
+					it++;
+				}
+				wordQueue.push_back(END);
+				key = generatePrefix(wordQueue);
+				if (model[key].second.count(END) > 0) {
+					probability *= model[key].second[END] / model[key].first;
+				} else {
+					probability = 0;
+				}
+				outputFile << "Probability of: " << probability << endl << endl;
+				wordQueue.clear();
+			} else {
+				cout << "skip empty line..." << endl;
+			}
+		}
+		outputFile.close();
+	} else {
+		cout << "Unable to open file\n"; 
+	}
 }
 
 fst::StdVectorFst write_fst(nGramModel ngm, std::map<std::string, int> statemap, std::map<std::string, int> arcmap) {
@@ -210,13 +289,21 @@ std::string generatePrefix(std::deque<std::string>& q) {
 std::vector<string> splitString(std::string s, std::string delim) {
 	using namespace std;
 	vector<string> result;
-	int pos = s.find_first_of(delim);
+	int start = 0;
+	int pos = s.find_first_of(delim, start);
 	while(pos != string::npos) {
-		string subs = s.substr(0, pos);
+		string subs = s.substr(start, pos-start);
 		result.push_back(subs);
-		s.erase(0, pos+1);
-		pos = s.find_first_of(delim);
+		cout << subs << "|";
+		start = pos+1;
+		pos = s.find_first_of(delim, start);
 	}
+	string last = s.substr(start, s.size() - start+1);
+	if (last.size() > 0) {
+		result.push_back(last);
+		cout << last;
+	}
+	cout << "|";
 	return result;
 }
 
@@ -243,14 +330,17 @@ void print_map(std::map<std::string, int> mapping) {
 void print_ngm(nGramModel ngm) {
 	/* prints the N-Gram Model as a index */
 	using namespace std;
-	cout << "N-Gram Model:" << endl;
+	ofstream dump;
+	dump.open("ngm.txt");
+	dump << "N-Gram Model:" << endl;
 	for (nGramModel::const_iterator it = ngm.begin(); it != ngm.end(); ++it)
 	{
-		cout << "[" << it->first << ": " << it->second.first << "]" << endl;
+		dump << "[" << it->first << ": " << it->second.first << "]" << endl;
 		wordCounts wo = it->second.second;
 		for (wordCounts::const_iterator jt = wo.begin(); jt != wo.end(); ++jt) {
-			cout << "   \\-- " << jt->first << ": " << jt->second << endl;
+			dump << "   \\-- " << jt->first << ": " << jt->second << endl;
 
 		}
 	}
+	dump.close();
 }
