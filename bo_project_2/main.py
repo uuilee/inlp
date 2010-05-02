@@ -18,10 +18,16 @@ assert(not is_finite(34e34000))
 
 class LogProbability(object):
     """A floating point probaility stored in log-format, trying to avoid underflow"""
-    def __init__(self, value=None):
+    def __init__(self, value=None, logarithmic=False):
         if value is not None:
-            assert 0.0 <= value <= 1.0, ("Probabilities should be 0.0 <= p <= 1.0 but was %f" % value)
-            self.logv = math.log(value)
+            if not logarithmic:
+                assert 0.0 <= value <= 1.0, ("Probabilities should be 0.0 <= p <= 1.0 but was %f" % value)
+                if value != 0.0:
+                    self.logv = math.log(value)
+                else:
+                    self.logv = float('-infinity')
+            else:
+                self.logv = value
         else:
             self.logv = None
 
@@ -41,12 +47,19 @@ class LogProbability(object):
         assert(other.is_valid())
         x = self.logv
         y = other.logv
+        
+        if x == float('-infinity'):
+            return LogProbability(y, logarithmic=True)
+            
+        if y == float('-infinity'):
+            return LogProbability(x, logarithmic=True)
+        
         assert(is_finite(x))
         assert(is_finite(y))
         if x < (y - eps):
-            return y
+            return LogProbability(y, logarithmic=True)
         if y < (x - eps):
-            return x
+            return LogProbability(x, logarithmic=True)
         
         diff = x - y
         assert(is_finite(diff))
@@ -57,21 +70,23 @@ class LogProbability(object):
             return x if x > y else y
         
         logv = y + math.log(1.0 + math.exp(diff))
-        result = LogProbability()
-        result.logv = logv
-        return result
+        return LogProbability(logv, logarithmic=True)        
         
     def __mul__(self, obj):
         assert(self.is_valid())
         other = LogProbability.convert(obj)
         assert(other.is_valid())
-        return LogProbability(self.logv + other.logv)
+        result = LogProbability()
+        result.logv = self.logv + other.logv 
+        return result
 
     def __div__(self, obj):
         assert(self.is_valid())
         other = LogProbability.convert(obj)
         assert(other.is_valid())
-        return LogProbability(self.logv - other.logv)
+        result = LogProbability()
+        result.logv = self.logv - other.logv 
+        return result
     
     def __sub__(self, obj):
         assert(self.is_valid())
@@ -85,6 +100,9 @@ class LogProbability(object):
     
     def __str__(self):
         return '%f' % math.exp(self.logv)
+    
+    def float(self):
+        return math.exp(self.logv)
     
     def is_valid(self):
         return self.logv is not None
@@ -124,12 +142,12 @@ def brute_force_algorithm(seq, a, b, num=LogProbability):
     def seq_prob(seq, start_state, a, b):
         if len(seq) == 0:
             return a.get((start_state, END), 0.0)
-        result = 0.0
+        result = num(0.0)
         for next_state in states(a, b):
             result += a[(start_state, next_state)]*b[next_state][seq[0]]*seq_prob(seq[1:], next_state, a, b)
         return result
     
-    result = 0.0
+    result = num(0.0)
     for state in b.iterkeys():
         result += seq_prob(seq[1:], state, a, b) * b[state][seq[0]] * a.get((START, state), 0.0)
     return result
@@ -150,9 +168,9 @@ def forward_algorithm(seq, a, b, num=LogProbability):
     # Recursion step
     for t in xrange(2, len(seq)+1):
         for s in states(a, b):
-            forward[(s, t)] = sum([forward[s_, t-1]*a[(s_, s)]*b[s][seq[t-1]] for s_ in states(a, b)])
+            forward[(s, t)] = sum([forward[s_, t-1]*a[(s_, s)]*b[s][seq[t-1]] for s_ in states(a, b)], num(0))
 		 
-    return sum([a[s, END]*forward[(s, len(seq))] for s in states(a, b)])
+    return sum([a[s, END]*forward[(s, len(seq))] for s in states(a, b)], num(0))
 
 # ------------------------------
 # Backward algorithm
@@ -167,10 +185,10 @@ def backward_algorithm(seq, a, b, num=LogProbability):
 	# Recursion
 	for t in xrange(T-1, 0, -1):
 		for i in states(a, b):
-			backward[(t, i)] = sum([a[(i, j)]*b[j][seq[t]]*backward[(t+1, j)] for j in states(a, b)])
+			backward[(t, i)] = sum([a[(i, j)]*b[j][seq[t]]*backward[(t+1, j)] for j in states(a, b)], num(0))
 
 	# Termination
-	return sum([a[(START, j)]*b[j][seq[0]]*backward[(1, j)] for j in states(a, b)])
+	return sum([a[(START, j)]*b[j][seq[0]]*backward[(1, j)] for j in states(a, b)], num(0))
 	
 class TestAlgorithm(object):
     def test_weather(self):
@@ -184,10 +202,11 @@ class TestAlgorithm(object):
             'HOT': {'1': 0.2, '2': 0.4, '3': 0.4},
             'COLD': {'1': 0.5, '2': 0.4, '3': 0.1}
         }
+        a, b = log_graph(a, b)
         p = self.algorithm(['3', '1', '3'], a, b)
-        expected = (0.1*0.8*0.4*(0.7*0.2*(0.7*0.4 + 0.2*0.1) + 0.2*0.5*(0.5*0.1 + 0.4*0.4)) + 
-                    0.1*0.2*0.1*(0.4*0.2*(0.7*0.4 + 0.2*0.1) + 0.5*0.5*(0.5*0.1 + 0.4*0.4)))
-        self.assertEqual(expected, p)
+        expected = (1*8*4*(7*2*(7*4 + 2*1) + 2*5*(5*1 + 4*4)) + 
+                    1*2*1*(4*2*(7*4 + 2*1) + 5*5*(5*1 + 4*4))) / 1000000.0
+        self.assertEqual(expected, p.float())
 
 class TestBruteForceAlgorithm(unittest.TestCase, TestAlgorithm):
     def setUp(self):
