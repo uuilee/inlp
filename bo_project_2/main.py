@@ -190,6 +190,7 @@ def backward_algorithm(seq, a, b, num=LogProbability):
 	# Termination
 	return sum([a[(START, j)]*b[j][seq[0]]*backward[(1, j)] for j in states(a, b)], num(0))
 	
+test_eps = 0.00000001
 class TestAlgorithm(object):
     def test_weather(self):
         """Tests the example given in [1] on p214"""
@@ -205,8 +206,8 @@ class TestAlgorithm(object):
         a, b = log_graph(a, b)
         p = self.algorithm(['3', '1', '3'], a, b)
         expected = (1*8*4*(7*2*(7*4 + 2*1) + 2*5*(5*1 + 4*4)) + 
-                    1*2*1*(4*2*(7*4 + 2*1) + 5*5*(5*1 + 4*4))) / 1000000.0
-        self.assertEqual(expected, p.float())
+                    1*2*1*(4*2*(7*4 + 2*1) + 5*5*(5*1 + 4*4))) / 10000000.0
+        self.assertAlmostEqual(expected, p.float())
 
 class TestBruteForceAlgorithm(unittest.TestCase, TestAlgorithm):
     def setUp(self):
