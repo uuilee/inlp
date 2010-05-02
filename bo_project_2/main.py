@@ -9,6 +9,9 @@ eps = 1e200
 def is_finite(val):
     return val not in (float('infinity'), float('-infinity'), float('nan'))
 
+START = '<s>'
+END = '</s>'
+	
 assert(is_finite(2.0))
 assert(is_finite(-134234.0))
 assert(not is_finite(34e34000))
@@ -99,13 +102,28 @@ print lf
 def states(a, b):
     return list(b.iterkeys())
 
+def log_graph(a, b):
+    """Given a graph (a, b), returns the same graph with all floating point values replaced with LogProbability"""
+    a_ = {}
+    for key in a.iterkeys():
+        a_[key] = LogProbability(a[key])
+        
+    b_ = {}
+    for x in b.iterkeys():
+        b_[x] = {}
+        for y in b[x].iterkeys():
+            b_[x][y] = LogProbability(b[x][y])
+            
+    return (a_, b_)
+    
 # ------------------------------
 # Brute force algorithm
 # ------------------------------
-def brute_force_algorithm(seq, a, b, start_vector, num=LogProbability):
+def brute_force_algorithm(seq, a, b, num=LogProbability):
+    #a, b = log_graph(a, b)
     def seq_prob(seq, start_state, a, b):
         if len(seq) == 0:
-            return 1.0
+            return a.get((start_state, END), 0.0)
         result = 0.0
         for next_state in states(a, b):
             result += a[(start_state, next_state)]*b[next_state][seq[0]]*seq_prob(seq[1:], next_state, a, b)
@@ -113,7 +131,7 @@ def brute_force_algorithm(seq, a, b, start_vector, num=LogProbability):
     
     result = 0.0
     for state in b.iterkeys():
-        result += start_vector[state]*b[state][seq[0]]*seq_prob(seq[1:], state, a, b)
+        result += seq_prob(seq[1:], state, a, b) * b[state][seq[0]] * a.get((START, state), 0.0)
     return result
 
 # ------------------------------
@@ -122,31 +140,29 @@ def brute_force_algorithm(seq, a, b, start_vector, num=LogProbability):
 # Implementation of the forward algorithm, as described in [1]
 #
 # [1] Speech and language processing, Jurafsky, D. and Martin, J. H.
-def forward_algorithm(seq, a, b, start_vector, num=LogProbability):
+def forward_algorithm(seq, a, b, num=LogProbability):
     # Initialization step
+    T = len(seq)
     forward = {}
     for state in states(a, b):
-        forward[(state, 1)] = start_vector[state]*b[state][seq[0]]
+        forward[(state, 1)] = a[(START, state)]*b[state][seq[0]]
     	
     # Recursion step
     for t in xrange(2, len(seq)+1):
         for s in states(a, b):
             forward[(s, t)] = sum([forward[s_, t-1]*a[(s_, s)]*b[s][seq[t-1]] for s_ in states(a, b)])
-         
-    # TODO: implement termination character
-    return sum([forward[(s, len(seq))] for s in states(a, b)])
+		 
+    return sum([a[s, END]*forward[(s, len(seq))] for s in states(a, b)])
 
 # ------------------------------
 # Backward algorithm
 # ------------------------------
-def backward_algorithm(seq, a, b, start_vector, num=LogProbability):
+def backward_algorithm(seq, a, b, num=LogProbability):
     # Initialization step
 	backward = {}
 	T = len(seq)
 	for state in states(a, b):
-		#backward[(T, state)] = a[(state, F)]
-		# TODO: final state
-		backward[(T, state)] = 1.0
+		backward[(T, state)] = a[(state, END)]
 		
 	# Recursion
 	for t in xrange(T-1, 0, -1):
@@ -154,23 +170,23 @@ def backward_algorithm(seq, a, b, start_vector, num=LogProbability):
 			backward[(t, i)] = sum([a[(i, j)]*b[j][seq[t]]*backward[(t+1, j)] for j in states(a, b)])
 
 	# Termination
-	return sum([start_vector[j]*b[j][seq[0]]*backward[(1, j)] for j in states(a, b)])
+	return sum([a[(START, j)]*b[j][seq[0]]*backward[(1, j)] for j in states(a, b)])
 	
 class TestAlgorithm(object):
     def test_weather(self):
         """Tests the example given in [1] on p214"""
         a = {
-            ('HOT', 'COLD'): 0.3, ('HOT', 'HOT'): 0.7,
-            ('COLD', 'COLD'): 0.6, ('COLD', 'HOT'): 0.4
+		    (START, 'HOT'): 0.8, (START, 'COLD'): 0.2,
+            ('HOT', 'COLD'): 0.2, ('HOT', 'HOT'): 0.7, ('HOT', END): 0.1,
+            ('COLD', 'COLD'): 0.5, ('COLD', 'HOT'): 0.4, ('COLD', END): 0.1
         }
         b = {
             'HOT': {'1': 0.2, '2': 0.4, '3': 0.4},
             'COLD': {'1': 0.5, '2': 0.4, '3': 0.1}
         }
-        start_vector = {'HOT': 0.8, 'COLD': 0.2}
-        p = self.algorithm(['3', '1', '3'], a, b, start_vector)
-        expected = (0.8*0.4*(0.7*0.2*(0.7*0.4 + 0.3*0.1) + 0.3*0.5*(0.6*0.1 + 0.4*0.4)) + 
-                    0.2*0.1*(0.4*0.2*(0.7*0.4 + 0.3*0.1) + 0.6*0.5*(0.6*0.1 + 0.4*0.4)))
+        p = self.algorithm(['3', '1', '3'], a, b)
+        expected = (0.1*0.8*0.4*(0.7*0.2*(0.7*0.4 + 0.2*0.1) + 0.2*0.5*(0.5*0.1 + 0.4*0.4)) + 
+                    0.1*0.2*0.1*(0.4*0.2*(0.7*0.4 + 0.2*0.1) + 0.5*0.5*(0.5*0.1 + 0.4*0.4)))
         self.assertEqual(expected, p)
 
 class TestBruteForceAlgorithm(unittest.TestCase, TestAlgorithm):
