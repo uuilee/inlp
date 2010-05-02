@@ -140,8 +140,22 @@ def forward_algorithm(seq, a, b, start_vector, num=LogProbability):
 # Backward algorithm
 # ------------------------------
 def backward_algorithm(seq, a, b, start_vector, num=LogProbability):
-    pass
+    # Initialization step
+	backward = {}
+	T = len(seq)
+	for state in states(a, b):
+		#backward[(T, state)] = a[(state, F)]
+		# TODO: final state
+		backward[(T, state)] = 1.0
+		
+	# Recursion
+	for t in xrange(T-1, 0, -1):
+		for i in states(a, b):
+			backward[(t, i)] = sum([a[(i, j)]*b[j][seq[t]]*backward[(t+1, j)] for j in states(a, b)])
 
+	# Termination
+	return sum([start_vector[j]*b[j][seq[0]]*backward[(1, j)] for j in states(a, b)])
+	
 class TestAlgorithm(object):
     def test_weather(self):
         """Tests the example given in [1] on p214"""
