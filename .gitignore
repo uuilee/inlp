@@ -1,6 +1,5 @@
 *.zip
 *.pos
-project_2/hmm-pos-tagging/src/backup*
 project_2/hmm-pos-tagging/src/*.txt
 project_2/hmm-pos-tagging/.*
 project_2/hmm-pos-tagging/training/.*
