@@ -1,118 +1,13 @@
 ﻿import unittest
 import math
+import itertools
+import random
+import copy
 
-# ------------------------------
-# LogProbability
-# ------------------------------
-eps = 1e200
-
-def is_finite(val):
-    return val not in (float('infinity'), float('-infinity'), float('nan'))
-
+from LogProbability import LogProbability
+    
 START = '<s>'
 END = '</s>'
-	
-assert(is_finite(2.0))
-assert(is_finite(-134234.0))
-assert(not is_finite(34e34000))
-
-class LogProbability(object):
-    """A floating point probaility stored in log-format, trying to avoid underflow"""
-    def __init__(self, value=None, logarithmic=False):
-        if value is not None:
-            if not logarithmic:
-                assert 0.0 <= value <= 1.0, ("Probabilities should be 0.0 <= p <= 1.0 but was %f" % value)
-                if value != 0.0:
-                    self.logv = math.log(value)
-                else:
-                    self.logv = float('-infinity')
-            else:
-                self.logv = value
-        else:
-            self.logv = None
-
-    @staticmethod
-    def convert(obj):
-        if type(obj) == LogProbability:
-            return obj
-        elif type(obj) == float:
-            return LogProbability(obj)
-        elif type(obj) == int:
-            return LogProbability(float(obj))
-        else:
-            raise NotImplementedError("There's no conversion defined for this type")        
-    
-    def __add__(self, other):
-        assert(self.is_valid())
-        assert(other.is_valid())
-        x = self.logv
-        y = other.logv
-        
-        if x == float('-infinity'):
-            return LogProbability(y, logarithmic=True)
-            
-        if y == float('-infinity'):
-            return LogProbability(x, logarithmic=True)
-        
-        assert(is_finite(x))
-        assert(is_finite(y))
-        if x < (y - eps):
-            return LogProbability(y, logarithmic=True)
-        if y < (x - eps):
-            return LogProbability(x, logarithmic=True)
-        
-        diff = x - y
-        assert(is_finite(diff))
-        assert(is_finite(x))
-        assert(is_finite(y))
-        
-        if not is_finite(math.exp(diff)):
-            return x if x > y else y
-        
-        logv = y + math.log(1.0 + math.exp(diff))
-        return LogProbability(logv, logarithmic=True)        
-        
-    def __mul__(self, obj):
-        assert(self.is_valid())
-        other = LogProbability.convert(obj)
-        assert(other.is_valid())
-        result = LogProbability()
-        result.logv = self.logv + other.logv 
-        return result
-
-    def __div__(self, obj):
-        assert(self.is_valid())
-        other = LogProbability.convert(obj)
-        assert(other.is_valid())
-        result = LogProbability()
-        result.logv = self.logv - other.logv 
-        return result
-    
-    def __sub__(self, obj):
-        assert(self.is_valid())
-        other = LogProbability.convert(obj)
-        assert(other.is_valid())
-        raise NotImplementedError()
-    
-    def __eq__(self, obj):
-        other = LogProbability.convert(obj)
-        return self.logv == other.logv
-    
-    def __str__(self):
-        return '%f' % math.exp(self.logv)
-    
-    def float(self):
-        return math.exp(self.logv)
-    
-    def is_valid(self):
-        return self.logv is not None
-    
-lf = LogProbability(0.2)
-lf2 = LogProbability(0.2)
-assert(lf == lf2)
-assert(lf + lf2 == 0.4)
-assert(lf == 0.2)
-print lf    
     
 # ------------------------------
 # Graph access functions
@@ -158,10 +53,10 @@ def brute_force_algorithm(seq, a, b, num=LogProbability):
 # Implementation of the forward algorithm, as described in [1]
 #
 # [1] Speech and language processing, Jurafsky, D. and Martin, J. H.
-def forward_algorithm(seq, a, b, num=LogProbability):
+def forward_algorithm(seq, a, b, num=LogProbability, forward={}):
     # Initialization step
     T = len(seq)
-    forward = {}
+    forward.clear()
     for state in states(a, b):
         forward[(state, 1)] = a[(START, state)]*b[state][seq[0]]
     	
@@ -169,28 +64,29 @@ def forward_algorithm(seq, a, b, num=LogProbability):
     for t in xrange(2, len(seq)+1):
         for s in states(a, b):
             forward[(s, t)] = sum([forward[s_, t-1]*a[(s_, s)]*b[s][seq[t-1]] for s_ in states(a, b)], num(0))
-		 
-    return sum([a[s, END]*forward[(s, len(seq))] for s in states(a, b)], num(0))
+         
+    forward[END, T] = sum([a[s, END]*forward[(s, T)] for s in states(a, b)], num(0))
+    return forward[END, T]
 
 # ------------------------------
 # Backward algorithm
 # ------------------------------
-def backward_algorithm(seq, a, b, num=LogProbability):
+def backward_algorithm(seq, a, b, num=LogProbability, backward={}):
     # Initialization step
-	backward = {}
-	T = len(seq)
-	for state in states(a, b):
-		backward[(T, state)] = a[(state, END)]
-		
-	# Recursion
-	for t in xrange(T-1, 0, -1):
-		for i in states(a, b):
-			backward[(t, i)] = sum([a[(i, j)]*b[j][seq[t]]*backward[(t+1, j)] for j in states(a, b)], num(0))
-
-	# Termination
-	return sum([a[(START, j)]*b[j][seq[0]]*backward[(1, j)] for j in states(a, b)], num(0))
+    backward.clear()
+    T = len(seq)
+    for state in states(a, b):
+        backward[(T, state)] = a[(state, END)]
+        
+    # Recursion
+    for t in xrange(T-1, 0, -1):
+        for i in states(a, b):
+            backward[(t, i)] = sum([a[(i, j)]*b[j][seq[t]]*backward[(t+1, j)] for j in states(a, b)], num(0))
+    
+    # Termination
+    backward[(T, END)] = sum([a[(START, j)]*b[j][seq[0]]*backward[(1, j)] for j in states(a, b)], num(0))
+    return backward[(T, END)]
 	
-test_eps = 0.00000001
 class TestAlgorithm(object):
     def test_weather(self):
         """Tests the example given in [1] on p214"""
@@ -207,7 +103,7 @@ class TestAlgorithm(object):
         p = self.algorithm(['3', '1', '3'], a, b)
         expected = (1*8*4*(7*2*(7*4 + 2*1) + 2*5*(5*1 + 4*4)) + 
                     1*2*1*(4*2*(7*4 + 2*1) + 5*5*(5*1 + 4*4))) / 10000000.0
-        self.assertAlmostEqual(expected, p.float())
+        self.assertAlmostEqual(expected, float(p))
 
 class TestBruteForceAlgorithm(unittest.TestCase, TestAlgorithm):
     def setUp(self):
@@ -220,6 +116,97 @@ class TestForwardAlgorithm(unittest.TestCase, TestAlgorithm):
 class TestBackwardAlgorithm(unittest.TestCase, TestAlgorithm):
     def setUp(self):
         self.algorithm = backward_algorithm        
+
+# ------------------------------
+# Forward backward algorithm
+# ------------------------------
+def forward_backward(observations, vocabulary, state_set, num=LogProbability):
+    # Choose initial values for a and b
+    a = {}
+    for s in state_set:
+        a[(START, s)] = num(1.0) / len(state_set)
+        a[(s, END)] = num(1.0 / (len(state_set) + 1))
+    print a
+    
+    for i, j in itertools.product(state_set, state_set):
+        a[(i, j)] = num(1.0 / (len(state_set) + 1))
+    
+    b = {}
+    for s in state_set:
+        b[s] = {}
+        for w in vocabulary:
+            b[s][w] = num(1.0 / len(vocabulary))
+        
+    T = len(observations)
+    
+    print state_set
+    print '***'
+    
+    changed = True
+    while changed:
+        print '---'
+        changed = False
+        
+        # E-step
+        alpha = {}
+        beta = {}
+        forward_algorithm(observations, a, b, forward=alpha)
+        backward_algorithm(observations, a, b, backward=beta)
+        
+        impl_states = state_set + [START, END]
+        
+        y = {}
+        e = {}
+        
+        N = state_set[-1]
+        
+        for t, j in itertools.product(xrange(1, T+1), state_set):
+            y[(t, j)] = alpha[(j, t)]*beta[(t, j)] / beta[(T, END)]
+        
+        for t, i, j in itertools.product(xrange(1, T-1), state_set, state_set):
+            e[(t, i, j)] = (alpha[(i, t)]*a[(i, j)]*b[j][observations[t]]*beta[(t+1, j)]) / alpha[(N, T)]
+        
+        # M-step
+        a_ = copy.copy(a)
+        b_ = copy.copy(b)
+        #print e
+        for i, j in itertools.product(state_set, state_set):
+            c = sum([e[(t, i, j)] for t in xrange(1, T-1)], num(0.0))
+            d = sum([e[(t, i, j)] for j in state_set for t in xrange(1, T-1)], num(0.0))
+            a_[(i, j)] = c / d
+            
+        for j in b.iterkeys():
+            b_[j] = {}
+            for vk in b[j].iterkeys():
+                c = sum([y[(t, j)] for t in xrange(1, T) if observations[t-1] == vk], num(0.0))
+                d = sum([y[(t, j)] for t in xrange(1, T)], num(0.0))
+                b_[j][vk] = c / d
+        
+        
+        #Compare changes
+        sqr = 0.0
+        for key in a.iterkeys():
+            if key not in a_:
+                continue
+            sqr += (float(a[key]) - float(a_[key]))**2
+        print sqr      
+
+        if sqr > 0.0001:
+            changed = True
+        
+        
+        a, b = a_, b_
+        
+        
+            
+            
+        
+    print sum([1 for x in range(3) for y in range(3)])
+        
+    return (a, b)
 		
 if __name__ == '__main__':
-	unittest.main()
+    #unittest.main()
+    a, b = forward_backward(['a', 'b', 'c', 'a', 'a', 'a', 'b', 'c', 'a', 'a', 'b', 'b', 'c', 'a', 'b', 'c', 'a'], ['a', 'b', 'c'], ['X', 'Y', 'Z'])
+    print a
+    print b
