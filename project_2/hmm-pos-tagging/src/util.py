@@ -19,7 +19,7 @@ def prettywrite_map(map, file):
 def prettywrite_nested_map(map, file):
 	for x in map.keys():
 		file.write('KEY\tVALUE\n')
-		file.write(x + '\t' + str(map[x]) +'\n')
+		file.write(str(x) + '\t' + str(map[x]) +'\n')
 		file.write('  key\tvalue\n')
 		for y in map[x].keys():
-			file.write('  ' + y + '\t' + str(map[x][y]) + '\n')
+			file.write('  ' + str(y) + '\t' + str(map[x][y]) + '\n')
